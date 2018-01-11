@@ -1,4 +1,6 @@
-# League of Legends Free Rotation
+# League of Legends
+
+Free Champion Rotation
 
 - Amumu
 - Braum
@@ -17,7 +19,9 @@
 
 Free Champion Rotation is unlocked at account level 11.
 
-# Heroes of the Storm Free Rotation
+# Heroes of the Storm
+
+Hero Free Rotation
 
 - Jaina
 - Lt. Morales
@@ -45,3 +49,27 @@ Arcade Modes:
 - 1V1 Mystery Duel *Changes Daily*
 - 6V6 Total Mayhem
 - 6V6 Mystery Heroes
+
+# Fire Emblem: Heroes
+
+Currently season 50
+
+Legendary Elements: **Wind** and Earth
+
+Arena Bonus Heroes:
+
+- Camilla (Happy New Year) *Flying Red Sword*
+- Takumi (Happy New Year) *Infantry Dagger*
+- Azura (Happy New Year) *Flying Green Axe*
+- Rhajat *Infantry Green Tome*
+- Navarre *Infantry Red Sword*
+- Olwen *Cavalry Blue Tome*
+- Genny *Infantry Staff*
+- Sophia *Infantry Red Tome*
+- Gunter *Calvalry Green Axe*
+- Alfonse *Infantry Red Sword*
+
+# Last Updated
+
+12:36 UTC 11 January 2018
+
