@@ -10,3 +10,5 @@
 - ![Enigma](https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/03/Enigma_minimap_icon.png?version=316f3133c969d42a361a3956784ffc3a) Enigma
 - ![Necrophos](https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/af/Necrophos_minimap_icon.png?version=300810f6cf2545c1805cc7137c613d39) Necrophos
 - ![Silencer](https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0f/Silencer_minimap_icon.png?version=6f55b1be66d0338ad27133f9b649e34c) Silencer
+
+[Click here for other game rotations](https://tsunamishadow.github.io/bonusheroes/othergames)
