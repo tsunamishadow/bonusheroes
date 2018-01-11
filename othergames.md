@@ -19,6 +19,12 @@ Free Champion Rotation
 
 Free Champion Rotation is unlocked at account level 11.
 
+Patch 8.1
+
+Start of Season 8 starts on January 16
+
+No Rotating Game Mode Currently
+
 # Heroes of the Storm
 
 Hero Free Rotation
