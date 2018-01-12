@@ -1,14 +1,25 @@
-# Bonus heroes for 11th January 2018
+# Bonus heroes for 12th January 2018
 
-- ![Centaur Warrunner](https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5e/Centaur_Warrunner_minimap_icon.png?version=ff8db77a89f14ec493542eaa6aa6c30a) Centaur Warrunner
-- ![Magnus](https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7f/Magnus_minimap_icon.png?version=583d16dc4422904dc39d233516b08f8b) Magnus
-- ![Sand King](https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9f/Sand_King_minimap_icon.png?version=e34716cc07426e8858ef36f0c8270b2b) Sand King
+- ![Alchemist](https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/1e/Alchemist_minimap_icon.png?version=5fcd001eb81d2313e537a2c47bdddd3d) Alchemist
+- ![Chaos Knight](https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9f/Chaos_Knight_minimap_icon.png?version=560093417b1c444180616bf3bc420e80) Chaos Knight
+- ![Sven](https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/1c/Sven_minimap_icon.png?version=c631c206b12b7960b5b260281e65bbe1) Sven
+- ![Undying](https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8a/Undying_minimap_icon.png?version=97f22c52bf9c3e9aab95837c6986b1da) Undying
 - ![Luna](https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8c/Luna_minimap_icon.png?version=fbd2d0de0e63cbd035667b874aee0947) Luna
-- ![Phantom Assassin](https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c9/Phantom_Assassin_minimap_icon.png?version=f0d00311e39ab35cbe8dd8a28e848f30) Phantom Assassin
-- ![Weaver](https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d5/Weaver_minimap_icon.png?version=561e03a9d3322fce7536708fb6baad19) Weaver
-- ![Bane](https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0d/Bane_minimap_icon.png?version=f3768213ccad741f96fda77aa53d0dd2) Bane
+- ![Dark Seer](https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5a/Dark_Seer_minimap_icon.png?version=b9b6e61b867e77a16f53081078886f7f) Dark Seer
 - ![Enigma](https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/03/Enigma_minimap_icon.png?version=316f3133c969d42a361a3956784ffc3a) Enigma
-- ![Necrophos](https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/af/Necrophos_minimap_icon.png?version=300810f6cf2545c1805cc7137c613d39) Necrophos
-- ![Silencer](https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0f/Silencer_minimap_icon.png?version=6f55b1be66d0338ad27133f9b649e34c) Silencer
+- ![Jakiro](https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b6/Jakiro_minimap_icon.png?version=9f79c909eea4c0af8b3d78f2a421418c) Jakiro
+- ![Keeper of the Light](https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/76/Keeper_of_the_Light_minimap_icon.png?version=790659f1c7c0ab88166712fd00dcac65) Keeper of the Light
+- ![Ogre Magi](https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/55/Ogre_Magi_minimap_icon.png?version=dd1f7fa5c2505c86354c6018b88dbf4c) Ogre Magi
+
+Alchemist has been a bonus hero 6 times in the past 19 days.<br>
+Chaos Knight has been a bonus hero 4 times in the past 17 days.<br>
+Sven has been a bonus hero 2 times in the past 7 days.<br>
+Undying has been a bonus hero 4 times in the past 12 days.<br>
+Luna has been a bonus hero 2 days in a row.<br>
+Dark Seer has been a bonus hero 3 times in the past 13 days.<br>
+Enigma has been a bonus hero 2 days in a row.<br>
+
+There are 74,540,946,223,878 possible combinations of heroes for bonus hero selection (or indeed a single game of Dota).
 
 [Click here for other game rotations](https://tsunamishadow.github.io/bonusheroes/othergames)
+
