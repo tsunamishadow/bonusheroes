@@ -52,7 +52,7 @@ Arcade Modes:
 
 - 8 Player FFA Deathmatch *Main*
 - 3V3 Lockout Elimination
-- 6V6 Lockout Elimination *Changes Daily*
+- 6V6 Low Gravity *Changes Daily*
 - 6V6 Total Mayhem
 - 6V6 Mystery Heroes
 
@@ -77,5 +77,5 @@ Arena Bonus Heroes:
 
 # Last Updated
 
-06:55 UTC 12 January 2018
+12:15 UTC 13 January 2018
 
