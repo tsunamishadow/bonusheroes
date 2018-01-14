@@ -1,25 +1,24 @@
-# Bonus heroes for 13th January 2018
+# Bonus heroes for 14th January 2018
 
-- ![Earth Spirit](https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/1f/Earth_Spirit_minimap_icon.png?version=6dadbf5558a3bae3f91ab0aa37565739) Earth Spirit
-- ![Phoenix](https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/21/Phoenix_minimap_icon.png?version=4f97eb1c5ed3490d090cec01636be5ad) Phoenix
-- ![Broodmother](https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/19/Broodmother_minimap_icon.png?version=79716193d76f93146bf39a51d8e04efb) Broodmother
-- ![Clinkz](https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/16/Clinkz_minimap_icon.png?version=5e16c4b252bdd2fec3eca174feedcc7a) Clinkz
-- ![Juggernaut](https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b2/Juggernaut_minimap_icon.png?version=cf429815a54a04b1c1fe8e0f7160e1a4) Juggernaut
-- ![Shadow Fiend](https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/00/Shadow_Fiend_minimap_icon.png?version=d05f078fa0c6a126d968034081963496) Shadow Fiend
-- ![Keeper of the Light](https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/76/Keeper_of_the_Light_minimap_icon.png?version=790659f1c7c0ab88166712fd00dcac65) Keeper of the Light
+- ![Chaos Knight](https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9f/Chaos_Knight_minimap_icon.png?version=560093417b1c444180616bf3bc420e80) Chaos Knight
+- ![Doom](https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/96/Doom_minimap_icon.png?version=a3587cf3571e633b7e99086ba98c47da) Doom
+- ![Huskar](https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5b/Huskar_minimap_icon.png?version=44d905fb961b14c158ee9bbd649bdf99) Huskar
+- ![Lone Druid](https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/08/Lone_Druid_minimap_icon.png?version=97ef3f12303fe252d84c907a9ded7fce) Lone Druid
+- ![Vengeful Spirit](https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/09/Vengeful_Spirit_minimap_icon.png?version=a284633dd301fff53f160f6b849e9553) Vengeful Spirit
+- ![Ancient Apparition](https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/25/Ancient_Apparition_minimap_icon.png?version=0047e8dc00f61200d113f450bfd691b3) Ancient Apparition
+- ![Necrophos](https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/af/Necrophos_minimap_icon.png?version=300810f6cf2545c1805cc7137c613d39) Necrophos
 - ![Ogre Magi](https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/55/Ogre_Magi_minimap_icon.png?version=dd1f7fa5c2505c86354c6018b88dbf4c) Ogre Magi
-- ![Shadow Demon](https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/35/Shadow_Demon_minimap_icon.png?version=71a54f4b81fc071d639bd557fde90626) Shadow Demon
-- ![Shadow Shaman](https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7e/Shadow_Shaman_minimap_icon.png?version=06bd592a871c37b44209f2a019133ef1) Shadow Shaman
+- ![Queen of Pain](https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0f/Queen_of_Pain_minimap_icon.png?version=35d2877665e13c78072a02a1f4afa98d) Queen of Pain
+- ![Visage](https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/2f/Visage_minimap_icon.png?version=4dcaed8a11c9b426ebe85bae2a724395) Visage
 
-Broodmother has been a bonus hero 2 times in the past 6 days.<br>
-Clinkz has been a bonus hero 4 times in the past 14 days.<br>
-Juggernaut has been a bonus hero 3 times in the past 12 days.<br>
-Shadow Fiend has been a bonus hero 2 times in the past 7 days.<br>
-Keeper of the Light has been a bonus hero 2 days in a row.<br>
-Ogre Magi has been a bonus hero 2 days in a row.<br>
-Shadow Demon has been a bonus hero 2 times in the past 4 days.<br>
+Chaos Knight has been a bonus hero 2 times in the past 3 days.<br>
+Doom has been a bonus hero 5 times in the past 20 days.<br>
+Huskar has been a bonus hero 5 times in the past 15 days.<br>
+Ancient Apparition has been a bonus hero 3 times in the past days 9 days.<br>
+Necrophos has been a bonus hero 2 times in the past 4 days.<br>
+Ogre Magi has been a bonus hero 3 days in a row.<br>
+Visage has been a bonus hero 3 times in the past 9 days.<br>
 
 There are 74,540,946,223,878 possible combinations of heroes for bonus hero selection (or indeed a single game of Dota).
 
 [Click here for other game rotations](https://tsunamishadow.github.io/bonusheroes/othergames)
-
