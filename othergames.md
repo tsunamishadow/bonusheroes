@@ -21,8 +21,6 @@ Free Champion Rotation is unlocked at account level 11.
 
 Patch 8.1
 
-Start of Season 8 starts on January 16
-
 No Rotating Game Mode Currently
 
 # Heroes of the Storm
@@ -44,6 +42,23 @@ Hero Free Rotation
 - Tracer *(Level 15)*
 - Zeratul *(Level 20)*
 
+Hero Free Rotation starting 16th
+
+- Auriel
+- Dehaka
+- Gazlowe
+- Greymane
+- Johanna
+- Leoric
+- Malfurion
+- Stukov
+- Thrall
+- Valla
+- Garrosh *(Level 5)*
+- Probius *(Level 10)*
+- Valeera *(Level 15)*
+- Hanzo *(Level 20)*
+
 # Overwatch
 
 Season 8 is currently Live
@@ -52,7 +67,7 @@ Arcade Modes:
 
 - 8 Player FFA Deathmatch *Main*
 - 3V3 Lockout Elimination
-- 6V6 Capture the Flag *Changes Daily*
+- 6V6 No Limits *Changes Daily*
 - 6V6 Total Mayhem
 - 6V6 Mystery Heroes
 
@@ -75,7 +90,22 @@ Arena Bonus Heroes:
 - Gunter *Calvalry Green Axe*
 - Alfonse *Infantry Red Sword*
 
+Rotation starting January 16th
+
+Legendary Elements: Water and **Wind**
+
+- Micaiah
+- Sothe
+- Zelgus
+- Oliver
+- Sanaki
+- Fae
+- Linde
+- Gunter
+- Virion
+- Fjorm
+
 # Last Updated
 
-12:15 UTC 14 January 2018
+13:52 UTC 15 January 2018
 
