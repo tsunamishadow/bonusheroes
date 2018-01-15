@@ -23,6 +23,22 @@ Patch 8.1
 
 No Rotating Game Mode Currently
 
+Free Champion Rotation starting 16th:
+
+- Aurelion Sol
+- Ivern
+- Kindred
+- Kog'Maw
+- Leona
+- Lissandra
+- Olaf
+- Quinn
+- Swain
+- Talon
+- Warwick
+- Xerath
+- Zac
+
 # Heroes of the Storm
 
 Hero Free Rotation
@@ -90,7 +106,7 @@ Arena Bonus Heroes:
 - Gunter *Calvalry Green Axe*
 - Alfonse *Infantry Red Sword*
 
-Rotation starting January 16th
+Rotation starting January 16th:
 
 Legendary Elements: Water and **Wind**
 
