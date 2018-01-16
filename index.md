@@ -1,4 +1,4 @@
-# Bonus heroes for 15th January 2018
+# Bonus heroes for 16th January 2018
 
 - ![Alchemist](https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/1e/Alchemist_minimap_icon.png?version=5fcd001eb81d2313e537a2c47bdddd3d) Alchemist
 - ![Underlord](https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/29/Underlord_minimap_icon.png?version=4aa109fe93ecbd94d8372696ffd57668) Underlord
