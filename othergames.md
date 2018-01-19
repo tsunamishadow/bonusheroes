@@ -74,5 +74,5 @@ Arena Bonus Heroes:
 
 # Last Updated
 
-11:37 UTC 17 January 2018
+12:39 UTC 19 January 2018
 
