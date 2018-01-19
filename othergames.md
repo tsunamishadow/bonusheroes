@@ -48,8 +48,8 @@ Season 8 is currently Live
 Arcade Modes:
 
 - 8 Player FFA Chateâu Deathmatch *Main*
-- 4v4 Team Deathmatch
-- 6V6 No Limits *Changes Daily*
+- 4V4 Team Deathmatch
+- 1V1 Limited Duel *Changes Daily*
 - 6V6 Lockout Elimination
 - 6V6 Mystery Heroes
 
