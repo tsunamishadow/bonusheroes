@@ -49,7 +49,7 @@ Arcade Modes:
 
 - 8 Player FFA Chateâu Deathmatch *Main*
 - 4V4 Team Deathmatch
-- 1V1 Limited Duel *Changes Daily*
+- 6V6 No Limits *Changes Daily*
 - 6V6 Lockout Elimination
 - 6V6 Mystery Heroes
 
@@ -74,5 +74,4 @@ Arena Bonus Heroes:
 
 # Last Updated
 
-12:39 UTC 19 January 2018
-
+09:27 UTC 21 January 2018
