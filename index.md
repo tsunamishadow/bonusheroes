@@ -1,21 +1,21 @@
-# Bonus heroes for 21st January 2018
+# Bonus heroes for 22nd January 2018
 
-- ![Alchemist](https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/1e/Alchemist_minimap_icon.png?version=5fcd001eb81d2313e537a2c47bdddd3d) Alchemist
 - ![Dragon Knight](https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/21/Dragon_Knight_minimap_icon.png?version=2bb7daa5d9fd4a3fcf5edf9675d6c887) Dragon Knight
-- ![Earth Spirit](https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/1f/Earth_Spirit_minimap_icon.png?version=6dadbf5558a3bae3f91ab0aa37565739) Earth Spirit
-- ![Huskar](https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5b/Huskar_minimap_icon.png?version=44d905fb961b14c158ee9bbd649bdf99) Huskar
-- ![Wraith King](https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/22/Wraith_King_minimap_icon.png?version=63733965db3b7377fdedcbf1f8925783) Skeleton King
-- ![Bloodseeker](https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/57/Bloodseeker_minimap_icon.png?version=a0b3a65650ce20229cde89167a0256b6) Bloodseeker
-- ![Drow Ranger](https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/63/Drow_Ranger_minimap_icon.png?version=05f08fec36816e36a740385f0af0a6d0) Drow Ranger
-- ![Mirana](https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/b/b3/Mirana_minimap_icon.png?version=1276480c6e660ee39f21640055a13a27) Mirana
-- ![Bane](https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0d/Bane_minimap_icon.png?version=f3768213ccad741f96fda77aa53d0dd2) Bane
-- ![Oracle](https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/61/Oracle_minimap_icon.png?version=e890c23cc59f62d3f0257f7374827ef3) Oracle
+- ![Elder Titan](https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9f/Elder_Titan_minimap_icon.png?version=b08f2c4992a7349960b1f01cdfa09a7e) Elder Titan
+- ![Phantom Lancer](https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f9/Phantom_Lancer_minimap_icon.png?version=878ee9930d95c514283516f035c6b0d7) Phantom Lancer
+- ![Shadow Fiend](https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/00/Shadow_Fiend_minimap_icon.png?version=d05f078fa0c6a126d968034081963496) Shadow Fiend
+- ![Dark Seer](https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5a/Dark_Seer_minimap_icon.png?version=b9b6e61b867e77a16f53081078886f7f) Dark Seer
+- ![Lina](https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/44/Lina_minimap_icon.png?version=6a58f7a1e49fe55d2e827968922e3f53) Lina
+- ![Lion](https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/13/Lion_minimap_icon.png?version=e6b5a9d1e18f3175efc4f4ef673c6532) Lion
+- ![Rubick](https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/61/Rubick_minimap_icon.png?version=4305e3abe2361641df2a83a82e4288ed) Rubick
+- ![Shadow Demon](https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/35/Shadow_Demon_minimap_icon.png?version=71a54f4b81fc071d639bd557fde90626) Shadow Demon
+- ![Warlock](https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d3/Warlock_minimap_icon.png?version=3c23510c37ea46abd68be15951398849) Warlock
 
-Alchemist has been a bonus hero 2 times in the past 5 days.<br>
-Huskar has been a bonus hero 2 times in the past 8 days.<br>
-Mirana has been a bonus hero 2 times in the past 4 days.<br>
-Bane has been a bonus hero 2 times in the past 4 days.<br>
-Oracle has been a bonus hero 3 times in the past 9 days.
+Dragon Knight has been a bonus hero for 2 days in a row.<br>
+Elder Titan has been a bonus hero 2 times in the past 3 days.<br>
+Shadow Fiend has been a bonus hero 3 times in the past 10 days.<br>
+Lion has been a bonus hero 2 times in the past 4 days.<br>
+Shadow Demon has been a bonus hero 2 times in the past 5 days.<br>
 
 Bonus Heroes are availible for All Pick, Ranked All Pick and Turbo. Selecting a bonus hero in these modes gives the hero a free unsellable Enchanted Mango at the start of the game; this Mango can be built into a Magic Wand, a Wand built this way cannot be sold for full price. Voluntarily randomming a hero also gives a hero a free unsellable Iron Branch; this Branch can be used to make a tree or built into an upgraded item, the upgraded item cannot be sold for full price.
 
