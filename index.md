@@ -1,21 +1,20 @@
-# Bonus heroes for 22nd January 2018
+# Bonus heroes for 23rd January 2018
 
-- ![Dragon Knight](https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/21/Dragon_Knight_minimap_icon.png?version=2bb7daa5d9fd4a3fcf5edf9675d6c887) Dragon Knight
 - ![Elder Titan](https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9f/Elder_Titan_minimap_icon.png?version=b08f2c4992a7349960b1f01cdfa09a7e) Elder Titan
-- ![Phantom Lancer](https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/f/f9/Phantom_Lancer_minimap_icon.png?version=878ee9930d95c514283516f035c6b0d7) Phantom Lancer
-- ![Shadow Fiend](https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/00/Shadow_Fiend_minimap_icon.png?version=d05f078fa0c6a126d968034081963496) Shadow Fiend
-- ![Dark Seer](https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5a/Dark_Seer_minimap_icon.png?version=b9b6e61b867e77a16f53081078886f7f) Dark Seer
-- ![Lina](https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/44/Lina_minimap_icon.png?version=6a58f7a1e49fe55d2e827968922e3f53) Lina
-- ![Lion](https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/13/Lion_minimap_icon.png?version=e6b5a9d1e18f3175efc4f4ef673c6532) Lion
-- ![Rubick](https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/61/Rubick_minimap_icon.png?version=4305e3abe2361641df2a83a82e4288ed) Rubick
-- ![Shadow Demon](https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/3/35/Shadow_Demon_minimap_icon.png?version=71a54f4b81fc071d639bd557fde90626) Shadow Demon
-- ![Warlock](https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d3/Warlock_minimap_icon.png?version=3c23510c37ea46abd68be15951398849) Warlock
+- ![Legion Commander](https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/10/Legion_Commander_minimap_icon.png?version=ca8a742681f2f3f3328198842ffc329a) Legion Commander
+- ![Magnus](https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7f/Magnus_minimap_icon.png?version=583d16dc4422904dc39d233516b08f8b) Magnus
+- ![Sand King](https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9f/Sand_King_minimap_icon.png?version=e34716cc07426e8858ef36f0c8270b2b) Sand King
+- ![Luna](https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8c/Luna_minimap_icon.png?version=fbd2d0de0e63cbd035667b874aee0947) Luna
+- ![Vengeful Spirit](https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/09/Vengeful_Spirit_minimap_icon.png?version=a284633dd301fff53f160f6b849e9553) Vengeful Spirit
+- ![Weaver](https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/d5/Weaver_minimap_icon.png?version=561e03a9d3322fce7536708fb6baad19) Weaver
+- ![Ancient Apparition](https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/25/Ancient_Apparition_minimap_icon.png?version=0047e8dc00f61200d113f450bfd691b3) Ancient Apparition
+- ![Death Prophet](https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5d/Death_Prophet_minimap_icon.png?version=bc53525e2e5b226ed9945f2616a535ee) Death Prophet
+- ![Oracle](https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/61/Oracle_minimap_icon.png?version=e890c23cc59f62d3f0257f7374827ef3) Oracle
 
-Dragon Knight has been a bonus hero for 2 days in a row.<br>
-Elder Titan has been a bonus hero 2 times in the past 3 days.<br>
-Shadow Fiend has been a bonus hero 3 times in the past 10 days.<br>
-Lion has been a bonus hero 2 times in the past 4 days.<br>
-Shadow Demon has been a bonus hero 2 times in the past 5 days.<br>
+Elder Titan has been a bonus hero for 2 days in row.<br>
+Luna has been a bonus hero 2 times in the past 5 days.<br>
+Weaver has been a bonus hero 2 times in the past 6 days.<br>
+Oracle has been a bonus hero 2 times in the past 3 days.
 
 Bonus Heroes are availible for All Pick, Ranked All Pick and Turbo. Selecting a bonus hero in these modes gives the hero a free unsellable Enchanted Mango at the start of the game; this Mango can be built into a Magic Wand, a Wand built this way cannot be sold for full price. Voluntarily randomming a hero also gives a hero a free unsellable Iron Branch; this Branch can be used to make a tree or built into an upgraded item, the upgraded item cannot be sold for full price.
 
