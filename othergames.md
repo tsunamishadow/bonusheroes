@@ -2,19 +2,20 @@
 
 Free Champion Rotation
 
-- Aurelion Sol
-- Ivern
-- Kindred
-- Kog'Maw
-- Leona
-- Lissandra
-- Olaf
-- Quinn
-- Swain
-- Talon
-- Warwick
-- Xerath
-- Zac
+- Blitzcrank
+- Darius
+- Graves
+- Illaoi
+- Janna
+- Wukong
+- Mordekaiser
+- Ornn
+- Rakan
+- Sejuani
+- Vi
+- Xayah
+- Xin Zhao
+- Zyra
 
 Free Champion Rotation is unlocked at account level 11.
 
@@ -26,20 +27,20 @@ No Rotating Game Mode Currently
 
 Hero Free Rotation
 
-- Auriel
-- Dehaka
-- Gazlowe
-- Greymane
-- Johanna
-- Leoric
-- Malfurion
-- Stukov
-- Thrall
-- Valla
-- Garrosh *(Level 5)*
-- Probius *(Level 10)*
-- Valeera *(Level 15)*
-- Hanzo *(Level 20)*
+- Artanis
+- Brightwing
+- Butcher
+- E.T.C.
+- Kael'thas
+- Li Li
+- Li-Ming
+- Malthael
+- Zagara
+- Zarya
+- Sylvanas *(Level 5)*
+- Alexstransza *(Level 10)*
+- Chen *(Level 15)*
+- Chromie *(Level 20)*
 
 # Overwatch
 
@@ -47,15 +48,15 @@ Season 8 is currently Live
 
 Arcade Modes:
 
-- 8 Player FFA Chateâu Deathmatch *Main*
-- 4V4 Team Deathmatch
-- 6V6 Low Gravity *Changes Daily*
-- 6V6 Lockout Elimination
-- 6V6 Mystery Heroes
+- 8 Player FFA Deathmatch *Main*
+- 3v3 Lockout Elimination
+- 6v6 Total Mayhem *Changes Daily*
+- 6v6 No Limits
+- 6v6 Mystery Heroes
 
 # Fire Emblem: Heroes
 
-Currently season 51
+Currently season 52
 
 Legendary Elements: Water and **Wind**
 
@@ -74,4 +75,4 @@ Arena Bonus Heroes:
 
 # Last Updated
 
-06:26 UTC 22 January 2018
+13:38 UTC 23 January 2018
