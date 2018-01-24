@@ -19,7 +19,7 @@ Free Champion Rotation
 
 Free Champion Rotation is unlocked at account level 11.
 
-Patch 8.1
+Patch 8.2
 
 No Rotating Game Mode Currently
 
@@ -48,15 +48,15 @@ Season 8 is currently Live
 
 Arcade Modes:
 
-- 8 Player FFA Deathmatch *Main*
+- 6v6 Blizzard World *Main*
+- 8 Player FFA Deathmatch
 - 3v3 Lockout Elimination
-- 6v6 Total Mayhem *Changes Daily*
-- 6v6 No Limits
+- 1v1 Mystery Duel *Changes Daily*
 - 6v6 Mystery Heroes
 
 # Fire Emblem: Heroes
 
-Currently season 52
+Currently season 53
 
 Legendary Elements: Water and **Wind**
 
@@ -75,4 +75,4 @@ Arena Bonus Heroes:
 
 # Last Updated
 
-13:38 UTC 23 January 2018
+14:18 UTC 24 January 2018
