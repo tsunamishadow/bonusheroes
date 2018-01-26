@@ -48,17 +48,17 @@ Season 8 is currently Live
 
 Arcade Modes:
 
-- 6v6 Blizzard World *Main*
-- 8 Player FFA Deathmatch
+- 6v6 Blizzard World
+- 8 Player FFA Deathmatch *Main Reward*
+- 6v6 Total Mayhem *Changes Daily*
 - 3v3 Lockout Elimination
-- 1v1 Mystery Duel *Changes Daily*
 - 6v6 Mystery Heroes
 
 # Fire Emblem: Heroes
 
-Currently season 53
+Currently season 52
 
-Legendary Elements: Water and **Wind**
+Legendary Elements: Fire and **Wind**
 
 Arena Bonus Heroes:
 
@@ -75,4 +75,4 @@ Arena Bonus Heroes:
 
 # Last Updated
 
-14:18 UTC 24 January 2018
+04:59 UTC 26 January 2018
