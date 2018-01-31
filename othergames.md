@@ -2,20 +2,20 @@
 
 Free Champion Rotation
 
-- Blitzcrank
-- Darius
-- Graves
-- Illaoi
-- Janna
-- Wukong
-- Mordekaiser
-- Ornn
-- Rakan
-- Sejuani
-- Vi
-- Xayah
-- Xin Zhao
-- Zyra
+- Annie
+- Draven
+- Evelynn
+- Fiora
+- Galio
+- Irelia
+- Kalista
+- Katarina
+- Maokai
+- Ryze
+- Shaco
+- Thresh
+- Urgot
+- Veigar
 
 Free Champion Rotation is unlocked at account level 11.
 
