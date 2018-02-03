@@ -1,15 +1,15 @@
-# Bonus heroes for 31st January 2018
+# Bonus heroes for 3rd February 2018
 
-- ![Chaos Knight](https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9f/Chaos_Knight_minimap_icon.png?version=560093417b1c444180616bf3bc420e80) Chaos Knight
-- ![Huskar](https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5b/Huskar_minimap_icon.png?version=44d905fb961b14c158ee9bbd649bdf99) Huskar
-- ![Undying](https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8a/Undying_minimap_icon.png?version=97f22c52bf9c3e9aab95837c6986b1da) Undying
-- ![Lycan](https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/4f/Lycan_minimap_icon.png?version=8d41ead1af6e8a5b8af3acfc99091bff) Lycan
-- ![Magnus](https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7f/Magnus_minimap_icon.png?version=583d16dc4422904dc39d233516b08f8b) Magnus
-- ![Bloodseeker](https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/57/Bloodseeker_minimap_icon.png?version=a0b3a65650ce20229cde89167a0256b6) Bloodseeker
-- ![Broodmother](https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/19/Broodmother_minimap_icon.png?version=79716193d76f93146bf39a51d8e04efb) Broodmother
-- ![Lina](https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/44/Lina_minimap_icon.png?version=6a58f7a1e49fe55d2e827968922e3f53) Lina
-- ![Pugna](https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/a/ab/Pugna_minimap_icon.png?version=becbd68065179330ed1d7aed26a1d307) Pugna
-- ![Queen of Pain](https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0f/Queen_of_Pain_minimap_icon.png?version=35d2877665e13c78072a02a1f4afa98d) Queen of Pain
+- ![Centaur Warrunner](https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/5/5e/Centaur_Warrunner_minimap_icon.png?version=ff8db77a89f14ec493542eaa6aa6c30a) Centaur Warrunner
+- ![Doom](https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/96/Doom_minimap_icon.png?version=a3587cf3571e633b7e99086ba98c47da) Doom
+- ![Elder Titan](https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/9f/Elder_Titan_minimap_icon.png?version=b08f2c4992a7349960b1f01cdfa09a7e) Elder Titan
+- ![Phoenix](https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/21/Phoenix_minimap_icon.png?version=4f97eb1c5ed3490d090cec01636be5ad) Phoenix
+- ![Spirit Breaker](https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/90/Spirit_Breaker_minimap_icon.png?version=9036e58ba5e607aac145c52a5d812014) Spirit Breaker
+- ![Underlord](https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/29/Underlord_minimap_icon.png?version=4aa109fe93ecbd94d8372696ffd57668) Underlord
+- ![Arc Warden](https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e9/Arc_Warden_minimap_icon.png?version=50598fb94c23bf7233eaf79678a5cad8) Arc Warden
+- ![Monkey King](https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/76/Monkey_King_minimap_icon.png?version=6c5cbc19576294ac499c1d4f6c8851da) Monkey King
+- ![Invoker](https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7d/Invoker_minimap_icon.png?version=2b317e9666ea7aa2bdb6f2d504e28c3e) Invoker
+- ![Outworld Devourer](https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/2/28/Outworld_Devourer_minimap_icon.png?version=fbd8250d299fcbd0657a7ab18d0f3705) Outworld Devourer
 
 Bonus Heroes are availible for All Pick, Ranked All Pick and Turbo. Selecting a bonus hero in these modes gives the hero a free unsellable Enchanted Mango at the start of the game; this Mango can be built into a Magic Wand, a Wand built this way cannot be sold for full price. Voluntarily randomming a hero also gives a hero a free unsellable Iron Branch; this Branch can be used to make a tree or built into an upgraded item, the upgraded item cannot be sold for full price.
 
