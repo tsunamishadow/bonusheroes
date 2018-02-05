@@ -48,9 +48,9 @@ Season 8 is currently Live
 
 Arcade Modes:
 
-- 4v4 Team Deathmatch
 - 8v8 Player FFA Chateau Deathmatch *Reward Box*
-- 6v6 Lockout Elimination *Changes Daily*
+- 4v4 Team Deathmatch
+- 1v1 Mystery Duel *Changes Daily*
 - 6v6 No Limits
 - 6v6 Mystery Heroes
 
@@ -75,4 +75,4 @@ Arena Bonus Heroes:
 
 # Last Updated
 
-04:59 UTC 3 February 2018
+03:51 UTC 5 February 2018
