@@ -13,7 +13,7 @@
 
 Bonus Heroes are availible for All Pick, Ranked All Pick and Turbo. Selecting a bonus hero in these modes gives the hero a free unsellable Enchanted Mango at the start of the game; this Mango can be built into a Magic Wand, a Wand built this way cannot be sold for full price. Voluntarily randomming a hero also gives a hero a free unsellable Iron Branch; this Branch can be used to make a tree or built into an upgraded item, the upgraded item cannot be sold for full price.
 
-These items are tied to the hero and not the player, so if a hero is swapped any items given this way will go towards the new player of that hero. There is an inconsistent bug that causes a hero to lose the Mango given this way if the player buys an item in strategy time and then swaps the hero.
+These items are tied to the hero and not the player, so if a hero is swapped any items given this way will go towards the new player of that hero. There is an inconsistent bug that causes a hero to lose the Mango given this way if the player buys an item in strategy time and then swaps the hero. It isn't worth randomming a hero unless you can play all the availible bonus heroes (since you only get one branch for doing so).
 
 Bonus heroes change at 03:00 UTC every day, 7pm Seattle time.
 
