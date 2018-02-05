@@ -11,6 +11,10 @@
 - ![Shadow Shaman](https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7e/Shadow_Shaman_minimap_icon.png?version=06bd592a871c37b44209f2a019133ef1) Shadow Shaman
 - ![Skywrath Mage](https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/84/Skywrath_Mage_minimap_icon.png?version=7dcab4507eddb4037fe87142d5b6df28) Skywrath Mage
 
+Lycan was recently nerfed. Shadow Fiend was recently nerfed. Shadow Shaman was recently nerfed.
+
+Enchanted Mango now restores 175 mana.
+
 Bonus Heroes are availible for All Pick, Ranked All Pick and Turbo. Selecting a bonus hero in these modes gives the hero a free unsellable Enchanted Mango at the start of the game; this Mango can be built into a Magic Wand, a Wand built this way cannot be sold for full price. Voluntarily randomming a hero also gives a hero a free unsellable Iron Branch; this Branch can be used to make a tree or built into an upgraded item, the upgraded item cannot be sold for full price.
 
 These items are tied to the hero and not the player, so if a hero is swapped any items given this way will go towards the new player of that hero. There is an inconsistent bug that causes a hero to lose the Mango given this way if the player buys an item in strategy time and then swaps the hero. It isn't worth randomming a hero unless you can play all the availible bonus heroes (since you only get one branch for doing so).
