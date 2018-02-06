@@ -1,17 +1,17 @@
-# Bonus heroes for 5th February 2018
+# Bonus heroes for 6th February 2018
 
-- ![Doom](https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/9/96/Doom_minimap_icon.png?version=a3587cf3571e633b7e99086ba98c47da) Doom
-- ![Lycan](https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/4f/Lycan_minimap_icon.png?version=8d41ead1af6e8a5b8af3acfc99091bff) Lycan
-- ![Treant Protector](https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8f/Treant_Protector_minimap_icon.png?version=ae3cfe872b670e81bdcfe42e155fcfc9) Treant Protector
-- ![Undying](https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8a/Undying_minimap_icon.png?version=97f22c52bf9c3e9aab95837c6986b1da) Undying
-- ![Arc Warden](https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/e9/Arc_Warden_minimap_icon.png?version=50598fb94c23bf7233eaf79678a5cad8) Arc Warden
-- ![Lone Druid](https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/08/Lone_Druid_minimap_icon.png?version=97ef3f12303fe252d84c907a9ded7fce) Lone Druid
-- ![Shadow Fiend](https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/00/Shadow_Fiend_minimap_icon.png?version=d05f078fa0c6a126d968034081963496) Shadow Fiend
-- ![Enigma](https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/03/Enigma_minimap_icon.png?version=316f3133c969d42a361a3956784ffc3a) Enigma
-- ![Shadow Shaman](https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7e/Shadow_Shaman_minimap_icon.png?version=06bd592a871c37b44209f2a019133ef1) Shadow Shaman
-- ![Skywrath Mage](https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/84/Skywrath_Mage_minimap_icon.png?version=7dcab4507eddb4037fe87142d5b6df28) Skywrath Mage
+- ![Night Stalker](https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/7/7f/Night_Stalker_minimap_icon.png?version=7a5607f6dd14eacf640809c8cb7868aa) Night Stalker
+- ![Timbersaw](https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/49/Timbersaw_minimap_icon.png?version=2bb2d544c2bfbd8e447e19bdaf8143be) Timbersaw
+- ![Drow Ranger](https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/6/63/Drow_Ranger_minimap_icon.png?version=05f08fec36816e36a740385f0af0a6d0) Drow Ranger
+- ![Luna](https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/8/8c/Luna_minimap_icon.png?version=fbd2d0de0e63cbd035667b874aee0947) Luna
+- ![Meepo](https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/17/Meepo_minimap_icon.png?version=ff1aebc7de097846e45a7bf85b48c4f1) Meepo
+- ![Phantom Assassin](https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/c/c9/Phantom_Assassin_minimap_icon.png?version=f0d00311e39ab35cbe8dd8a28e848f30) Phantom Assassin
+- ![Ursa](https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/e/ee/Ursa_minimap_icon.png?version=6d7016be6ddd2910f083f3dc1bc01063) Ursa
+- ![Bane](https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/0d/Bane_minimap_icon.png?version=f3768213ccad741f96fda77aa53d0dd2) Bane
+- ![Lion](https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/13/Lion_minimap_icon.png?version=e6b5a9d1e18f3175efc4f4ef673c6532) Lion
+- ![Windranger](https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/d/df/Windranger_minimap_icon.png?version=67a376a7447809c7f3c7ec0552461b97) Windranger
 
-Lycan was recently nerfed. Shadow Fiend was recently nerfed. Shadow Shaman was recently nerfed.
+Windranger recieved a recent buff.
 
 Enchanted Mango now restores 175 mana.
 
