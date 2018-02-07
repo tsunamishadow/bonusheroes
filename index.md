@@ -5,10 +5,11 @@
 - ![Timbersaw](https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/49/Timbersaw_minimap_icon.png?version=2bb2d544c2bfbd8e447e19bdaf8143be) Timbersaw
 - ![Lone Druid](https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/08/Lone_Druid_minimap_icon.png?version=97ef3f12303fe252d84c907a9ded7fce) Lone Druid
 - ![Nyx Assassin](/images/miniheroes/nyx_assassin.png) Nyx Assassin
-- ![Phantom Lancer]() Phantom Lancer
-- ![Invoker]() Invoker
-- ![Necrophos]() Pugna
-- ![Storm Spirit]() Storm Spirit
+- ![Phantom Lancer](/images/miniheroes/phantom_lancer.png) Phantom Lancer
+- ![Invoker](/images/miniheroes/invoker.png) Invoker
+- ![Necrophos](/images/miniheroes/necrolyte.png) Necrophos
+- ![Pugna](/images/miniheroes/pugna.png) Pugna
+- ![Storm Spirit](/images/miniheroes/storm_spirit.png) Storm Spirit
 
 Omniknight was recently nerfed.
 
