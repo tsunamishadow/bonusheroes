@@ -4,7 +4,7 @@
 - ![Sven](https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/1c/Sven_minimap_icon.png?version=c631c206b12b7960b5b260281e65bbe1) Sven
 - ![Timbersaw](https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/49/Timbersaw_minimap_icon.png?version=2bb2d544c2bfbd8e447e19bdaf8143be) Timbersaw
 - ![Lone Druid](https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/08/Lone_Druid_minimap_icon.png?version=97ef3f12303fe252d84c907a9ded7fce) Lone Druid
-- ![Nyx Assassin]() Nyx Assassin
+- ![Nyx Assassin](/images/miniheroes/nyx_assassin.png) Nyx Assassin
 - ![Phantom Lancer]() Phantom Lancer
 - ![Invoker]() Invoker
 - ![Necrophos]() Pugna
