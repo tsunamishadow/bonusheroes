@@ -1,4 +1,4 @@
-# Bonus heroes for 6th February 2018
+# Bonus heroes for 7th February 2018
 
 - ![Omniknight](https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/05/Omniknight_minimap_icon.png?version=ff46e87554f9ac6c82f18e6d82d64baf) Omniknight
 - ![Sven](https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/1c/Sven_minimap_icon.png?version=c631c206b12b7960b5b260281e65bbe1) Sven
