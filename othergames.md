@@ -3,44 +3,44 @@
 Free Champion Rotation
 
 - Annie
-- Draven
-- Evelynn
-- Fiora
-- Galio
-- Irelia
-- Kalista
-- Katarina
-- Maokai
-- Ryze
-- Shaco
-- Thresh
-- Urgot
-- Veigar
+- Ashe
+- Diana
+- Ekko
+- Gragas
+- Lux
+- Orianna
+- Poppy
+- Rengar
+- Soraka
+- Taric
+- Teemo
+- Vayne
+- Volibear
 
 Free Champion Rotation is unlocked at account level 11.
 
-Patch 8.2
+Patch 8.3
 
-No Rotating Game Mode Currently
+5v5 Blood Moon is active
 
 # Heroes of the Storm
 
 Hero Free Rotation
 
-- Anub'arak
-- Arthas
-- Guldan
-- Jaina
-- Muradin
-- Nazeebo
-- Raynor
-- Sonya
-- Tychus
-- Uther
-- Tyrande *(Level 5)*
-- Cassia *(Level 10)*
-- Sgt. Hammer *(Level 15)*
-- Ana *(Level 20)*
+- Dehaka
+- Diablo
+- Gazlowe
+- Johanna
+- Kerrigan
+- Lúcio
+- Malfurion
+- Ragnaros
+- Thrall
+- Valla
+- Kharazim *(Level 5)*
+- Falstad *(Level 10)*
+- Rexxar *(Level 15)*
+- Nova *(Level 20)*
 
 # Overwatch
 
@@ -49,16 +49,16 @@ Season 8 is currently Live
 Arcade Modes:
 
 - 8v8 Player FFA Chateau Deathmatch *Reward Box*
-- 4v4 Team Deathmatch
-- 1v1 Mystery Duel *Changes Daily*
-- 6v6 No Limits
+- 3v3 Lockout Elimination
+- 6v6 Lockout Elimination *Changes Daily*
+- 6v6 Total Mayhem
 - 6v6 Mystery Heroes
 
 # Fire Emblem: Heroes
 
-Currently season 52
+Currently season 54
 
-Legendary Elements, Season: Wind and **Earth**
+Legendary Elements, Season: Water and **Earth**
 
 Arena Bonus Heroes:
 
@@ -75,4 +75,4 @@ Arena Bonus Heroes:
 
 # Last Updated
 
-03:51 UTC 5 February 2018
+03:46 UTC 9 February 2018
