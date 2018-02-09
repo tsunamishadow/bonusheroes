@@ -1,17 +1,19 @@
-# Bonus heroes for 7th February 2018
+# Bonus heroes for 9th February 2018
 
-- ![Omniknight](https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/05/Omniknight_minimap_icon.png?version=ff46e87554f9ac6c82f18e6d82d64baf) Omniknight
-- ![Sven](https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/1/1c/Sven_minimap_icon.png?version=c631c206b12b7960b5b260281e65bbe1) Sven
-- ![Timbersaw](https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/4/49/Timbersaw_minimap_icon.png?version=2bb2d544c2bfbd8e447e19bdaf8143be) Timbersaw
-- ![Lone Druid](https://d1u5p3l4wpay3k.cloudfront.net/dota2_gamepedia/0/08/Lone_Druid_minimap_icon.png?version=97ef3f12303fe252d84c907a9ded7fce) Lone Druid
-- ![Nyx Assassin](/images/miniheroes/nyx_assassin.png) Nyx Assassin
-- ![Phantom Lancer](/images/miniheroes/phantom_lancer.png) Phantom Lancer
-- ![Invoker](/images/miniheroes/invoker.png) Invoker
-- ![Necrophos](/images/miniheroes/necrolyte.png) Necrophos
-- ![Pugna](/images/miniheroes/pugna.png) Pugna
-- ![Storm Spirit](/images/miniheroes/storm_spirit.png) Storm Spirit
+[//]: # (List bonus heroes here, use /images/miniheroes/heroname for picture)
 
-Omniknight was recently nerfed.
+- ![Doom](/images/miniheroes/doom.png) Doom
+- ![Dragon Knight](/images/miniheroes/dragon_knight.png) Dragon Knight
+- ![Tiny](/images/miniheroes/tiny.png) Tiny
+- ![Bloodseeker](/images/miniheroes/bloodseeker.png) Bloodseeker
+- ![Ember Spirit](/images/miniheroes/ember_spirit.png) Ember Spirit
+- ![Meepo](/images/miniheroes/meepo.png) Meepo
+- ![Riki](/images/miniheroes/riki.png) Riki
+- ![Vengeful Spirit](/images/miniheroes/vengefulspirit.png) Vengeful Spirit
+- ![Weaver](/images/miniheroes/weaver.png) Weaver
+- ![Rubick](/images/miniheroes/rubick.png) Rubick
+
+Ember Spirit was recently buffed. Tiny was recently nerfed.
 
 Enchanted Mango now restores 175 mana.
 
