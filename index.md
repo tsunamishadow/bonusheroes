@@ -10,7 +10,7 @@
 - ![Vengeful Spirit](/images/miniheroes/vengefulspirit.png) Vengeful Spirit
 - ![Enchantress](/images/miniheroes/enchantress.png) Enchantress
 - ![Skywrath Mage](/images/miniheroes/skywrath_mage.png) Skywrath Mage
-- ![Winter Wyvern](/images/miniheroes/weaver.png) Winter Wyvern
+- ![Winter Wyvern](/images/miniheroes/winter_wyvern.png) Winter Wyvern
 - ![Zeus](/images/miniheroes/zuus.png) Zeus
 
 Enchanted Mango now restores 175 mana.
