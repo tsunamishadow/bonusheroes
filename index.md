@@ -1,19 +1,17 @@
-# Bonus heroes for 9th February 2018
+# Bonus heroes for 15th February 2018
 
 [//]: # (List bonus heroes here, use /images/miniheroes/heroname for picture)
 
-- ![Doom](/images/miniheroes/doom.png) Doom
-- ![Dragon Knight](/images/miniheroes/dragon_knight.png) Dragon Knight
+- ![Centaur Warunner](/images/miniheroes/centaur.png) Centaur Warrunner
 - ![Tiny](/images/miniheroes/tiny.png) Tiny
-- ![Bloodseeker](/images/miniheroes/bloodseeker.png) Bloodseeker
-- ![Ember Spirit](/images/miniheroes/ember_spirit.png) Ember Spirit
-- ![Meepo](/images/miniheroes/meepo.png) Meepo
-- ![Riki](/images/miniheroes/riki.png) Riki
+- ![Drow Ranger](/images/miniheroes/drow_ranger.png) Drow Ranger
+- ![Medusa](/images/miniheroes/medusa.png) Medusa
+- ![Terrorblade](/images/miniheroes/terrorblade.png) Terrorblade
 - ![Vengeful Spirit](/images/miniheroes/vengefulspirit.png) Vengeful Spirit
-- ![Weaver](/images/miniheroes/weaver.png) Weaver
-- ![Rubick](/images/miniheroes/rubick.png) Rubick
-
-Ember Spirit was recently buffed. Tiny was recently nerfed.
+- ![Enchantress](/images/miniheroes/enchantress.png) Enchantress
+- ![Skywrath Mage](/images/miniheroes/skywrath_mage.png) Skywrath Mage
+- ![Winter Wyvern](/images/miniheroes/weaver.png) Winter Wyvern
+- ![Zeus](/images/miniheroes/zuus.png) Zeus
 
 Enchanted Mango now restores 175 mana.
 
