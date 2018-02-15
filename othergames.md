@@ -2,20 +2,20 @@
 
 Free Champion Rotation
 
-- Annie
-- Ashe
-- Diana
-- Ekko
-- Gragas
-- Lux
-- Orianna
-- Poppy
-- Rengar
-- Soraka
-- Taric
-- Teemo
-- Vayne
-- Volibear
+- Ezreal
+- Hecarim
+- Jayce
+- Jinx
+- Kennen
+- Kha'Zix
+- Master Yi
+- Nami
+- Nunu
+- Rammus
+- Rumble
+- Singed
+- Zed
+- Zilean
 
 Free Champion Rotation is unlocked at account level 11.
 
@@ -27,20 +27,20 @@ Patch 8.3
 
 Hero Free Rotation
 
-- Dehaka
-- Diablo
-- Gazlowe
-- Johanna
-- Kerrigan
-- Lúcio
-- Malfurion
-- Ragnaros
-- Thrall
-- Valla
-- Kharazim *(Level 5)*
-- Falstad *(Level 10)*
-- Rexxar *(Level 15)*
-- Nova *(Level 20)*
+- Artanis
+- E.T.C.
+- Kael'thas
+- Li Li
+- Rehgar
+- The Butcher
+- Tyrael
+- Varian
+- Zagara
+- Zul'jin
+- Junkrat *(Level 5)*
+- Azmodan *(Level 10)*
+- Genji *(Level 15)*
+- Blaze *(Level 20)*
 
 # Overwatch
 
@@ -48,31 +48,31 @@ Season 8 is currently Live
 
 Arcade Modes:
 
-- 8v8 Player FFA Chateau Deathmatch *Reward Box*
-- 3v3 Lockout Elimination
-- 6v6 Lockout Elimination *Changes Daily*
-- 6v6 Total Mayhem
+- 6v6 CTF: Aytthaya Only *Reward Box*
+- 6v6 Competitive CTF
+- 1v1 Limited DUel *Changes Daily*
+- 8 Player FFA Chateau Deathmatch
 - 6v6 Mystery Heroes
 
 # Fire Emblem: Heroes
 
-Currently season 54
+Currently season 55
 
-Legendary Elements, Season: Water and **Earth**
+Legendary Elements, Season: Fire and **Earth**
 
 Arena Bonus Heroes:
 
-- Eirika (Sacred Memories)
-- Myrrh
-- L'Arachel
-- Lyon
-- Rebecca
-- Marth
-- Raven
-- Peri
-- Hana
-- Anna
+- Ike (Vanguard Legend)
+- Roy (Love Abounds)
+- Lilina (Love Abounds)
+- Hector (Love Abounds)
+- Lyn (Love Abounds)
+- Valter
+- Lloyd
+- Soren
+- Tharja
+- Alfonse
 
 # Last Updated
 
-03:46 UTC 9 February 2018
+04:14 UTC 15 February 2018
