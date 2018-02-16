@@ -21,7 +21,7 @@ Bonus Heroes are available for All Pick, Ranked All Pick and Turbo. Selecting a 
 
 These items are tied to the hero and not the player, so if a hero is swapped any items given this way will go towards the new player of that hero. There is an inconsistent bug that causes a hero to lose the Mango given this way if the player buys an item in strategy time and then swaps the hero. It isn't worth randomming a hero unless you can play all the availible bonus heroes (since you only get one branch for doing so).
 
-Bonus heroes change at 03:00 UTC every day, 7pm Seattle time.
+Bonus heroes change at 04:00 UTC every day, 8pm Seattle time.
 
 There are 74,540,946,223,878 possible combinations of heroes for bonus hero selection (or indeed a single game of Dota).
 
