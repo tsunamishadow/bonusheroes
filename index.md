@@ -1,17 +1,17 @@
-# Bonus heroes for 15th February 2018
+# Bonus heroes for 16th February 2018
 
 [//]: # (List bonus heroes here, use /images/miniheroes/heroname for picture)
 
-- ![Centaur Warunner](/images/miniheroes/centaur.png) Centaur Warrunner
-- ![Tiny](/images/miniheroes/tiny.png) Tiny
-- ![Drow Ranger](/images/miniheroes/drow_ranger.png) Drow Ranger
-- ![Medusa](/images/miniheroes/medusa.png) Medusa
-- ![Terrorblade](/images/miniheroes/terrorblade.png) Terrorblade
-- ![Vengeful Spirit](/images/miniheroes/vengefulspirit.png) Vengeful Spirit
-- ![Enchantress](/images/miniheroes/enchantress.png) Enchantress
-- ![Skywrath Mage](/images/miniheroes/skywrath_mage.png) Skywrath Mage
-- ![Winter Wyvern](/images/miniheroes/winter_wyvern.png) Winter Wyvern
-- ![Zeus](/images/miniheroes/zuus.png) Zeus
+- ![Earth Spirit](/images/miniheroes/earth_spirit.png) Earth Spirit
+- ![Lifestealer](/images/miniheroes/life_stealer.png) Lifestealer
+- ![Timbersaw](/images/miniheroes/drow_ranger.png) Timbersaw
+- ![Tusk](/images/miniheroes/tusk.png) Tusk
+- ![Anti-Mage](/images/miniheroes/antimage.png) Anti-Mage
+- ![Ember Spirit](/images/miniheroes/ember_spirit.png) Ember Spirit
+- ![Spectre](/images/miniheroes/spectre.png) Spectre
+- ![Ursa](/images/miniheroes/ursa.png) Ursa
+- ![Lich](/images/miniheroes/lich.png) Lich
+- ![Lion](/images/miniheroes/lion.png) Lion
 
 Enchanted Mango now restores 175 mana.
 
