@@ -1,17 +1,17 @@
-# Bonus heroes for 18th February 2018
+# Bonus heroes for 19th February 2018
 
 [//]: # (List bonus heroes here, use /images/miniheroes/heroname for picture)
 
-- ![Clockwerk](/images/miniheroes/rattletrap.png) Clockwerk
-- ![Lycan](/images/miniheroes/lycan.png) Lycan
-- ![Pudge](/images/miniheroes/pudge.png) Pudge
-- ![Underlord](/images/miniheroes/abyssal_underlord.png) Underlord
-- ![Bounty Hunter](/images/miniheroes/bounty_hunter.png) Bounty Hunter
-- ![Phantom Lancer](/images/miniheroes/phantom_lancer.png) Phantom Lancer
-- ![Ursa](/images/miniheroes/ursa.png) Ursa
-- ![Weaver](/images/miniheroes/weaver.png) Weaver
-- ![Dazzle](/images/miniheroes/dazzle.png) Dazzle
+- ![Lifestealer](/images/miniheroes/life_stealer.png) Lifestealer
+- ![Slardar](/images/miniheroes/slardar.png) Slardar
+- ![Clinkz](/images/miniheroes/clinkz.png) Clinkz
+- ![Meepo](/images/miniheroes/meepo.png) Meepo
+- ![Viper](/images/miniheroes/viper.png) Viper
+- ![Enchantress](/images/miniheroes/enchantress.png) Enchantress
+- ![Lion](/images/miniheroes/lion.png) Lion
 - ![Silencer](/images/miniheroes/silencer.png) Silencer
+- ![Techies](/images/miniheroes/techies.png) Techies
+- ![Winter Wyvern](/images/miniheroes/winter_wyvern.png) Winter Wyvern
 
 Enchanted Mango now restores 175 mana.
 
