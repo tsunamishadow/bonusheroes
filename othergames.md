@@ -2,26 +2,26 @@
 
 Free Champion Rotation
 
-- Ezreal
-- Hecarim
-- Jayce
-- Jinx
-- Kennen
-- Kha'Zix
-- Master Yi
-- Nami
-- Nunu
-- Rammus
-- Rumble
-- Singed
-- Zed
-- Zilean
+- Caitlyn
+- Jhin
+- Lucian
+- Lulu
+- Malphite
+- Malzahar
+- Morgana
+- Pantheon
+- Renekton
+- Sion
+- Skarner
+- Sona
+- Trundle
+- Vladmir
 
 Free Champion Rotation is unlocked at account level 11.
 
-Patch 8.3
+Patch 8.4
 
-5v5 Blood Moon is active
+No rotating game mode
 
 # Heroes of the Storm
 
@@ -41,6 +41,21 @@ Hero Free Rotation
 - Azmodan *(Level 10)*
 - Genji *(Level 15)*
 - Blaze *(Level 20)*
+
+- Raynor
+- Muradin
+- Sonya
+- Nazeebo
+- Uther
+- Jaina
+- Lunara
+- Lt. Morales
+- Xul
+- Leoric
+- Alarak *(Level 5)*
+- D.Va *(Level 10)*
+- Illidan *(Level 15)*
+- Stitches *(Level 20)*
 
 # Overwatch
 
@@ -75,4 +90,4 @@ Arena Bonus Heroes:
 
 # Last Updated
 
-04:14 UTC 15 February 2018
+14:03 UTC 22 February 2018
