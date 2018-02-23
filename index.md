@@ -1,17 +1,17 @@
-# Bonus heroes for 22nd February 2018
+# Bonus heroes for 23rd February 2018
 
 [//]: # (List bonus heroes here, use /images/miniheroes/heroname for picture)
 
-- ![Abaddon](/images/miniheroes/abaddon.png) Abaddon
-- ![Beastmaster](/images/miniheroes/beastmaster.png) Beastmaster
-- ![Bristleback](/images/miniheroes/bristleback.png) Bristleback
-- ![Huskar](/images/miniheroes/huskar.png) Huskar
-- ![Treant Protector](/images/miniheroes/treant.png) Treant Protector
-- ![Ember Spirit](/images/miniheroes/ember_spirit.png) Ember Spirit
-- ![Mirana](/images/miniheroes/mirana.png) Mirana
-- ![Crystal Maiden](/images/miniheroes/crystal_maiden.png) Crystal Maiden
+- ![Omniknight](/images/miniheroes/omniknight.png) Omniknight
+- ![Wraith King](/images/miniheroes/skeleton_king.png) Wraith King
+- ![Broodmother](/images/miniheroes/broodmother.png) Broodmother
+- ![Medusa](/images/miniheroes/medusa.png) Medusa
+- ![Ancient Apparition](/images/miniheroes/ancient_apparition.png) Ancient Apparition
+- ![Bane](/images/miniheroes/bane.png) Bane
 - ![Dark Willow](/images/miniheroes/dark_willow.png) Dark Willow
-- ![Winter Wyvern](/images/miniheroes/winter_wyvern.png) Winter Wyvern
+- ![Enigma](/images/miniheroes/crystal_maiden.png) Enigma
+- ![Queen of Pain](/images/miniheroes/queenofpain.png) Queen of Pain
+- ![Storm Spirit](/images/miniheroes/storm_spirit.png) Storm Spirit
 
 Enchanted Mango now restores 175 mana.
 
