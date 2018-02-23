@@ -9,7 +9,7 @@
 - ![Ancient Apparition](/images/miniheroes/ancient_apparition.png) Ancient Apparition
 - ![Bane](/images/miniheroes/bane.png) Bane
 - ![Dark Willow](/images/miniheroes/dark_willow.png) Dark Willow
-- ![Enigma](/images/miniheroes/crystal_maiden.png) Enigma
+- ![Enigma](/images/miniheroes/enigma.png) Enigma
 - ![Queen of Pain](/images/miniheroes/queenofpain.png) Queen of Pain
 - ![Storm Spirit](/images/miniheroes/storm_spirit.png) Storm Spirit
 
