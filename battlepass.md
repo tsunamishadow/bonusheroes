@@ -134,7 +134,7 @@ Voting ends at Tuesday 3pm UTC
   Bloodseeker has a bye  
   Slardar vs Naga Siren  
   
-  # Achievements
+# Achievements
   
   What you have to do, and tips on how to do them. The number after the hyphen shows how many battle points you get for achieving it. 1000 points is one battle level.
   
@@ -177,3 +177,14 @@ Win 5 Mutation Games - 500
 Win 10 Mutation Games - 1000  
 
 Queue Mutation games and win. You can do this more than once a day.
+
+Explore 10 Cavern rooms - 500  
+Explore 30 - 1000  
+Explore 87 - 2500  
+
+Note that the Cavern is unique to each account. You'll be given a Cavern hero which will block your path to the next room, winning a game with that hero (mode doesn't seem to matter) opens up that path to the next room. There are 29 rooms in each third-sector meaning that you need all 87 to get the last achievement.  
+
+Cast one vote in the Arcana ballot - 100  
+Cast votes in 10 of the 12 weeks - 1000  
+
+Go to Battle Pass > Home > Arcana Vote to make a vote in the ballot, be sure to hit save to make sure they count. You only need to vote once.
