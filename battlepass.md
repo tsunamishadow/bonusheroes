@@ -8,6 +8,8 @@
 
 Arcana Voting, Tipping Tokens and Wagering Tokens all reset on Tuesday 3pm UTC
 
+This page was last updated - 9th May 2018, 15:46 UTC
+
 ## Mutation
 
 New Mutations at Midnight UTC
