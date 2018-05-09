@@ -2,9 +2,9 @@
 
 # Useful Links
 
-https://www.dota2.com/international/battlepass/
+<https://www.dota2.com/international/battlepass/>
 
-http://dota2.prizetrac.kr/international2018
+<http://dota2.prizetrac.kr/international2018>
 
 # Chat Wheel Sounds
 
@@ -90,3 +90,24 @@ All of these lines are from the Lon and Dunoo cast of Team Secret vs Fnatic at E
 - [All] "The next level play!"
 - [All] "Oy oy oy oy oy oy oy oy oy!"
 - [All] "Ma-ta-taa! Normaly, normaly!"
+
+# Current Arcana Ballot
+
+Voting ends at Tuesday 3pm UTC
+
+Sniper has a bye
+Magnus vs Lich
+Gyrocopter vs Lycan
+Dragon Knight vs Beastmaster
+Witch Doctor has a bye
+Weaver vs Bane
+Mirana has a bye
+Jakiro vs Templar Assassin
+Rubick has a bye
+Omniknight vs Death Prophet
+Phantom Lancer has a bye
+Chaos Knight vs Treant Protector
+Tinker has a bye
+Tiny vs Pugna
+Bloodseeker has a bye
+Slardar vs Naga Siren
