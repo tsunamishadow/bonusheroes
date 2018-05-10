@@ -16,19 +16,20 @@ New Mutations at Midnight UTC
 
 Current Mutations are
 
-- Teammate Resurrection.
--- When a teammate dies, they drop a tombstone. Channelling (Right click on the tombstone) a 10 second revival brings them back to the same spot with half health and mana.
-- Super Runes.
--- Power Runes are now more powerful. For example, Haste allows free pathing as well.
-- Random Lane Creeps.
--- Lane Creeps will be randomly replaced by any Neutral creep (this includes any Ancient Creep but excludes Skeletons). Spawnings of creeps are not mirrored or symmetrical. Siege Creeps will never be replaced.
+- Killstreak Power
+-- Whenever you get a kill, you take 20% more damage and deal 20% damage for each stack. The stacks are additive and go back to 0 upon a non-ressurection death. Possible Bug: Shadow Demon may be able to purge this 'buff' off of enemies. This does not effect other units controled by a hero.
+- Death Explosion
+-- A Nether Blast like spell will be set off at the place of your death, damaging enemies and weirdly allies.
+- Death Gold Drop
+-- Deaths will drop a bag of unreliable gold, this seems to be proportional to the victim's Net Worth.
 
 Recommended Heroes:  
-Chen: Can Persuade Creeps to fight for you without diving into Jungle  
-Enchantress: Can Enchant creeps without diving into jungle.  
-Riki: Can channel a ressurection without being revealed himself (Note: Enemy can see the resurrection)  
-Chaos Knight: Fast movement speed and good with any rune.  
-Sven: Natural cleave and Warcry allows easy waveclear early game.  
+
+Aether Lens gives 100% Damage Reduction for 2.5 seconds, making it a great item if you're ahead and need to keep your buff. Since it's affected by Cooldown Reduction you could play a hero with Cooldown Reduction talents such as Sniper, Broodmother, Enigma, Queen of Pain, Lycan, Chaos Knight, Arc Warden or Treant Protector.  
+
+Legion Commander: Duel's can cascade really easily, especially with Aghanim's Scepter.  
+Wraith King: One of the tankiest heroes and a scary amount of burst damage and lifesteal.
+Bristleback: One of the highest Physical damage dealers in the game, and built in Damage reduction allows Bristle to stay alive
 
 # Chat Wheel Sounds
 
