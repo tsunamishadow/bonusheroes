@@ -18,15 +18,16 @@ In short, it depends what YOU want out of it. This time there isn't a lot of con
 - Ranked Role queing
 - The couriers
 - The terrain
-- Creep model change
-- Lion item (to be released in the future)
-- Meepo announcer (to be released in the future)
+- Creep model change *(only one person your party needs this to work)*
+- Lion item *(to be released in the future)*
+- Meepo announcer *(to be released in the future)*
 - Chat lines and sprays
 - Arcana voting
 - Ranked Challenge tokens
 - Fantasy Dota
+- In game visual effects
 
-If nothing in this list is something you want to pay for, it would be wiser to not purchase this BattlePass
+If nothing in this list is something you want to pay for, it would be wiser to not purchase this BattlePass. Almost everything that can be purchased later will be cheaper to buy through the secondary market later.
 
 ## Mutation
 
@@ -38,8 +39,8 @@ Current Mutations are
 -- Whenever you get a kill, you take 20% more damage and deal 20% damage for each stack. The stacks are additive and go back to 0 upon a non-ressurection death. Possible Bug: Shadow Demon may be able to purge this 'buff' off of enemies. This does not effect other units controled by a hero.
 - Death Explosion
 -- A Nether Blast like spell will be set off at the place of your death, damaging enemies and weirdly allies.
-- Death Gold Drop
--- Deaths will drop a bag of unreliable gold, this seems to be proportional to the victim's Net Worth.
+- Fast Runes
+-- Runes spawn and respawn every 30 seconds instead of their standard spawn rates.
 
 Recommended Heroes:  
 
