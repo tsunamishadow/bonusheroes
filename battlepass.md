@@ -8,7 +8,25 @@
 
 Arcana Voting, Tipping Tokens and Wagering Tokens all reset on Tuesday 3pm UTC
 
-This page was last updated - 9th May 2018, 15:46 UTC
+This page was last updated - 11th May 2018, 19:40 UTC
+
+# Is the BattlePass worth it?
+
+In short, it depends what YOU want out of it. This time there isn't a lot of content meaning that skipping the BattlePass means you're not missing out on much at all. Here's what's **completely exclusive** to Battle Pass owners:
+
+- Mutation game mode
+- Ranked Role queing
+- The couriers
+- The terrain
+- Creep model change
+- Lion item (to be released in the future)
+- Meepo announcer (to be released in the future)
+- Chat lines and sprays
+- Arcana voting
+- Ranked Challenge tokens
+- Fantasy Dota
+
+If nothing in this list is something you want to pay for, it would be wiser to not purchase this BattlePass
 
 ## Mutation
 
