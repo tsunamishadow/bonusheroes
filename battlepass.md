@@ -10,7 +10,7 @@ Arcana Voting, Tipping Tokens and Wagering Tokens all reset on Tuesday 3pm UTC
 Daily Hero Challenges reset every day at 1:30am UTC  
 Weekly Challenges reset every Saturday at 03:30 am UTC  
 
-This page was last updated - 12th May 2018, 03:57 UTC
+This page was last updated - 12th May 2018, 14:42 UTC
 
 <http://bit.do/dotabp> - You can get back to this page using this link.
 
@@ -22,12 +22,12 @@ In short, it depends what YOU want out of it. This time there isn't a lot of con
 - Ranked Role queing
 - The couriers
 - The terrain
-- Creep model change *(only one person your party needs this to work)*
+- Creep model change *(only one person in your party needs this to work)*
 - Lion item *(to be released in the future)*
 - Meepo announcer *(to be released in the future)*
 - Chat lines and sprays
 - Arcana voting
-- Ranked Challenge tokens
+- Ranked Challenge tokens *(only one person in your party needs this to work)*
 - Fantasy Dota
 - In game visual effects
 
@@ -160,7 +160,7 @@ Voting ends at Tuesday 3pm UTC
   Complete 12 weekly challenges - 500   
   Complete 20 weekly challenges - 1000   
   
-  Each account is given a different weekly challenge which you must accomplish within the time limit. Each weekly challenge alone gives 400 points.  
+  Each account is given a different weekly challenge which you must accomplish within the time limit. Each weekly challenge alone gives 400 points. 20 weeks are probably impossible as that would take us into late September to finish it.  
   
   Complete 10 daily hero challenges - 500  
   Complete 40 daily hero challenges - 500  
