@@ -119,7 +119,7 @@ Bristleback: One of the highest Physical damage dealers in the game, and built i
 - "破两路更好打, 是吧?" - (Translation: It's easier to play with two lanes down, right?)
 - "天火!" - (Translation: SUNSTRIKE! SUNSTRIKE!)
 - "加油!" - (Translation: Keep going!)
-- "走好, 不送" - (Translation: Farewell, we won't see you out!)
+- [All] "走好, 不送" - (Translation: Farewell, we won't see you out!)
 
 ## Level 457
 
