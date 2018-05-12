@@ -8,7 +8,9 @@
 
 Arcana Voting, Tipping Tokens and Wagering Tokens all reset on Tuesday 3pm UTC
 
-This page was last updated - 11th May 2018, 19:40 UTC
+This page was last updated - 12th May 2018, 03:57 UTC
+
+<http://bit.do/dotabp> - You can get back to this page using this link.
 
 # Is the BattlePass worth it?
 
@@ -35,12 +37,12 @@ New Mutations at Midnight UTC
 
 Current Mutations are
 
-- Killstreak Power
--- Whenever you get a kill, you take 20% more damage and deal 20% damage for each stack. The stacks are additive and go back to 0 upon a non-ressurection death. Possible Bug: Shadow Demon may be able to purge this 'buff' off of enemies. This does not effect other units controled by a hero.
-- Death Explosion
--- A Nether Blast like spell will be set off at the place of your death, damaging enemies and weirdly allies.
-- Fast Runes
--- Runes spawn and respawn every 30 seconds instead of their standard spawn rates.
+- Periodic Spellcast
+-- Every minute a random spell will be cast on every alive hero.
+- Fast Spells
+-- All heroes have 50% Cooldown Reduction and +100% Mana Regen.
+- Death Gold Drop
+-- When a hero dies they drop a sack of unreliable gold to be picked up. The size of the bag is proportional to that hero's Net Worth at the time of death.
 
 Recommended Heroes:  
 
@@ -160,6 +162,18 @@ Voting ends at Tuesday 3pm UTC
   
   What you have to do, and tips on how to do them. The number after the hyphen shows how many battle points you get for achieving it. 1000 points is one battle level.
   
+  Complete 4 weekly challenges - 500 points  
+  Complete 12 weekly challenges - 500   
+  Complete 20 weekly challenges - 1000   
+  
+  Each account is given a different weekly challenge which you must accomplish within the time limit. Each weekly challenge alone gives 400 points.  
+  
+  Complete 10 daily hero challenges - 500  
+  Complete 40 daily hero challenges - 500  
+  Complete 75 daily hero challenges - 1000  
+  
+  Similar to weekly challenges, daily challenges appear for each account requiring you to win a single game with a specific hero on that day. Doing so gets you 100 points for that day. Bar All Random Deathmatch and Ability Draft, the mode shouldn't matter though I haven't confirmed it. There are 105 days until the end of TI, so completing 75 challenges will be a large feat.  
+  
   Win a Wager - 1000 points  
   Win 6,000 points by wagering - 1000  
   Win 15,000 points by wagering - 2000  
@@ -182,7 +196,7 @@ Voting ends at Tuesday 3pm UTC
   Earn 5000 Trivia Points - 500  
   Earn 10000 Trivia Points - 1000  
   
-  While queuing for a game you can play a Trivia game on the home screen. You get 100 Trivia Points for each question answered correctly, with a small bonus if the question was difficult. If you want to grind this I suggest trying to queue Captains Draft only on the India server, as no one ever plays CD there.
+  While queuing for a game you can play a Trivia game on the home screen. You get 100 Trivia Points for each question answered correctly, with a small bonus if the question was difficult. If you want to grind this I suggest trying to queue Captains Draft only on the India server, as no one ever plays CD there. You get 100 Trivia points for each question you get correct, and a bonus (equal to 1 point for each % under 50%) if the question was difficult.
   
   Gift a friend a Battle Pass and have them unwrap it - 2000  
   
