@@ -44,14 +44,6 @@ Current Mutations are
 - Death Gold Drop
 -- When a hero dies they drop a sack of unreliable gold to be picked up. The size of the bag is proportional to that hero's Net Worth at the time of death.
 
-Recommended Heroes:  
-
-Aether Lens gives 100% Damage Reduction for 2.5 seconds, making it a great item if you're ahead and need to keep your buff. Since it's affected by Cooldown Reduction you could play a hero with Cooldown Reduction talents such as Sniper, Broodmother, Enigma, Queen of Pain, Lycan, Chaos Knight, Arc Warden or Treant Protector.  
-
-Legion Commander: Duel's can cascade really easily, especially with Aghanim's Scepter.  
-Wraith King: One of the tankiest heroes and a scary amount of burst damage and lifesteal.
-Bristleback: One of the highest Physical damage dealers in the game, and built in Damage reduction allows Bristle to stay alive
-
 # Chat Wheel Sounds
 
 ## Level 24
