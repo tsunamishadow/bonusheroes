@@ -6,7 +6,9 @@
 
 <http://dota2.prizetrac.kr/international2018>
 
-Arcana Voting, Tipping Tokens and Wagering Tokens all reset on Tuesday 3pm UTC
+Arcana Voting, Tipping Tokens and Wagering Tokens all reset on Tuesday 3pm UTC  
+Daily Hero Challenges reset every day at 1:30am UTC  
+Weekly Challenges reset every Saturday at 03:30 am UTC  
 
 This page was last updated - 12th May 2018, 03:57 UTC
 
