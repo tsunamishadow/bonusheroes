@@ -210,7 +210,7 @@ Successfully predict 5 Pro Circuit or TI winners - 100
 Predict 25 - 500  
 Predict 50 - 1000  
 
-Go to http://www.dota2.com/predictions  
+Go to <http://www.dota2.com/predictions>. You will need to Steam Login there to connect your Battle Pass. You get tokens equal to the number given in your BattlePass (25) for each week, they refresh back to maximum at the date and time given at the top of the site.  Every token placed earns 40 Battle Points if that teams wins that series, (or 20) in the case of a tie in Bo2 series. If you predict a certain number of matches correctly you'll earn progress on that achievement, but the amount of tokens bet on that match has no effect for this achievement.  
 
 Win 1 Mutation Game - 100  
 Win 5 Mutation Games - 500  
