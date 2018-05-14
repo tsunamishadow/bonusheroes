@@ -162,6 +162,24 @@ Voting ends at Tuesday 3pm UTC
   Bloodseeker has a bye  
   Slardar vs Naga Siren  
   
+# Favored Dota Pro Circuit predictions  
+  
+  PSG.LGD to beat Vici Gaming  
+  TNC Pro Team to beat VGJ.Storm  
+  Newbee to beat Vega Squadron  
+  Mineski to beat OG  
+  iG.Vitality to beat Infamous  
+  Team Secret to beat Invictus Gaming  
+  PSG.LGD to beat TNC Pro Team  
+  Newbee to beat VGJ Storm  
+  Vici Gaming to beat Vega Squadron  
+  Mineski to beat Invictus Gaming  
+  OG to beat Infamous  
+  Team Secret to beat iG.Vitality  
+  PSG.LGD to beat VGJ Storm  
+  TNC to beat Vega Squadron  
+  Newbee to beat Vici Gaming  
+  
 # Achievements
   
   What you have to do, and tips on how to do them. The number after the hyphen shows how many battle points you get for achieving it. 1000 points is one battle level.
@@ -211,6 +229,8 @@ Predict 25 - 500
 Predict 50 - 1000  
 
 Go to <http://www.dota2.com/predictions>. You will need to Steam Login there to connect your Battle Pass. You get tokens equal to the number given in your BattlePass (25) for each week, they refresh back to maximum at the date and time given at the top of the site.  Every token placed earns 40 Battle Points if that teams wins that series, (or 20) in the case of a tie in Bo2 series. If you predict a certain number of matches correctly you'll earn progress on that achievement, but the amount of tokens bet on that match has no effect for this achievement.  
+
+See above for favored predictions.  
 
 Win 1 Mutation Game - 100  
 Win 5 Mutation Games - 500  
