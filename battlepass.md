@@ -10,7 +10,7 @@ Arcana Voting, Tipping Tokens and Wagering Tokens all reset on Tuesday 3pm UTC
 Daily Hero Challenges reset every day at 1:30am UTC  
 Weekly Challenges reset every Saturday at 03:30 am UTC  
 
-This page was last updated - 12th May 2018, 14:42 UTC
+This page was last updated - 14th May 2018, 03:36 UTC
 
 <http://bit.do/dotabp> - You can get back to this page using this link.
 
@@ -39,12 +39,20 @@ New Mutations at Midnight UTC
 
 Current Mutations are
 
-- Periodic Spellcast
--- Every minute a random spell will be cast on every alive hero.
-- Fast Spells
--- All heroes have 50% Cooldown Reduction and +100% Mana Regen.
-- Death Gold Drop
--- When a hero dies they drop a sack of unreliable gold to be picked up. The size of the bag is proportional to that hero's Net Worth at the time of death.
+- Stationary Damage Reduction
+-- When Standing Still, hero damage reduction increases by 50%.
+- Death Explosion
+-- A Pugna-like Nether Blast will burst from each hero that dies.
+- Jump Start
+-- All heroes start at level 6.
+
+Recommended heroes:
+
+Silencer, Phantom Lancer, Naga Siren, Bloodseeker, Bane, Outworld Devourer, Winter Wyvern, Arc Warden and Dazzle have arguably the best stats at Level 6.  
+
+Dazzle is interesting as recently Dazzle has had the lowest average XPM, meaning that he usually has the longest time getting to Level 6.
+
+Usually some of the best heroes at Level 6 are Lich. Broodmother, Huskar, Enigma, Enchantress, Undying, Viper and Chen. However these heroes usually have some sort of gold, 
 
 # Chat Wheel Sounds
 
