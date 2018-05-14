@@ -6,11 +6,13 @@
 
 <http://dota2.prizetrac.kr/international2018>
 
+<http://www.dota2.com/predictions>  
+
 Arcana Voting, Tipping Tokens and Wagering Tokens all reset on Tuesday 3pm UTC  
 Daily Hero Challenges reset every day at 1:30am UTC  
 Weekly Challenges reset every Saturday at 03:30 am UTC  
 
-This page was last updated - 14th May 2018, 03:36 UTC
+This page was last updated - 14th May 2018, 02:38 UTC
 
 <http://bit.do/dotabp> - You can get back to this page using this link.
 
@@ -208,7 +210,7 @@ Successfully predict 5 Pro Circuit or TI winners - 100
 Predict 25 - 500  
 Predict 50 - 1000  
 
-No information as of yet, but this seems to be per game.  
+Go to http://www.dota2.com/predictions  
 
 Win 1 Mutation Game - 100  
 Win 5 Mutation Games - 500  
