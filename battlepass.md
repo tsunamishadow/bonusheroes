@@ -35,7 +35,7 @@ In short, it depends what YOU want out of it. This time there isn't a lot of con
 
 If nothing in this list is something you want to pay for, it would be wiser to not purchase this BattlePass. Almost everything that can be purchased later will be cheaper to buy through the secondary market later.
 
-## Mutation
+# Mutation
 
 New Mutations at Midnight UTC
 
