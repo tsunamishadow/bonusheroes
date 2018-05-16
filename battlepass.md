@@ -43,18 +43,10 @@ Current Mutations are
 
 - Stationary Damage Reduction
 -- When Standing Still, hero damage reduction increases by 50%.
-- Death Explosion
--- A Pugna-like Nether Blast will burst from each hero that dies.
-- Jump Start
--- All heroes start at level 6.
-
-Recommended heroes:
-
-Silencer, Phantom Lancer, Naga Siren, Bloodseeker, Bane, Outworld Devourer, Winter Wyvern, Arc Warden and Dazzle have arguably the best stats at Level 6.  
-
-Dazzle is interesting as recently Dazzle has had the lowest average XPM, meaning that he usually has the longest time getting to Level 6.
-
-Usually some of the best heroes at Level 6 are Lich. Broodmother, Huskar, Enigma, Enchantress, Undying, Viper and Chen. However these heroes usually have some sort of gold, 
+- Fast Spells
+-- Mana Regen is increased by 100% and Cooldown Reduction is +50% to all heroes
+- Random Lane Creeps
+-- Lane creeps will randomly be replaced with any neutral (includes Ancients but excludes skeletons). Siege Creeps will never be replaced.
 
 # Chat Wheel Sounds
 
@@ -145,40 +137,35 @@ All of these lines are from the Lon and Dunoo cast of Team Secret vs Fnatic at E
 
 Voting ends at Tuesday 3pm UTC
 
-  Sniper has a bye  
-  Magnus vs Lich  
-  Gyrocopter vs Lycan  
-  Dragon Knight vs Beastmaster  
-  Witch Doctor has a bye  
-  Weaver vs Bane  
-  Mirana has a bye  
-  Jakiro vs Templar Assassin  
-  Rubick has a bye  
-  Omniknight vs Death Prophet  
-  Phantom Lancer has a bye  
-  Chaos Knight vs Treant Protector  
-  Tinker has a bye  
-  Tiny vs Pugna  
-  Bloodseeker has a bye  
-  Slardar vs Naga Siren  
+  Bristleback has a bye  
+  Doom vs Dazzle  
+  
+  Skywrath Mage vs Batrider  
+  Tusk vs Leshrac  
+  
+  Lion has a bye  
+  Medusa vs Earth Spirit  
+  
+  Spirit Breaker has a bye  
+  Necrophos vs Night Stalker  
+  
+  Shadow Shaman has a bye  
+  Underlord vs Puck  
+  
+  Storm Spirit vs Dark Seer  
+  Dark Willow vs Meepo *(most contested)*  
+  
+  Earthshaker has a bye  
+  Ancient Apparition vs Keeper of the Light  
+  
+  Luna has a bye  
+  Spectre vs Winter Wyvern  
   
 # Favored Dota Pro Circuit predictions  
   
-  PSG.LGD to beat Vici Gaming  
-  TNC Pro Team to beat VGJ.Storm  
-  Newbee to beat Vega Squadron  
-  Mineski to beat OG  
-  iG.Vitality to beat Infamous  
-  Team Secret to beat Invictus Gaming  
-  PSG.LGD to beat TNC Pro Team  
-  Newbee to beat VGJ Storm  
-  Vici Gaming to beat Vega Squadron  
-  Mineski to beat Invictus Gaming  
-  OG to beat Infamous  
-  Team Secret to beat iG.Vitality  
-  PSG.LGD to beat VGJ Storm  
-  TNC to beat Vega Squadron  
-  Newbee to beat Vici Gaming  
+  Newbee to beat Invictus Gaming  
+  PSG.LGD to beat iG.Vitality  
+  Vici Gaming to beat VGJ.Storm  
   
 # Achievements
   
@@ -228,7 +215,7 @@ Successfully predict 5 Pro Circuit or TI winners - 100
 Predict 25 - 500  
 Predict 50 - 1000  
 
-Go to <http://www.dota2.com/predictions>. You will need to Steam Login there to connect your Battle Pass. You get tokens equal to the number given in your BattlePass (25) for each week, they refresh back to maximum at the date and time given at the top of the site.  Every token placed earns 40 Battle Points if that teams wins that series, (or 20) in the case of a tie in Bo2 series. If you predict a certain number of matches correctly you'll earn progress on that achievement, but the amount of tokens bet on that match has no effect for this achievement.  
+Go to <http://www.dota2.com/predictions>. You will need to Steam Login there to connect your Battle Pass. You get tokens equal to the number given in your BattlePass (25) for each week, they refresh back to maximum at the date and time given at the top of the site.  Every token placed earns 40 Battle Points if that teams wins that series, or 20 in the case of a tie in Bo2 series. If you predict a certain number of matches correctly you'll earn progress on that achievement, but the amount of tokens bet on that match has no effect for this achievement.  
 
 See above for favored predictions.  
 
