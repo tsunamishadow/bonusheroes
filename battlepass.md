@@ -11,8 +11,9 @@
 Arcana Voting, Tipping Tokens and Wagering Tokens all reset on Tuesday 3pm UTC  
 Daily Hero Challenges reset every day at 1:30am UTC  
 Weekly Challenges reset every Saturday at 03:30 am UTC  
+Pro Circuit Wager Tokens reset May 2nd at 3:00pm UTC and every week thereafter
 
-This page was last updated - 14th May 2018, 18:43 UTC
+This page was last updated - 16th May 2018, 17:03 UTC
 
 <http://bit.do/dotabp> - You can get back to this page using this link.
 
