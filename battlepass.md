@@ -172,16 +172,16 @@ Voting ends at Tuesday 3pm UTC
   What you have to do, and tips on how to do them. The number after the hyphen shows how many battle points you get for achieving it. 1000 points is one battle level.
   
   Complete 4 weekly challenges - 500 points  
-  Complete 12 weekly challenges - 500   
+  Complete 8 weekly challenges - 500   
   Complete 20 weekly challenges - 1000   
   
-  Each account is given a different weekly challenge which you must accomplish within the time limit. Each weekly challenge alone gives 400 points. 20 weeks are probably impossible as that would take us into late September to finish it.  
+  Each account is given a different weekly challenge which you must accomplish within the time limit. Each weekly challenge alone gives 400 points.  
   
   Complete 10 daily hero challenges - 500  
   Complete 40 daily hero challenges - 500  
   Complete 75 daily hero challenges - 1000  
   
-  Similar to weekly challenges, daily challenges appear for each account requiring you to win a single game with a specific hero on that day. Doing so gets you 100 points for that day. Bar All Random Deathmatch and Ability Draft, the mode shouldn't matter though I haven't confirmed it. There are 105 days until the end of TI, so completing 75 challenges will be a large feat.  
+  Similar to weekly challenges, daily challenges appear for each account requiring you to win a single game with a specific hero on that day. Doing so gets you 100 points for that day. Bar All Random Deathmatch and Ability Draft, the mode shouldn't matter though I haven't confirmed it. There are 101 days until the end of TI, so completing 75 challenges will be a large feat.  
   
   Win a Wager - 1000 points  
   Win 6,000 points by wagering - 1000  
