@@ -13,7 +13,7 @@ Daily Hero Challenges reset every day at 1:30am UTC
 Weekly Challenges reset every Saturday at 03:30 am UTC  
 Pro Circuit Wager Tokens reset May 2nd at 3:00pm UTC and every week thereafter
 
-This page was last updated - 16th May 2018, 17:03 UTC
+This page was last updated - 20thh May 2018, 12:22 UTC
 
 <http://bit.do/dotabp> - You can get back to this page using this link.
 
@@ -42,12 +42,12 @@ New Mutations at Midnight UTC
 
 Current Mutations are
 
-- Stationary Damage Reduction
--- When Standing Still, hero damage reduction increases by 50%.
+- Friendly Fire
+-- All Spells and abilities also target and affect teammates.
 - Fast Spells
--- Mana Regen is increased by 100% and Cooldown Reduction is +50% to all heroes
-- Random Lane Creeps
--- Lane creeps will randomly be replaced with any neutral (includes Ancients but excludes skeletons). Siege Creeps will never be replaced.
+-- Mana Regen is increased by 100% and Cooldown Reduction is +50% to all heroes.
+- Death Gold Drop
+-- Whenever a hero dies they drop a bag of unlreliable gold. This bag is in proportion to the hero's Net Worth.
 
 # Chat Wheel Sounds
 
@@ -163,10 +163,6 @@ Voting ends at Tuesday 3pm UTC
   Spectre vs Winter Wyvern  
   
 # Favored Dota Pro Circuit predictions  
-  
-  Newbee to beat Invictus Gaming  
-  PSG.LGD to beat iG.Vitality  
-  Vici Gaming to beat VGJ.Storm  
   
 # Achievements
   
