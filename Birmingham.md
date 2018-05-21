@@ -88,3 +88,75 @@ InterRail, Eurail and BritRail are passes that can be bought by non-UK citizens 
 You will almost certainly need a socket converter as the UK uses the three-pin-plug. The current is 240V and most electronics and devices will work through a converter, but some wont. Almost all phone and laptop chargers will work and even if they don't there are plenty of shops around that sell workable cables that can be used here.
 
 Some people may be bewildered by the two taps (faucets) at some sinks, even though they may have only one spout. One tap pours hot water and another for cold. Some modern sinks have mixer taps but most in the UK don’t. All tap water is legally required to be drinkable unless there is a BIG AFFIXED SIGN NEARBY saying that it isn’t.
+
+## For everyone
+
+Cigarettes and E-cigarettes are widely available at most shops. However Arena Birmigham is partially non smoking. There are designated smoking areas, but usually only E-cigarettes are permitted in these areas.  
+
+### Food
+
+Birmingham has an incredible variety of foods that range from the cheap to the very over expensive.
+
+The Arena itself has a large variety on its own, these include:
+- Fish and chips
+- Classic Burger Kitchen
+- Theo’s Street Good (Middle Eastern)
+- NEO Pizza
+- Amstel Bar (serves all kinds of alcoholic drinks)
+- Stowford Press (serves most kinds of alcoholic drinks but mostly cider)
+- Ice Cream
+
+Outside the Arena there are many restaurants and bars (mostly bars though). As for fast food/takeaway there is Subway, Gourmet Burger Kitchen and far too many Gregg’s. Many of these places are open till late night.
+
+### Travelling and Getting around
+
+Travelling on a Train is the most common way to get into Birmingham and to get around the UK. However Train fares are extortionate so it is better to book tickets in advance. This can be done through any of the Train companies or trainline.com.
+
+There are generally three types of ticket:
+* Advance, pre book a train ticket in advance. You must travel on that specific train and get off only at your specific destination. These tickets are generally the cheapest.
+* Off-Peak, you may travel on any off-peak time train (between 9.30am and 4pm and between 7pm and 2am on Weekdays and all Weekend) within the route. You can get off anywhere along the route.
+* Anytime, travel at anytime anywhere that the railway service provides. These tickets are expensive.
+
+No ticket guarantees any seat unless you also have a seat reservation. These reservations can cost a little extra and are sometimes necessary on crowded trains and popular seats (like ones with tables or power points).
+
+There are certain discounts available to groups of 3 or more people, children below 15 years, and those holding railcards. It’s best to check with the operator with what is available.
+
+Coaches are an alternative to trains and also travel many times across all of the UK (but not between NI and Britain). Coaches are generally, but not always, cheaper than rail but are almost always longer journey time.
+
+RULE #1 with Taxis, false taxis do operate discreetly around the UK. Legal taxis will have a taxi-license plate on the rear bumper, have the name of the local council and the driver’s taxi license should be displayed clearly within the car. This includes UBER taxis too (though they don’t have local council but must display that they are a taxi somewhere on the rear window or back of the car). Do not get in any car or vehicle that you don’t recognise and if you feel unsafe call the police.
+
+Black cabs have a distinct shape and colour and can be hailed in the street but usually at Taxi ranks near bus and train stations. They can easily accommodate 5 adults but sometimes charge extra depending on length, nighttime, waiting and luggage. The Taxi sign on the top is illuminated when it is available. These are usually only worth it if you travel short distances (say less than 30 miles) with a group.
+
+Minicabs and UBER can be booked in advance but are usually cheaper than black cabs and are usually good for longer journeys. While UBER is widely available it’s one of the most expensive ways of travelling in the UK so should only be considered as a last resort.
+
+### Expected weather
+
+Thursday - No chance of rain. Moderate wind speed. High sunshine with little cloud coverage. Temperatures between 8 and 20.
+
+Friday - Unlikely chance of rain, will have likely heavily trained the night before. Moderate wind speed. Low sunshine. Temperatures between 10 and 14.
+
+Saturday - Small chance of drizzle. Moderate wind speed. Low sunshine. Temperatures between 11 and 16.
+
+Sunday - Fairly low chance of drizzle, notable wind speed. Some sunshine in the morning and afternoon. Temperatures between 11 and 17.
+
+Monday - Chance of heavy rain for a short time. Notably windy. Cloudy with sun. Temperatures between 11 and 22.
+
+### Useful apps
+
+Airport app - For Gatwick and Heathrow airports, they have an official app that helps you navigate the airport and find your flight. These apps are free.
+
+Network West Midlands - Helps you get around Birmingham and the West Midlands on public transport detailing which bus or train you should take to get to your destination. The app is free.
+
+UBER - The standard UBER taxi app, the same app works all around the world so there’s no need to redownload a regional one. The app itself is free but requires a payment method on file to use. UBER will always charge the currency of the country you are travelling in, for this instance it will always charge in pounds. UBER is very expensive in the UK.
+
+BBC iPlayer - BBC catchup and on demand tv service available in the UK. While it can also be accessed via a webpage the app itself is much faster. The app itself is free but requires a registered account and a tv license, however any email is fine, you can use B1 2AA as a postcode and you can lie about having a TV License. Note that this app may not work without a wi-fi connection and will definitely not operate outside the UK. There is a Radio version for radio programmes too.
+
+Google Translate - No cheaper translator app, and the only one I’ve found that works offline. Great if English isn’t your first language. Has a surprising amount of features including being able to translate text in a pseudo VR mode, speech-to-text-to-speech and the ability to download a whole language to able to translate without a data connection.
+
+British Radios - Allow you to access the radio via your phone’s internet connection with an amazing choice from all the BBC stations to an incredible variety of music stations. App is free and also works outside the UK. Forces advertisements but a single payment can turn them off.
+
+Citymapper - Similar and wider than Network West Midlands. Is free and very widely used.
+
+Maps/Google Maps - Having an interactive map on your phone will really help in finding certain places and navigating the area. Google Maps will even allow you to download parts of the map so you can use it offline.
+
+ITV Hub/All 4 - Similar to BBC iPlayer but for different channels. While it doesn’t require registration or payment both will inundate you with advertising.
