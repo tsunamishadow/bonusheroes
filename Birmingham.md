@@ -135,15 +135,15 @@ Minicabs and UBER can be booked in advance but are usually cheaper than black ca
 
 ### Expected weather
 
-Thursday - No chance of rain. Moderate wind speed. High sunshine with little cloud coverage. Temperatures between 8 and 20.
+Thursday - Very high chance of rain. Low wind speed. High sunshine with little cloud coverage. Temperatures between 11 and 19.
 
-Friday - Unlikely chance of rain, will have likely heavily trained the night before. Moderate wind speed. Low sunshine. Temperatures between 10 and 14.
+Friday - Very high chance of rain. Low wind speed. Low sunshine. Temperatures between 10 and 13.
 
-Saturday - Small chance of drizzle. Moderate wind speed. Low sunshine. Temperatures between 11 and 16.
+Saturday - Low chance of drizzle. Moderate wind speed. Some sunshine. Temperatures between 11 and 16.
 
-Sunday - Fairly low chance of drizzle, notable wind speed. Some sunshine in the morning and afternoon. Temperatures between 11 and 17.
+Sunday - Small chance of drizzle, notable wind speed. Lots of sunshine in the afternoon. Temperatures between 14 and 26.
 
-Monday - Chance of heavy rain for a short time. Notably windy. Cloudy with sun. Temperatures between 11 and 22.
+Monday - Small chance of heavy rain for a short time. Notably windy. Cloudy with sun. Temperatures between 11 and 26.
 
 ### Useful apps
 
