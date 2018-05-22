@@ -2,7 +2,7 @@
 
 ## For international visitors
 
-You can skip this section if you are native to the UK.
+You can skip this section if you are native to the UK. Please note: absolutely NONE of this is legal advice. I'm not a lawyer.
 
 ### Emergency and safety
 
@@ -67,7 +67,7 @@ You must also declare anything over your duty-free allowance, any restricted goo
 
 The “Full English” breakfast contains Sausages, Eggs, Baked Beans, Hash Browns, Toast, Bacon, Black/Blood Pudding and sometimes chips (fries to Americans). Many cafés, hotels and restaurants that do breakfast service offer something similar. 
 
-Most places will not automatically give you water or bread to start, you will have to ask for it. Some of the higher end places or fast food require to pay for water, though some pubs and bars might give you a glass of tap water for no cost. If you ask for ice you will generally only get a few ice cubes in a glass rather than a bucket. Refills are rare and you are expected to pay for another drink.
+Most places will not automatically give you water or bread to start, you will have to ask for it. Some of the higher end places or fast food require to pay for water, though some pubs and bars might give you a glass of tap water for no cost. All licensened distributors of alcohol are required to give you free tap water if you ask for it, but they may charge you for the glass. If you ask for ice you will generally only get a few ice cubes in a glass rather than a bucket. Refills are rare and you are expected to pay for another drink.
 
 Not all establishments work the same way, some do not have waitstaff and require you to order at the counter. Pubs and bars are not the same thing. Bars generally only serve drinks and are fairly small, pubs may serve food and can range from small to large. Waitstaff will not clear an empty plate or table unless you ask or you put your utensils flat in the middle of the plate. Tipping is not required or mandatory at all, but the custom is usually 10% of the bill. Do note that some restaurants add a service charge to the bill which they should warn you about before you pay, some of these service charges are mandatory and if they are they should say so before you order, but otherwise this charge is optional. If you don’t want to pay it (or that much) you should be prepared to say why and expect to be persuaded in paying it. If you can, try to leave your tips in cash as it allows the waitstaff to pocket it for themselves rather than having to give it to the sometimes unscrupulous owner. Tax is always included in the price at any food establishment.
 
@@ -75,13 +75,15 @@ There isn’t much racism and sexism in England but they do exist. Almost all of
 
 Prostitution is not illegal but solicitation (PUBLICLY offering sex for money) is. I would advise you to stay away. The age of consent is 16 across the UK. Sex offences are treated harshly, and if you are in any doubt, don’t try. Many places sell condoms including supermarkets, bathrooms and corner-shops. Morning after pills (leveonelle or ellaOne) can be bought from local pharmacies, but you must be 16 to purchase them. No sexual orientation is a crime or looked down upon, but there are judgemental arseholes dotted around.
 
-Queueing is a strict pastime with a quiet code. Do not push or barge, don’t cut in and don’t be loud. It’s possible that if you need to leave the line for some reason  and come back and return but it’s custom to ask the person behind you before you do so and they are under no obligation to say yes. Start again from the back. If someone does cut in line in front of you, don’t be afraid to loudly complain, you’ll probably have the support of locals and people behind you. In bars and pubs people crowd around instead but there is a ‘line’ and you are expected to wait for everybody that was there before you. Most barmen and women usually follow this line but if they don’t it’s custom to let people go before you if they were there before you.
+Queueing is a strict pastime with a quiet code. Do not push or barge, don’t cut in and don’t be loud. It’s possible that if you need to leave the line for some reason  and come back and return but it’s custom to ask the person behind you before you do so and they are under no obligation to say yes; start again from the back. If someone does cut in line in front of you, don’t be afraid to loudly complain, you’ll probably have the support of locals and people behind you. In bars and pubs people crowd around instead but there is a ‘line’ and you are expected to wait for everybody that was there before you. Most barmen and women usually follow this line but if they don’t it’s custom to let people go before you if they were there before you.
 
 When on escalators or travelators, stand on the right and walk on the left. Move any bags and luggage out the way of the left side. Some people will angrily ask you to move if you don’t stand on the right while others wont hesitate to push you.
 
 ### Travelling
 
-InterRail, Eurail and BritRail are passes that can be bought by non-UK citizens and allow you to travel on the rail lines for free or for cheaper cost. However these passes must be purchased in advance and collected before you leave for the UK. These passes have restrictions and none of these passes apply to the Eurostar or London Underground trains.
+InterRail, Eurail and BritRail are passes that can be bought by non-UK citizens and allow you to travel on the rail lines for free or for cheaper cost. However these passes must be purchased in advance and collected before you leave for the UK. These passes have restrictions and none of these passes apply to the Eurostar or London Underground trains. Do note that these passes are rather expensive, and personally I don't know how they work, though you are welcome to ask one of the staff in a Train Station for help.
+
+When travelling by rail, ticket inspectors usually show up asking for proof of your ticket. It is an offence to travel without a valid ticket and they will fine you. Keep your ticket safe on you, they are patient and will wait for you to find the ticket if necessary. If your ticket is an e-ticket they will also accept that, but they usually scan the phone or device for it.
 
 ### Other things
 
@@ -92,6 +94,8 @@ Some people may be bewildered by the two taps (faucets) at some sinks, even thou
 ## For everyone
 
 Cigarettes and E-cigarettes are widely available at most shops. However Arena Birmigham is partially non smoking. There are designated smoking areas, but usually only E-cigarettes are permitted in these areas.  
+
+**Arena Birmingham is cashless**, and does not take cash at any of its stores or outlets, except for parking and merchandise. Your card will need to be "Chip and PIN" or at least "Chip and Signature" for it to work. They also accept ApplePay, Android Pay and Samsung Pay. There is a £30 limit if you are paying via contactless. They also accept most prepaid cards. Most of the retailers and outlets do not accept American Express cards. Nowhere accepts cheques. There is a cash machine on the concourse, but this charges you per transaction.  
 
 ### Food
 
@@ -127,7 +131,7 @@ RULE #1 with Taxis, false taxis do operate discreetly around the UK. Legal taxis
 
 Black cabs have a distinct shape and colour and can be hailed in the street but usually at Taxi ranks near bus and train stations. They can easily accommodate 5 adults but sometimes charge extra depending on length, nighttime, waiting and luggage. The Taxi sign on the top is illuminated when it is available. These are usually only worth it if you travel short distances (say less than 30 miles) with a group.
 
-Minicabs and UBER can be booked in advance but are usually cheaper than black cabs and are usually good for longer journeys. While UBER is widely available it’s one of the most expensive ways of travelling in the UK so should only be considered as a last resort.
+Minicabs and UBER can be booked in advance but are usually cheaper than black cabs and are usually good for longer journeys. While UBER is widely available it’s one of the most expensive ways of travelling in the UK so should only be considered as a last resort. Both of these are cheaper than Black cabs though.
 
 ### Expected weather
 
@@ -160,3 +164,6 @@ Citymapper - Similar and wider than Network West Midlands. Is free and very wide
 Maps/Google Maps - Having an interactive map on your phone will really help in finding certain places and navigating the area. Google Maps will even allow you to download parts of the map so you can use it offline.
 
 ITV Hub/All 4 - Similar to BBC iPlayer but for different channels. While it doesn’t require registration or payment both will inundate you with advertising.
+
+Tixr - If you bought your tickets through the E-ticket service, you can use Tixr to hold the E-ticket on your phone within the app. The app itself is free but requires you to log-in. It seems that this app likes to use data, send your location and drains your battery rather quickly, so I'd exercise some caution around it.
+
