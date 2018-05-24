@@ -1,5 +1,7 @@
 # Nami's guide to Birmingham Major
 
+ESL's event guide for ESL One Birmingham: [here](http://www.esl-one.com/dota2/birmingham-2018/event-guide/?utm_source=ESL+One+Birmingham+2018&utm_campaign=3cc331fc38-EMAIL_CAMPAIGN_2018_05_24-eventguide&utm_medium=email&utm_term=0_6187eeb591-3cc331fc38-284598453)
+
 ## For international visitors
 
 You can skip this section if you are native to the UK. Please note: absolutely NONE of this is legal advice. I'm not a lawyer.
