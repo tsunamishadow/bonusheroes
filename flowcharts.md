@@ -1,3 +1,6 @@
+<script src="mermaid.min.js"></script>
+<script>mermaid.initialize({startOnLoad:true});</script>
+
 How to win games of Dota in flowcharts.
 
 Simple 'win the game' tactics:
