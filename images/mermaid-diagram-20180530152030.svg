@@ -1,0 +1,350 @@
+<svg id="mermaid-1527689926337" width="100%" xmlns="http://www.w3.org/2000/svg" style="max-width: 1256.43359375px;" viewBox="0 0 1256.43359375 608.5"><style>
+
+
+#mermaid-1527689926337 .label {
+  font-family: 'trebuchet ms', verdana, arial;
+  color: #333; }
+
+#mermaid-1527689926337 .node rect,
+#mermaid-1527689926337 .node circle,
+#mermaid-1527689926337 .node ellipse,
+#mermaid-1527689926337 .node polygon {
+  fill: #ECECFF;
+  stroke: #9370DB;
+  stroke-width: 1px; }
+
+#mermaid-1527689926337 .node.clickable {
+  cursor: pointer; }
+
+#mermaid-1527689926337 .arrowheadPath {
+  fill: #333333; }
+
+#mermaid-1527689926337 .edgePath .path {
+  stroke: #333333;
+  stroke-width: 1.5px; }
+
+#mermaid-1527689926337 .edgeLabel {
+  background-color: #e8e8e8; }
+
+#mermaid-1527689926337 .cluster rect {
+  fill: #ffffde !important;
+  stroke: #aaaa33 !important;
+  stroke-width: 1px !important; }
+
+#mermaid-1527689926337 .cluster text {
+  fill: #333; }
+
+#mermaid-1527689926337 div.mermaidTooltip {
+  position: absolute;
+  text-align: center;
+  max-width: 200px;
+  padding: 2px;
+  font-family: 'trebuchet ms', verdana, arial;
+  font-size: 12px;
+  background: #ffffde;
+  border: 1px solid #aaaa33;
+  border-radius: 2px;
+  pointer-events: none;
+  z-index: 100; }
+
+#mermaid-1527689926337 .actor {
+  stroke: #CCCCFF;
+  fill: #ECECFF; }
+
+#mermaid-1527689926337 text.actor {
+  fill: black;
+  stroke: none; }
+
+#mermaid-1527689926337 .actor-line {
+  stroke: grey; }
+
+#mermaid-1527689926337 .messageLine0 {
+  stroke-width: 1.5;
+  stroke-dasharray: '2 2';
+  marker-end: 'url(#arrowhead)';
+  stroke: #333; }
+
+#mermaid-1527689926337 .messageLine1 {
+  stroke-width: 1.5;
+  stroke-dasharray: '2 2';
+  stroke: #333; }
+
+#mermaid-1527689926337 #arrowhead {
+  fill: #333; }
+
+#mermaid-1527689926337 #crosshead path {
+  fill: #333 !important;
+  stroke: #333 !important; }
+
+#mermaid-1527689926337 .messageText {
+  fill: #333;
+  stroke: none; }
+
+#mermaid-1527689926337 .labelBox {
+  stroke: #CCCCFF;
+  fill: #ECECFF; }
+
+#mermaid-1527689926337 .labelText {
+  fill: black;
+  stroke: none; }
+
+#mermaid-1527689926337 .loopText {
+  fill: black;
+  stroke: none; }
+
+#mermaid-1527689926337 .loopLine {
+  stroke-width: 2;
+  stroke-dasharray: '2 2';
+  marker-end: 'url(#arrowhead)';
+  stroke: #CCCCFF; }
+
+#mermaid-1527689926337 .note {
+  stroke: #aaaa33;
+  fill: #fff5ad; }
+
+#mermaid-1527689926337 .noteText {
+  fill: black;
+  stroke: none;
+  font-family: 'trebuchet ms', verdana, arial;
+  font-size: 14px; }
+
+
+#mermaid-1527689926337 .section {
+  stroke: none;
+  opacity: 0.2; }
+
+#mermaid-1527689926337 .section0 {
+  fill: rgba(102, 102, 255, 0.49); }
+
+#mermaid-1527689926337 .section2 {
+  fill: #fff400; }
+
+#mermaid-1527689926337 .section1,
+#mermaid-1527689926337 .section3 {
+  fill: white;
+  opacity: 0.2; }
+
+#mermaid-1527689926337 .sectionTitle0 {
+  fill: #333; }
+
+#mermaid-1527689926337 .sectionTitle1 {
+  fill: #333; }
+
+#mermaid-1527689926337 .sectionTitle2 {
+  fill: #333; }
+
+#mermaid-1527689926337 .sectionTitle3 {
+  fill: #333; }
+
+#mermaid-1527689926337 .sectionTitle {
+  text-anchor: start;
+  font-size: 11px;
+  text-height: 14px; }
+
+
+#mermaid-1527689926337 .grid .tick {
+  stroke: lightgrey;
+  opacity: 0.3;
+  shape-rendering: crispEdges; }
+
+#mermaid-1527689926337 .grid path {
+  stroke-width: 0; }
+
+
+#mermaid-1527689926337 .today {
+  fill: none;
+  stroke: red;
+  stroke-width: 2px; }
+
+
+
+#mermaid-1527689926337 .task {
+  stroke-width: 2; }
+
+#mermaid-1527689926337 .taskText {
+  text-anchor: middle;
+  font-size: 11px; }
+
+#mermaid-1527689926337 .taskTextOutsideRight {
+  fill: black;
+  text-anchor: start;
+  font-size: 11px; }
+
+#mermaid-1527689926337 .taskTextOutsideLeft {
+  fill: black;
+  text-anchor: end;
+  font-size: 11px; }
+
+
+#mermaid-1527689926337 .taskText0,
+#mermaid-1527689926337 .taskText1,
+#mermaid-1527689926337 .taskText2,
+#mermaid-1527689926337 .taskText3 {
+  fill: white; }
+
+#mermaid-1527689926337 .task0,
+#mermaid-1527689926337 .task1,
+#mermaid-1527689926337 .task2,
+#mermaid-1527689926337 .task3 {
+  fill: #8a90dd;
+  stroke: #534fbc; }
+
+#mermaid-1527689926337 .taskTextOutside0,
+#mermaid-1527689926337 .taskTextOutside2 {
+  fill: black; }
+
+#mermaid-1527689926337 .taskTextOutside1,
+#mermaid-1527689926337 .taskTextOutside3 {
+  fill: black; }
+
+
+#mermaid-1527689926337 .active0,
+#mermaid-1527689926337 .active1,
+#mermaid-1527689926337 .active2,
+#mermaid-1527689926337 .active3 {
+  fill: #bfc7ff;
+  stroke: #534fbc; }
+
+#mermaid-1527689926337 .activeText0,
+#mermaid-1527689926337 .activeText1,
+#mermaid-1527689926337 .activeText2,
+#mermaid-1527689926337 .activeText3 {
+  fill: black !important; }
+
+
+#mermaid-1527689926337 .done0,
+#mermaid-1527689926337 .done1,
+#mermaid-1527689926337 .done2,
+#mermaid-1527689926337 .done3 {
+  stroke: grey;
+  fill: lightgrey;
+  stroke-width: 2; }
+
+#mermaid-1527689926337 .doneText0,
+#mermaid-1527689926337 .doneText1,
+#mermaid-1527689926337 .doneText2,
+#mermaid-1527689926337 .doneText3 {
+  fill: black !important; }
+
+
+#mermaid-1527689926337 .crit0,
+#mermaid-1527689926337 .crit1,
+#mermaid-1527689926337 .crit2,
+#mermaid-1527689926337 .crit3 {
+  stroke: #ff8888;
+  fill: red;
+  stroke-width: 2; }
+
+#mermaid-1527689926337 .activeCrit0,
+#mermaid-1527689926337 .activeCrit1,
+#mermaid-1527689926337 .activeCrit2,
+#mermaid-1527689926337 .activeCrit3 {
+  stroke: #ff8888;
+  fill: #bfc7ff;
+  stroke-width: 2; }
+
+#mermaid-1527689926337 .doneCrit0,
+#mermaid-1527689926337 .doneCrit1,
+#mermaid-1527689926337 .doneCrit2,
+#mermaid-1527689926337 .doneCrit3 {
+  stroke: #ff8888;
+  fill: lightgrey;
+  stroke-width: 2;
+  cursor: pointer;
+  shape-rendering: crispEdges; }
+
+#mermaid-1527689926337 .doneCritText0,
+#mermaid-1527689926337 .doneCritText1,
+#mermaid-1527689926337 .doneCritText2,
+#mermaid-1527689926337 .doneCritText3 {
+  fill: black !important; }
+
+#mermaid-1527689926337 .activeCritText0,
+#mermaid-1527689926337 .activeCritText1,
+#mermaid-1527689926337 .activeCritText2,
+#mermaid-1527689926337 .activeCritText3 {
+  fill: black !important; }
+
+#mermaid-1527689926337 .titleText {
+  text-anchor: middle;
+  font-size: 18px;
+  fill: black; }
+
+#mermaid-1527689926337 g.classGroup text {
+  fill: #9370DB;
+  stroke: none;
+  font-family: 'trebuchet ms', verdana, arial;
+  font-size: 10px; }
+
+#mermaid-1527689926337 g.classGroup rect {
+  fill: #ECECFF;
+  stroke: #9370DB; }
+
+#mermaid-1527689926337 g.classGroup line {
+  stroke: #9370DB;
+  stroke-width: 1; }
+
+#mermaid-1527689926337 .classLabel .box {
+  stroke: none;
+  stroke-width: 0;
+  fill: #ECECFF;
+  opacity: 0.5; }
+
+#mermaid-1527689926337 .classLabel .label {
+  fill: #9370DB;
+  font-size: 10px; }
+
+#mermaid-1527689926337 .relation {
+  stroke: #9370DB;
+  stroke-width: 1;
+  fill: none; }
+
+#mermaid-1527689926337 #compositionStart {
+  fill: #9370DB;
+  stroke: #9370DB;
+  stroke-width: 1; }
+
+#mermaid-1527689926337 #compositionEnd {
+  fill: #9370DB;
+  stroke: #9370DB;
+  stroke-width: 1; }
+
+#mermaid-1527689926337 #aggregationStart {
+  fill: #ECECFF;
+  stroke: #9370DB;
+  stroke-width: 1; }
+
+#mermaid-1527689926337 #aggregationEnd {
+  fill: #ECECFF;
+  stroke: #9370DB;
+  stroke-width: 1; }
+
+#mermaid-1527689926337 #dependencyStart {
+  fill: #9370DB;
+  stroke: #9370DB;
+  stroke-width: 1; }
+
+#mermaid-1527689926337 #dependencyEnd {
+  fill: #9370DB;
+  stroke: #9370DB;
+  stroke-width: 1; }
+
+#mermaid-1527689926337 #extensionStart {
+  fill: #9370DB;
+  stroke: #9370DB;
+  stroke-width: 1; }
+
+#mermaid-1527689926337 #extensionEnd {
+  fill: #9370DB;
+  stroke: #9370DB;
+  stroke-width: 1; }
+
+#mermaid-1527689926337 .commit-id,
+#mermaid-1527689926337 .commit-msg,
+#mermaid-1527689926337 .branch-label {
+  fill: lightgrey;
+  color: lightgrey; }
+</style><style>#mermaid-1527689926337 {
+    color: rgba(0, 0, 0, 0.65);
+    font: normal normal 400 normal 14px / 21px "Monospaced Number", "Chinese Quote", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }</style><g transform="translate(-12, -12)"><g class="output"><g class="clusters"></g><g class="edgePaths"><g class="edgePath" style="opacity: 1;"><path class="path" d="M395.14214409722223,72.5L32.359375,113.75L32.359375,181.25L32.359375,248.75L32.359375,316.25L32.359375,383.75L32.359375,451.25L32.359375,518.75L102.82421875,561.230985940062" marker-end="url(#arrowhead686)" style="fill:none"></path><defs><marker id="arrowhead686" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="strokeWidth" markerWidth="8" markerHeight="6" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" class="arrowheadPath" style="stroke-width: 1; stroke-dasharray: 1, 0;"></path></marker></defs></g><g class="edgePath" style="opacity: 1;"><path class="path" d="M626.00390625,72.5L626.00390625,113.75L626.00390625,155" marker-end="url(#arrowhead687)" style="fill:none"></path><defs><marker id="arrowhead687" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="strokeWidth" markerWidth="8" markerHeight="6" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" class="arrowheadPath" style="stroke-width: 1; stroke-dasharray: 1, 0;"></path></marker></defs></g><g class="edgePath" style="opacity: 1;"><path class="path" d="M488.84917534722223,207.5L273.3203125,248.75L273.3203125,316.25L273.3203125,383.75L273.3203125,425" marker-end="url(#arrowhead688)" style="fill:none"></path><defs><marker id="arrowhead688" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="strokeWidth" markerWidth="8" markerHeight="6" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" class="arrowheadPath" style="stroke-width: 1; stroke-dasharray: 1, 0;"></path></marker></defs></g><g class="edgePath" style="opacity: 1;"><path class="path" d="M244.63368055555554,477.5L199.5546875,518.75L165.802734375,560" marker-end="url(#arrowhead689)" style="fill:none"></path><defs><marker id="arrowhead689" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="strokeWidth" markerWidth="8" markerHeight="6" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" class="arrowheadPath" style="stroke-width: 1; stroke-dasharray: 1, 0;"></path></marker></defs></g><g class="edgePath" style="opacity: 1;"><path class="path" d="M708.9906684027778,207.5L839.3984375,248.75L839.3984375,290" marker-end="url(#arrowhead690)" style="fill:none"></path><defs><marker id="arrowhead690" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="strokeWidth" markerWidth="8" markerHeight="6" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" class="arrowheadPath" style="stroke-width: 1; stroke-dasharray: 1, 0;"></path></marker></defs></g><g class="edgePath" style="opacity: 1;"><path class="path" d="M785.23046875,342.5L700.109375,383.75L700.109375,425" marker-end="url(#arrowhead691)" style="fill:none"></path><defs><marker id="arrowhead691" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="strokeWidth" markerWidth="8" markerHeight="6" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" class="arrowheadPath" style="stroke-width: 1; stroke-dasharray: 1, 0;"></path></marker></defs></g><g class="edgePath" style="opacity: 1;"><path class="path" d="M893.56640625,342.5L978.6875,383.75L978.6875,451.25L978.6875,518.75L969.0075954861111,560" marker-end="url(#arrowhead692)" style="fill:none"></path><defs><marker id="arrowhead692" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="strokeWidth" markerWidth="8" markerHeight="6" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" class="arrowheadPath" style="stroke-width: 1; stroke-dasharray: 1, 0;"></path></marker></defs></g><g class="edgePath" style="opacity: 1;"><path class="path" d="M625.6857638888889,477.5L508.734375,518.75L185.82421875,578.5629200656026" marker-end="url(#arrowhead693)" style="fill:none"></path><defs><marker id="arrowhead693" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="strokeWidth" markerWidth="8" markerHeight="6" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" class="arrowheadPath" style="stroke-width: 1; stroke-dasharray: 1, 0;"></path></marker></defs></g><g class="edgePath" style="opacity: 1;"><path class="path" d="M347.7439236111111,477.5L464.6953125,518.75L899.08203125,577.6097120609753" marker-end="url(#arrowhead694)" style="fill:none"></path><defs><marker id="arrowhead694" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="strokeWidth" markerWidth="8" markerHeight="6" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" class="arrowheadPath" style="stroke-width: 1; stroke-dasharray: 1, 0;"></path></marker></defs></g><g class="edgePath" style="opacity: 1;"><path class="path" d="M748.1174045138889,477.5L823.55859375,518.75L908.6796875,560" marker-end="url(#arrowhead695)" style="fill:none"></path><defs><marker id="arrowhead695" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="strokeWidth" markerWidth="8" markerHeight="6" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" class="arrowheadPath" style="stroke-width: 1; stroke-dasharray: 1, 0;"></path></marker></defs></g><g class="edgePath" style="opacity: 1;"><path class="path" d="M828.046875,72.5L1145.54296875,113.75L1145.54296875,181.25L1145.54296875,248.75L1145.54296875,316.25L1145.54296875,383.75L1145.54296875,451.25L1145.54296875,518.75L1026.61328125,562.6906670942913" marker-end="url(#arrowhead696)" style="fill:none"></path><defs><marker id="arrowhead696" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="strokeWidth" markerWidth="8" markerHeight="6" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" class="arrowheadPath" style="stroke-width: 1; stroke-dasharray: 1, 0;"></path></marker></defs></g></g><g class="edgeLabels"><g class="edgeLabel" style="opacity: 1;" transform="translate(32.359375,316.25)"><g transform="translate(-12.359375,-16.25)" class="label"><foreignObject width="24.7265625" height="32.5"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;"><span class="edgeLabel">Yes</span></div></foreignObject></g></g><g class="edgeLabel" style="opacity: 1;" transform="translate(626.00390625,113.75)"><g transform="translate(-11.6796875,-16.25)" class="label"><foreignObject width="23.359375" height="32.5"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;"><span class="edgeLabel">No</span></div></foreignObject></g></g><g class="edgeLabel" style="opacity: 1;" transform="translate(273.3203125,316.25)"><g transform="translate(-12.359375,-16.25)" class="label"><foreignObject width="24.7265625" height="32.5"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;"><span class="edgeLabel">Yes</span></div></foreignObject></g></g><g class="edgeLabel" style="opacity: 1;" transform="translate(199.5546875,518.75)"><g transform="translate(-12.359375,-16.25)" class="label"><foreignObject width="24.7265625" height="32.5"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;"><span class="edgeLabel">Yes</span></div></foreignObject></g></g><g class="edgeLabel" style="opacity: 1;" transform="translate(839.3984375,248.75)"><g transform="translate(-11.6796875,-16.25)" class="label"><foreignObject width="23.359375" height="32.5"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;"><span class="edgeLabel">No</span></div></foreignObject></g></g><g class="edgeLabel" style="opacity: 1;" transform="translate(700.109375,383.75)"><g transform="translate(-12.359375,-16.25)" class="label"><foreignObject width="24.7265625" height="32.5"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;"><span class="edgeLabel">Yes</span></div></foreignObject></g></g><g class="edgeLabel" style="opacity: 1;" transform="translate(978.6875,451.25)"><g transform="translate(-11.6796875,-16.25)" class="label"><foreignObject width="23.359375" height="32.5"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;"><span class="edgeLabel">No</span></div></foreignObject></g></g><g class="edgeLabel" style="opacity: 1;" transform="translate(508.734375,518.75)"><g transform="translate(-12.359375,-16.25)" class="label"><foreignObject width="24.7265625" height="32.5"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;"><span class="edgeLabel">Yes</span></div></foreignObject></g></g><g class="edgeLabel" style="opacity: 1;" transform="translate(464.6953125,518.75)"><g transform="translate(-11.6796875,-16.25)" class="label"><foreignObject width="23.359375" height="32.5"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;"><span class="edgeLabel">No</span></div></foreignObject></g></g><g class="edgeLabel" style="opacity: 1;" transform="translate(823.55859375,518.75)"><g transform="translate(-11.6796875,-16.25)" class="label"><foreignObject width="23.359375" height="32.5"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;"><span class="edgeLabel">No</span></div></foreignObject></g></g><g class="edgeLabel" style="opacity: 1;" transform="translate(1145.54296875,316.25)"><g transform="translate(-114.890625,-16.25)" class="label"><foreignObject width="229.78515625" height="32.5"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;"><span class="edgeLabel">We've lost two towers already</span></div></foreignObject></g></g></g><g class="nodes"><g class="node" style="opacity: 1;" id="A" transform="translate(626.00390625,46.25)"><rect rx="5" ry="5" x="-380.1796875" y="-26.25" width="760.359375" height="52.5"></rect><g class="label" transform="translate(0,0)"><g transform="translate(-370.1796875,-16.25)"><foreignObject width="740.37109375" height="32.5"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;">Without sacrificing basic core items (like brown boots) can I get my first use of it before 5:43?</div></foreignObject></g></g></g><g class="node" style="opacity: 1;" id="B" transform="translate(144.32421875,586.25)"><rect rx="5" ry="5" x="-41.5" y="-26.25" width="83" height="52.5"></rect><g class="label" transform="translate(0,0)"><g transform="translate(-31.5,-16.25)"><foreignObject width="63.0078125" height="32.5"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;">Build it.</div></foreignObject></g></g></g><g class="node" style="opacity: 1;" id="C" transform="translate(626.00390625,181.25)"><rect rx="0" ry="0" x="-267.03125" y="-26.25" width="534.0625" height="52.5"></rect><g class="label" transform="translate(0,0)"><g transform="translate(-257.03125,-16.25)"><foreignObject width="514.0625" height="32.5"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;">Are you Invoker, Arc Warden, AA, Phoenix, SB, Treant or Silencer?</div></foreignObject></g></g></g><g class="node" style="opacity: 1;" id="D" transform="translate(273.3203125,451.25)"><rect rx="0" ry="0" x="-144.890625" y="-26.25" width="289.78125" height="52.5"></rect><g class="label" transform="translate(0,0)"><g transform="translate(-134.890625,-16.25)"><foreignObject width="269.78515625" height="32.5"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;">Can I get my first use before 9:00?</div></foreignObject></g></g></g><g class="node" style="opacity: 1;" id="E" transform="translate(839.3984375,316.25)"><rect rx="0" ry="0" x="-76.6015625" y="-26.25" width="153.203125" height="52.5"></rect><g class="label" transform="translate(0,0)"><g transform="translate(-66.6015625,-16.25)"><foreignObject width="133.203125" height="32.5"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;">Are you Warlock?</div></foreignObject></g></g></g><g class="node" style="opacity: 1;" id="G" transform="translate(700.109375,451.25)"><rect rx="0" ry="0" x="-231.8984375" y="-26.25" width="463.796875" height="52.5"></rect><g class="label" transform="translate(0,0)"><g transform="translate(-221.8984375,-16.25)"><foreignObject width="443.80859375" height="32.5"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;">Can I get my first use before 16:30 AND before Level 15?</div></foreignObject></g></g></g><g class="node" style="opacity: 1;" id="F" transform="translate(962.84765625,586.25)"><rect rx="5" ry="5" x="-63.765625" y="-26.25" width="127.53125" height="52.5"></rect><g class="label" transform="translate(0,0)"><g transform="translate(-53.765625,-16.25)"><foreignObject width="107.5390625" height="32.5"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;">Don't build it.</div></foreignObject></g></g></g></g></g></g></svg>
