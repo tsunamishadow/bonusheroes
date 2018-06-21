@@ -11,5 +11,3 @@ What items should I build after core items?
 
 How do I calculate my Net Worth?
 ![Graph 4](/images/mermaid-diagram-20180621213320.svg)
-
-> Written with [StackEdit](https://stackedit.io/).
