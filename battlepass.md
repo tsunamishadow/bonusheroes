@@ -13,7 +13,7 @@ Daily Hero Challenges reset every day at 1:30am UTC
 Weekly Challenges reset every Saturday at 03:30 am UTC  
 Pro Circuit Wager Tokens reset May 2nd at 3:00pm UTC and every week thereafter
 
-This page was last updated - 28th May 2018, 12:22 UTC
+This page was last updated - 28th June 2018, 15:47 UTC
 
 <http://bit.do/dotabp> - You can get back to this page using this link.
 
