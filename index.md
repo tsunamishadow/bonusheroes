@@ -8,15 +8,15 @@
 
 <br>
 
-## [Bonus Heroes Rotation](bonusheroes/bonusheroes)
+## [Bonus Heroes Rotation](/bonusheroes/bonusheroes)
 
 Now defunct.
 
-## [Dota Time Events](bonusheroes/dotatimeevents)
+## [Dota Time Events](/bonusheroes/dotatimeevents)
 
 <br>
 
-## [Flowcharts](bonusheroes/flowcharts)
+## [Flowcharts](/bonusheroes/flowcharts)
 
 <br>
 
