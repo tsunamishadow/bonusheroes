@@ -13,7 +13,7 @@ Daily Hero Challenges reset every day at 1:30am UTC
 Weekly Challenges reset every Saturday at 03:30 am UTC  
 Pro Circuit Wager Tokens reset May 2nd at 3:00pm UTC and every week thereafter
 
-This page was last updated - 20th May 2018, 12:22 UTC
+This page was last updated - 28th May 2018, 12:22 UTC
 
 <http://bit.do/dotabp> - You can get back to this page using this link.
 
@@ -26,7 +26,7 @@ In short, it depends what YOU want out of it. This time there isn't a lot of con
 - The couriers
 - The terrain
 - Creep model change *(only one person in your party needs this to work)*
-- Lion item *(to be released in the future)*
+- Lion item
 - Meepo announcer *(to be released in the future)*
 - Chat lines and sprays
 - Arcana voting
@@ -42,12 +42,12 @@ New Mutations at Midnight UTC
 
 Current Mutations are
 
-- Friendly Fire
--- All Spells and abilities also target and affect teammates.
-- Fast Spells
--- Mana Regen is increased by 100% and Cooldown Reduction is +50% to all heroes.
-- Death Gold Drop
--- Whenever a hero dies they drop a bag of unlreliable gold. This bag is in proportion to the hero's Net Worth.
+- Super Blink
+-- All players start with a Blink Dagger that is not disabled on damage, you may still use and buy another Blink Dagger on top of it.
+- Jump Start
+-- All Heroes start at Level 6.
+- Random Lane Creeps
+-- Lane Creeps may sometimes be replaced by random neutrals. Skeletons will never spawn this way and Siege Creeps will never be replaced.
 
 # Chat Wheel Sounds
 
@@ -214,8 +214,6 @@ Predict 50 - 1000
 
 Go to <http://www.dota2.com/predictions>. You will need to Steam Login there to connect your Battle Pass. You get tokens equal to the number given in your BattlePass (25) for each week, they refresh back to maximum at the date and time given at the top of the site.  Every token placed earns 40 Battle Points if that teams wins that series, or 20 in the case of a tie in Bo2 series. If you predict a certain number of matches correctly you'll earn progress on that achievement, but the amount of tokens bet on that match has no effect for this achievement.  
 
-See above for favored predictions.  
-
 Win 1 Mutation Game - 100  
 Win 5 Mutation Games - 500  
 Win 10 Mutation Games - 1000  
@@ -232,3 +230,21 @@ Cast one vote in the Arcana ballot - 100
 Cast votes in 10 of the 12 weeks - 1000  
 
 Go to Battle Pass > Home > Arcana Vote to make a vote in the ballot, be sure to hit save to make sure they count. You only need to vote once.
+
+Correctly Guess 25 Group Stage Battle Predictions - 1000
+
+Correctly Guess 10 Main Event Battle Predictions - 1000
+Correctly Guess 30 Main Event Battle Predictions - 2000
+Correctly Guess 50 Main Event Battle Predictions - 5000
+
+Find a treasure full of fowl in The Underhollow - 500
+
+Claim the Big Cheese in The Underhollow - 300
+
+Eliminate 10 other players in The Underhollow - 200
+Eliminate 20 other players in The Underhollow - 300
+Eliminate 30 other players in The Underhollow - 500
+
+Be the last team standing in The Underhollow - 250
+Win 5 matches of The Underhollow - 500
+Win 10 matches of The Underhollow - 1000
