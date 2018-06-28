@@ -2,12 +2,22 @@
 
 ## [Birmingham Major Guide](/bonusheroes/Birmingham)
 
-## Dota 2, The International 8 Battlepass Guide
+<br>
 
-## Bonus Heroes Rotation
+## [Dota 2, The International 8 Battlepass Guide](/bonusheroes/battlepass)
+
+<br>
+
+## [Bonus Heroes Rotation](bonusheroes/bonusheroes)
 
 Now defunct.
 
-## Dota Time Events
+## [Dota Time Events](bonusheroes/dotatimeevents)
 
-## Flowcharts
+<br>
+
+## [Flowcharts](bonusheroes/flowcharts)
+
+<br>
+
+## New Project
