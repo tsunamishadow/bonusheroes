@@ -138,8 +138,6 @@ All of these lines are from the Lon and Dunoo cast of Team Secret vs Fnatic at E
 
 Voting ends at Tuesday 3pm UTC
   
-# Favored Dota Pro Circuit predictions  
-  
 # Achievements
   
   What you have to do, and tips on how to do them. The number after the hyphen shows how many battle points you get for achieving it. 1000 points is one battle level.
