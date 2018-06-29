@@ -62,9 +62,11 @@ Long Cooldown Ultimates and Abilities. Only listed here if two of the Levels of 
 |Reverse Polarity|120|
 |Reaper's Scythe|120 ^Agh^|
 |Elder Dragon Form|115|
+|Combo Breaker (Aeon Disk)|115|
 |Relocate|130/110/90 ^Tal^|
 |Wukong's Command|130/110/90|
 |Epicenter|120/110/100|
+|Fiend's Grip|120/110/100|
 |Requiem of Souls|120/110/100 ^Tal^|
 |Supernova|110|
 |Shapeshift|130/105/80|
@@ -73,7 +75,6 @@ Long Cooldown Ultimates and Abilities. Only listed here if two of the Levels of 
 |Freezing Field|110/100/90|
 |Precision Aura|100|
 |Earth Splitter|100|
-|Fiend's Grip|100|
 |Wall of Replica|100|
 |Magnetize|100/90/80|
 |Catacylsm|90|
@@ -86,13 +87,13 @@ Long Cooldown Ultimates and Abilities. Only listed here if two of the Levels of 
 |Flaming Lasso|100/80/60|
 |Chain Frost|100/80/60|
 |Terrorize|100/80/60|
+|Primal Roar|90/80/70 ^Agh^|
 |Static Storm|90/80/70|
 |Death Ward|80|
 |God's Strength|80|
 |Winter's Curse|80|
 |Infest|100/75/50|
 |Stampede|90/75/60|
-|Primal Roar|80/75/70 ^Agh^|
 |Flesh Golem|75|
 |Eye of the Storm|80/70/60|
 |Spirit Form|80/70/60 ^Agh|
