@@ -205,20 +205,20 @@ Cast votes in 10 of the 12 weeks - 1000
 
 Go to Battle Pass > Home > Arcana Vote to make a vote in the ballot, be sure to hit save to make sure they count. You only need to vote once.
 
-Correctly Guess 25 Group Stage Battle Predictions - 1000
+Correctly Guess 25 Group Stage Battle Predictions - 1000  
 
-Correctly Guess 10 Main Event Battle Predictions - 1000
-Correctly Guess 30 Main Event Battle Predictions - 2000
-Correctly Guess 50 Main Event Battle Predictions - 5000
+Correctly Guess 10 Main Event Battle Predictions - 1000  
+Correctly Guess 30 Main Event Battle Predictions - 2000  
+Correctly Guess 50 Main Event Battle Predictions - 5000  
 
-Find a treasure full of fowl in The Underhollow - 500
+Find a treasure full of fowl in The Underhollow - 500  
 
-Claim the Big Cheese in The Underhollow - 300
+Claim the Big Cheese in The Underhollow - 300  
 
-Eliminate 10 other players in The Underhollow - 200
-Eliminate 20 other players in The Underhollow - 300
-Eliminate 30 other players in The Underhollow - 500
+Eliminate 10 other players in The Underhollow - 200  
+Eliminate 20 other players in The Underhollow - 300  
+Eliminate 30 other players in The Underhollow - 500  
 
-Be the last team standing in The Underhollow - 250
-Win 5 matches of The Underhollow - 500
-Win 10 matches of The Underhollow - 1000
+Be the last team standing in The Underhollow - 250  
+Win 5 matches of The Underhollow - 500  
+Win 10 matches of The Underhollow - 1000  
