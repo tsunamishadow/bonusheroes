@@ -42,12 +42,12 @@ New Mutations at Midnight UTC
 
 Current Mutations are
 
-- Super Blink
--- All players start with a Blink Dagger that is not disabled on damage, you may still use and buy another Blink Dagger on top of it.
-- Jump Start
--- All Heroes start at Level 6.
-- Random Lane Creeps
--- Lane Creeps may sometimes be replaced by random neutrals. Skeletons will never spawn this way and Siege Creeps will never be replaced.
+- Friendly Fire
+-- All spells and items can target and affect allies.
+- Team Runes
+-- A rune activation affects everyone on the team as if they collected it themselves.
+- Pocket Tower
+-- All heroes start with a consumable that spawns a tower.
 
 # Chat Wheel Sounds
 
