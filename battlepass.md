@@ -137,30 +137,6 @@ All of these lines are from the Lon and Dunoo cast of Team Secret vs Fnatic at E
 # Current Arcana Ballot
 
 Voting ends at Tuesday 3pm UTC
-
-  Bristleback has a bye  
-  Doom vs Dazzle  
-  
-  Skywrath Mage vs Batrider  
-  Tusk vs Leshrac  
-  
-  Lion has a bye  
-  Medusa vs Earth Spirit  
-  
-  Spirit Breaker has a bye  
-  Necrophos vs Night Stalker  
-  
-  Shadow Shaman has a bye  
-  Underlord vs Puck  
-  
-  Storm Spirit vs Dark Seer  
-  Dark Willow vs Meepo *(most contested)*  
-  
-  Earthshaker has a bye  
-  Ancient Apparition vs Keeper of the Light  
-  
-  Luna has a bye  
-  Spectre vs Winter Wyvern  
   
 # Favored Dota Pro Circuit predictions  
   
