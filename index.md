@@ -20,4 +20,9 @@ Now defunct.
 
 <br>
 
+
+## [Settings explanation](/bonusheroes/dotasettings)
+
+<br>
+
 ## New Project
