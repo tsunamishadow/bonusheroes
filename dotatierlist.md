@@ -1,10 +1,11 @@
 # Dota Pub Hero Tier List
-This tier list is based on pub stats taken from Dotabuff, Opendota and Stratz. Most of this tier list is weighted toward Divine and Immortal with Crusader and lower winrates ignored.
+This tier list is based on pub stats taken from Dotabuff, Opendota and Stratz. Most of this tier list is weighted toward Divine and Immortal with Crusader and lower winrates ignored.  
+This list is slightly influenced by competitive performances but is not useful for determining which heroes are strong for TI-level Dota.  
 Updated 1st July 2018, based on June performances.
 ## Powerful
 Wins a considerable amount of games and can be easily Hero Spammed for MMR or wins. Very difficult to win against.
 
-Spectre
+![](/images/miniheroes/spectre.png)Spectre
 
 ## Strong
 Wins a lot of games. Hero specialists of these can easily gain wins and MMR, but most of the 'good hero' meta is made from these heroes.
@@ -135,8 +136,8 @@ Nature's Prophet
 ## Underpowered
 Heroes that lose a lot. Usually around 42% winrate. Almost always worth avoiding for anyone but hero specialists.
 
-Gyrocopter  
-Puck  
-Outworld Devourer  
-Tiny  
+![](/images/miniheroes/gyrocopter.png)Gyrocopter  
+![](/images/miniheroes/puck.png)Puck  
+![](/images/miniheroes/obsidian_destroyer.png)Outworld Devourer  
+![](/images/miniheroes/tiny.png)Tiny  
 
