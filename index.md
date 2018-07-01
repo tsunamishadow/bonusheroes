@@ -1,5 +1,10 @@
 # Welcome to tsunamishadow's Dota resource!
 
+
+## [Dota Pub Hero Tier List](/bonusheroes/dotatierlist)
+
+A hero tier list sorting heroes that are currently strong and weak in the pub meta.
+
 ## [Birmingham Major Guide](/bonusheroes/Birmingham)
 
 <br>
