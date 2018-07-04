@@ -41,5 +41,5 @@ There are 74,540,946,223,878 possible combinations of heroes for bonus hero sele
 - ![Storm Spirit](/images/miniheroes/storm_spirit.png) Storm Spirit
 - ![Omniknight](/images/miniheroes/omniknight.png) Omniknight
 - ![Slardar](/images/miniheroes/slardar.png) Slardar
-- ![Sven](/images/miniheroes/sven.png) Sven
-- ![Windrunner](/images/miniheroes/windrunner.png) Windranger
+- ![Sven](/images/miniheroes/sven.png) Sven [*Sven Guide*](https://steamcommunity.com/sharedfiles/filedetails/?id=1430456733)
+- ![Windrunner](/images/miniheroes/windrunner.png) Windranger [*Windranger Guide*](https://steamcommunity.com/sharedfiles/filedetails/?id=1408066874)
