@@ -15,7 +15,7 @@ A hero tier list sorting heroes that are currently strong and weak in the pub me
 
 ## [Bonus Heroes Rotation](/bonusheroes/bonusheroes)
 
-Now defunct.
+List of Bonus Heroes for today and tomorrow, may not be regularly updated.
 
 ## [Dota Time Events](/bonusheroes/dotatimeevents)
 
