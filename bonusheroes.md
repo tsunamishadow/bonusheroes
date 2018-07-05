@@ -34,7 +34,7 @@ There are 74,540,946,223,878 possible combinations of heroes for bonus hero sele
 - ![Beastmaster](/images/miniheroes/beastmaster.png) Beastmaster
 - ![Dragon Knight](/images/miniheroes/dragon_knight.png) Dragon Knight
 - ![Kunkka](/images/miniheroes/kunkka.png) Kunkka
-- ![Magnus](/images/miniheroes/magnataur.png) Magnus
+- ![Magnus](/images/miniheroes/magnataur.png) Magnus [*Magnus Guide*](https://steamcommunity.com/sharedfiles/filedetails/?id=1432165717)
 - ![Sven](/images/miniheroes/sven.png) Sven [*Sven Guide*](https://steamcommunity.com/sharedfiles/filedetails/?id=1430456733)
 - ![Morphling](/images/miniheroes/morphling.png) Morphling
 - ![Phantom Lancer](/images/miniheroes/phantom_lancer.png) Phantom Lancer
