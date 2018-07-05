@@ -1,19 +1,19 @@
-# Bonus heroes for 04th July 2018
+# Bonus heroes for 05th July 2018
 
 [//]: # (List bonus heroes here, use /images/miniheroes/heroname for picture)
 
 - ![Anti-Mage](/images/miniheroes/antimage.png) Anti-Mage
-- ![Crystal Maiden](/images/miniheroes/crystal_maiden.png) Crystal Maiden
-- ![Earth Spirit](/images/miniheroes/earth_spirit.png) Earth Spirit
-- ![Lycan](/images/miniheroes/lycan.png) Lycan
-- ![Meepo](/images/miniheroes/meepo.png) Meepo
-- ![Nyx Assassin](/images/miniheroes/nyx_assassin.png) Nyx Assassin
-- ![Riki](/images/miniheroes/riki.png) Riki
+- ![Beastmaster](/images/miniheroes/beastmaster.png) Beastmaster
+- ![Enigma](/images/miniheroes/enigma.png) Enigma
+- ![Nature's Prophet](/images/miniheroes/furion.png) Nature's Prophet
+- ![Kunkka](/images/miniheroes/kunkka.png) Kunkka
+- ![Lone Druid](/images/miniheroes/lone_druid.png) Lone Druid
+- ![Outworld Devourer](/images/miniheroes/obsidian_destroyer.png) Outworld Devourer
 - ![Storm Spirit](/images/miniheroes/storm_spirit.png) Storm Spirit
-- ![Tinker](/images/miniheroes/tinker.png) Tinker
-- ![Troll Warlord](/images/miniheroes/storm_spirit.png) Troll Warlord
-- ![Undying](/images/miniheroes/undying.png) Undying
-- ![Zeus](/images/miniheroes/zuus.png) Zeus
+- ![Omniknight](/images/miniheroes/omniknight.png) Omniknight
+- ![Slardar](/images/miniheroes/slardar.png) Slardar
+- ![Sven](/images/miniheroes/sven.png) Sven [*Sven Guide*](https://steamcommunity.com/sharedfiles/filedetails/?id=1430456733)
+- ![Windrunner](/images/miniheroes/windrunner.png) Windranger [*Windranger Guide*](https://steamcommunity.com/sharedfiles/filedetails/?id=1408066874)
 
 Enchanted Mango now restores 125 mana. The health regen is only 0.5 now.
 
@@ -29,17 +29,17 @@ Bonus heroes change at 03:00 UTC every day, 7pm Seattle time.
 
 There are 74,540,946,223,878 possible combinations of heroes for bonus hero selection (or indeed a single game of Dota).
 
-## Bonus heroes for 05th July 2018
+## Bonus heroes for 06th July 2018
 
-- ![Anti-Mage](/images/miniheroes/antimage.png) Anti-Mage
 - ![Beastmaster](/images/miniheroes/beastmaster.png) Beastmaster
-- ![Enigma](/images/miniheroes/enigma.png) Enigma
-- ![Nature's Prophet](/images/miniheroes/furion.png) Nature's Prophet
+- ![Dragon Knight](/images/miniheroes/dragon_knight.png) Dragon Knight
 - ![Kunkka](/images/miniheroes/kunkka.png) Kunkka
-- ![Lone Druid](/images/miniheroes/lone_druid.png) Lone Druid
-- ![Outworld Devourer](/images/miniheroes/obsidian_destroyer.png) Outworld Devourer
-- ![Storm Spirit](/images/miniheroes/storm_spirit.png) Storm Spirit
-- ![Omniknight](/images/miniheroes/omniknight.png) Omniknight
-- ![Slardar](/images/miniheroes/slardar.png) Slardar
+- ![Magnus](/images/miniheroes/magnataur.png) Magnus
 - ![Sven](/images/miniheroes/sven.png) Sven [*Sven Guide*](https://steamcommunity.com/sharedfiles/filedetails/?id=1430456733)
-- ![Windrunner](/images/miniheroes/windrunner.png) Windranger [*Windranger Guide*](https://steamcommunity.com/sharedfiles/filedetails/?id=1408066874)
+- ![Morphling](/images/miniheroes/morphling.png) Morphling
+- ![Phantom Lancer](/images/miniheroes/phantom_lancer.png) Phantom Lancer
+- ![Vengeful Spirit](/images/miniheroes/vengefulspirit.png) Vengeful Spirit
+- ![Venomancer](/images/miniheroes/venomancer.png) Venomancer
+- ![Lina](/images/miniheroes/lina.png) Lina
+- ![Outworld Devourer](/images/miniheroes/obsidian_destroyer.png) Outworld Devourer
+- ![Oracle](/images/miniheroes/oracle.png) Oracle
