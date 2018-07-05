@@ -21,7 +21,7 @@ Enchanted Mango now restores 125 mana. The health regen is only 0.5 now.
 
 Bonus Heroes are available for All Pick, Ranked All Pick and Turbo. Selecting a bonus hero in these modes gives the hero two free unsellable Enchanted Mangoes at the start of the game. Voluntarily randomming a hero also gives a hero a free unsellable Faerie Fire.
 
-These items are tied to the hero and not the player, so if a hero is swapped any items given this way will go towards the new player of that hero. There is an inconsistent bug that causes a hero to lose the Mangord given this way if the player buys an item in strategy time and then swaps the hero. It isn't worth randomming a hero unless you can play all the availible bonus heroes (since you only get one branch for doing so).
+These items are tied to the hero and not the player, so if a hero is swapped any items given this way will go towards the new player of that hero. There is an inconsistent bug that causes a hero to lose the Mango given this way if the player buys an item in strategy time and then swaps the hero. It isn't worth randomming a hero unless you can play all the availible bonus heroes (since you only get one branch for doing so).
 
 If the bonus heroes do not update on the main menu hero tab, enter an online game (i.e. not a local bot game) and it will be fixed.
 
