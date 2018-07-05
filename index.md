@@ -30,4 +30,8 @@ List of Bonus Heroes for today and tomorrow, may not be regularly updated.
 
 <br>
 
+## [General recent patch notes combined](/bonusheroes/generalpatchnotes)
+
+<br>
+
 ## New Project
