@@ -5,7 +5,7 @@ Updated 1st July 2018, based on June performances.
 ## Powerful
 Wins a considerable amount of games and can be easily Hero Spammed for MMR or wins. Very difficult to win against.
 
-![](/images/miniheroes/spectre.png)Spectre
+![Spectre](/images/miniheroes/spectre.png)Spectre
 
 ## Strong
 Wins a lot of games. Hero specialists of these can easily gain wins and MMR, but most of the 'good hero' meta is made from these heroes.
@@ -136,8 +136,8 @@ Nature's Prophet
 ## Underpowered
 Heroes that lose a lot. Usually around 42% winrate. Almost always worth avoiding for anyone but hero specialists.
 
-![](/images/miniheroes/gyrocopter.png)Gyrocopter  
-![](/images/miniheroes/puck.png)Puck  
-![](/images/miniheroes/obsidian_destroyer.png)Outworld Devourer  
-![](/images/miniheroes/tiny.png)Tiny  
+![Gyro](/images/miniheroes/gyrocopter.png)Gyrocopter  
+![Puck](/images/miniheroes/puck.png)Puck  
+![OD](/images/miniheroes/obsidian_destroyer.png)Outworld Devourer  
+![Tiny](/images/miniheroes/tiny.png)Tiny  
 
