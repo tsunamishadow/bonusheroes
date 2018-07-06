@@ -1,19 +1,19 @@
-# Bonus heroes for 05th July 2018
+# Bonus heroes for 06th July 2018
 
 [//]: # (List bonus heroes here, use /images/miniheroes/heroname for picture)
 
-- ![Anti-Mage](/images/miniheroes/antimage.png) Anti-Mage
 - ![Beastmaster](/images/miniheroes/beastmaster.png) Beastmaster
-- ![Enigma](/images/miniheroes/enigma.png) Enigma
-- ![Nature's Prophet](/images/miniheroes/furion.png) Nature's Prophet
+- ![Dragon Knight](/images/miniheroes/dragon_knight.png) Dragon Knight
 - ![Kunkka](/images/miniheroes/kunkka.png) Kunkka
-- ![Lone Druid](/images/miniheroes/lone_druid.png) Lone Druid
-- ![Outworld Devourer](/images/miniheroes/obsidian_destroyer.png) Outworld Devourer
-- ![Storm Spirit](/images/miniheroes/storm_spirit.png) Storm Spirit
-- ![Omniknight](/images/miniheroes/omniknight.png) Omniknight
-- ![Slardar](/images/miniheroes/slardar.png) Slardar
+- ![Magnus](/images/miniheroes/magnataur.png) Magnus [*Magnus Guide*](https://steamcommunity.com/sharedfiles/filedetails/?id=1432165717)
 - ![Sven](/images/miniheroes/sven.png) Sven [*Sven Guide*](https://steamcommunity.com/sharedfiles/filedetails/?id=1430456733)
-- ![Windrunner](/images/miniheroes/windrunner.png) Windranger [*Windranger Guide*](https://steamcommunity.com/sharedfiles/filedetails/?id=1408066874)
+- ![Morphling](/images/miniheroes/morphling.png) Morphling
+- ![Phantom Lancer](/images/miniheroes/phantom_lancer.png) Phantom Lancer
+- ![Vengeful Spirit](/images/miniheroes/vengefulspirit.png) Vengeful Spirit
+- ![Venomancer](/images/miniheroes/venomancer.png) Venomancer
+- ![Lina](/images/miniheroes/lina.png) Lina
+- ![Outworld Devourer](/images/miniheroes/obsidian_destroyer.png) Outworld Devourer
+- ![Oracle](/images/miniheroes/oracle.png) Oracle
 
 Enchanted Mango now restores 125 mana. The health regen is only 0.5 now.
 
@@ -29,17 +29,17 @@ Bonus heroes change at 03:00 UTC every day, 7pm Seattle time.
 
 There are 74,540,946,223,878 possible combinations of heroes for bonus hero selection (or indeed a single game of Dota).
 
-## Bonus heroes for 06th July 2018
+## Bonus heroes for 07th July 2018
 
-- ![Beastmaster](/images/miniheroes/beastmaster.png) Beastmaster
-- ![Dragon Knight](/images/miniheroes/dragon_knight.png) Dragon Knight
-- ![Kunkka](/images/miniheroes/kunkka.png) Kunkka
+- ![Centaur](/images/miniheroes/centaur.png) Centaur Warrunner
+- ![Lycan](/images/miniheroes/lycan.png) Lycan
 - ![Magnus](/images/miniheroes/magnataur.png) Magnus [*Magnus Guide*](https://steamcommunity.com/sharedfiles/filedetails/?id=1432165717)
+- ![Omniknight](/images/miniheroes/omniknight.png) Omniknight
+- ![Sand King](/images/miniheroes/sand_king.png) Sand King
+- ![Spirit Breaker](/images/miniheroes/spirit_breaker.png) Spirit Breaker
 - ![Sven](/images/miniheroes/sven.png) Sven [*Sven Guide*](https://steamcommunity.com/sharedfiles/filedetails/?id=1430456733)
-- ![Morphling](/images/miniheroes/morphling.png) Morphling
-- ![Phantom Lancer](/images/miniheroes/phantom_lancer.png) Phantom Lancer
-- ![Vengeful Spirit](/images/miniheroes/vengefulspirit.png) Vengeful Spirit
-- ![Venomancer](/images/miniheroes/venomancer.png) Venomancer
-- ![Lina](/images/miniheroes/lina.png) Lina
-- ![Outworld Devourer](/images/miniheroes/obsidian_destroyer.png) Outworld Devourer
-- ![Oracle](/images/miniheroes/oracle.png) Oracle
+- ![Luna](/images/miniheroes/luna.png) Luna
+- ![Razor](/images/miniheroes/razor.png) Razor
+- ![Silencer](/images/miniheroes/silencer.png) Silencer
+- ![Visage](/images/miniheroes/visage.png) Visage
+- ![Winter Wyvern](/images/miniheroes/winter_wyvern.png) Winter Wyvern
