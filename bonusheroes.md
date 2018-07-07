@@ -1,4 +1,4 @@
-# Bonus heroes for 06th July 2018
+# Bonus heroes for 07th July 2018
 
 [//]: # (List bonus heroes here, use /images/miniheroes/heroname for picture)
 
