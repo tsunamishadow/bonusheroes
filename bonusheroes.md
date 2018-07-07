@@ -2,18 +2,18 @@
 
 [//]: # (List bonus heroes here, use /images/miniheroes/heroname for picture)
 
-- ![Beastmaster](/images/miniheroes/beastmaster.png) Beastmaster
-- ![Dragon Knight](/images/miniheroes/dragon_knight.png) Dragon Knight
-- ![Kunkka](/images/miniheroes/kunkka.png) Kunkka
+- ![Centaur](/images/miniheroes/centaur.png) Centaur Warrunner
+- ![Lycan](/images/miniheroes/lycan.png) Lycan
 - ![Magnus](/images/miniheroes/magnataur.png) Magnus [*Magnus Guide*](https://steamcommunity.com/sharedfiles/filedetails/?id=1432165717)
+- ![Omniknight](/images/miniheroes/omniknight.png) Omniknight
+- ![Sand King](/images/miniheroes/sand_king.png) Sand King
+- ![Spirit Breaker](/images/miniheroes/spirit_breaker.png) Spirit Breaker
 - ![Sven](/images/miniheroes/sven.png) Sven [*Sven Guide*](https://steamcommunity.com/sharedfiles/filedetails/?id=1430456733)
-- ![Morphling](/images/miniheroes/morphling.png) Morphling
-- ![Phantom Lancer](/images/miniheroes/phantom_lancer.png) Phantom Lancer
-- ![Vengeful Spirit](/images/miniheroes/vengefulspirit.png) Vengeful Spirit
-- ![Venomancer](/images/miniheroes/venomancer.png) Venomancer
-- ![Lina](/images/miniheroes/lina.png) Lina
-- ![Outworld Devourer](/images/miniheroes/obsidian_destroyer.png) Outworld Devourer
-- ![Oracle](/images/miniheroes/oracle.png) Oracle
+- ![Luna](/images/miniheroes/luna.png) Luna
+- ![Razor](/images/miniheroes/razor.png) Razor
+- ![Silencer](/images/miniheroes/silencer.png) Silencer
+- ![Visage](/images/miniheroes/visage.png) Visage
+- ![Winter Wyvern](/images/miniheroes/winter_wyvern.png) Winter Wyvern
 
 Enchanted Mango now restores 125 mana. The health regen is only 0.5 now.
 
@@ -29,17 +29,17 @@ Bonus heroes change at 03:00 UTC every day, 7pm Seattle time.
 
 There are 74,540,946,223,878 possible combinations of heroes for bonus hero selection (or indeed a single game of Dota).
 
-## Bonus heroes for 07th July 2018
+## Bonus heroes for 08th July 2018
 
-- ![Centaur](/images/miniheroes/centaur.png) Centaur Warrunner
-- ![Lycan](/images/miniheroes/lycan.png) Lycan
-- ![Magnus](/images/miniheroes/magnataur.png) Magnus [*Magnus Guide*](https://steamcommunity.com/sharedfiles/filedetails/?id=1432165717)
-- ![Omniknight](/images/miniheroes/omniknight.png) Omniknight
-- ![Sand King](/images/miniheroes/sand_king.png) Sand King
-- ![Spirit Breaker](/images/miniheroes/spirit_breaker.png) Spirit Breaker
-- ![Sven](/images/miniheroes/sven.png) Sven [*Sven Guide*](https://steamcommunity.com/sharedfiles/filedetails/?id=1430456733)
-- ![Luna](/images/miniheroes/luna.png) Luna
-- ![Razor](/images/miniheroes/razor.png) Razor
-- ![Silencer](/images/miniheroes/silencer.png) Silencer
-- ![Visage](/images/miniheroes/visage.png) Visage
-- ![Winter Wyvern](/images/miniheroes/winter_wyvern.png) Winter Wyvern
+- ![DK](/images/miniheroes/dragon_knight.png) Dragon Knight
+- ![Kaolin](/images/miniheroes/earth_spirit.png) Earth Spirit
+- ![BH](/images/miniheroes/bounty_hunter.png) Bounty Hunter
+- ![Drow](/images/miniheroes/drow_ranger.png) Drow Ranger
+- ![Meepo](/images/miniheroes/meepo.png) Meepo
+- ![Spectre](/images/miniheroes/spectre.png) Spectre
+- ![Veno](/images/miniheroes/venomancer.png) Venomancer
+- ![Batrider](/images/miniheroes/batrider.png) Batrider
+- ![Enchantress](/images/miniheroes/enchantress.png) Enchantress
+- ![Furion](/images/miniheroes/furion.png) Nature's Prophet
+- ![Jakiro](/images/miniheroes/jakiro.png) Jakiro
+- ![SD](/images/miniheroes/shadow_demon.png) Shadow Demon
