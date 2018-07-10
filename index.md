@@ -34,4 +34,6 @@ List of Bonus Heroes for today and tomorrow, may not be regularly updated.
 
 <br>
 
-## New Project
+## [The International Archive of Trivia](/bonusheroes/tiarchives)
+
+Random Trivia about various internationals
