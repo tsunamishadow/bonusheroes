@@ -1,19 +1,19 @@
-# Bonus heroes for 09th July 2018
+# Bonus heroes for 10th July 2018
 
 [//]: # (List bonus heroes here, use /images/miniheroes/heroname for picture)
 
-- ![Centaur](/images/miniheroes/centaur.png) Centaur Warrunner
-- ![CK](/images/miniheroes/chaos_knight.png) Chaos Knight
-- ![Naix](/images/miniheroes/life_stealer.png) Lifestealer
-- ![Sven](/images/miniheroes/sven.png) Sven [*Sven Guide*](https://steamcommunity.com/sharedfiles/filedetails/?id=1430456733)
-- ![Tiny](/images/miniheroes/tiny.png) Tiny
-- ![Luna](/images/miniheroes/luna.png) Luna
-- ![Enchantress](/images/miniheroes/enchantress.png) Enchantress
-- ![KOTL](/images/miniheroes/keeper_of_the_light.png) Keeper of the Light
-- ![Lion](/images/miniheroes/lion.png) Lion
-- ![OD](/images/miniheroes/obsidian_destroyer.png) Outworld Devourer
+- ![Doom](/images/miniheroes/doom_bringer.png) Doom
+- ![Tresdin](/images/miniheroes/legion_commander.png) Legion Commander
+- ![Magnus](/images/miniheroes/magnataur.png) Magnus [*Magnus Guide*](https://steamcommunity.com/sharedfiles/filedetails/?id=1432165717)
+- ![WK](/images/miniheroes/skeleton_king.png) Wraith King
+- ![Jugg](/images/miniheroes/juggernaut.png) Juggernaut
+- ![LD](/images/miniheroes/lone_druid.png) Lone Druid
+- ![Morph](/images/miniheroes/morphling.png) Morphling
+- ![PA](/images/miniheroes/phantom_assassin.png) Phantom Assassin
+- ![Troll](/images/miniheroes/troll_warlord.png) Troll Warlord
+- ![Mireska](/images/miniheroes/dark_willow.png) Dark Willow [*Dark Willow Guide*](https://steamcommunity.com/sharedfiles/filedetails/?id=1189494162)
+- ![Oracle](/images/miniheroes/oracle.png) Oracle
 - ![Rhasta](/images/miniheroes/shadow_shaman.png) Shadow Shaman
-- ![Winter Wyvern](/images/miniheroes/winter_wyvern.png) Winter Wyvern
 
 Enchanted Mango now restores 125 mana. The health regen is only 0.5 now.
 
@@ -29,17 +29,17 @@ Bonus heroes change at 03:00 UTC every day, 7pm Seattle time.
 
 There are 74,540,946,223,878 possible combinations of heroes for bonus hero selection (or indeed a single game of Dota).
 
-## Bonus heroes for 10th July 2018
+## Bonus heroes for 11th July 2018
 
-- ![Doom](/images/miniheroes/doom_bringer.png) Doom
-- ![Tresdin](/images/miniheroes/legion_commander.png) Legion Commander
-- ![Magnus](/images/miniheroes/magnataur.png) Magnus [*Magnus Guide*](https://steamcommunity.com/sharedfiles/filedetails/?id=1432165717)
-- ![WK](/images/miniheroes/skeleton_king.png) Wraith King
-- ![Jugg](/images/miniheroes/juggernaut.png) Juggernaut
-- ![LD](/images/miniheroes/lone_druid.png) Lone Druid
-- ![Morph](/images/miniheroes/morphling.png) Morphling
-- ![PA](/images/miniheroes/phantom_assassin.png) Phantom Assassin
-- ![Troll](/images/miniheroes/troll_warlord.png) Troll Warlord
-- ![Mireska](/images/miniheroes/dark_willow.png) Dark Willow
-- ![Oracle](/images/miniheroes/oracle.png) Oracle
-- ![Rhasta](/images/miniheroes/shadow_shaman.png) Shadow Shaman
+- ![Brew](/images/miniheroes/brewmaster.png) Brewmaster
+- ![Centaur](/images/miniheroes/centaur.png) Centaur Warrunner
+- ![Kunkka](/images/miniheroes/kunkka.png) Kunkka
+- ![Broodmother](/images/miniheroes/broodmother.png) Broodmother
+- ![Drow](/images/miniheroes/drow_ranger.png) Drow Ranger [*Drow Ranger Guide*](about:blank)
+- ![Gyro](/images/miniheroes/gyrocopter.png) Gyrocopter
+- ![Potm](/images/miniheroes/mirana.png) Mirana
+- ![Riki](/images/miniheroes/riki.png) Riki
+- ![Sniper](/images/miniheroes/sniper.png) Sniper
+- ![Templar Assassin](/images/miniheroes/templar_assassin.png) Templar Assassin
+- ![Weaver](/images/miniheroes/weaver.png) Weaver
+- ![Disruptor](/images/miniheroes/disruptor.png) Disruptor
