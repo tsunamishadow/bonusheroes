@@ -2,14 +2,18 @@
 
 **Does NOT include Hero changes**
 
+## Map
+
 Bounty Runes
 * Team gold reduced from 40 + 3/min to 40 + 2/min
 
 Melee Barracks
-* Health increased from 1800 to 200
+* Health increased from 1800 to 2000
 
 Roshan
 * Attack damage upgrade over time increased from 2.5/min to 4/min
+
+## Items
 
 Aeon Disk
 * Cooldown increased from 90 to 115
@@ -31,7 +35,7 @@ Enchanted Mango
 Eul's Scepter of Divinity
 * Bonus movement speed reduced from +40 to +30
 
-Hand to Midas
+Hand of Midas
 * Cooldown reduced from 100 to 90
 
 Maelstrom
