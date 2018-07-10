@@ -35,7 +35,7 @@ There are 74,540,946,223,878 possible combinations of heroes for bonus hero sele
 - ![Centaur](/images/miniheroes/centaur.png) Centaur Warrunner
 - ![Kunkka](/images/miniheroes/kunkka.png) Kunkka
 - ![Broodmother](/images/miniheroes/broodmother.png) Broodmother
-- ![Drow](/images/miniheroes/drow_ranger.png) Drow Ranger [*Drow Ranger Guide*](about:blank)
+- ![Drow](/images/miniheroes/drow_ranger.png) Drow Ranger [*Drow Ranger Guide*](https://steamcommunity.com/sharedfiles/filedetails/?id=1437157730)
 - ![Gyro](/images/miniheroes/gyrocopter.png) Gyrocopter
 - ![Potm](/images/miniheroes/mirana.png) Mirana
 - ![Riki](/images/miniheroes/riki.png) Riki
