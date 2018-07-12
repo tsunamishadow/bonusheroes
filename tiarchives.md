@@ -29,3 +29,65 @@
 ### The International 7
 
 ![sk](/images/miniheroes/sand_king.png) ![qop](/images/miniheroes/queenofpain.png) ![puck](/images/miniheroes/puck.png) ![nyx](/images/miniheroes/nyx_assassin.png) ![shaker](/images/miniheroes/earthshaker.png)
+
+## Names on the Aegis
+
+### The International 1
+
+Danil "Dendi" Ishutin  
+Ivan "Artstyle" Antonov  
+Александр "XBOCT" Александр *(Pronounced: Alexander "hwoust" Dashkevich)*  
+Clement "Puppey" Ivanov  
+Dmitry "LighTofHeaveN" Kupriyanov  
+~Sub: Dmitry "McDee" Bieletskyi
+
+### The International 2
+
+Chen "Zhou" Yao  
+Luo "Ferrari_430" Feichi  
+Jiang "YYF" Cen  
+Wong "ChuaN" Hock Chuan  
+Zeng "Faith" Hongda  
+
+### The International 3
+
+Jonathan "Loda" Berg  
+Gustav "s4" Magnusson  
+Henrik "AdmiralBulldog" Ahnberg  
+Jerry "EGM" Lundkvist  
+Joakim "Akke" Akterhall  
+
+### The International 4
+
+Chen "Hao" Zhihao  
+Zhang "Mu" Pan  
+Zhang "xiao8" Ning  
+Wang "Banana" Jiao  
+Wang "SanSheng" Zhaohui  
+~Sub: Tong "Mikasa" Junjie  
+
+### The International 5
+
+Clinton "Fear" Loomis  
+Syed Sumail "SumaiL" Hassan  
+Saahil "UNiVeRsE" Arora  
+Kurtis "Aui_2000" Ling  
+Peter "ppd" Dager  
+~Sub: Kanishka "BuLba" Sosale  
+
+### The International 6
+
+Chu "shadow" Zeyu  
+Zhou "bLink" Yang  
+Zhang "Faith_bian" Ruida  
+Zhang "y'" Yiping  
+Li "iceice" Peng  
+
+### The International 7
+
+Lasse Aukusti "MATUMBAMAN" Urpalainen  
+Amer "Miracle-" Al-Barkawi  
+Ivan Borislavov "MinD_ContRoL" Ivanov  
+Maroun "GH" Merhej  
+Kuro "KuroKy" Salehi Takhasomi  
+~Sub: Lee "Heen" Seung Gon
