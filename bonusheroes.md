@@ -1,19 +1,19 @@
-# Bonus heroes for 10th July 2018
+# Bonus heroes for 12th July 2018
 
 [//]: # (List bonus heroes here, use /images/miniheroes/heroname for picture)
 
-- ![Doom](/images/miniheroes/doom_bringer.png) Doom
-- ![Tresdin](/images/miniheroes/legion_commander.png) Legion Commander
-- ![Magnus](/images/miniheroes/magnataur.png) Magnus [*Magnus Guide*](https://steamcommunity.com/sharedfiles/filedetails/?id=1432165717)
-- ![WK](/images/miniheroes/skeleton_king.png) Wraith King
-- ![Jugg](/images/miniheroes/juggernaut.png) Juggernaut
-- ![LD](/images/miniheroes/lone_druid.png) Lone Druid
-- ![Morph](/images/miniheroes/morphling.png) Morphling
-- ![PA](/images/miniheroes/phantom_assassin.png) Phantom Assassin
-- ![Troll](/images/miniheroes/troll_warlord.png) Troll Warlord
-- ![Mireska](/images/miniheroes/dark_willow.png) Dark Willow [*Dark Willow Guide*](https://steamcommunity.com/sharedfiles/filedetails/?id=1189494162)
-- ![Oracle](/images/miniheroes/oracle.png) Oracle
-- ![Rhasta](/images/miniheroes/shadow_shaman.png) Shadow Shaman
+- ![Alch](/images/miniheroes/alchemist.png) Alchemist
+- ![Centaur](/images/miniheroes/centaur.png) Centaur Warrunner
+- ![ET](/images/miniheroes/elder_titan.png) Elder Titan
+- ![Omni](/images/miniheroes/omniknight.png) Omniknight
+- ![ArcWarden](/images/miniheroes/arc_warden.png) Arc Warden
+- ![LD](/images/miniheroes/drow_ranger.png) Drow Ranger [*Drow Ranger Guide*](https://steamcommunity.com/sharedfiles/filedetails/?id=1437157730)
+- ![Medusa](/images/miniheroes/medusa.png) Medusa
+- ![Slark](/images/miniheroes/slark.png) Slark
+- ![Ursa](/images/miniheroes/ursa.png) Ursa
+- ![Venge](/images/miniheroes/vengefulspirit.png) Vengeful Spirit
+- ![Willow](/images/miniheroes/dark_willow.png) Dark Willow [*Dark Willow Guide*](https://steamcommunity.com/sharedfiles/filedetails/?id=1189494162)
+- ![Oracle](/images/miniheroes/oracle.png) Oracle 
 
 Enchanted Mango now restores 125 mana. The health regen is only 0.5 now.
 
@@ -29,17 +29,32 @@ Bonus heroes change at 03:00 UTC every day, 7pm Seattle time.
 
 There are 74,540,946,223,878 possible combinations of heroes for bonus hero selection (or indeed a single game of Dota).
 
-## Bonus heroes for 11th July 2018
+## Bonus heroes for 13th July 2018
 
+- ![Abaddon](/images/miniheroes/abaddon.png) Abaddon
+- ![Beastmaster](/images/miniheroes/beastmaster.png) Beastmaster
 - ![Brew](/images/miniheroes/brewmaster.png) Brewmaster
-- ![Centaur](/images/miniheroes/centaur.png) Centaur Warrunner
-- ![Kunkka](/images/miniheroes/kunkka.png) Kunkka
-- ![Broodmother](/images/miniheroes/broodmother.png) Broodmother
-- ![Drow](/images/miniheroes/drow_ranger.png) Drow Ranger [*Drow Ranger Guide*](https://steamcommunity.com/sharedfiles/filedetails/?id=1437157730)
-- ![Gyro](/images/miniheroes/gyrocopter.png) Gyrocopter
-- ![Potm](/images/miniheroes/mirana.png) Mirana
-- ![Riki](/images/miniheroes/riki.png) Riki
-- ![Sniper](/images/miniheroes/sniper.png) Sniper
-- ![Templar Assassin](/images/miniheroes/templar_assassin.png) Templar Assassin
-- ![Weaver](/images/miniheroes/weaver.png) Weaver
-- ![Disruptor](/images/miniheroes/disruptor.png) Disruptor
+- ![Centaur](/images/miniheroes/centaur.png) Centaur
+- ![DK](/images/miniheroes/dragon_knight.png) Dragon Knight
+- ![Timber](/images/miniheroes/shredder.png) Timbersaw
+- ![Razor](/images/miniheroes/razor.png) Razor
+- ![Spectre](/images/miniheroes/spectre.png) Spectre
+- ![AA](/images/miniheroes/ancient_apparition.png) Ancient Apparition
+- ![Willow](/images/miniheroes/dark_willow.png) Dark Willow [*Dark Willow Guide*](https://steamcommunity.com/sharedfiles/filedetails/?id=1189494162)
+- ![KOTL](/images/miniheroes/keeper_of_the_light.png) Keeper of the Light
+- ![Ogre](/images/miniheroes/ogre_magi.png) Ogre Magi
+
+## Bonus heroes for 14th July 2018
+
+- ![Abaddon](/images/miniheroes/abaddon.png) Abaddon
+- ![Huskar](/images/miniheroes/huskar.png) Huskar
+- ![Lycan](/images/miniheroes/lycan.png) Lycan
+- ![NS](/images/miniheroes/night_stalker.png) Night Stalker
+- ![ArcW](/images/miniheroes/arc_warden.png) Arc Warden
+- ![Jugg](/images/miniheroes/juggernaut.png) Juggernaut
+- ![Chen](/images/miniheroes/chen.png) Chen
+- ![CM](/images/miniheroes/crystal_maiden.png) Crystal Maiden
+- ![DP](/images/miniheroes/death_prophet.png) Death Prophet
+- ![KOTL](/images/miniheroes/keeper_of_the_light.png) Keeper of the Light
+- ![Lesh](/images/miniheroes/leshrac.png) Leshrac
+- ![WW](/images/miniheroes/winter_wyvern.png) Winter Wyvern
