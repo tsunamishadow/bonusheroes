@@ -54,7 +54,7 @@ There are 74,540,946,223,878 possible combinations of heroes for bonus hero sele
 - ![Jugg](/images/miniheroes/juggernaut.png) Juggernaut
 - ![Chen](/images/miniheroes/chen.png) Chen
 - ![CM](/images/miniheroes/crystal_maiden.png) Crystal Maiden
-- ![DP](/images/miniheroes/death_prophet.png) Death Prophet
+- ![DP](/images/miniheroes/death_prophet.png) Death Prophet [*Death Prophet Guide*](https://steamcommunity.com/sharedfiles/filedetails/?id=1439026485)
 - ![KOTL](/images/miniheroes/keeper_of_the_light.png) Keeper of the Light
 - ![Lesh](/images/miniheroes/leshrac.png) Leshrac
 - ![WW](/images/miniheroes/winter_wyvern.png) Winter Wyvern
