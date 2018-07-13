@@ -1,5 +1,11 @@
 # Dota Settings Explanation
 
+## Hotkeys
+
+Default Hotkeys Map:
+
+![Default](/images/keyboard-layout-default.png)
+
 ## Options
 ### Game
 Auto Attack:
