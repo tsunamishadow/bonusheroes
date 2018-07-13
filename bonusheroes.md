@@ -27,7 +27,8 @@ If the bonus heroes do not update on the main menu hero tab, enter an online gam
 
 Bonus heroes change at 03:00 UTC every day, 7pm Seattle time.
 
-There are 74,540,946,223,878 possible combinations of heroes for bonus hero selection (or indeed a single game of Dota).
+There are 74,540,946,223,878 possible combinations of heroes for a single game of Dota.  
+There are 6,166,523,522,157,180 possible combinations of heroes for bonus heroes in Dota.
 
 ## Bonus heroes for 14th July 2018
 
