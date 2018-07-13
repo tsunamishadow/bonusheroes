@@ -34,60 +34,74 @@
 
 ### The International 1
 
-Danil "Dendi" Ishutin  
-Ivan "Artstyle" Antonov  
-Александр "XBOCT" Александр *(Pronounced: Alexander "hwoust" Dashkevich)*  
-Clement "Puppey" Ivanov  
-Dmitry "LighTofHeaveN" Kupriyanov  
+Team: Natus Vincere (Ukraine)
+
+![Dendi](/images/miniheroes/puck.png)Danil "Dendi" Ishutin  
+![Artstyle](/images/miniheroes/slardar.png)Ivan "Artstyle" Antonov  
+![XBOCT](/images/miniheroes/weaver.png)Александр "XBOCT" Александр *(Pronounced: Alexander "hwoust" Dashkevich)*  
+![Puppey](/images/miniheroes/chen.png)Clement "Puppey" Ivanov  
+![Lightofheaven](/images/miniheroes/beastmaster.png)Dmitry "LighTofHeaveN" Kupriyanov  
 ~Sub: Dmitry "McDee" Bieletskyi
 
 ### The International 2
 
-Chen "Zhou" Yao  
-Luo "Ferrari_430" Feichi  
-Jiang "YYF" Cen  
-Wong "ChuaN" Hock Chuan  
-Zeng "Faith" Hongda  
+Team: Invictus Gaming (China)
+
+![Zhou](/images/miniheroes/naga_siren.png)Chen "Zhou" Yao  
+![Ferrari](/images/miniheroes/templar_assassin.png)Luo "Ferrari_430" Feichi  
+![YYF](/images/miniheroes/dark_seer.png)Jiang "YYF" Cen  
+![Chuan](/images/miniheroes/tidehunter.png)Wong "ChuaN" Hock Chuan  
+![faith](/images/miniheroes/keeper_of_the_light.png)Zeng "Faith" Hongda  
 
 ### The International 3
 
-Jonathan "Loda" Berg  
-Gustav "s4" Magnusson  
-Henrik "AdmiralBulldog" Ahnberg  
-Jerry "EGM" Lundkvist  
-Joakim "Akke" Akterhall  
+Team: Alliance (Sweden)
+
+![Loda](/images/miniheroes/chaos_knight.png)Jonathan "Loda" Berg  
+![s4](/images/miniheroes/puck.png)Gustav "s4" Magnusson  
+![Bulldog](/images/miniheroes/furion.png)Henrik "AdmiralBulldog" Ahnberg  
+![EGM](/images/miniheroes/wisp.png)Jerry "EGM" Lundkvist  
+![Akke](/images/miniheroes/crystal_maiden.png)Joakim "Akke" Akterhall  
 
 ### The International 4
 
-Chen "Hao" Zhihao  
-Zhang "Mu" Pan  
-Zhang "xiao8" Ning  
-Wang "Banana" Jiao  
-Wang "SanSheng" Zhaohui  
+Team: Newbee (China)
+
+![Hao](/images/miniheroes/ember_spirit.png)Chen "Hao" Zhihao  
+![Mu](/images/miniheroes/brewmaster.png)Zhang "Mu" Pan  
+![xiao8](/images/miniheroes/doom.png)Zhang "xiao8" Ning  
+![banana](/images/miniheroes/rubick.png)Wang "Banana" Jiao  
+![Sansheng](/images/miniheroes/shadow_shaman.png)Wang "SanSheng" Zhaohui  
 ~Sub: Tong "Mikasa" Junjie  
 
 ### The International 5
 
-Clinton "Fear" Loomis  
-Syed Sumail "SumaiL" Hassan  
-Saahil "UNiVeRsE" Arora  
-Kurtis "Aui_2000" Ling  
-Peter "ppd" Dager  
+Team: Evil Geniuses (United States of America)
+
+![Fear](/images/miniheroes/gyrocopter.png)Clinton "Fear" Loomis  
+![sumail](/images/miniheroes/storm_spirit.png)Syed Sumail "SumaiL" Hassan  
+![universe](/images/miniheroes/earthshaker.png)Saahil "UNiVeRsE" Arora  
+![aui](/images/miniheroes/naga_siren.png)Kurtis "Aui_2000" Ling  
+![ppd](/images/miniheroes/ancient_apparition.png)Peter "ppd" Dager  
 ~Sub: Kanishka "BuLba" Sosale  
 
 ### The International 6
 
-Chu "shadow" Zeyu  
-Zhou "bLink" Yang  
-Zhang "Faith_bian" Ruida  
-Zhang "y'" Yiping  
-Li "iceice" Peng  
+Team: Wings Gaming (China)
+
+![shadow](/images/miniheroes/antimage.png)Chu "shadow" Zeyu  
+![blink](/images/miniheroes/batrider.png)Zhou "bLink" Yang  
+![faithbian](/images/miniheroes/axe.png)Zhang "Faith_bian" Ruida  
+![y](/images/miniheroes/keeper_of_the_light.png)Zhang "y'" Yiping  
+![iceice](/images/miniheroes/elder_titan.png)Li "iceice" Peng  
 
 ### The International 7
 
-Lasse Aukusti "MATUMBAMAN" Urpalainen  
-Amer "Miracle-" Al-Barkawi  
-Ivan Borislavov "MinD_ContRoL" Ivanov  
-Maroun "GH" Merhej  
-Kuro "KuroKy" Salehi Takhasomi  
+Team: Team Liquid (Netherlands)
+
+![matu](/images/miniheroes/necrolyte.png)Lasse Aukusti "MATUMBAMAN" Urpalainen  
+![miracle](/images/miniheroes/juggernaut.png)Amer "Miracle-" Al-Barkawi  
+![mc](/images/miniheroes/dark_seer.png)Ivan Borislavov "MinD_ContRoL" Ivanov  
+![gh](/images/miniheroes/earthshaker.png)Maroun "GH" Merhej  
+![kuro](/images/miniheroes/lich.png)Kuro "KuroKy" Salehi Takhasomi  
 ~Sub: Lee "Heen" Seung Gon
