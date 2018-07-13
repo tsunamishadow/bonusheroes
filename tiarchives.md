@@ -43,6 +43,8 @@ Team: Natus Vincere (Ukraine)
 ![Lightofheaven](/images/miniheroes/beastmaster.png)Dmitry "LighTofHeaveN" Kupriyanov  
 ~Sub: Dmitry "McDee" Bieletskyi
 
+Record: 9-1 (90.00%)
+
 ### The International 2
 
 Team: Invictus Gaming (China)
@@ -53,6 +55,8 @@ Team: Invictus Gaming (China)
 ![Chuan](/images/miniheroes/tidehunter.png)Wong "ChuaN" Hock Chuan  
 ![faith](/images/miniheroes/keeper_of_the_light.png)Zeng "Faith" Hongda  
 
+Record: 24-7 (77.42%)
+
 ### The International 3
 
 Team: Alliance (Sweden)
@@ -62,6 +66,8 @@ Team: Alliance (Sweden)
 ![Bulldog](/images/miniheroes/furion.png)Henrik "AdmiralBulldog" Ahnberg  
 ![EGM](/images/miniheroes/wisp.png)Jerry "EGM" Lundkvist  
 ![Akke](/images/miniheroes/crystal_maiden.png)Joakim "Akke" Akterhall  
+
+Record: 23-3 (88.46%)
 
 ### The International 4
 
@@ -74,6 +80,8 @@ Team: Newbee (China)
 ![Sansheng](/images/miniheroes/shadow_shaman.png)Wang "SanSheng" Zhaohui  
 ~Sub: Tong "Mikasa" Junjie  
 
+Record: 20-12 (62.50%)
+
 ### The International 5
 
 Team: Evil Geniuses (United States of America)
@@ -85,6 +93,8 @@ Team: Evil Geniuses (United States of America)
 ![ppd](/images/miniheroes/ancient_apparition.png)Peter "ppd" Dager  
 ~Sub: Kanishka "BuLba" Sosale  
 
+Record: 19-8 (70.37%)
+
 ### The International 6
 
 Team: Wings Gaming (China)
@@ -94,6 +104,8 @@ Team: Wings Gaming (China)
 ![faithbian](/images/miniheroes/axe.png)Zhang "Faith_bian" Ruida  
 ![y](/images/miniheroes/keeper_of_the_light.png)Zhang "y'" Yiping  
 ![iceice](/images/miniheroes/elder_titan.png)Li "iceice" Peng  
+
+Record: 17-8 (68.00%)
 
 ### The International 7
 
@@ -105,3 +117,5 @@ Team: Team Liquid (Netherlands)
 ![gh](/images/miniheroes/earthshaker.png)Maroun "GH" Merhej  
 ![kuro](/images/miniheroes/lich.png)Kuro "KuroKy" Salehi Takhasomi  
 ~Sub: Lee "Heen" Seung Gon
+
+Record: 27-8 (77.14%)
