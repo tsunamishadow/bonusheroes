@@ -46,8 +46,6 @@ There are 74,540,946,223,878 possible combinations of heroes for bonus hero sele
 
 ## Bonus heroes for 15th July 2018
 
-ancient apparition, beastmaster, bloodseeker, death prophet, enigma, phantom lancer, rattletrap, sand king, tiny, visage, windrunner, wisp
-
 - ![BM](/images/miniheroes/beastmaster.png) Beastmaster
 - ![Clock](/images/miniheroes/rattletrap.png) Clockwerk
 - ![SK](/images/miniheroes/sand_king.png) Sand King
