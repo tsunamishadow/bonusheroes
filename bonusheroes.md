@@ -50,7 +50,7 @@ There are 74,540,946,223,878 possible combinations of heroes for bonus hero sele
 - ![Clock](/images/miniheroes/rattletrap.png) Clockwerk
 - ![SK](/images/miniheroes/sand_king.png) Sand King
 - ![Tiny](/images/miniheroes/tiny.png) Tiny
-- ![Io](/images/miniheroes/wisp.png) Io
+- ![Io](/images/miniheroes/wisp.png) Io [*Io Guide*](https://steamcommunity.com/sharedfiles/filedetails/?id=1439882946)
 - ![Seeker](/images/miniheroes/bloodseeker.png) Bloodseeker
 - ![PL](/images/miniheroes/phantom_lancer.png) Phantom Lancer
 - ![AA](/images/miniheroes/ancient_apparition.png) Ancient Apparition
