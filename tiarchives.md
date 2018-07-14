@@ -119,3 +119,8 @@ Team: Team Liquid (Netherlands)
 ~Sub: Lee "Heen" Seung Gon
 
 Record: 27-8 (77.14%)
+
+## Other high performing players
+
+Liu "Sylar" Jiajun: 3rd TI2 with LGD, 2nd TI4 with Vici Gaming, 3rd TI5 with LGD.  
+Xie "Super" Junhao: 4th TI2 with Team DK, 2nd TI4 with Vici Gaming, 4th TI5 with Vici Gaming, 3rd TI7 with LGD.Forever Young.
