@@ -53,9 +53,9 @@ There are 6,166,523,522,157,180 possible combinations of heroes for bonus heroes
 - ![Huskar](/images/miniheroes/huskar.png) Huskar
 - ![Kunkka](/images/miniheroes/kunkka.png) Kunkka
 - ![Naix](/images/miniheroes/life_stealer.png) Lifestealer
-- ![Drow](/images/miniheroes/drow_ranger.png) Drow Ranger
+- ![Drow](/images/miniheroes/drow_ranger.png) Drow Ranger [*Drow Ranger Guide*](https://steamcommunity.com/sharedfiles/filedetails/?id=1437157730)
 - ![Void](/images/miniheroes/faceless_void.png) Faceless Void
 - ![PL](/images/miniheroes/phantom_lancer.png) Phantom Lancer
 - ![Sniper](/images/miniheroes/sniper.png) Sniper
-- ![TA](/images/miniheroes/templar_assassin.png) Teamplar Assassin
-- ![CM](/images/miniheroes/crystal_maiden.png) Crystal Maiden
+- ![TA](/images/miniheroes/templar_assassin.png) Templar Assassin
+- ![CM](/images/miniheroes/crystal_maiden.png) Crystal Maiden [*Crystal Maiden Guide*](https://steamcommunity.com/sharedfiles/filedetails/?id=1442576452)
