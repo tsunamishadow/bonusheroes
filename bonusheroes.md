@@ -1,19 +1,19 @@
-# Bonus heroes for 15th July 2018
+# Bonus heroes for 16th July 2018
 
 [//]: # (List bonus heroes here, use /images/miniheroes/heroname for picture)
 
-- ![BM](/images/miniheroes/beastmaster.png) Beastmaster
-- ![Clock](/images/miniheroes/rattletrap.png) Clockwerk
-- ![SK](/images/miniheroes/sand_king.png) Sand King
-- ![Tiny](/images/miniheroes/tiny.png) Tiny
+- ![BB](/images/miniheroes/bristleback.png) Bristleback
+- ![Naix](/images/miniheroes/life_stealer.png) Lifestealer
+- ![SK](/images/miniheroes/pudge.png) Pudge
 - ![Io](/images/miniheroes/wisp.png) Io [*Io Guide*](https://steamcommunity.com/sharedfiles/filedetails/?id=1439882946)
-- ![Seeker](/images/miniheroes/bloodseeker.png) Bloodseeker
-- ![PL](/images/miniheroes/phantom_lancer.png) Phantom Lancer
-- ![AA](/images/miniheroes/ancient_apparition.png) Ancient Apparition
-- ![DP](/images/miniheroes/death_prophet.png) Death Prophet [*Death Prophet Guide*](https://steamcommunity.com/sharedfiles/filedetails/?id=1439026485)
-- ![Enigma](/images/miniheroes/enigma.png) Enigma
-- ![Visage](/images/miniheroes/visage.png) Visage
-- ![Wind](/images/miniheroes/windrunner.png) Windranger
+- ![AM](/images/miniheroes/antimage.png) Anti-Mage
+- ![Clinkz](/images/miniheroes/clinkz.png) Clinkz
+- ![Meepo](/images/miniheroes/meepo.png) Meepo
+- ![Wukong](/images/miniheroes/monkey_king.png) Monkey King
+- ![SF](/images/miniheroes/nevermore.png) Shadow Fiend
+- ![Lion](/images/miniheroes/lion.png) Lion
+- ![Rubick](/images/miniheroes/rubick.png) Rubick
+- ![Silencer](/images/miniheroes/silencer.png) Silencer
 
 Enchanted Mango now restores 125 mana. The health regen is only 0.5 now.
 
@@ -30,21 +30,6 @@ Bonus heroes change at 03:00 UTC every day, 7pm Seattle time.
 There are 74,540,946,223,878 possible combinations of heroes for a single game of Dota.  
 There are 6,166,523,522,157,180 possible combinations of heroes for bonus heroes in Dota.
 
-## Bonus heroes for 16th July 2018
-
-- ![BB](/images/miniheroes/bristleback.png) Bristleback
-- ![Naix](/images/miniheroes/life_stealer.png) Lifestealer
-- ![SK](/images/miniheroes/pudge.png) Pudge
-- ![Io](/images/miniheroes/wisp.png) Io [*Io Guide*](https://steamcommunity.com/sharedfiles/filedetails/?id=1439882946)
-- ![AM](/images/miniheroes/antimage.png) Anti-Mage
-- ![Clinkz](/images/miniheroes/clinkz.png) Clinkz
-- ![Meepo](/images/miniheroes/meepo.png) Meepo
-- ![Wukong](/images/miniheroes/monkey_king.png) Monkey King
-- ![SF](/images/miniheroes/nevermore.png) Shadow Fiend
-- ![Lion](/images/miniheroes/lion.png) Lion
-- ![Rubick](/images/miniheroes/rubick.png) Rubick
-- ![Silencer](/images/miniheroes/silencer.png) Silencer
-
 ## Bonus heroes for 17th July 2018
 
 - ![Tiny](/images/miniheroes/tiny.png) Tiny
@@ -59,3 +44,18 @@ There are 6,166,523,522,157,180 possible combinations of heroes for bonus heroes
 - ![Furion](/images/miniheroes/furion.png) Nature's Prophet
 - ![Jakiro](/images/miniheroes/jakiro.png) Jakiro
 - ![Silencer](/images/miniheroes/silencer.png) Silencer
+
+## Bonus heroes for 18th July 2018
+
+- ![Alch](/images/miniheroes/alchemist.png) Alchemist
+- ![BM](/images/miniheroes/beastmaster.png) Beastmaster
+- ![CK](/images/miniheroes/chaos_knight.png) Chaos Knight
+- ![Huskar](/images/miniheroes/huskar.png) Huskar
+- ![Kunkka](/images/miniheroes/kunkka.png) Kunkka
+- ![Naix](/images/miniheroes/life_stealer.png) Lifestealer
+- ![Drow](/images/miniheroes/drow_ranger.png) Drow Ranger
+- ![Void](/images/miniheroes/faceless_void.png) Faceless Void
+- ![PL](/images/miniheroes/phantom_lancer.png) Phantom Lancer
+- ![Sniper](/images/miniheroes/sniper.png) Sniper
+- ![TA](/images/miniheroes/templar_assassin.png) Teamplar Assassin
+- ![CM](/images/miniheroes/crystal_maiden.png) Crystal Maiden
