@@ -1,4 +1,4 @@
-# Bonus heroes for 16th July 2018
+# Bonus heroes for 17th July 2018
 
 [//]: # (List bonus heroes here, use /images/miniheroes/heroname for picture)
 
@@ -30,7 +30,7 @@ Bonus heroes change at 03:00 UTC every day, 7pm Seattle time.
 There are 74,540,946,223,878 possible combinations of heroes for a single game of Dota.  
 There are 6,166,523,522,157,180 possible combinations of heroes for bonus heroes in Dota.
 
-## Bonus heroes for 17th July 2018
+## Bonus heroes for 18th July 2018
 
 - ![Alch](/images/miniheroes/alchemist.png) Alchemist
 - ![BM](/images/miniheroes/beastmaster.png) Beastmaster
@@ -45,7 +45,7 @@ There are 6,166,523,522,157,180 possible combinations of heroes for bonus heroes
 - ![TA](/images/miniheroes/templar_assassin.png) Templar Assassin
 - ![CM](/images/miniheroes/crystal_maiden.png) Crystal Maiden [*Crystal Maiden Guide*](https://steamcommunity.com/sharedfiles/filedetails/?id=1442576452)
 
-## Bonus heroes for 18th July 2018
+## Bonus heroes for 19th July 2018
 
 - ![1](/images/miniheroes/dragon_knight.png) Dragon Knight
 - ![2](/images/miniheroes/earth_spirit.png) Earth Spirit
