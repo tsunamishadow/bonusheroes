@@ -2,17 +2,17 @@
 
 [//]: # (List bonus heroes here, use /images/miniheroes/heroname for picture)
 
-- ![BB](/images/miniheroes/bristleback.png) Bristleback
-- ![Naix](/images/miniheroes/life_stealer.png) Lifestealer
-- ![SK](/images/miniheroes/pudge.png) Pudge
+- ![Tiny](/images/miniheroes/tiny.png) Tiny
 - ![Io](/images/miniheroes/wisp.png) Io [*Io Guide*](https://steamcommunity.com/sharedfiles/filedetails/?id=1439882946)
-- ![AM](/images/miniheroes/antimage.png) Anti-Mage
-- ![Clinkz](/images/miniheroes/clinkz.png) Clinkz
+- ![BH](/images/miniheroes/bounty_hunter.png) Bounty Hunter
+- ![Luna](/images/miniheroes/luna.png) Luna
 - ![Meepo](/images/miniheroes/meepo.png) Meepo
-- ![Wukong](/images/miniheroes/monkey_king.png) Monkey King
-- ![SF](/images/miniheroes/nevermore.png) Shadow Fiend
-- ![Lion](/images/miniheroes/lion.png) Lion
-- ![Rubick](/images/miniheroes/rubick.png) Rubick
+- ![Nerubian](/images/miniheroes/nyx_assassin.png) Nyx Assassin
+- ![Troll](/images/miniheroes/troll_warlord.png) Troll Warlord
+- ![Viper](/images/miniheroes/viper.png) Viper
+- ![DP](/images/miniheroes/death_prophet.png) Death Prophet
+- ![Furion](/images/miniheroes/furion.png) Nature's Prophet
+- ![Jakiro](/images/miniheroes/jakiro.png) Jakiro
 - ![Silencer](/images/miniheroes/silencer.png) Silencer
 
 Enchanted Mango now restores 125 mana. The health regen is only 0.5 now.
@@ -32,21 +32,6 @@ There are 6,166,523,522,157,180 possible combinations of heroes for bonus heroes
 
 ## Bonus heroes for 17th July 2018
 
-- ![Tiny](/images/miniheroes/tiny.png) Tiny
-- ![Io](/images/miniheroes/wisp.png) Io [*Io Guide*](https://steamcommunity.com/sharedfiles/filedetails/?id=1439882946)
-- ![BH](/images/miniheroes/bounty_hunter.png) Bounty Hunter
-- ![Luna](/images/miniheroes/luna.png) Luna
-- ![Meepo](/images/miniheroes/meepo.png) Meepo
-- ![Nerubian](/images/miniheroes/nyx_assassin.png) Nyx Assassin
-- ![Troll](/images/miniheroes/troll_warlord.png) Troll Warlord
-- ![Viper](/images/miniheroes/viper.png) Viper
-- ![DP](/images/miniheroes/death_prophet.png) Death Prophet
-- ![Furion](/images/miniheroes/furion.png) Nature's Prophet
-- ![Jakiro](/images/miniheroes/jakiro.png) Jakiro
-- ![Silencer](/images/miniheroes/silencer.png) Silencer
-
-## Bonus heroes for 18th July 2018
-
 - ![Alch](/images/miniheroes/alchemist.png) Alchemist
 - ![BM](/images/miniheroes/beastmaster.png) Beastmaster
 - ![CK](/images/miniheroes/chaos_knight.png) Chaos Knight
@@ -59,3 +44,18 @@ There are 6,166,523,522,157,180 possible combinations of heroes for bonus heroes
 - ![Sniper](/images/miniheroes/sniper.png) Sniper
 - ![TA](/images/miniheroes/templar_assassin.png) Templar Assassin
 - ![CM](/images/miniheroes/crystal_maiden.png) Crystal Maiden [*Crystal Maiden Guide*](https://steamcommunity.com/sharedfiles/filedetails/?id=1442576452)
+
+## Bonus heroes for 18th July 2018
+
+- ![1](/images/miniheroes/dragon_knight.png) Dragon Knight
+- ![2](/images/miniheroes/earth_spirit.png) Earth Spirit
+- ![3](/images/miniheroes/spirit_breaker.png) Spirit Breaker
+- ![4](/images/miniheroes/tusk.png) Tusk
+- ![5](/images/miniheroes/faceless_void.png) Faceless Void
+- ![6](/images/miniheroes/gyrocopter.png) Gyrocopter
+- ![7](/images/miniheroes/morphling.png) Morphling
+- ![8](/images/miniheroes/viper.png) Viper
+- ![9](/images/miniheroes/invoker.png) Invoker
+- ![10](/images/miniheroes/shadow_demon.png) Shadow Demon
+- ![11](/images/miniheroes/shadow_shaman.png) Shadow Shaman
+- ![12](/images/miniheroes/techies.png) Techies
