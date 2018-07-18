@@ -1,19 +1,19 @@
-# Bonus heroes for 17th July 2018
+# Bonus heroes for 18th July 2018
 
 [//]: # (List bonus heroes here, use /images/miniheroes/heroname for picture)
 
-- ![Tiny](/images/miniheroes/tiny.png) Tiny
-- ![Io](/images/miniheroes/wisp.png) Io [*Io Guide*](https://steamcommunity.com/sharedfiles/filedetails/?id=1439882946)
-- ![BH](/images/miniheroes/bounty_hunter.png) Bounty Hunter
-- ![Luna](/images/miniheroes/luna.png) Luna
-- ![Meepo](/images/miniheroes/meepo.png) Meepo
-- ![Nerubian](/images/miniheroes/nyx_assassin.png) Nyx Assassin
-- ![Troll](/images/miniheroes/troll_warlord.png) Troll Warlord
-- ![Viper](/images/miniheroes/viper.png) Viper
-- ![DP](/images/miniheroes/death_prophet.png) Death Prophet
-- ![Furion](/images/miniheroes/furion.png) Nature's Prophet
-- ![Jakiro](/images/miniheroes/jakiro.png) Jakiro
-- ![Silencer](/images/miniheroes/silencer.png) Silencer
+- ![Alch](/images/miniheroes/alchemist.png) Alchemist
+- ![BM](/images/miniheroes/beastmaster.png) Beastmaster
+- ![CK](/images/miniheroes/chaos_knight.png) Chaos Knight
+- ![Huskar](/images/miniheroes/huskar.png) Huskar
+- ![Kunkka](/images/miniheroes/kunkka.png) Kunkka
+- ![Naix](/images/miniheroes/life_stealer.png) Lifestealer
+- ![Drow](/images/miniheroes/drow_ranger.png) Drow Ranger [*Drow Ranger Guide*](https://steamcommunity.com/sharedfiles/filedetails/?id=1437157730)
+- ![Void](/images/miniheroes/faceless_void.png) Faceless Void
+- ![PL](/images/miniheroes/phantom_lancer.png) Phantom Lancer
+- ![Sniper](/images/miniheroes/sniper.png) Sniper
+- ![TA](/images/miniheroes/templar_assassin.png) Templar Assassin
+- ![CM](/images/miniheroes/crystal_maiden.png) Crystal Maiden [*Crystal Maiden Guide*](https://steamcommunity.com/sharedfiles/filedetails/?id=1442576452)
 
 Enchanted Mango now restores 125 mana. The health regen is only 0.5 now.
 
@@ -30,21 +30,6 @@ Bonus heroes change at 03:00 UTC every day, 7pm Seattle time.
 There are 74,540,946,223,878 possible combinations of heroes for a single game of Dota.  
 There are 6,166,523,522,157,180 possible combinations of heroes for bonus heroes in Dota.
 
-## Bonus heroes for 18th July 2018
-
-- ![Alch](/images/miniheroes/alchemist.png) Alchemist
-- ![BM](/images/miniheroes/beastmaster.png) Beastmaster
-- ![CK](/images/miniheroes/chaos_knight.png) Chaos Knight
-- ![Huskar](/images/miniheroes/huskar.png) Huskar
-- ![Kunkka](/images/miniheroes/kunkka.png) Kunkka
-- ![Naix](/images/miniheroes/life_stealer.png) Lifestealer
-- ![Drow](/images/miniheroes/drow_ranger.png) Drow Ranger [*Drow Ranger Guide*](https://steamcommunity.com/sharedfiles/filedetails/?id=1437157730)
-- ![Void](/images/miniheroes/faceless_void.png) Faceless Void
-- ![PL](/images/miniheroes/phantom_lancer.png) Phantom Lancer
-- ![Sniper](/images/miniheroes/sniper.png) Sniper
-- ![TA](/images/miniheroes/templar_assassin.png) Templar Assassin
-- ![CM](/images/miniheroes/crystal_maiden.png) Crystal Maiden [*Crystal Maiden Guide*](https://steamcommunity.com/sharedfiles/filedetails/?id=1442576452)
-
 ## Bonus heroes for 19th July 2018
 
 - ![1](/images/miniheroes/dragon_knight.png) Dragon Knight
@@ -59,3 +44,18 @@ There are 6,166,523,522,157,180 possible combinations of heroes for bonus heroes
 - ![10](/images/miniheroes/shadow_demon.png) Shadow Demon
 - ![11](/images/miniheroes/shadow_shaman.png) Shadow Shaman
 - ![12](/images/miniheroes/techies.png) Techies
+
+## Bonus heroes for 20th July 2018
+
+- ![2](/images/miniheroes/doom_bringer.png) Doom
+- ![3](/images/miniheroes/tiny.png) Tiny
+- ![1](/images/miniheroes/abyssal_underlord.png) Underlord
+- ![4](/images/miniheroes/lone_druid.png) Lone Druid
+- ![5](/images/miniheroes/pangolier.png) Pangolier
+- ![6](/images/miniheroes/ancient_apparition.png) Ancient Apparition
+- ![7](/images/miniheroes/crystal_maiden.png) Crystal Maiden [*Crystal Maiden Guide*](https://steamcommunity.com/sharedfiles/filedetails/?id=1442576452)
+- ![8](/images/miniheroes/enchantress.png) Enchantress
+- ![9](/images/miniheroes/lich.png) Lich
+- ![10](/images/miniheroes/lion.png) Lion
+- ![11](/images/miniheroes/queenofpain.png) Queen of Pain
+- ![12](/images/miniheroes/silencer.png) Silencer
