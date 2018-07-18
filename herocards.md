@@ -39,16 +39,16 @@ Role: Midlane, Carry
 
 **Io**  
 Ranged Strength  
-Damage Type: Magic - Burst  
+Damage Type: Low Magic - Burst  
 Disables: Weak Slow  
 Tankiness: Squishy  
 
 Goal: Quickly accentuate the effectiveness of an ally giving healing, mana, movespeed, attack speed and damage reduction.  
 Strengths: Very strong early game threat, ability to save and heal ally to counter initiate.  
-Weaknesses: Squishy, requires good positioning, requires strong teamwork, somewhat item reliant, lacks disables, poor pusher.  
-Ultimate: Temporary teleport to anywhere on the map, can take ally also.  
+Weaknesses: Squishy, requires good positioning, requires strong teamwork, somewhat item reliant, lacks disables.  
+Ultimate: Temporary teleport to anywhere on the map, can take an ally also.  
 
-Role: Lane Support, Roamer, Offlane, Midlane
+Role: Lane Support, Roamer
 
 **Leshrac**  
 Ranged Intelligence  
