@@ -3,36 +3,35 @@
 
 ## [Dota Pub Hero Tier List](/bonusheroes/dotatierlist)
 
-A hero tier list sorting heroes that are currently strong and weak in the pub meta.
+A hero tier list sorting heroes that are currently strong and weak in the pub meta. Last updated 16th July 2018.
 
 ## [Birmingham Major Guide](/bonusheroes/Birmingham)
 
-<br>
+A now defunct guide for the Birmingham Major for visitors.
 
 ## [Dota 2, The International 8 Battlepass Guide](/bonusheroes/battlepass)
 
-<br>
+A now defunct guide for the TI Battlepass.
 
 ## [Bonus Heroes Rotation](/bonusheroes/bonusheroes)
 
-List of Bonus Heroes for today and tomorrow, may not be regularly updated.
+List of Bonus Heroes for today and tomorrow, also includes links to guides for some of the heroes.
 
 ## [Dota Time Events](/bonusheroes/dotatimeevents)
 
-<br>
+A list of things that happen in a Dota game at certain times in the game. Also includes a list of long (a.k.a. punishable) cooldowns for hero spells.
 
 ## [Flowcharts](/bonusheroes/flowcharts)
 
 <br>
 
-
 ## [Settings explanation](/bonusheroes/dotasettings)
 
-<br>
+Explains certain Dota settings options.
 
 ## [General recent patch notes combined](/bonusheroes/generalpatchnotes)
 
-<br>
+Combines patch notes for non-heroes for recent patches (just in case you missed something important!)
 
 ## [The International Archive of Trivia](/bonusheroes/tiarchives)
 
