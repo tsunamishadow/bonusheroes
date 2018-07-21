@@ -32,6 +32,8 @@
 
 ## Names on the Aegis
 
+*The first hero shown is the hero the player played in the last game, the second hero is the hero that player had the highest number of wins with during the tournament. (In the case of a tie, then the most played hero is shown between them).*
+
 ### The International 1
 
 Team: Natus Vincere (Ukraine)
@@ -45,15 +47,17 @@ Team: Natus Vincere (Ukraine)
 
 Record: 9-1 (90.00%)
 
+Note: Significant Match Data missing. :(
+
 ### The International 2
 
 Team: Invictus Gaming (China)
 
-![Zhou](/images/miniheroes/naga_siren.png)Chen "Zhou" Yao  
-![Ferrari](/images/miniheroes/templar_assassin.png)Luo "Ferrari_430" Feichi  
-![YYF](/images/miniheroes/dark_seer.png)Jiang "YYF" Cen  
-![Chuan](/images/miniheroes/tidehunter.png)Wong "ChuaN" Hock Chuan  
-![faith](/images/miniheroes/keeper_of_the_light.png)Zeng "Faith" Hongda  
+![Zhou](/images/miniheroes/naga_siren.png) ![LD](/images/miniheroes/lone_druid.png)Chen "Zhou" Yao  
+![Ferrari](/images/miniheroes/templar_assassin.png) ![TA](/images/miniheroes/templar_assassin.png)Luo "Ferrari_430" Feichi  
+![YYF](/images/miniheroes/dark_seer.png) ![dYF](/images/miniheroes/dark_seer.png)Jiang "YYF" Cen  
+![Chuan](/images/miniheroes/tidehunter.png) ![ehuan](/images/miniheroes/enchantress.png)Wong "ChuaN" Hock Chuan  
+![faith](/images/miniheroes/keeper_of_the_light.png) ![veno](/images/miniheroes/venomancer.png)Zeng "Faith" Hongda  
 
 Record: 24-7 (77.42%)
 
