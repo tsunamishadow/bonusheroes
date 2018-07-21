@@ -1,19 +1,19 @@
-# Bonus heroes for 18th July 2018
+# Bonus heroes for 22nd July 2018
 
 [//]: # (List bonus heroes here, use /images/miniheroes/heroname for picture)
 
-- ![Alch](/images/miniheroes/alchemist.png) Alchemist
-- ![BM](/images/miniheroes/beastmaster.png) Beastmaster
-- ![CK](/images/miniheroes/chaos_knight.png) Chaos Knight
-- ![Huskar](/images/miniheroes/huskar.png) Huskar
 - ![Kunkka](/images/miniheroes/kunkka.png) Kunkka
-- ![Naix](/images/miniheroes/life_stealer.png) Lifestealer
-- ![Drow](/images/miniheroes/drow_ranger.png) Drow Ranger [*Drow Ranger Guide*](https://steamcommunity.com/sharedfiles/filedetails/?id=1437157730)
-- ![Void](/images/miniheroes/faceless_void.png) Faceless Void
-- ![PL](/images/miniheroes/phantom_lancer.png) Phantom Lancer
-- ![Sniper](/images/miniheroes/sniper.png) Sniper
-- ![TA](/images/miniheroes/templar_assassin.png) Templar Assassin
-- ![CM](/images/miniheroes/crystal_maiden.png) Crystal Maiden [*Crystal Maiden Guide*](https://steamcommunity.com/sharedfiles/filedetails/?id=1442576452)
+- ![2](/images/miniheroes/night_stalker.png) Night Stalker
+- ![3](/images/miniheroes/omniknight.png) Omniknight
+- ![4](/images/miniheroes/sven.png) Sven [*Sven Guide*](https://steamcommunity.com/sharedfiles/filedetails/?id=1430456733)
+- ![5](/images/miniheroes/bounty_hunter.png) Bounty Hunter
+- ![6](/images/miniheroes/nyx_assassin.png) Nyx Assassin
+- ![7](/images/miniheroes/dazzle.png) Dazzle
+- ![8](/images/miniheroes/keeper_of_the_light.png) Keeper of the Light
+- ![9](/images/miniheroes/lich.png) Lich
+- ![10](/images/miniheroes/shadow_demon.png) Shadow Demon
+- ![11](/images/miniheroes/shadow_shaman.png) Shadow Shaman
+- ![12](/images/miniheroes/techies.png) Techies
 
 Enchanted Mango now restores 125 mana. The health regen is only 0.5 now.
 
@@ -30,32 +30,32 @@ Bonus heroes change at 03:00 UTC every day, 7pm Seattle time.
 There are 74,540,946,223,878 possible combinations of heroes for a single game of Dota.  
 There are 6,166,523,522,157,180 possible combinations of heroes for bonus heroes in Dota.
 
-## Bonus heroes for 19th July 2018
+## Bonus heroes for 23rd July 2018
 
-- ![1](/images/miniheroes/dragon_knight.png) Dragon Knight
-- ![2](/images/miniheroes/earth_spirit.png) Earth Spirit
-- ![3](/images/miniheroes/spirit_breaker.png) Spirit Breaker
-- ![4](/images/miniheroes/tusk.png) Tusk
-- ![5](/images/miniheroes/faceless_void.png) Faceless Void
-- ![6](/images/miniheroes/gyrocopter.png) Gyrocopter
-- ![7](/images/miniheroes/morphling.png) Morphling
+- ![1](/images/miniheroes/earthshaker.png) Earthshaker
+- ![2](/images/miniheroes/life_stealer.png) Lifestealer
+- ![3](/images/miniheroes/phoenix.png) Phoenix
+- ![4](/images/miniheroes/arc_warden.png) Arc Warden
+- ![5](/images/miniheroes/bounty_hunter.png) Bounty Hunter
+- ![6](/images/miniheroes/medusa.png) Medusa
+- ![7](/images/miniheroes/monkey_king.png) Monkey King
 - ![8](/images/miniheroes/viper.png) Viper
-- ![9](/images/miniheroes/invoker.png) Invoker
-- ![10](/images/miniheroes/shadow_demon.png) Shadow Demon
-- ![11](/images/miniheroes/shadow_shaman.png) Shadow Shaman
-- ![12](/images/miniheroes/techies.png) Techies
-
-## Bonus heroes for 20th July 2018
-
-- ![2](/images/miniheroes/doom_bringer.png) Doom
-- ![3](/images/miniheroes/tiny.png) Tiny
-- ![1](/images/miniheroes/abyssal_underlord.png) Underlord
-- ![4](/images/miniheroes/lone_druid.png) Lone Druid
-- ![5](/images/miniheroes/pangolier.png) Pangolier
-- ![6](/images/miniheroes/ancient_apparition.png) Ancient Apparition
-- ![7](/images/miniheroes/crystal_maiden.png) Crystal Maiden [*Crystal Maiden Guide*](https://steamcommunity.com/sharedfiles/filedetails/?id=1442576452)
-- ![8](/images/miniheroes/enchantress.png) Enchantress
-- ![9](/images/miniheroes/lich.png) Lich
-- ![10](/images/miniheroes/lion.png) Lion
+- ![9](/images/miniheroes/lina.png) Lina
+- ![10](/images/miniheroes/puck.png) Puck
 - ![11](/images/miniheroes/queenofpain.png) Queen of Pain
-- ![12](/images/miniheroes/silencer.png) Silencer
+- ![12](/images/miniheroes/warlock.png) Warlock
+
+## Bonus heroes for 24th July 2018
+
+- ![2](/images/miniheroes/tiny.png) Tiny
+- ![3](/images/miniheroes/gyrocopter.png) Gyrocopter
+- ![1](/images/miniheroes/meepo.png) Meepo
+- ![4](/images/miniheroes/naga_siren.png) Naga Siren
+- ![5](/images/miniheroes/nyx_assassin.png) Nyx Assassin
+- ![6](/images/miniheroes/viper.png) Viper
+- ![8](/images/miniheroes/ancient_apparition.png) Ancient Apparition
+- ![9](/images/miniheroes/bane.png) Bane
+- ![7](/images/miniheroes/crystal_maiden.png) Crystal Maiden [*Crystal Maiden Guide*](https://steamcommunity.com/sharedfiles/filedetails/?id=1442576452)
+- ![10](/images/miniheroes/dark_willow.png) Dark Willow [*Dark Willow*](https://steamcommunity.com/sharedfiles/filedetails/?id=1189494162)
+- ![11](/images/miniheroes/death_prophet.png) Death Prophet
+- ![12](/images/miniheroes/disruptor.png) Disruptor
