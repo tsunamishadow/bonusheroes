@@ -65,11 +65,11 @@ Record: 24-7 (77.42%)
 
 Team: Alliance (Sweden)
 
-![Loda](/images/miniheroes/chaos_knight.png)Jonathan "Loda" Berg  
-![s4](/images/miniheroes/puck.png)Gustav "s4" Magnusson  
-![Bulldog](/images/miniheroes/furion.png)Henrik "AdmiralBulldog" Ahnberg  
-![EGM](/images/miniheroes/wisp.png)Jerry "EGM" Lundkvist  
-![Akke](/images/miniheroes/crystal_maiden.png)Joakim "Akke" Akterhall  
+![Loda](/images/miniheroes/chaos_knight.png) ![Loda](/images/miniheroes/chaos_knight.png)Jonathan "Loda" Berg  
+![s4](/images/miniheroes/puck.png) ![s4](/images/miniheroes/puck.png)Gustav "s4" Magnusson  
+![Bulldog](/images/miniheroes/furion.png) ![Bulldog](/images/miniheroes/furion.png)Henrik "AdmiralBulldog" Ahnberg  
+![EGM](/images/miniheroes/wisp.png) ![EGM](/images/miniheroes/naga_siren.png)Jerry "EGM" Lundkvist  
+![Akke](/images/miniheroes/crystal_maiden.png) ![Akke](/images/miniheroes/chen.png)Joakim "Akke" Akterhall  
 
 Record: 23-3 (88.46%)
 
