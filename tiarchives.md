@@ -77,11 +77,11 @@ Record: 23-3 (88.46%)
 
 Team: Newbee (China)
 
-![Hao](/images/miniheroes/ember_spirit.png)Chen "Hao" Zhihao  
-![Mu](/images/miniheroes/brewmaster.png)Zhang "Mu" Pan  
-![xiao8](/images/miniheroes/doom.png)Zhang "xiao8" Ning  
-![banana](/images/miniheroes/rubick.png)Wang "Banana" Jiao  
-![Sansheng](/images/miniheroes/shadow_shaman.png)Wang "SanSheng" Zhaohui  
+![Hao](/images/miniheroes/ember_spirit.png) ![Hao](/images/miniheroes/weaver.png)Chen "Hao" Zhihao  
+![Mu](/images/miniheroes/brewmaster.png) ![Mu](/images/miniheroes/brewmaster.png)Zhang "Mu" Pan  
+![xiao8](/images/miniheroes/doom.png) ![xiao8](/images/miniheroes/furion.png)Zhang "xiao8" Ning  
+![banana](/images/miniheroes/rubick.png) ![banana](/images/miniheroes/shadow_shaman.png)Wang "Banana" Jiao  
+![Sansheng](/images/miniheroes/shadow_shaman.png) ![Sansheng](/images/miniheroes/shadow_shaman.png)Wang "SanSheng" Zhaohui  
 ~Sub: Tong "Mikasa" Junjie  
 
 Record: 20-12 (62.50%)
@@ -90,11 +90,11 @@ Record: 20-12 (62.50%)
 
 Team: Evil Geniuses (United States of America)
 
-![Fear](/images/miniheroes/gyrocopter.png)Clinton "Fear" Loomis  
-![sumail](/images/miniheroes/storm_spirit.png)Syed Sumail "SumaiL" Hassan  
-![universe](/images/miniheroes/earthshaker.png)Saahil "UNiVeRsE" Arora  
-![aui](/images/miniheroes/naga_siren.png)Kurtis "Aui_2000" Ling  
-![ppd](/images/miniheroes/ancient_apparition.png)Peter "ppd" Dager  
+![Fear](/images/miniheroes/gyrocopter.png) ![Fear](/images/miniheroes/gyrocopter.png)Clinton "Fear" Loomis  
+![sumail](/images/miniheroes/storm_spirit.png) ![sumail](/images/miniheroes/storm_spirit.png)Syed Sumail "SumaiL" Hassan  
+![universe](/images/miniheroes/earthshaker.png) ![universe](/images/miniheroes/rattletrap.png)Saahil "UNiVeRsE" Arora  
+![aui](/images/miniheroes/naga_siren.png) ![aui](/images/miniheroes/naga_siren.png)Kurtis "Aui_2000" Ling  
+![ppd](/images/miniheroes/ancient_apparition.png) ![ppd](/images/miniheroes/dazzle.png)Peter "ppd" Dager  
 ~Sub: Kanishka "BuLba" Sosale  
 
 Record: 19-8 (70.37%)
@@ -103,11 +103,11 @@ Record: 19-8 (70.37%)
 
 Team: Wings Gaming (China)
 
-![shadow](/images/miniheroes/antimage.png)Chu "shadow" Zeyu  
-![blink](/images/miniheroes/batrider.png)Zhou "bLink" Yang  
-![faithbian](/images/miniheroes/axe.png)Zhang "Faith_bian" Ruida  
-![y](/images/miniheroes/keeper_of_the_light.png)Zhang "y'" Yiping  
-![iceice](/images/miniheroes/elder_titan.png)Li "iceice" Peng  
+![shadow](/images/miniheroes/antimage.png) ![shadow](/images/miniheroes/faceless_void.png)Chu "shadow" Zeyu  
+![blink](/images/miniheroes/batrider.png) ![blink](/images/miniheroes/mirana.png)Zhou "bLink" Yang  
+![faithbian](/images/miniheroes/axe.png) ![faithbian](/images/miniheroes/slardar.png)Zhang "Faith_bian" Ruida  
+![y](/images/miniheroes/keeper_of_the_light.png) ![y](/images/miniheroes/oracle.png)Zhang "y'" Yiping  
+![iceice](/images/miniheroes/elder_titan.png) ![iceice](/images/miniheroes/elder_titan.png)Li "iceice" Peng  
 
 Record: 17-8 (68.00%)
 
@@ -115,11 +115,11 @@ Record: 17-8 (68.00%)
 
 Team: Team Liquid (Netherlands)
 
-![matu](/images/miniheroes/necrolyte.png)Lasse Aukusti "MATUMBAMAN" Urpalainen  
-![miracle](/images/miniheroes/juggernaut.png)Amer "Miracle-" Al-Barkawi  
-![mc](/images/miniheroes/dark_seer.png)Ivan Borislavov "MinD_ContRoL" Ivanov  
-![gh](/images/miniheroes/earthshaker.png)Maroun "GH" Merhej  
-![kuro](/images/miniheroes/lich.png)Kuro "KuroKy" Salehi Takhasomi  
+![matu](/images/miniheroes/necrolyte.png) ![matu](/images/miniheroes/necrolyte.png)Lasse Aukusti "MATUMBAMAN" Urpalainen  
+![miracle](/images/miniheroes/juggernaut.png) ![miracle](/images/miniheroes/troll_warlord.png)Amer "Miracle-" Al-Barkawi  
+![mc](/images/miniheroes/dark_seer.png) ![mc](/images/miniheroes/furion.png)Ivan Borislavov "MinD_ContRoL" Ivanov  
+![gh](/images/miniheroes/earthshaker.png) ![gh](/images/miniheroes/earthshaker.png)Maroun "GH" Merhej  
+![kuro](/images/miniheroes/lich.png) ![kuro](/images/miniheroes/lich.png)Kuro "KuroKy" Salehi Takhasomi  
 ~Sub: Lee "Heen" Seung Gon
 
 Record: 27-8 (77.14%)
