@@ -43,7 +43,7 @@ There are 6,166,523,522,157,180 possible combinations of heroes for bonus heroes
 - ![9](/images/miniheroes/lina.png) Lina
 - ![10](/images/miniheroes/pugna.png) Pugna
 - ![11](/images/miniheroes/silencer.png) Silencer
-- ![12](/images/miniheroes/witch doctor.png) Witch Doctor
+- ![12](/images/miniheroes/witch_doctor.png) Witch Doctor
 
 ## Bonus heroes for 28th July 2018
 
