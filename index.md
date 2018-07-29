@@ -36,3 +36,9 @@ Combines patch notes for non-heroes for recent patches (just in case you missed 
 ## [The International Archive of Trivia](/bonusheroes/tiarchives)
 
 Random Trivia about various internationals
+
+# Other Games
+
+## [Magic 2019 Draft Tier List](/bonusheroes/magicdrafttier.md)
+
+The best and worst cards for drafting the current set. (Unfinished)
