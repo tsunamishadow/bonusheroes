@@ -1,6 +1,11 @@
-# General Patch notes combined from 7.16 to 7.18
+# General Patch notes combined from 7.16 to 7.19
 
 **Does NOT include Hero changes**
+
+## Setup
+
+Bonus Heroes
+* Daily Bonus Hero changed from 2 Mangoes to 1
 
 ## Map
 
@@ -9,6 +14,9 @@ Bounty Runes
 
 Melee Barracks
 * Health increased from 1800 to 2000
+
+Trees 
+* 2 Trees added the cliff area below the Dire primary jungle shrine
 
 Roshan
 * Attack damage upgrade over time increased from 2.5/min to 4/min
