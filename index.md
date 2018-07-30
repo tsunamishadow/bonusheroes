@@ -39,6 +39,6 @@ Random Trivia about various internationals
 
 # Other Games
 
-## [Magic 2019 Draft Tier List](/bonusheroes/magicdrafttier.md)
+## [Magic 2019 Draft Tier List](/bonusheroes/magicdrafttier)
 
 The best and worst cards for drafting the current set. (Unfinished)
