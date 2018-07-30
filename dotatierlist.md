@@ -1,7 +1,9 @@
 # Dota Pub Hero Tier List
 This tier list is based on pub stats taken from Dotabuff, Opendota and Stratz. Most of this tier list is weighted toward Divine and Immortal with Crusader and lower winrates ignored.  
 This list is slightly influenced by competitive performances but is not useful for determining which heroes are strong for TI-level Dota.  
-Updated 16th July 2018, based on late-June/early-July performances.
+Updated 30th July 2018, based on July performances during 7.18.
+Due to 7.19, heroes here will be listed with either nerfed or buffed to give an indication of where they may expect to improve or fall off in effectiveness.
+
 
 ## Powerful
 Wins a considerable amount of games and can be easily Hero Spammed for MMR or wins. Very difficult to win against.
@@ -11,134 +13,137 @@ Wins a considerable amount of games and can be easily Hero Spammed for MMR or wi
 ## Strong
 Wins a lot of games. Hero specialists of these can easily gain wins and MMR, but most of the 'good hero' meta is made from these heroes.
 
-Broodmother  
-Visage  
+Visage *Change*  
+Broodmother *Nerfed*  
+Zeus *Nerfed*  
+Crystal Maiden *Nerfed*  
+Bloodseeker *Nerfed*  
 Clinkz  
-Axe  
-Zeus  
-Bloodseeker  
-Drow Ranger  
-Centaur Warrunner  
-Lycan  
 Chaos Knight  
-Vengeful Spirit  
-Undying  
-Wraith King  
-Phoenix  
-Crystal Maiden  
-Abaddon  
-Meepo  
-Treant Protector  
-Necrophos  
 Ursa  
-Spirit Breaker  
-Warlock  
+Axe  
+Wraith King  
+Necrophos *Nerfed*  
+Drow Ranger *Nerfed*  
+Vengeful Spirit  
+Enchantress *Nerfed*  
+Undying  
+Centaur Warrunner *Buffed*  
+Meepo  
+Abaddon *Buffed*  
+Phoenix *Nerfed*  
+Treant Protector *Nerfed*  
+Lycan  
 Silencer  
+
 
 ## High Average
 Wins more often than loses. But not enough to be strong, usually heroes here will get around 50% winrate. Can be good with or against strong or powerful heroes if they have good synergy or opposing matchup.
 
 Elder Titan  
-Phantom Lancer  
-Lich  
-Brewmaster  
-Enchantress  
-Weaver  
-Riki  
+Spirit Breaker  
 Terrorblade  
+Warlock  
+Lich  
+Riki *Buffed*  
+Weaver *Nerfed*  
+Pudge *Nerfed*  
+Brewmaster  
+Phantom Lancer *Nerfed*  
 Huskar  
-Pudge  
+Shadow Shaman *Buffed*  
 Dark Willow  
-Anti-Mage  
+Ancient Apparition *Buffed*  
 Underlord  
-Ancient Apparition  
-Shadow Shaman  
-Ogre Magi  
-Mirana  
+Anti-Mage  
 Earthshaker  
-Bristleback  
-Clockwerk  
-Bane  
-Night Stalker  
-Enigma  
-Winter Wyvern  
-Tidehunter  
-Invoker  
+Mirana  
+Winter Wyvern *Nerfed*  
 Arc Warden  
-Pugna  
-Chen  
-Dark Seer  
-Slardar  
-Sniper  
-Skywrath Mage  
+Enigma  
+Bristleback  
+Ogre Magi *Buffed*  
+Invoker  
+Dark Seer  	
+Sniper *Buffed*  
+Tidehunter  
+Bane  
+Storm Spirit  
+Nyx Assassin  
+Clockwerk  
+
 
 ## Low Average
 Wins just as often as they lose. Usually just lower than 50% winrate. Can be good with strong or powerful heroes if they have good synergy.
 
-Luna  
-Nyx Assassin  
-Dragon Knight  
-Storm Spirit  
-Omniknight  
-Oracle  
 Dazzle  
-Jakiro  
-Lion  
-Tinker  
-Phantom Assassin  
-Faceless Void  
-Doom  
-Windranger  
-Ember Spirit  
-Magnus  
-Witch Doctor  
-Slark  
-Shadow Demon  
-Juggernaut  
-Bounty Hunter  
-Sven  
-Templar Assassin  
-Venomancer  
-Kunkka  
+Slardar  
+Pugna *Nerfed*  
+Luna  
 Alchemist  
-Viper  
+Dragon Knight  
+Sven *Nerfed*  
+Oracle  
+Phantom Assassin  
+Lion  
+Omniknight  
+Jakiro  
+Skywrath Mage  
+Faceless Void  
+Tinker  
+Templar Assassin *Nerfed*  
+Juggernaut *Buffed*  
+Witch Doctor  
+Magnus  
+Bounty Hunter  
+Ember Spirit  
+Kunkka  
+Shadow Demon  
+Slark  
+Night Stalker  
+Doom  
+Windranger *Nerfed*  
 Legion Commander  
-Morphling  
+Venomancer  
+Viper  
 Disruptor  
-Queen of Pain  
 Keeper of the Light  
-Io  
+Morphling  
+Queen of Pain  
+Earth Spirit  
+Chen  
 Beastmaster  
 Monkey King  
-Earth Spirit  
-Naga Siren  
-Rubick  
+Tusk  
+Pangolier  
 
 ## Weak
 Heroes that lose more often than win. Usually around 45% winrate.
 
-Lifestealer  
-Tusk  
-Leshrac  
-Sand King  
+Rubick  
+Timbersaw *Buffed*  
 Troll Warlord  
 Medusa  
-Timbersaw  
-Techies  
+Lifestealer  
+Leshrac  
+Io  
+Naga Siren  
 Lina  
-Pangolier  
-Shadow Fiend  
-Death Prophet  
+Sand King  
 Lone Druid  
+Tiny  
+Shadow Fiend  
 Nature's Prophet  
 Razor  
-Tiny  
+Techies  
+Batrider  
+Death Prophet  
+
 
 ## Underpowered
 Heroes that lose a lot. Usually around 42% winrate. Almost always worth avoiding for anyone but hero specialists.
 
-Batrider  
 Gyrocopter  
-Outworld Devourer  
-Puck  
+Outworld Devourer *Buffed*  
+Puck *Buffed*  
 
