@@ -1,19 +1,19 @@
-# Bonus heroes for 29th July 2018
+# Bonus heroes for 30th July 2018
 
 [//]: # (List bonus heroes here, use /images/miniheroes/heroname for picture)
 
-- ![1](/images/miniheroes/dragon_knight.png) Dragon Knight
-- ![3](/images/miniheroes/elder_titan.png) Elder Titan
-- ![1](/images/miniheroes/legion_commander.png) Legion Commander
-- ![4](/images/miniheroes/slardar.png) Slardar
-- ![5](/images/miniheroes/faceless_void.png) Faceless Void
-- ![6](/images/miniheroes/medusa.png) Medusa
-- ![8](/images/miniheroes/slark.png) Slark
-- ![9](/images/miniheroes/troll_warlord.png) Troll Warlord
-- ![7](/images/miniheroes/ursa.png) Ursa
-- ![10](/images/miniheroes/dark_seer.png) Dark Seer
-- ![11](/images/miniheroes/dazzle.png) Dazzle
-- ![12](/images/miniheroes/zuus.png) Zeus
+- ![1](/images/miniheroes/life_stealer.png) Lifestealer
+- ![2](/images/miniheroes/sand_king.png) Sand King
+- ![4](/images/miniheroes/drow_ranger.png) Drow Ranger [*Drow Ranger Guide*](https://steamcommunity.com/sharedfiles/filedetails/?id=1437157730)
+- ![3](/images/miniheroes/lone_druid.png) Lone Druid
+- ![5](/images/miniheroes/morphling.png) Morphling
+- ![6](/images/miniheroes/naga_siren.png) Naga Siren
+- ![7](/images/miniheroes/nevermore.png) Shadow Fiend
+- ![8](/images/miniheroes/terrorblade.png) Terrorblade
+- ![9](/images/miniheroes/leshrac.png) Leshrac
+- ![10](/images/miniheroes/ogre_magi.png) Ogre Magi
+- ![11](/images/miniheroes/pugna.png) Pugna
+- ![12](/images/miniheroes/warlock.png) Warlock
 
 7.19 change: Bonus heroes now only give 1 Enchanted Mango.
 
@@ -32,22 +32,7 @@ Bonus heroes change at 03:00 UTC every day, 7pm Seattle time.
 There are 74,540,946,223,878 possible combinations of heroes for a single game of Dota.  
 There are 6,166,523,522,157,180 possible combinations of heroes for bonus heroes in Dota.
 
-## Bonus heroes for 30th July 2018
-
-- ![1](/images/miniheroes/life_stealer.png) Lifestealer
-- ![2](/images/miniheroes/sand_king.png) Sand King
-- ![4](/images/miniheroes/drow_ranger.png) Drow Ranger [*Drow Ranger Guide*](https://steamcommunity.com/sharedfiles/filedetails/?id=1437157730)
-- ![3](/images/miniheroes/lone_druid.png) Lone Druid
-- ![5](/images/miniheroes/morphling.png) Morphling
-- ![6](/images/miniheroes/naga_siren.png) Naga Siren
-- ![7](/images/miniheroes/nevermore.png) Shadow Fiend
-- ![8](/images/miniheroes/terrorblade.png) Terrorblade
-- ![9](/images/miniheroes/leshrac.png) Leshrac
-- ![10](/images/miniheroes/ogre_magi.png) Ogre Magi
-- ![11](/images/miniheroes/pugna.png) Pugna
-- ![12](/images/miniheroes/warlock.png) Warlock
-
-## Bonus heroes for 31th July 2018
+## Bonus heroes for 31st July 2018
 
 - ![1](/images/miniheroes/magnataur.png) Magnus
 - ![3](/images/miniheroes/bounty_hunter.png) Bounty Hunter
@@ -61,3 +46,18 @@ There are 6,166,523,522,157,180 possible combinations of heroes for bonus heroes
 - ![10](/images/miniheroes/ogre_magi.png) Ogre Magi
 - ![11](/images/miniheroes/oracle.png) Oracle
 - ![12](/images/miniheroes/puck.png) Puck
+
+## Bonus heroes for 1st August 2018
+
+- ![1](/images/miniheroes/centaur.png) Centaur
+- ![3](/images/miniheroes/sand_king.png) Sand King
+- ![1](/images/miniheroes/shredder.png) Timbersaw
+- ![4](/images/miniheroes/abyssal_underlord.png) Underlord
+- ![5](/images/miniheroes/naga_siren.png) Naga Siren
+- ![6](/images/miniheroes/vengefulspirit.png) Vengeful Spirit
+- ![8](/images/miniheroes/bane.png) Bane
+- ![9](/images/miniheroes/batrider.png) Batrider
+- ![7](/images/miniheroes/dark_seer.png) Dark Seer
+- ![10](/images/miniheroes/oracle.png) Oracle
+- ![11](/images/miniheroes/queenofpain.png) Queen of Pain
+- ![12](/images/miniheroes/storm_spirit.png) Storm Spirit
