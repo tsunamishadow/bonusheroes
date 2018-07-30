@@ -36,7 +36,7 @@ There are 6,166,523,522,157,180 possible combinations of heroes for bonus heroes
 
 - ![1](/images/miniheroes/magnataur.png) Magnus
 - ![3](/images/miniheroes/bounty_hunter.png) Bounty Hunter
-- ![1](/images/miniheroes/drow_ranger.png) Drow Ranger
+- ![1](/images/miniheroes/drow_ranger.png) Drow Ranger [*Drow Ranger Guide*](https://steamcommunity.com/sharedfiles/filedetails/?id=1437157730)
 - ![4](/images/miniheroes/phantom_lancer.png) Phantom Lancer
 - ![5](/images/miniheroes/riki.png) Riki
 - ![6](/images/miniheroes/spectre.png) Spectre
