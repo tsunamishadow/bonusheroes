@@ -2,7 +2,6 @@
 
 ## 1st Pick Tier
 
-
 Ajani, Adversary of Tyrants  
 Banefire  
 Bone Dragon  
@@ -50,3 +49,28 @@ Herald of Faith
 Shock  
 
 ![Pick 2](https://i.imgur.com/SEPMW3L.jpg)
+
+## 3rd Pick Tier
+
+Dark-Dweller Oracle  
+Departed Deckhand  
+Draconic Disciple  
+Dryad Greenseeker  
+Electrify  
+Gravedigger  
+Heroic Reinforcements  
+Horizon Scholar  
+Lich's Caress  
+Mystic Archaeologist  
+Open the Graves  
+Patient Rebuilding  
+Pegasus Courser  
+Reclamation Sage  
+Regal Bloodlord  
+Runic Armasaur  
+Sift  
+Transmogrifying Wand  
+Vampire Sovereign  
+Volcanic Dragon  
+
+![Pick 3](https://i.imgur.com/MxvqkIt.jpg)
