@@ -1,19 +1,19 @@
-# Bonus heroes for 2nd August 2018
+# Bonus heroes for 5th August 2018
 
 [//]: # (List bonus heroes here, use /images/miniheroes/heroname for picture)
 
-- ![1](/images/miniheroes/chaos_knight.png) Chaos Knight
-- ![2](/images/miniheroes/earthshaker.png) Earthshaker
-- ![4](/images/miniheroes/antimage.png) Anti-Mage
-- ![3](/images/miniheroes/ember_spirit.png) Ember Spirit
-- ![5](/images/miniheroes/juggernaut.png) Juggernaut
-- ![6](/images/miniheroes/mirana.png) Mirana
-- ![7](/images/miniheroes/nevermore.png) Shadow Fiend
-- ![8](/images/miniheroes/razor.png) Razor
-- ![9](/images/miniheroes/batrider.png) Batrider
-- ![10](/images/miniheroes/dazzle.png) Dazzke
-- ![11](/images/miniheroes/shadow_shaman.png) Shadow Shaman
-- ![12](/images/miniheroes/silencer.png) Silencer
+- ![1](/images/miniheroes/centaur.png) Centaur Warrunner
+- ![2](/images/miniheroes/elder_titan.png) Elder Titan
+- ![4](/images/miniheroes/legion_commander.png) Legion Commander
+- ![5](/images/miniheroes/life_stealer.png) Lifestealer
+- ![6](/images/miniheroes/sand_king.png) Sand King
+- ![7](/images/miniheroes/skeleton_king.png) Wraith King
+- ![8](/images/miniheroes/ember_spirit.png) Ember Spirit
+- ![9](/images/miniheroes/lone_druid.png) Lone Druid
+- ![10](/images/miniheroes/razor.png) Razor
+- ![3](/images/miniheroes/dark_willow.png) Dark Willow
+- ![11](/images/miniheroes/disruptor.png) Disruptor
+- ![12](/images/miniheroes/ogre_magi.png) Ogre Magi
 
 7.19 change: Bonus heroes now only give 1 Enchanted Mango.
 
@@ -32,32 +32,32 @@ Bonus heroes change at 03:00 UTC every day, 7pm Seattle time.
 There are 74,540,946,223,878 possible combinations of heroes for a single game of Dota.  
 There are 6,166,523,522,157,180 possible combinations of heroes for bonus heroes in Dota.
 
-## Bonus heroes for 3rd August 2018
+## Bonus heroes for 6th August 2018
 
 - ![1](/images/miniheroes/bristleback.png) Bristleback
-- ![3](/images/miniheroes/rattletrap.png) Clockwerk
-- ![1](/images/miniheroes/skeleton_king.png) Wraith King
-- ![4](/images/miniheroes/arc_warden.png) Arc Warden
-- ![5](/images/miniheroes/medusa.png) Medusa
-- ![6](/images/miniheroes/mirana.png) Mirana
+- ![3](/images/miniheroes/magnataur.png) Magnus
+- ![1](/images/miniheroes/night_stalker.png) Night Stalker
+- ![4](/images/miniheroes/bounty_hunter.png) Bounty Hunter
+- ![5](/images/miniheroes/meepo.png) Meepo
 - ![8](/images/miniheroes/monkey_king.png) Monkey King
-- ![9](/images/miniheroes/disruptor.png) Disruptor
-- ![7](/images/miniheroes/furion.png) Nature's Prophet
-- ![10](/images/miniheroes/shadow_demon.png) Shadow Demon
-- ![11](/images/miniheroes/shadow_shaman.png) Shadow Shaman
-- ![12](/images/miniheroes/winter_wyvern.png) Winter Wyvern
+- ![11](/images/miniheroes/templar_assassin.png) Templar Assassin
+- ![2](/images/miniheroes/terrorblade.png) Terrorblade
+- ![9](/images/miniheroes/bane.png) Bane
+- ![7](/images/miniheroes/obsidian_destroyer.png) Outworld Devourer
+- ![10](/images/miniheroes/oracle.png) Oracle 
+- ![11](/images/miniheroes/rubick.png) Rubick 
 
-## Bonus heroes for 4th August 2018
+## Bonus heroes for 7th August 2018
 
-- ![1](/images/miniheroes/wisp.png) Io
-- ![7](/images/miniheroes/tusk.png) Tusk
-- ![3](/images/miniheroes/bounty_hunter.png) Bounty Hunter
-- ![1](/images/miniheroes/drow_ranger.png) Drow Ranger
-- ![4](/images/miniheroes/ember_spirit.png) Ember Spirit
-- ![5](/images/miniheroes/mirana.png) Mirana
-- ![6](/images/miniheroes/monkey_king.png) Monkey King
-- ![8](/images/miniheroes/morphling.png) Morphling
-- ![9](/images/miniheroes/sniper.png) Sniper
-- ![10](/images/miniheroes/ancient_apparition.png) Ancient Apparition
-- ![11](/images/miniheroes/storm_spirit.png) Storm Spirit
-- ![12](/images/miniheroes/techies.png) Techies
+- ![1](/images/miniheroes/brewmaster.png) Brewmaster
+- ![7](/images/miniheroes/doom_bringer.png) Doom
+- ![3](/images/miniheroes/elder_titan.png) Elder Titan
+- ![1](/images/miniheroes/skeleton_king.png) Wraith King
+- ![4](/images/miniheroes/broodmother.png) Broodmother
+- ![5](/images/miniheroes/medusa.png) Medusa
+- ![6](/images/miniheroes/weaver.png) Weaver
+- ![8](/images/miniheroes/keeper_of_the_light.png) Keeper of the Light
+- ![9](/images/miniheroes/leshrac.png) Leshrac
+- ![10](/images/miniheroes/lina.png) Lina
+- ![11](/images/miniheroes/ogre_magi.png) Ogre Magi
+- ![12](/images/miniheroes/shadow_shaman.png) Shadow Shaman
