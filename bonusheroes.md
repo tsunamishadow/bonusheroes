@@ -1,19 +1,19 @@
-# Bonus heroes for 8th August 2018
+# Bonus heroes for 11th August 2018
 
 [//]: # (List bonus heroes here, use /images/miniheroes/heroname for picture)
 
+- ![2](/images/miniheroes/abaddon.png) Abaddon
+- ![4](/images/miniheroes/dragon_knight.png) Dragon Knight
 - ![1](/images/miniheroes/earth_spirit.png) Earth Spirit
-- ![2](/images/miniheroes/elder_titan.png) Elder Titan
-- ![4](/images/miniheroes/phoenix.png) Phoenix
-- ![5](/images/miniheroes/arc_warden.png) Arc Warden
-- ![6](/images/miniheroes/faceless_void.png) Faceless Void
-- ![7](/images/miniheroes/gyrocopter.png) Gyrocopter
-- ![8](/images/miniheroes/razor.png) Razor
-- ![9](/images/miniheroes/venomancer.png) Venomancer
-- ![10](/images/miniheroes/ancient_apparition.png) Ancient Apparition
-- ![3](/images/miniheroes/enchantress.png) Enchantress
+- ![5](/images/miniheroes/bloodseeker.png) Bloodseeker
+- ![6](/images/miniheroes/clinkz.png) Clinkz
+- ![7](/images/miniheroes/lone_druid.png) Lone Druid
+- ![8](/images/miniheroes/meepo.png) Meepo
+- ![9](/images/miniheroes/monkey_king.png) Monkey King
+- ![10](/images/miniheroes/chen.png) Chen
 - ![11](/images/miniheroes/furion.png) Nature's Prophet
-- ![12](/images/miniheroes/ogre_magi.png) Ogre Magi
+- ![3](/images/miniheroes/pugna.png) Pugna
+- ![12](/images/miniheroes/zuus.png) Zeus
 
 7.19 change: Bonus heroes now only give 1 Enchanted Mango.
 
@@ -32,32 +32,32 @@ Bonus heroes change at 03:00 UTC every day, 7pm Seattle time.
 There are 74,540,946,223,878 possible combinations of heroes for a single game of Dota.  
 There are 6,166,523,522,157,180 possible combinations of heroes for bonus heroes in Dota.
 
-## Bonus heroes for 9th August 2018
+## Bonus heroes for 12th August 2018
 
-- ![1](/images/miniheroes/earth_spirit.png) Earth Spirit
-- ![3](/images/miniheroes/earthshaker.png) Earthshaker
-- ![1](/images/miniheroes/broodmother.png) Broodmother
-- ![4](/images/miniheroes/ember_spirit.png) Ember Spirit
-- ![5](/images/miniheroes/lone_druid.png) Lone Druid
-- ![8](/images/miniheroes/luna.png) Luna
-- ![11](/images/miniheroes/meepo.png) Meepo
-- ![2](/images/miniheroes/mirana.png) Mirana
-- ![9](/images/miniheroes/pangolier.png) Pangolier
-- ![7](/images/miniheroes/slark.png) Slark
-- ![10](/images/miniheroes/sniper.png) Sniper 
-- ![11](/images/miniheroes/lion.png) Lion
+- ![1](/images/miniheroes/centaur.png) Centaur Warrunner
+- ![3](/images/miniheroes/life_stealer.png) Lifestealer
+- ![1](/images/miniheroes/pudge.png) Pudge
+- ![4](/images/miniheroes/abyssal_underlord.png) Underlord
+- ![5](/images/miniheroes/morphling.png) Morphling
+- ![8](/images/miniheroes/troll_warlord.png) Troll Warlord
+- ![11](/images/miniheroes/viper.png) Viper
+- ![2](/images/miniheroes/bane.png) Bane
+- ![9](/images/miniheroes/enchantress.png) Enchantress
+- ![7](/images/miniheroes/furion.png) Nature's Prophet
+- ![10](/images/miniheroes/oracle.png) Oracle
+- ![11](/images/miniheroes/storm_spirit.png) Storm Spirit
 
-## Bonus heroes for 10th August 2018
+## Bonus heroes for 13th August 2018
 
-- ![1](/images/miniheroes/life_stealer.png) Lifestealer
-- ![7](/images/miniheroes/tidehunter.png) Tidehunter
-- ![3](/images/miniheroes/tiny.png) Tiny
-- ![1](/images/miniheroes/treant.png) Treant Protector
+- ![1](/images/miniheroes/alchemist.png) Alchemist
+- ![7](/images/miniheroes/doom_bringer.png) Doom
+- ![3](/images/miniheroes/dragon_knight.png) Dragon Knight
+- ![1](/images/miniheroes/tidehunter.png) Tidehunter
 - ![4](/images/miniheroes/skeleton_king.png) Wraith King
-- ![5](/images/miniheroes/nevermore.png) Shadow Fiend
-- ![6](/images/miniheroes/sniper.png) Sniper
-- ![8](/images/miniheroes/ursa.png) Ursa
-- ![9](/images/miniheroes/weaver.png) Weaver
-- ![10](/images/miniheroes/chen.png) Chen
-- ![11](/images/miniheroes/silencer.png) Silener
-- ![12](/images/miniheroes/techies.png) Techies
+- ![5](/images/miniheroes/clinkz.png) Clinkz
+- ![6](/images/miniheroes/drow_ranger.png) Drow Ranger
+- ![8](/images/miniheroes/faceless_void.png) Faceless Void
+- ![9](/images/miniheroes/naga_siren.png) Naga Siren
+- ![10](/images/miniheroes/razor.png) Razor
+- ![11](/images/miniheroes/furion.png) Nature's Prophet
+- ![12](/images/miniheroes/obsidian_destroyer.png) Outworld Devourer
