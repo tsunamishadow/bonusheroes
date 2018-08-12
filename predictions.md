@@ -36,6 +36,7 @@ Good ideas are:
 * Morphling
 * Magnus
 * Visage
+
 I'm going with **Lycan** here.
 
 ### Hero with highest Kill average
@@ -44,6 +45,7 @@ Right now there are only three real cadidates:
 * Storm Spirit
 * Morphling
 * Slark
+
 I'm going with **Storm Spirit**.
 
 ### Hero with highest Assist average
@@ -52,7 +54,8 @@ Easily **Zeus**, if however you don't expect Zeus to be picked often enough to m
 * Elder Titan
 * Naga Siren
 * Nightstalker
-### Hero with lowest  Death average
+
+### Hero with lowest Death average
 There seems to be one weird stastical outlier: **Drow Ranger**, but while she ranks well in statistics she isn't played a lot, isn't particularly favored amongst these teams and her actual in game ability to not die are good reasons to not pick her.
 
 Still, she's a good hero right now so a few picks with a couple wins can easily see Drow win this award.
@@ -89,6 +92,7 @@ This is an incredibly tricky one, and is largely determined by team matchup rath
 * Storm Spirit
 * Tinker
 * Windranger
+
 I'm picking Ember simply because of recent performances by some of the pros at TI, but it's honestly a wild toss up.
 
 ### Hero with most Last Hits in a game
@@ -119,7 +123,7 @@ Realistically, it's hard to pick this one correctly, as no one really knows what
 Note: Teams that are likely to do well or top their group are teams that can score high winrates against the majority of the field.
 
 ### Team with the most kills in a game
-This one is horribly difficult to predict, this will happen in the game that last the longest and to the team that usually ends up the winner. We can take a few things though, teams that kill a lot and can consistently win against teams that like long games. So the realistic options are:
+This one is horribly difficult to predict, this will happen in the game that lastS the longest and to the team that usually ends up the winner. We can take a few things though, teams that kill a lot and can consistently win against teams that like long games. So the realistic options are:
 
 - paiN Gaming
 - Winstrike
@@ -201,7 +205,7 @@ Good candidates are:
 My pick is on **Fnatic**
 
 ## Players
-Okay, after nearly a week of research, watching games, watching pubgames, acquiring opinions and trying to watch secret practice matches I've concluded one this.
+Okay, after nearly a week of research, watching games, watching pubgames, acquiring opinions and trying to watch secret practice matches I've concluded this.
 *This category is impossible to get completely correct.*
 In fact the last couple of times people have predicted players, even from people in the know, out of the 10 categories people have got an average of 0.1 of them correct.
 So here's my strategy: **Pick this category entirely at random**
