@@ -37,6 +37,10 @@ Combines patch notes for non-heroes for recent patches (just in case you missed 
 
 Random Trivia about various internationals
 
+## [Compendium International Predictions Guide](/bonusheroes/predictions)
+
+A guide to help with the Compendium Predictions
+
 # Other Games
 
 ## [Magic 2019 Draft Tier List](/bonusheroes/magicdrafttier)
