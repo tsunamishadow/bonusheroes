@@ -65,6 +65,7 @@ As far as other candidates:
 * Lycan
 * Mirana
 * Morphling
+
 ### Hero with highest last hits average
 You have only two realistic options: **Luna** and Phantom Lancer. You could also make a case for Storm Spirit, but Storm with these teams generally doesn't like to hit creeps even in long games.
 
@@ -86,7 +87,7 @@ I'm going with Morphling simply because he's the least popular in this list and 
 This is an incredibly tricky one, and is largely determined by team matchup rather than hero matchup. Traditionally you should pick a midlaner that loves long games, so good candidates are:
 
 * Bloodseeker
- **Ember Spirit**
+* **Ember Spirit**
 * Mirana
 * Shadow Fiend
 * Storm Spirit
