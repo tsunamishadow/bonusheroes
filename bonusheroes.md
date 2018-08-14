@@ -1,19 +1,19 @@
-# Bonus heroes for 11th August 2018
+# Bonus heroes for 14th August 2018
 
 [//]: # (List bonus heroes here, use /images/miniheroes/heroname for picture)
 
 - ![2](/images/miniheroes/abaddon.png) Abaddon
-- ![4](/images/miniheroes/dragon_knight.png) Dragon Knight
-- ![1](/images/miniheroes/earth_spirit.png) Earth Spirit
-- ![5](/images/miniheroes/bloodseeker.png) Bloodseeker
-- ![6](/images/miniheroes/clinkz.png) Clinkz
-- ![7](/images/miniheroes/lone_druid.png) Lone Druid
-- ![8](/images/miniheroes/meepo.png) Meepo
-- ![9](/images/miniheroes/monkey_king.png) Monkey King
-- ![10](/images/miniheroes/chen.png) Chen
-- ![11](/images/miniheroes/furion.png) Nature's Prophet
-- ![3](/images/miniheroes/pugna.png) Pugna
-- ![12](/images/miniheroes/zuus.png) Zeus
+- ![4](/images/miniheroes/bristleback.png) Bristleback
+- ![1](/images/miniheroes/spirit_breaker.png) Spirit Breaker
+- ![5](/images/miniheroes/luna.png) Luna
+- ![6](/images/miniheroes/phantom_assassin.png) Phantom Assassin
+- ![7](/images/miniheroes/templar_assassin.png) Templar Assassin
+- ![8](/images/miniheroes/venomancer.png) Venomancer
+- ![9](/images/miniheroes/oracle.png) Oracle
+- ![10](/images/miniheroes/pugna.png) Pugna
+- ![11](/images/miniheroes/rubick.png) Rubick
+- ![3](/images/miniheroes/silencer.png) Silencer
+- ![12](/images/miniheroes/skywrath_mage.png) Skywrath Mage
 
 7.19 change: Bonus heroes now only give 1 Enchanted Mango.
 
@@ -32,7 +32,9 @@ Bonus heroes change at 03:00 UTC every day, 7pm Seattle time.
 There are 74,540,946,223,878 possible combinations of heroes for a single game of Dota.  
 There are 6,166,523,522,157,180 possible combinations of heroes for bonus heroes in Dota.
 
-## Bonus heroes for 12th August 2018
+## Bonus heroes for 15th August 2018
+
+dark willow, leshrac, lich, magnataur, oracle, pudge, shadow shaman, spectre, spirit breaker, storm spirit, troll warlord, tusk
 
 - ![1](/images/miniheroes/centaur.png) Centaur Warrunner
 - ![3](/images/miniheroes/life_stealer.png) Lifestealer
@@ -47,7 +49,7 @@ There are 6,166,523,522,157,180 possible combinations of heroes for bonus heroes
 - ![10](/images/miniheroes/oracle.png) Oracle
 - ![11](/images/miniheroes/storm_spirit.png) Storm Spirit
 
-## Bonus heroes for 13th August 2018
+## Bonus heroes for 16th August 2018
 
 - ![1](/images/miniheroes/alchemist.png) Alchemist
 - ![7](/images/miniheroes/doom_bringer.png) Doom
