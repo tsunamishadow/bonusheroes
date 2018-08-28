@@ -30,6 +30,10 @@
 
 ![sk](/images/miniheroes/sand_king.png) ![qop](/images/miniheroes/queenofpain.png) ![puck](/images/miniheroes/puck.png) ![nyx](/images/miniheroes/nyx_assassin.png) ![shaker](/images/miniheroes/earthshaker.png)
 
+### The International 8
+
+![venge](/images/miniheroes/vengefulspirit.png) ![mirana](/images/miniheroes/mirana.png) ![dw](/images/miniheroes/dark_willow.png) ![weaver](/images/miniheroes/weaver.png) ![skeleton](/images/miniheroes/skeleton_king.png)
+
 ## Names on the Aegis
 
 *The first hero shown is the hero the player played in the last game, the second hero is the hero that player had the highest number of wins with during the tournament. (In the case of a tie, then the most played hero is shown between them).*
@@ -123,6 +127,19 @@ Team: Team Liquid (Netherlands)
 ~Sub: Lee "Heen" Seung Gon
 
 Record: 27-8 (77.14%)
+
+### The International 8
+
+Team: OG (Denmark)
+
+Anathan "ana" Pham  
+Topias “Topson” Taavitsainen  
+Sébastien “Ceb” Debs  
+Jesse “JerAx” Vainikka  
+Johan “N0tail” Sundstein  
+~Sub: Cristian "ppasarel" Banaseanu
+
+Record: 18-11 (62.07%)
 
 ## Other high performing players
 
