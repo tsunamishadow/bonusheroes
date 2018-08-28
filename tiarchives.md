@@ -36,7 +36,8 @@
 
 ## Names on the Aegis
 
-*The first hero shown is the hero the player played in the last game, the second hero is the hero that player had the highest number of wins with during the tournament. (In the case of a tie, then the most played hero is shown between them, then best average KDA).*
+*The first hero shown is the hero the player played in the last game, the second hero is the hero that player had the highest number of wins with during the tournament. (In the case of a tie, then the most played hero is shown between them, then best average KDA).*  
+*Nationality of player shown if different to nation of team.*
 
 ### The International 1
 
@@ -45,8 +46,8 @@ Team: Natus Vincere (Ukraine)
 ![Dendi](/images/miniheroes/puck.png)Danil "Dendi" Ishutin  
 ![Artstyle](/images/miniheroes/slardar.png)Ivan "Artstyle" Antonov  
 ![XBOCT](/images/miniheroes/weaver.png)Александр "XBOCT" Александр *(Pronounced: Alexander "hwoust" Dashkevich)*  
-![Puppey](/images/miniheroes/chen.png)Clement "Puppey" Ivanov  
-![Lightofheaven](/images/miniheroes/beastmaster.png)Dmitry "LighTofHeaveN" Kupriyanov  
+![Puppey](/images/miniheroes/chen.png)Clement "Puppey" Ivanov *\Estonia*  
+![Lightofheaven](/images/miniheroes/beastmaster.png)Dmitry "LighTofHeaveN" Kupriyanov *\Russia*  
 ~Sub: Dmitry "McDee" Bieletskyi
 
 Record: 9-1 (90.00%)
@@ -95,9 +96,9 @@ Record: 20-12 (62.50%)
 Team: Evil Geniuses (United States of America)
 
 ![Fear](/images/miniheroes/gyrocopter.png) ![Fear](/images/miniheroes/gyrocopter.png)Clinton "Fear" Loomis  
-![sumail](/images/miniheroes/storm_spirit.png) ![sumail](/images/miniheroes/storm_spirit.png)Syed Sumail "SumaiL" Hassan  
+![sumail](/images/miniheroes/storm_spirit.png) ![sumail](/images/miniheroes/storm_spirit.png)Syed Sumail "SumaiL" Hassan *\Pakistan*  
 ![universe](/images/miniheroes/earthshaker.png) ![universe](/images/miniheroes/rattletrap.png)Saahil "UNiVeRsE" Arora  
-![aui](/images/miniheroes/naga_siren.png) ![aui](/images/miniheroes/naga_siren.png)Kurtis "Aui_2000" Ling  
+![aui](/images/miniheroes/naga_siren.png) ![aui](/images/miniheroes/naga_siren.png)Kurtis "Aui_2000" Ling *\Canada*  
 ![ppd](/images/miniheroes/ancient_apparition.png) ![ppd](/images/miniheroes/dazzle.png)Peter "ppd" Dager  
 ~Sub: Kanishka "BuLba" Sosale  
 
@@ -119,12 +120,12 @@ Record: 17-8 (68.00%)
 
 Team: Team Liquid (Netherlands)
 
-![matu](/images/miniheroes/necrolyte.png) ![matu](/images/miniheroes/necrolyte.png)Lasse Aukusti "MATUMBAMAN" Urpalainen  
-![miracle](/images/miniheroes/juggernaut.png) ![miracle](/images/miniheroes/troll_warlord.png)Amer "Miracle-" Al-Barkawi  
-![mc](/images/miniheroes/dark_seer.png) ![mc](/images/miniheroes/furion.png)Ivan Borislavov "MinD_ContRoL" Ivanov  
-![gh](/images/miniheroes/earthshaker.png) ![gh](/images/miniheroes/earthshaker.png)Maroun "GH" Merhej  
-![kuro](/images/miniheroes/lich.png) ![kuro](/images/miniheroes/lich.png)Kuro "KuroKy" Salehi Takhasomi  
-~Sub: Lee "Heen" Seung Gon
+![matu](/images/miniheroes/necrolyte.png) ![matu](/images/miniheroes/necrolyte.png)Lasse Aukusti "MATUMBAMAN" Urpalainen *\Finland*  
+![miracle](/images/miniheroes/juggernaut.png) ![miracle](/images/miniheroes/troll_warlord.png)Amer "Miracle-" Al-Barkawi *\Jordan/Poland*  
+![mc](/images/miniheroes/dark_seer.png) ![mc](/images/miniheroes/furion.png)Ivan Borislavov "MinD_ContRoL" Ivanov *\Bulgaria*  
+![gh](/images/miniheroes/earthshaker.png) ![gh](/images/miniheroes/earthshaker.png)Maroun "GH" Merhej *\Lebanon*  
+![kuro](/images/miniheroes/lich.png) ![kuro](/images/miniheroes/lich.png)Kuro "KuroKy" Salehi Takhasomi *\Germany*  
+~Sub: Lee "Heen" Seung Gon *\South Korea*
 
 Record: 27-8 (77.14%)
 
@@ -132,12 +133,12 @@ Record: 27-8 (77.14%)
 
 Team: OG (Denmark)
 
-![ana](/images/miniheroes/ember_spirit.png) ![ana](/images/miniheroes/phantom_lancer.png) Anathan "ana" Pham  
-![top](/images/miniheroes/zuus.png) ![top](/images/miniheroes/invoker.png) Topias “Topson” Taavitsainen  
-![ceb](/images/miniheroes/magnataur.png) ![ceb](/images/miniheroes/furion.png)Sébastien “Ceb” Debs  
-![jer](/images/miniheroes/rubick.png) ![jer](/images/miniheroes/earthshaker.png) Jesse “JerAx” Vainikka  
+![ana](/images/miniheroes/ember_spirit.png) ![ana](/images/miniheroes/phantom_lancer.png) Anathan "ana" Pham *\Australia*  
+![top](/images/miniheroes/zuus.png) ![top](/images/miniheroes/invoker.png) Topias “Topson” Taavitsainen *\Finland*  
+![ceb](/images/miniheroes/magnataur.png) ![ceb](/images/miniheroes/furion.png)Sébastien “Ceb” Debs *\France*  
+![jer](/images/miniheroes/rubick.png) ![jer](/images/miniheroes/earthshaker.png) Jesse “JerAx” Vainikka *|Finland*  
 ![bdn](/images/miniheroes/furion.png) ![bdn](/images/miniheroes/silencer.png) Johan “N0tail” Sundstein  
-~Sub: Cristian "ppasarel" Banaseanu
+~Sub: Cristian "ppasarel" Banaseanu *\Belgium*
 
 Record: 18-11 (62.07%)
 
