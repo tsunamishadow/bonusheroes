@@ -36,7 +36,7 @@
 
 ## Names on the Aegis
 
-*The first hero shown is the hero the player played in the last game, the second hero is the hero that player had the highest number of wins with during the tournament. (In the case of a tie, then the most played hero is shown between them).*
+*The first hero shown is the hero the player played in the last game, the second hero is the hero that player had the highest number of wins with during the tournament. (In the case of a tie, then the most played hero is shown between them, then best average KDA).*
 
 ### The International 1
 
@@ -132,11 +132,11 @@ Record: 27-8 (77.14%)
 
 Team: OG (Denmark)
 
-Anathan "ana" Pham  
-Topias “Topson” Taavitsainen  
-Sébastien “Ceb” Debs  
-Jesse “JerAx” Vainikka  
-Johan “N0tail” Sundstein  
+![ana](/images/miniheroes/ember_spirit.png) ![ana](/images/miniheroes/phantom_lancer.png) Anathan "ana" Pham  
+![top](/images/miniheroes/zuus.png) ![top](/images/miniheroes/invoker.png) Topias “Topson” Taavitsainen  
+![ceb](/images/miniheroes/magnataur.png) ![ceb](/images/miniheroes/furion.png)Sébastien “Ceb” Debs  
+![jer](/images/miniheroes/rubick.png) ![jer](/images/miniheroes/earthshaker.png) Jesse “JerAx” Vainikka  
+![bdn](/images/miniheroes/furion.png) ![bdn](/images/miniheroes/silencer.png) Johan “N0tail” Sundstein  
 ~Sub: Cristian "ppasarel" Banaseanu
 
 Record: 18-11 (62.07%)
@@ -144,4 +144,5 @@ Record: 18-11 (62.07%)
 ## Other high performing players
 
 Liu "Sylar" Jiajun: 3rd TI2 with LGD, 2nd TI4 with Vici Gaming, 3rd TI5 with LGD.  
-Xie "Super" Junhao: 4th TI2 with Team DK, 2nd TI4 with Vici Gaming, 4th TI5 with Vici Gaming, 3rd TI7 with LGD.Forever Young.
+Xie "Super" Junhao: 4th TI2 with Team DK, 2nd TI4 with Vici Gaming, 4th TI5 with Vici Gaming, 3rd TI7 with LGD.Forever Young.  
+Xu "fy" Linsen: 2nd TI4 with Vici Gaming, 4th TI5 with Vici Gaming, 13th-16th TI6 with Vici Gaming Reborn, 2nd TI8 with PSG.LGD.
