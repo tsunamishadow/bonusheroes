@@ -15,7 +15,7 @@ A now defunct guide for the TI Battlepass.
 
 ## [Bonus Heroes Rotation](/bonusheroes/bonusheroes)
 
-List of Bonus Heroes for today and tomorrow, also includes links to guides for some of the heroes.
+List of Bonus Heroes for today and tomorrow, also includes links to guides for some of the heroes. **Currently under reconstruction**
 
 ## [Dota Time Events](/bonusheroes/dotatimeevents)
 
