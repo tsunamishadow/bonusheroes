@@ -1,3 +1,7 @@
+# RECONSTRUCTION
+
+**Due to the addition of Grimstroke, this page is under reconstruction.**
+
 # Bonus heroes for 14th August 2018
 
 [//]: # (List bonus heroes here, use /images/miniheroes/heroname for picture)
