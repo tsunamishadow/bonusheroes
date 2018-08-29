@@ -5,6 +5,10 @@
 
 A hero tier list sorting heroes that are currently strong and weak in the pub meta. Last updated 30th July 2018.
 
+## [Dota Competitive Hero Tier List](/bonusheroes/comptierlist)
+
+A hero tier list sorting heroes that are currently highly contested in competitive Dota. Last updated after TI8.
+
 ## [Birmingham Major Guide](/bonusheroes/Birmingham)
 
 A now defunct guide for the Birmingham Major for visitors.
