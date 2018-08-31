@@ -101,6 +101,7 @@ Long Cooldown Ultimates and Abilities. Only listed here if two of the Levels of 
 |Focus Fire|70 ^Agh^|
 |Rolling Thunder|70 ^Tal^|
 |False Promise|100/65/30|
+|Soulbind|80/65/50|
 |Culling Blade|75/65/55|
 |Dream Coil|70/65/60|
 |Laguna Blade|70/60/50|
