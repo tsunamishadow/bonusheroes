@@ -1,4 +1,4 @@
-# General Patch notes combined from 7.16 to 7.19
+# General Patch notes combined from 7.16 to 7.19b
 
 **Does NOT include Hero changes**
 
@@ -11,6 +11,15 @@ Bonus Heroes
 
 Bounty Runes
 * Team gold reduced from 40 + 3/min to 40 + 2/min
+
+Buyback
+* Buyback respawn time penalty changed from +25% of remaining time to +25s always
+
+Experience
+* Level 2 XP requirement changed from 200 to 230. (Total XP needed for other levels unchanged.)
+
+Glyph
+* Glyph is now on cooldown until the 3 minute timer in-game
 
 Melee Barracks
 * Health increased from 1800 to 2000
@@ -43,11 +52,17 @@ Enchanted Mango
 Eul's Scepter of Divinity
 * Bonus movement speed reduced from +40 to +30
 
+Guardian Greaves
+* Heal increased from 250 to 275
+
 Hand of Midas
 * Cooldown reduced from 100 to 90
 
 Maelstrom
 * Chain Lightning damage reduced from 170 to 160
+
+Mekansm
+* Heal increased from 250 to 275
 
 Moon Shard
 * Attack Speed increased from 130 to 140
@@ -59,14 +74,24 @@ Nullifier
 Orb of Venom
 * Damage per second reduced from 5 to 3 on ranged heroes
 
+Phase Boots
+* Speed bonus on ranged heroes reduced from 16% to 13%
+* Instant turn rate is now a melee only feature
+
 Refresher Orb
 * Recipe cost reduced from 1800 to 1700
+
+Ring of Aquila
+* Bonus damage reduced from 10 to 7
 
 Rod of Atos
 * Recipe cost reduced from 1100 to 1000
 
 Sentry Ward
 * Duration increased from 4 to 6 minutes
+
+Scythe of Vyse
+* Manacost increased from 100 to 250
 
 Shadow Amulet
 * Cost increased from 1300 to 1400
@@ -80,9 +105,19 @@ Skull Basher
 Solar Crest
 * Base evasion reduced from 20% to 15% (active is still 20%)
 
+Spirit Vessel
+* Heal rate reduced from 35 to 30
+* Movement speed bonus reduced from 30 to 20
+
+Stout Shield
+* Damage block for melee heroes increased from 18 to 20
+
 Talisman of Evasion
 * Evasion reduced from 20% to 15%
 * Cost reduced from 1450 to 1400
+
+Urn of Shadows
+* Heal rate reduced from 35 to 30
 
 Vladmir's Offering
 * Mana regeneration increased from 0.65 to 1
