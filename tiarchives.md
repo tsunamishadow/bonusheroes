@@ -136,7 +136,7 @@ Team: OG (Denmark)
 ![ana](/images/miniheroes/ember_spirit.png) ![ana](/images/miniheroes/phantom_lancer.png) Anathan "ana" Pham *\Australia*  
 ![top](/images/miniheroes/zuus.png) ![top](/images/miniheroes/invoker.png) Topias “Topson” Taavitsainen *\Finland*  
 ![ceb](/images/miniheroes/magnataur.png) ![ceb](/images/miniheroes/furion.png)Sébastien “Ceb” Debs *\France*  
-![jer](/images/miniheroes/rubick.png) ![jer](/images/miniheroes/earthshaker.png) Jesse “JerAx” Vainikka *|Finland*  
+![jer](/images/miniheroes/rubick.png) ![jer](/images/miniheroes/earthshaker.png) Jesse “JerAx” Vainikka *\Finland*  
 ![bdn](/images/miniheroes/furion.png) ![bdn](/images/miniheroes/silencer.png) Johan “N0tail” Sundstein  
 ~Sub: Cristian "ppasarel" Banaseanu *\Belgium*
 
@@ -147,3 +147,102 @@ Record: 18-11 (62.07%)
 Liu "Sylar" Jiajun: 3rd TI2 with LGD, 2nd TI4 with Vici Gaming, 3rd TI5 with LGD.  
 Xie "Super" Junhao: 4th TI2 with Team DK, 2nd TI4 with Vici Gaming, 4th TI5 with Vici Gaming, 3rd TI7 with LGD.Forever Young.  
 Xu "fy" Linsen: 2nd TI4 with Vici Gaming, 4th TI5 with Vici Gaming, 13th-16th TI6 with Vici Gaming Reborn, 2nd TI8 with PSG.LGD.
+
+## Patches, Venues and Tournament Info
+
+### The International 2011
+
+16 Invites  
+GamesCom @ Koelnmesse, Cologne, Germany  
+17th-21st August 2011  
+Played on patch 6.72d  
+
+Four Groups of 4. 16 team Double Elimination with skips.  
+Groups: Round Robin, tiebreakers due to time ranking.  
+Playoffs: Lower Bracket Semi, LB Final, Upper Bracket Final Best of Three. Grand Finals Best of Five with game in hand to upper bracket winners. All other games Best of One.  
+
+### The International 2012
+
+14 Invites, 2 Qualifiers  
+Benaroya Hall, Seattle, Washington, United States of America  
+Group: 26th-28th August 2012; Playoffs: 31st-3rd August-September 2012  
+Played on patch 6.74  
+
+2 Groups of 8. 16 team Double Elimination with skips.  
+Groups: 2 game Round Robin  
+Playoffs: Lower Bracket Rounds 1 to 4 Best of One. Grand Finals Best of Five. All other games Best of Three.
+
+### The International 2013
+
+13 Invites, 2 Qualifiers, 1 Wildcard (2 teams)  
+Benaroya Hall, Seattle, Washington, United States of America  
+Wildcard: 2nd August 2013; Group: 3rd-5th August 2013; Playoffs: 7th-11th August 2013  
+Played on patch 6.78  
+
+2 Groups of 8. 16 team Double Elimination with skips.  
+Wildcard: Best of 5 match  
+Groups: 2 game Round Robin  
+Playoffs: Lower Bracket Rounds 1 to 3 Best of One. Grand Finals Best of Five. All other games Best of Three.
+
+### The International 2014
+
+11 Invites, 4 Qualifiers, 1 Wildcard (4 teams)  
+KeyArena, Seattle, Washington, United States of America  
+Wildcard: 8th July 2014; Group: 9th-12th July 2014; Playoffs: 13th-21st July 2014  
+Played on patch 6.81b  
+
+1 Group of 16. 8 team ladder-climb. 8 team Double Elimination with skips.  
+Wildcard: Knockout, Best of Three matches  
+Groups: 2 game Round Robin  
+Playoffs: 8 team ladder-climb for seeding/elmination. Grand Finals Best of Five. All other games Best of Three.
+
+### The International 2015
+
+10 Invites, 4 Qualifiers, 2 Wildcard (4 teams)  
+KeyArena, Seattle, Washington, United States of America  
+Wildcard: 26th July 2015; Group: 27th-30th July 2015; Playoffs: 3rd-8th August 2015  
+Played on patch 6.84c  
+
+2 Groups of 8. 16 team Double Elimination with skips.  
+Wildcard: Double Elimination, Best of Three Matches
+Groups: 2 game Round Robin, standard tiebreaker  
+Playoffs: Lower Bracket Rounds 1 Best of One. Grand Finals Best of Five. All other games Best of Three.
+
+### The International 2016
+
+6 Invites, 8 Qualifiers, 2 Wildcard (4 teams)  
+KeyArena, Seattle, Washington, United States of America  
+Wildcard: 2nd August 2016; Group: 3rd-5th August 2016; Playoffs: 8rd-13th August 2016  
+Played on patch 6.88b  
+
+2 Groups of 8. 16 team Double Elimination with skips.  
+Wildcard: Double Elimination, Best of Three Matches  
+Groups: 2 game Round Robin, standard tiebreaker  
+Playoffs: Lower Bracket Rounds 1 Best of One. Grand Finals Best of Five. All other games Best of Three.
+
+### The International 2017
+
+6 Invites, 12 Qualifiers  
+KeyArena, Seattle, Washington, United States of America  
+Group: 2nd-5th August 2017; Playoffs: 7th-12th August 2017  
+Played on patch 7.06e  
+
+2 Groups of 9. 16 team Double Elimination with skips.  
+Groups: 2 game Round Robin, standard tiebreaker  
+Playoffs: Lower Bracket Rounds 1 Best of One. Grand Finals Best of Five. All other games Best of Three.
+
+### The International 2018
+
+8 Invites, 10 Qualifiers  
+Rogers Arena, Vancouver, British Columbia, Canada    
+Group: 15th-18th August 2018; Playoffs: 20-25th August 2018  
+Played on patch 7.19  
+
+2 Groups of 9. 16 team Double Elimination with skips.  
+Groups: 2 game Round Robin, standard tiebreaker  
+Playoffs: Lower Bracket Rounds 1 Best of One. Grand Finals Best of Five. All other games Best of Three.
+
+### The International 2019
+
+12 Invites, 6 Qualifiers  
+Mercedes-Benz Arena, Pudong, Shanghai, China
