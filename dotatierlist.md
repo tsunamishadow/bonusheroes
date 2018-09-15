@@ -2,7 +2,7 @@
 This tier list is based on pub stats taken from Dotabuff, Opendota and Stratz. Most of this tier list is weighted toward Divine and Immortal with Crusader and lower winrates ignored.  
 This list is slightly influenced by competitive performances but is not useful for determining which heroes are strong for TI-level Dota.  
 Updated 15th Septermber 2018, based on August/September performances during 7.19b. Due to 7.19c, heroes here will be listed with either nerfed or buffed to give an indication of where they may expect to improve or fall off in effectiveness.  
-Please note: due to a colossal screw up on my part, I did this too late and is slightly influenced by starting performances om 7.19c. However has very little influence on the overall list order.
+Please note: due to a colossal screw up on my part, I did this too late and is slightly influenced by starting performances in 7.19c. However has very little influence on the overall list order.
 
 ## Powerful
 Wins a considerable amount of games and can be easily Hero Spammed for MMR or wins. Very difficult to win against.
