@@ -3,19 +3,11 @@
 
 ## [Dota Pub Hero Tier List](/bonusheroes/dotatierlist)
 
-A hero tier list sorting heroes that are currently strong and weak in the pub meta. Last updated 1st September 2018.
+A hero tier list sorting heroes that are currently strong and weak in the pub meta. Last updated 15th September 2018.
 
 ## [Dota Competitive Hero Tier List](/bonusheroes/comptierlist)
 
-A hero tier list sorting heroes that are currently highly contested in competitive Dota. Last updated after TI8.
-
-## [Birmingham Major Guide](/bonusheroes/Birmingham)
-
-A now defunct guide for the Birmingham Major for visitors.
-
-## [Dota 2, The International 8 Battlepass Guide](/bonusheroes/battlepass)
-
-A now defunct guide for the TI Battlepass.
+A hero tier list sorting heroes that are currently highly contested in competitive Dota. Last updated after Kuala Lumpur Qualifers.
 
 ## [Bonus Heroes Rotation](/bonusheroes/bonusheroes)
 
@@ -41,9 +33,17 @@ Combines patch notes for non-heroes for recent patches (just in case you missed 
 
 Random Trivia about various internationals
 
+## [Birmingham Major Guide](/bonusheroes/Birmingham)
+
+A now defunct guide for the Birmingham Major for visitors.
+
+## [Dota 2, The International 8 Battlepass Guide](/bonusheroes/battlepass)
+
+A now defunct guide for the TI Battlepass.
+
 ## [Compendium International Predictions Guide](/bonusheroes/predictions)
 
-A guide to help with the Compendium Predictions
+A now defunct guide to help with the Compendium Predictions.
 
 # Other Games
 
