@@ -6,6 +6,10 @@ Important Note: This list still includes 'useless' games later in some tournamen
 
 ![list2](https://cdn.discordapp.com/attachments/296148162975105049/493024826139738123/unknown.png)
 
+If you can't make head or tail of this list I made a simplified here: [Simplified List](/bonusheroes/simpletierlist)  
+Skywrath Mage was never contested.  
+Grimstroke is not availible in Captain's Mode.  
+
 ## The International 2018 (Group and Main Event)
 ![list](https://cdn.discordapp.com/attachments/296148162975105049/483821146190512131/unknown.png)
 
