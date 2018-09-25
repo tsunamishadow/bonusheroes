@@ -106,6 +106,7 @@ Long Cooldown Ultimates and Abilities. Only listed here if two of the Levels of 
 |Dream Coil|70/65/60|
 |Laguna Blade|70/60/50|
 |Vendetta|70/60/50|
+|Time Lapse|70/55/40|
 |Macropyre|60|
 |Shadow Dance|60|
 |Wrath of Nature|60|
