@@ -1,140 +1,140 @@
 # Dota Pub Hero Tier List
 This tier list is based on pub stats taken from Dotabuff, Opendota and Stratz. Most of this tier list is weighted toward Divine and Immortal with Crusader and lower winrates ignored.  
 This list is very slightly influenced by competitive performances but is not useful for determining which heroes are strong for TI-level Dota.  
-Updated 15th Septermber 2018, based on August/September performances during 7.19b. Due to 7.19c, heroes here will be listed with either nerfed or buffed to give an indication of where they may expect to improve or fall off in effectiveness.  
-Please note: due to a colossal screw up on my part, I did this too late and is slightly influenced by starting performances in 7.19c. However has very little influence on the overall list order.
+Updated 2nd October 2018, based on Performances during 7.19c.
 
 ## Powerful
 Wins a considerable amount of games and can be easily Hero Spammed for MMR or wins. Very difficult to win against.
 
-![THE ONE TRUE KING](/images/miniheroes/skeleton_king.png)Wraith King *Nerfed*  
+![Gatekeeper](/images/miniheroes/visage.png)Visage
 
 ## Strong
 Wins a lot of games. Hero specialists of these can easily gain wins and MMR, but most of the 'good hero' meta is made from these heroes.
 
-Spectre *Nerfed*  
 Meepo  
-Visage  
 Riki  
-Broodmother  
-Vengeful Spirit *Nerfed*  
-Zeus *Nerfed*  
+Wraith King  
+Chaos Knight  
 Centaur Warrunner  
-Ursa *Nerfed*  
-Silencer *Nerfed* **Competitive**  
-Necrophos **Competitive**  
-Drow Ranger **Competitive**  
-Crystal Maiden *Nerfed*  
 Lycan  
-Clinkz *Nerfed*  
+Zeus  
+Broodmother  
+Terrorblade  
+Drow Ranger  
+Vengeful Spirit  
+Abaddon  
 Treant Protector  
-Undying  
+Ursa  
+Anti-Mage  
+Necrophos  
+Crystal Maiden  
 Bloodseeker  
+Silencer  
+Undying  
+Axe  
 Phoenix  
 
 ## High Average
 Wins more often than loses. But not enough to be strong, usually heroes here will get around 50% winrate. Can be good with or against strong or powerful heroes if they have good synergy or opposing matchup.
 
-Chaos Knight  
-Weaver *Nerfed* **Competitive**  
-Axe  
-Abaddon  
 Warlock  
-Underlord  
-Terrorblade **Competitive**  
-Anti-Mage  
-Alchemist  
-Lich  
 Spirit Breaker  
-Ogre Magi  
+Lich  
+Spectre  
 Shadow Shaman  
-Enchantress *Nerfed*  
-Elder Titan  
-Dark Willow *Nerfed*  
+Alchemist  
+Clinkz  
 Brewmaster  
-Earthshaker *Nerfed* **Competitive**  
-Phantom Lancer *Nerfed* **Competitive**  
-Arc Warden  
-Grimstroke *Changed*  
-Huskar  
-Pudge  
+Weaver  
+Elder Titan  
 Ancient Apparition  
-Nyx Assassin  
-Tinker  
-Dark Seer  
-Storm Spirit *Nerfed*  
-Clockwerk  
-Sven  
-Mirana  
-Winter Wyvern **Competitive**  
+Ogre Magi  
+Earthshaker  
+Phantom Lancer  
+Underlord  
+Huskar  
 Enigma  
-Shadow Demon  
-Invoker  
-Dragon Knight  
-Omniknight  
+Pudge  
+Mirana  
+Bane  
+Winter Wyvern  
+Arc Warden  
 Juggernaut  
+Grimstroke  
+Sven  
+Dark Willow  
+Invoker  
+Tinker  
 Dazzle  
+Storm Spirit  
+Nyx Assassin  
+Clockwerk  
+Dragon Knight  
+
 
 ## Low Average
 Wins just as often as they lose. Usually just lower than 50% winrate. Can be good with strong or powerful heroes if they have good synergy.
 
-Tidehunter  
-Jakiro  
-Bristleback  
-Pugna  
-Bane  
-Sniper  
-Skywrath Mage  
-Oracle  
+Dark Seer  
 Phantom Assassin  
-Venomancer  
-Kunkka  
-Lion  
-Slardar  
 Faceless Void  
+Oracle  
 Luna  
-Queen of Pain  
-Witch Doctor  
-Keeper of the Light  
-Ember Spirit  
-Chen  
-Doom  
-Templar Assassin  
-Bounty Hunter  
-Windranger  
-Slark  
-Legion Commander  
+Skywrath Mage  
+Pugna  
 Magnus  
-Viper  
-Earth Spirit  
-Beastmaster  
-Rubick  
-Disruptor  
+Jakiro  
+Chen  
+Shadow Demon  
+Slardar  
+Sniper  
+Bristleback  
+Lion  
+Enchantress  
+Witch Doctor  
+Doom  
+Tidehunter  
+Ember Spirit  
 Night Stalker  
-Tusk  
+Kunkka  
+Omniknight  
+Queen of Pain  
+Keeper of the Light  
+Io  
+Slark  
+Templar Assassin  
+Venomancer  
+Windranger  
 Monkey King  
+Bounty Hunter  
+Legion Commander  
+Timbersaw  
+Viper  
+Disruptor  
+Rubick  
+Earth Spirit  
+Morphling  
 
 ## Weak
 Heroes that lose more often than win. Usually around 45% winrate.
 
-Sand King  
-Morphling  
-Timbersaw  
 Leshrac  
-Io **Competitive**  
-Batrider  
-Pangolier  
-Lina  
-Tiny **Competitive**  
-Troll Warlord  
-Techies  
-Naga Siren  
-Nature's Prophet  
-Shadow Fiend  
 Lifestealer  
+Naga Siren  
+Tiny  
+Sand King  
+Troll Warlord  
+Beastmaster  
+Batrider  
 Medusa  
-Razor  
+Tusk  
+Lina  
+Pangolier  
+Shadow Fiend  
 Outworld Devourer  
+Razor  
+Techies  
+Nature's Prophet  
 Lone Druid  
 Gyrocopter  
 
