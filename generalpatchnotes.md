@@ -1,4 +1,4 @@
-# General Patch notes combined from 7.16 to 7.19b
+# General Patch notes combined from 7.16 to 7.19c
 
 **Does NOT include Hero changes**
 
@@ -37,6 +37,10 @@ Aeon Disk
 
 Blades of Attack
 * Cost increased from 420 to 430
+
+Blademail
+* Cooldown increased from 20 to 25
+* Bonus armor decreased from 6 to 5
 
 Bottle
 * Bounty Runes are now storable when full.
