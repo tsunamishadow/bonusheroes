@@ -50,3 +50,7 @@ A now defunct guide to help with the Compendium Predictions.
 ## [Magic 2019 Draft Tier List](/bonusheroes/magicdrafttier)
 
 The best and worst cards for drafting the current set. (Unfinished)
+
+## [Guilds of Ravnica Draft Tier List](/bonusheroes/magicdrafttier2)
+
+The best and worst cards for drafting the current set. (Unfinished)
