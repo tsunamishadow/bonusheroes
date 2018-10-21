@@ -5,6 +5,8 @@ Updated 21st October 2018, based on Performances during 7.19d.
 
 Formula has been reworked to favor a tiny bit more towards Archon winrates.
 
+Naga Siren has been omitted from this list due to a lack of pickrate.
+
 ## Favored Among Pros
 
 This is a seperate list of heroes heavily favored by professional tier players in pub games. Most favored near the top.
