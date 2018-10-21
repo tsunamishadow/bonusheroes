@@ -1,7 +1,30 @@
 # Dota Pub Hero Tier List
 This tier list is based on pub stats taken from Dotabuff, Opendota and Stratz. Most of this tier list is weighted toward Divine and Immortal with Crusader and lower winrates ignored.  
 This list is very slightly influenced by competitive performances but is not useful for determining which heroes are strong for TI-level Dota.  
-Updated 2nd October 2018, based on Performances during 7.19c.
+Updated 21st October 2018, based on Performances during 7.19d.
+
+Formula has been reworked to favor a tiny bit more towards Archon winrates.
+
+## Favored Among Pros
+
+This is a seperate list of heroes heavily favored by professional tier players in pub games. Most favored near the top.
+
+Necrophos  
+Earthshaker  
+Grimstroke  
+Phoenix  
+Ogre Magi  
+Storm Spirit  
+Axe  
+Zeus  
+Dark Seer  
+Night Stalker  
+Enigma  
+Meepo  
+Centaur Warrunner  
+Lycan  
+Anti-Mage  
+Elder Titan  
 
 ## Powerful
 Wins a considerable amount of games and can be easily Hero Spammed for MMR or wins. Very difficult to win against.
@@ -11,132 +34,131 @@ Wins a considerable amount of games and can be easily Hero Spammed for MMR or wi
 ## Strong
 Wins a lot of games. Hero specialists of these can easily gain wins and MMR, but most of the 'good hero' meta is made from these heroes.
 
-Meepo  
-Riki  
-Wraith King  
-Chaos Knight  
 Centaur Warrunner  
 Lycan  
-Zeus  
-Broodmother  
+Meepo  
+Chaos Knight  
+Riki  
 Terrorblade  
-Drow Ranger  
-Vengeful Spirit  
-Abaddon  
-Treant Protector  
-Ursa  
-Anti-Mage  
-Necrophos  
-Crystal Maiden  
+Zeus  
 Bloodseeker  
-Silencer  
+Vengeful Spirit  
+Axe 
+Broodmother  
+Ursa  
 Undying  
-Axe  
-Phoenix  
+Necrophos  
+Treant Protector  
+Drow Ranger  
+Anti-Mage  
+Crystal Maiden  
 
 ## High Average
 Wins more often than loses. But not enough to be strong, usually heroes here will get around 50% winrate. Can be good with or against strong or powerful heroes if they have good synergy or opposing matchup.
 
 Warlock  
-Spirit Breaker  
+Phoenix  
 Lich  
-Spectre  
-Shadow Shaman  
-Alchemist  
-Clinkz  
+Silencer  
+Wraith King  
+Abaddon  
+Spirit Breaker  
 Brewmaster  
-Weaver  
-Elder Titan  
-Ancient Apparition  
+Shadow Shaman  
 Ogre Magi  
-Earthshaker  
-Phantom Lancer  
-Underlord  
-Huskar  
 Enigma  
-Pudge  
-Mirana  
-Bane  
+Elder Titan  
+Alchemist  
+Huskar  
+Earthshaker  
 Winter Wyvern  
+Ancient Apparition  
+Phantom Assassin  
+Phantom Lancer  
+Mirana  
 Arc Warden  
 Juggernaut  
-Grimstroke  
+Pudge  
+Bane  
 Sven  
-Dark Willow  
+Weaver  
+Clinkz  
+Grimstroke  
+Oracle  
 Invoker  
-Tinker  
-Dazzle  
-Storm Spirit  
 Nyx Assassin  
-Clockwerk  
+Underlord  
+Dark Seer  
+Spectre  
+Tinker  
+Skywrath Mage  
 Dragon Knight  
+Storm Spirit  
 
 
 ## Low Average
 Wins just as often as they lose. Usually just lower than 50% winrate. Can be good with strong or powerful heroes if they have good synergy.
 
-Dark Seer  
-Phantom Assassin  
+Dazzle  
+Clockwerk  
+Tidehunter  
 Faceless Void  
-Oracle  
 Luna  
-Skywrath Mage  
-Pugna  
+Sniper  
 Magnus  
-Jakiro  
+Ember Spirit  
+Slark  
+Dark Willow  
+Pugna  
+Slardar  
+Venomancer  
+Lion  
 Chen  
 Shadow Demon  
-Slardar  
-Sniper  
-Bristleback  
-Lion  
-Enchantress  
-Witch Doctor  
 Doom  
-Tidehunter  
-Ember Spirit  
-Night Stalker  
+Jakiro  
 Kunkka  
-Omniknight  
-Queen of Pain  
-Keeper of the Light  
-Io  
-Slark  
-Templar Assassin  
-Venomancer  
+Witch Doctor  
+Bristleback  
 Windranger  
+Io  
 Monkey King  
-Bounty Hunter  
 Legion Commander  
-Timbersaw  
-Viper  
+Night Stalker  
+Templar Assassin  
+Omniknight  
 Disruptor  
+Bounty Hunter  
+Leshrac  
+Keeper of the Light  
+Queen of Pain  
+Timbersaw  
 Rubick  
-Earth Spirit  
 Morphling  
+Viper  
 
 ## Weak
 Heroes that lose more often than win. Usually around 45% winrate.
 
-Leshrac  
-Lifestealer  
-Naga Siren  
-Tiny  
 Sand King  
 Troll Warlord  
+Lifestealer  
+Earth Spirit  
+Tiny  
+Enchantress  
 Beastmaster  
+Lone Druid  
 Batrider  
 Medusa  
-Tusk  
 Lina  
-Pangolier  
+Tusk  
 Shadow Fiend  
+Pangolier  
 Outworld Devourer  
+Gyrocopter  
 Razor  
 Techies  
 Nature's Prophet  
-Lone Druid  
-Gyrocopter  
 
 ## Underpowered
 Heroes that lose a lot. Usually around 42% winrate. Almost always worth avoiding for anyone but hero specialists.
