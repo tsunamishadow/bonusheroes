@@ -1,5 +1,12 @@
 # Dota Competitive Hero Tier List
 
+## DreamLeague Season 10
+
+![listDreamLeague](https://cdn.discordapp.com/attachments/296148162975105049/509008191338840064/unknown.png)
+
+Grimstroke is not availible in Captain's Mode.  
+Abaddon, Ancient Apparition, Anti-Mage, Bounty Hunter, Bristleback, Death Prophet, Doom, Enchantress, Jakiro, Keeper of the Light, Lion, Lone Druid, Medusa, Naga Siren, Night Stalker, Omniknight, Oracle, Pudge, Razor, Riki, Shadow Fiend, Shadow Shaman, Slardar, Spirit Breaker, Sven, Techies, Tidehunter, Timbersaw, Troll Warlord, Venomancer, Viper, Warlock, Witch Doctor were unpicked.  
+
 ## ESL One Hamburg 2018
 
 ![listESL](https://cdn.discordapp.com/attachments/296148162975105049/506418231880187904/unknown.png)
