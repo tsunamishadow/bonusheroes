@@ -9,6 +9,10 @@ A hero tier list sorting heroes that are currently strong and weak in the pub me
 
 A hero tier list sorting heroes that are currently highly contested in competitive Dota. Last updated after Kuala Lumpur Qualifers.
 
+## [Dota Pro Circuit Statistics](/bonusheroes/procircuit)
+
+Statstics about Pro Circuit tournaments.
+
 ## [Bonus Heroes Rotation](/bonusheroes/bonusheroes)
 
 List of Bonus Heroes for today and tomorrow, also includes links to guides for some of the heroes. **Currently under reconstruction**
