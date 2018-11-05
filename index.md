@@ -49,6 +49,22 @@ A now defunct guide for the TI Battlepass.
 
 A now defunct guide to help with the Compendium Predictions.
 
+# Links to other resources
+
+## [Jungle camp stack timing](https://i.redd.it/cektd9j3eb311.jpg)
+
+A jpg which shows stack timings on the map. Made by /u/redfoxricky.
+
+*These stacking requires no chopping down a tree or even boots, just make sure your attack lands on the creep at the timing.*
+
+*The 2 dire medium camps are close to each other are suppose to be pulled to the triangle that is furthest apart from the camp.*
+
+*All stacks was made with crystal maiden when getting these timestamps.*
+
+*I made this because I couldn't find a image like this, which shows how to stack as many times and possible which is something I really was looking for, so I decided to do it myself and share it with the community.*
+
+*While I was looking up the camps on "Neutral creeps" on Dota 2 Wiki, I saw that the 1 Radiant Medium camp and Hard camp are wrong, I don't care enough to make an account and change it, will point it out here in hopes one will.*
+
 # Other Games
 
 ## [Magic 2019 Draft Tier List](/bonusheroes/magicdrafttier)
