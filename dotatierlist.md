@@ -12,21 +12,22 @@ Naga Siren has been omitted from this list due to a lack of pickrate.
 This is a seperate list of heroes heavily favored by professional tier players in pub games. Most favored near the top.
 
 Necrophos  
-Earthshaker  
-Grimstroke  
-Phoenix  
-Ogre Magi  
-Storm Spirit  
 Axe  
-Zeus  
-Dark Seer  
-Night Stalker  
-Enigma  
-Meepo  
-Centaur Warrunner  
+Terrorblade  
+Grimstroke  
+Mirana  
+Winter Wyvern  
+Silencer  
+Ursa  
+Beastmaster  
 Lycan  
-Anti-Mage  
-Elder Titan  
+Enigma  
+Warlock  
+Centaur Warrunner  
+Gyrocopter  
+Meepo  
+Omniknight  
+Io  
 
 ## Powerful
 Wins a considerable amount of games and can be easily Hero Spammed for MMR or wins. Very difficult to win against.
