@@ -1,5 +1,7 @@
 # Alternative Names for Heroes 
 
+These are names of heroes that are used by some players as alternatives to the normal in game names. These usually stem from nicknames and older Warcraft names.
+
 |Hero|Alternative |
 |--|--|
 |Brewmaster|Panda|
@@ -9,7 +11,7 @@
 |Earth Spirit|Kaolin|
 |Elder Titan|Tauren, Elder Tauren Chieftain|
 |Io|Wisp|
-|Kunkka|Daelin Proudmore|
+|Kunkka|Daelin Proudmoore|
 |Legion Commander|Tresdin|
 |Lifestealer|N’aix|
 |Night Stalker|Balanar|
