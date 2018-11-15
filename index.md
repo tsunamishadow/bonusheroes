@@ -37,6 +37,10 @@ Combines patch notes for non-heroes for recent patches (just in case you missed 
 
 Random Trivia about various internationals
 
+## [Alternative Names for Heroes](/bonusheroes/altnames)
+
+A list of nicknames and older names for some heroes, useful for new players to not get confused by older and legacy players.
+
 ## [Birmingham Major Guide](/bonusheroes/Birmingham)
 
 A now defunct guide for the Birmingham Major for visitors.
