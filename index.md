@@ -41,6 +41,10 @@ Random Trivia about various internationals
 
 A list of nicknames and older names for some heroes, useful for new players to not get confused by older and legacy players.
 
+## [Attributes table for heroes](https://cdn.discordapp.com/attachments/296148162975105049/512619660458459146/unknown.png)
+
+A table of attributes and raw stats for heroes. For the same table in spreadsheet click [here](https://docs.google.com/spreadsheets/d/1cqUfqvJikTxICHoEZzLgl5YL3awFAjb83c8WevpCuGI/edit?usp=sharing).
+
 ## [Birmingham Major Guide](/bonusheroes/Birmingham)
 
 A now defunct guide for the Birmingham Major for visitors.
