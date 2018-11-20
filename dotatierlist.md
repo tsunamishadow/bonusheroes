@@ -1,7 +1,7 @@
 # Dota Pub Hero Tier List
 This tier list is based on pub stats taken from Dotabuff, Opendota and Stratz. Most of this tier list is weighted toward Divine and Immortal with Crusader and lower winrates ignored.  
 This list is very slightly influenced by competitive performances but is not useful for determining which heroes are strong for TI-level Dota.  
-Updated 21st October 2018, based on Performances during 7.19d.
+Updated 20th November 2018, based on Performances during 7.19d.
 
 Formula has been reworked to favor a tiny bit more towards Archon winrates.
 
@@ -9,52 +9,52 @@ Naga Siren has been omitted from this list due to a lack of pickrate.
 
 ## Favored Among Pros
 
-This is a seperate list of heroes heavily favored by professional tier players in pub games. Most favored near the top.
+This is a seperate list of heroes heavily favored by professional tier players in pub games. Most favored near the top. **This list is based on starting performances in 7.20 only.**
 
-Necrophos  
-Axe  
-Terrorblade  
-Grimstroke  
-Mirana  
-Winter Wyvern  
-Silencer  
-Ursa  
-Beastmaster  
-Lycan  
-Enigma  
-Warlock  
-Centaur Warrunner  
-Gyrocopter  
-Meepo  
-Omniknight  
-Io  
+Slark
+Luna
+Dazzle
+Bounty Hunter
+Lich
+Grimstroke
+Faceless Void
+Lion
+Doom
+Enchantress
+Underlord
+Naga Siren
+Meepo
+Witch Doctor
+Beastmaster
+Pugna
 
 ## Powerful
 Wins a considerable amount of games and can be easily Hero Spammed for MMR or wins. Very difficult to win against.
 
-![Gatekeeper](/images/miniheroes/visage.png)Visage
+![Gatekeeper](/images/miniheroes/visage.png)Visage  
+![CK](/images/miniheroes/chaos_knight.png)Chaos Knight *Rework*  
+![BRad](/images/miniheroes/centaur.png)Centaur Warrunner *Rework*  
 
 ## Strong
 Wins a lot of games. Hero specialists of these can easily gain wins and MMR, but most of the 'good hero' meta is made from these heroes.
 
-Centaur Warrunner  
-Lycan  
-Meepo  
-Chaos Knight  
-Riki  
-Terrorblade  
-Zeus  
-Bloodseeker  
-Vengeful Spirit  
-Axe 
-Broodmother  
-Ursa  
-Undying  
-Necrophos  
-Treant Protector  
-Drow Ranger  
-Anti-Mage  
-Crystal Maiden  
+Meepo *Rework*  
+Lycan *Rework*  
+Bloodseeker *Change*  
+Broodmother *Nerfed*  
+Ursa *Buffed*  
+Axe *Nerfed?*
+Anti-Mage *Rework*  
+Zeus *Nerfed*  
+Vengeful Spirit *Change*  
+Shadow Shaman *Change*  
+Drow Ranger *Rework*  
+Spirit Breaker *Rework*  
+Elder Titan *Buffed*  
+Undying *Rework*  
+Necrophos *Nerfed*
+Phoenix *Nerfed*  
+Enigma *Nerfed*  
 
 ## High Average
 Wins more often than loses. But not enough to be strong, usually heroes here will get around 50% winrate. Can be good with or against strong or powerful heroes if they have good synergy or opposing matchup.
