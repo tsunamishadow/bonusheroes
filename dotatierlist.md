@@ -92,7 +92,7 @@ Arc Warden *Nerfed*
 Underlord *Buffed*  
 Nyx Assassin *Buffed*  
 Spectre  
-Faceless Void *Rework*
+Faceless Void *Rework*  
 Dark Seer *Changed*  
 Slardar *Rework*  
 Dragon Knight *Changed*  
@@ -100,70 +100,70 @@ Dragon Knight *Changed*
 ## Low Average
 Wins just as often as they lose. Usually just lower than 50% winrate. Can be good with strong or powerful heroes if they have good synergy.
 
-Dazzle  
-Clockwerk  
-Tidehunter  
-Faceless Void  
-Luna  
-Sniper  
-Magnus  
-Ember Spirit  
-Slark  
-Dark Willow  
+Sven *Rework*  
+Slark *Buffed*  
+Skywrath Mage *Buffed*  
+Sniper *Buffed*  
 Pugna  
-Slardar  
-Venomancer  
-Lion  
-Chen  
-Shadow Demon  
-Doom  
-Jakiro  
+Tidehunter *Buffed*  
+Witch Doctor *Buffed*  
+Weaver *Nerfed*  
+Shadow Demon *Reworked*  
+Clockwerk *Buffed*  
+Storm Spirit  
 Kunkka  
-Witch Doctor  
-Bristleback  
+Magnus *Rework*  
+Jakiro *Buffed*  
+Dark Willow  
+Bristleback *Buffed*  
+Keeper of the Light *Rework*  
+Lion *Buffed*  
+Monkey King *Buffed*  
+Ember Spirit *Buffed*  
+Omniknight *Rework*  
+Bounty Hunter *Rework*  
+Morphling *Nerfed*  
+Venomancer *Changed*  
+Io *Nerfed*  
+Templar Assassin *Buffed*  
+Chen *Rework*  
+Doom *Buffed*  
 Windranger  
-Io  
-Monkey King  
-Legion Commander  
-Night Stalker  
-Templar Assassin  
-Omniknight  
-Disruptor  
-Bounty Hunter  
-Leshrac  
-Keeper of the Light  
-Queen of Pain  
-Timbersaw  
-Rubick  
-Morphling  
-Viper  
+Queen of Pain *Changed*  
+Lifestealer *Changed*  
+Night Stalker *Rework*  
+Legion Commander *Buffed*  
+Earth Spirit *Changed*  
+Lone Druid *Rework*  
+Timbersaw *Buffed*  
+Troll Warlord *Rework*  
+Viper *Buffed*  
 
 ## Weak
 Heroes that lose more often than win. Usually around 45% winrate.
 
-Sand King  
-Troll Warlord  
-Lifestealer  
-Earth Spirit  
-Tiny  
-Enchantress  
-Beastmaster  
-Lone Druid  
-Batrider  
-Medusa  
+Tiny *Rework*  
+Leshrac  
+Rubick *Rework*  
+Sand King *Buffed*  
+Enchantress
+Disruptor *Buffed*  
+Gyrocopter
+Pangolier *Rework*  
+Batrider *Buffed*  
+Medusa *Changed*  
 Lina  
-Tusk  
-Shadow Fiend  
-Pangolier  
-Outworld Devourer  
-Gyrocopter  
-Razor  
-Techies  
-Nature's Prophet  
+Tusk *Rework*  
+Beastmaster *Rework*  
+Outworld Devourer *Rework*  
+Nature's Prophet *Buffed*  
+Techies *Buffed*  
+Shadow Fiend *Buffed*  
+Razor *Buffed*  
 
 ## Underpowered
 Heroes that lose a lot. Usually around 42% winrate. Almost always worth avoiding for anyone but hero specialists.
 
-Death Prophet  
-Puck  
+Death Prophet *Buffed*  
+Puck *Buffed*  
 
