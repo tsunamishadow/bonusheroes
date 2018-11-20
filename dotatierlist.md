@@ -11,22 +11,22 @@ Naga Siren has been omitted from this list due to a lack of pickrate.
 
 This is a seperate list of heroes heavily favored by professional tier players in pub games. Most favored near the top. **This list is based on starting performances in 7.20 only.**
 
-Slark
-Luna
-Dazzle
-Bounty Hunter
-Lich
-Grimstroke
-Faceless Void
-Lion
-Doom
-Enchantress
-Underlord
-Naga Siren
-Meepo
-Witch Doctor
-Beastmaster
-Pugna
+Slark  
+Luna  
+Dazzle  
+Bounty Hunter  
+Lich  
+Grimstroke  
+Faceless Void  
+Lion  
+Doom  
+Enchantress  
+Underlord  
+Naga Siren  
+Meepo  
+Witch Doctor  
+Beastmaster  
+Pugna  
 
 ## Powerful
 Wins a considerable amount of games and can be easily Hero Spammed for MMR or wins. Very difficult to win against.
