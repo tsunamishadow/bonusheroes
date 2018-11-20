@@ -59,45 +59,43 @@ Enigma *Nerfed*
 ## High Average
 Wins more often than loses. But not enough to be strong, usually heroes here will get around 50% winrate. Can be good with or against strong or powerful heroes if they have good synergy or opposing matchup.
 
-Warlock  
-Phoenix  
-Lich  
+Lich *Rework*  
+Warlock *Buffed*  
+Terrorblade *Nerfed*  
+Ancient Apparition *Rework*  
+Riki *Changed*  
+Crystal Maiden *Nerfed*  
+Brewmaster *Rework*  
+Abaddon *Rework*  
+Ogre Magi *Buffed*  
+Huskar *Rework*  
 Silencer  
-Wraith King  
-Abaddon  
-Spirit Breaker  
-Brewmaster  
-Shadow Shaman  
-Ogre Magi  
-Enigma  
-Elder Titan  
+Wraith King *Buffed*  
+Dazzle *Rework*  
+Phantom Assassin *Rework*  
+Treant Protector *Rework*  
+Earthshaker *Nerfed*  
+Mirana *Changed*  
 Alchemist  
-Huskar  
-Earthshaker  
-Winter Wyvern  
-Ancient Apparition  
-Phantom Assassin  
-Phantom Lancer  
-Mirana  
-Arc Warden  
-Juggernaut  
-Pudge  
-Bane  
-Sven  
-Weaver  
-Clinkz  
-Grimstroke  
-Oracle  
+Phantom Lancer *Nerfed*  
+Clinkz *Rework*  
+Pudge *Changed*  
 Invoker  
-Nyx Assassin  
-Underlord  
-Dark Seer  
-Spectre  
+Winter Wyvern *Buffed*  
+Juggernaut *Changed*  
+Luna *Buffed*  
+Grimstroke *Nerfed*  
+Oracle *Buffed*  
+Bane *Rework*  
 Tinker  
-Skywrath Mage  
-Dragon Knight  
-Storm Spirit  
-
+Arc Warden *Nerfed*  
+Underlord *Buffed*  
+Nyx Assassin *Buffed*  
+Spectre  
+Faceless Void *Rework*
+Dark Seer *Changed*  
+Slardar *Rework*  
+Dragon Knight *Changed*  
 
 ## Low Average
 Wins just as often as they lose. Usually just lower than 50% winrate. Can be good with strong or powerful heroes if they have good synergy.
