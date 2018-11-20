@@ -52,7 +52,7 @@ Drow Ranger *Rework*
 Spirit Breaker *Rework*  
 Elder Titan *Buffed*  
 Undying *Rework*  
-Necrophos *Nerfed*
+Necrophos *Nerfed*  
 Phoenix *Nerfed*  
 Enigma *Nerfed*  
 
