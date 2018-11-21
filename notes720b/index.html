@@ -1,0 +1,1938 @@
+<html><head>
+	<link rel="shortcut icon" href="/favicon.ico">
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=9">
+	<link href="http://www.dota2.com/public/css/global.css?v=b4828695" rel="stylesheet" type="text/css">
+<link href="http://www.dota2.com/public/css/global_english.css?v=BpCw4C6e29Gp" rel="stylesheet" type="text/css">
+<link href="http://www.dota2.com/public/css/publicheader.css?v=dxJw6XR3DWJ3" rel="stylesheet" type="text/css">
+<link href="http://www.dota2.com/public/css/720.css?v=b4828695" rel="stylesheet" type="text/css">
+	<link href="http://www.dota2.com/public/css/font_goudytrajan.css?v=b4828695" rel="stylesheet" type="text/css">
+	<script type="text/javascript" async="" src="http://www.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://cdn.dota2.com/apps/dota2/javascript/static/jquery-1.7.1.min.js?v=4828695"></script><style>@media print {#ghostery-purple-box {display:none !important}}</style>
+<script type="text/javascript">$J = jQuery;</script><script type="text/javascript" src="http://steamcommunity-a.akamaihd.net/public/shared/javascript/shared_global.js?v=OBsnl6VGf94w&amp;l=english"></script>
+	<title>Dota 2 - Gameplay Update 7.20</title>
+    		
+	<script type="text/javascript">
+
+		var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', 'UA-33822635-2']);
+		_gaq.push(['_setSampleRate', '1']);		_gaq.push(['_setDomainName', 'dota2.com']);
+		_gaq.push(['_trackPageview']);
+
+		(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		})();
+
+	</script>
+    <script>
+        $( function () {
+            var URL = 'http://www.dota2.com/';
+            URL = URL + 'jsfeed/heropediadata?feeds=herodata,itemdata';
+            $.ajax(
+                {
+                    type:'GET',
+                    cache:true,
+                    url: URL,
+                    dataType:'jsonp',
+                    success: function( data )
+                    {
+                        g_HeroData = data['herodata'];
+                        g_ItemData = data['itemdata'];
+                        formatHeroAndItemNotes();
+                    }
+                }
+            );
+        } );
+
+        var g_HeroData = false;
+        var g_ItemData = false;
+        function formatHeroAndItemNotes()
+        {
+            $.each( ['items','heroes'], function( i, type ) {
+                var containers = ['#Heroes','#Items'];
+                for ( i = 0; i < containers.length; i++ )
+                {
+                    container = containers[i];
+                    var strContents = $(container).html();
+                    if ( strContents )
+                    {
+                        var foundTags = strContents.match( /\[\[[A-Za-z-_:]+\]\]/g );
+                        if ( foundTags )
+                        {
+                            for ( x = 0; x < foundTags.length; x++ )
+                            {
+                                tag = foundTags[x];
+                                tag = tag.substring( 2, tag.length-2 );
+                                var strHTMLNameSuffix = '';
+                                if ( tag.includes( ':reworked' ) )
+                                {
+                                    tag = tag.replace( ':reworked', '' );
+                                    strHTMLNameSuffix += '<span class="Reworked">' + ( container == '#Items' ? 'Item Reworked' : 'Ability Rework' ) + '</span>';
+                                }
+                                if ( tag.includes( ':new' ) )
+                                {
+                                    tag = tag.replace( ':new', '' );
+                                    strHTMLNameSuffix += '<span class="New">New Item</span>';
+                                }
+                                if ( tag.includes( ':captains' ) )
+                                {
+                                    tag = tag.replace( ':captains', '' );
+                                    strHTMLNameSuffix += '<span class="Captains">Added to Captains Mode</span>';
+                                }
+                                if ( tag.includes( ':scepteradded' ) )
+                                {
+                                    tag = tag.replace( ':scepteradded', '' );
+                                    strHTMLNameSuffix += '<span class="Scepter">Scepter Added</span>';
+                                }
+                                if ( tag.includes( ':scepterreworked' ) )
+                                {
+                                    tag = tag.replace( ':scepterreworked', '' );
+                                    strHTMLNameSuffix += '<span class="Scepter">Scepter Reworked</span>';
+                                }
+                                bUnfound = false;
+                                if ( g_ItemData[tag] )
+                                {
+                                    path = 'items/'+tag+'_lg.png';
+                                    name = g_ItemData[tag].dname;
+                                    hw = 'width="48" height="36"';
+                                }
+                                else if ( g_HeroData[tag] )
+                                {
+                                    path = 'heroes/'+tag+'_sb.png';
+                                    name = g_HeroData[tag].dname;
+                                    hw = '';
+                                }
+                                else
+                                {
+                                    bUnfound = true;
+                                }
+                                if ( !bUnfound )
+                                {
+                                    var strHTML = '<div class="ChangeNoteImage"><img src="http://cdn.dota2.com/apps/dota2/images/'+path+'" '+hw+' /></div><br style="clear: left;"/>';
+                                    strHTML += '<b>' + name + ':&nbsp;' + strHTMLNameSuffix + '</b>';
+                                    strContents = strContents.replace( foundTags[x], strHTML );
+                                }
+                            }
+                            $(container).html( strContents );
+                        }
+                    }
+                }
+            });
+
+            var eCount = 0;
+            $( '.ChangeDetailsExtended' ).each( function() {
+                var $extended = $( this );
+                $extended.attr( 'id', 'extended'+eCount );
+                $extended.before( '<a href="#" class="ChangeDetailsEToggle" id="eToggle'+eCount+'" onclick="$(\'#extended'+eCount+'\').show();$(this).hide();return false;">+ Show Details</a>' );
+                $extended.html( '<a href="#" id="eToggleHide'+eCount+'" class="ChangeDetailsEToggle HideButton" onclick="$(\'#extended'+eCount+'\').hide();$(\'#eToggle'+eCount+'\').show();return false;">- Hide Details</a>' + $extended.html() );
+                eCount++;
+            } );
+            $( '.ChangeDetailsPopup' ).each( function() {
+                var $popup = $( this );
+                var $popupHoverButton = $( '<a href="#">[?]</a>' );
+                $popup.before( $popupHoverButton );
+                $popupHoverButton.hover( function() {
+                    $popup.css( "display", "block" );
+                }, function() {
+                    $popup.css( "display", "none" );
+                });
+                $popupHoverButton.click( function() {
+                    // Suppress the click event
+                    return false;
+                });
+            } );
+        }
+    </script>
+</head>
+<body>
+	<div class="Container" id="KeyArt">
+		<div class="Inner">
+            <a href="http://www.dota2.com/"><img src="http://cdn.dota2.com/apps/dota2/images/springcleaning2016/logo.png"></a>
+		</div>
+	</div>
+
+	<a class="HiddenAnchor" name="GameplayHeader"> </a>
+	<div class="Container" id="Header">
+		<div class="Inner">
+			<h1>Gameplay Update 7.20(b)</h1>
+		</div>
+	</div>
+
+    <div class="Container RepeatY BGStyle1" id="General">
+        <div class="Inner">
+            
+					<h3>General</h3>
+
+					<h4>Map Changes</h4>
+					
+					<ul>
+						<li>Map has been reworked</li>
+					</ul>
+					
+					<h4>Deny Mechanics</h4>
+					
+					<ul>
+						<li>Denies no longer give the denier 25% XP</li>
+						<li>Creep denies now give the denier 20% of the gold bounty <a href="#">[?]</a><span class="ChangeDetailsPopup" style="display: none;">Melee Creeps: 7-8 gold<br>Ranged Creeps: 9-11 gold</span></li>
+    <li>Fixed bug allowing controlled creeps to give gold to the denier</li>
+					</ul>
+					
+					<h4>Teleporting</h4>
+					
+					<ul>
+						<li>Added a new dedicated inventory slot to hold Town Portal Scrolls <a href="#">[?]</a><span class="ChangeDetailsPopup">You still must purchase Town Portal Scrolls from shops as usual.</span></li>
+						<li><b>Boots of Travel:</b> No longer shares cooldown with Town Portal Scrolls. Upon teleporting, +10 seconds are now added to your Town Portal Scroll cooldown</li>
+					</ul>
+					
+					<h4>Neutrals</h4>
+					<ul>
+						<li>Stacked Neutral creeps now give the stacker 35% of the bounty instead of 25%</li>
+						<li>Non-Ancient Neutrals now provide 5% more gold bounty</li>
+					</ul>
+					
+					<h4>Hero Selection</h4>
+					
+					<ul>
+						<li>Removed Daily Bonus Hero concept</li>
+						<li>Random once again picks from the entire hero pool, but now ignores your 25 least played heroes <a href="#">[?]</a><span class="ChangeDetailsPopup">Bonuses from randoming remain the same.</span></li>
+						<li>Random can now only be used for the first two hero picks on your team</li>						
+					</ul>
+					
+					
+					<h4>Armor</h4>
+					<ul>
+						<li>Changed the Armor formula to: ( 0.052 * Armor ) / ( 0.9+ 0.048 * Armor)</li>
+						<li class="highlight">Updated various armor values to closely align with the new formula:
+							
+								<ul>
+								<blockquote>
+								<li>Tier 1 Towers: 17 to 12</li>
+								<li>Tier 2 Towers: 19 to 14</li>
+								<li>Tier 3 Towers: 19 to 14</li>
+								<li>Tier 4 Towers: 29 to 21</li>
+								<li>Melee Barracks: 18 to 13</li>
+								<li>Ranged Barracks: 12 to 9</li>
+								<li>Ancient: 18 to 13</li>
+								<li>Fillers: 14 to 10</li>
+								<li>Shrines: 24 to 17</li>	
+								</blockquote>
+								</ul>							
+						</li>
+					</ul>
+					
+					<h4>Hero Kill Bounty XP</h4>
+					<ul>
+						<li>Killing Sprees now give an XP bonus ranging from 200 to 1250</li>
+						<li class="highlight">Reworked and simplified XP hero kill bounty system. No longer includes a team XP component 	
+							<a href="#" class="ChangeDetailsEToggle" id="eToggle0" onclick="$('#extended0').show();$(this).hide();return false;">+ Show Details</a><div class="ChangeDetailsExtended" id="extended0"><a href="#" id="eToggleHide0" class="ChangeDetailsEToggle HideButton" onclick="$('#extended0').hide();$('#eToggle0').show();return false;">- Hide Details</a>
+								<br>	Old:
+								<br>	
+								<br>	===
+								<br>	Amount per player in each scenario:
+								<br>	
+								<br>	1: DyingHeroBaseXPBounty + 20 * DyingHeroLevel + 0.138 * XPComeback
+								<br>	2: DyingHeroBaseXPBounty + 15 * DyingHeroLevel + 0.138 * XPComeback
+								<br>	3: DyingHeroBaseXPBounty + 10 * DyingHeroLevel + 0.12 * XPComeback
+								<br>	4: DyingHeroBaseXPBounty + 7 * DyingHeroLevel + 0.09 * XPComeback
+								<br>	5: DyingHeroBaseXPBounty + 5 * DyingHeroLevel + 0.072 * XPComeback
+								<br>	
+								<br>	
+								<br>	DyingHeroBaseXPBounty: The base XP values given for kills.
+								<br>	
+								<br>	DyingHeroLevel: Numerical level for the dying hero
+								<br>	
+								<br>	XPComeback: DyingHeroXP * ( EnemyTeamXP - AlliedTeamXP ) / ( EnemyTeamXP + AlliedTeamXP)
+								<br>	
+								<br>		
+								<br>	New:
+								<br>	===
+								<br>	All: ( 40+ 0.14 * DyingHeroXP ) / # of killers
+								<br>	
+								<br>	
+							</div></li>
+					</ul>
+					
+					<h4>Mana and HP Regen</h4>
+					<ul>
+						<li>Reworked Mana and HP regen from attributes. They are no longer multipliers of your regeneration values<br>
+						</li><li>Mana Regen: Intelligence now provides 0.05 mana regeneration<br>
+						</li><li>Mana Regen: Removed the 0.9 base mana regen value <a href="#">[?]</a><span class="ChangeDetailsPopup">Now covered by Base Intelligence.</span><br>
+						</li><li>Mana Regen: Rebalanced mana regen values based on the formula change<br>
+						<a href="#" class="ChangeDetailsEToggle" id="eToggle1" onclick="$('#extended1').show();$(this).hide();return false;">+ Show Details</a><div class="ChangeDetailsExtended" id="extended1"><a href="#" id="eToggleHide1" class="ChangeDetailsEToggle HideButton" onclick="$('#extended1').hide();$('#eToggle1').show();return false;">- Hide Details</a>
+						<br>Aether Lens: 1.25 --&gt; 3
+						<br>Battle Fury: 2.25 --&gt; 3.75
+						<br>Bloodstone: 2 --&gt; 3
+						<br>Bloodstone per Charge: 0.35 --&gt; 1.5
+						<br>Bloodthorn: 2.25 --&gt; 5.5
+						<br>Bottle: 20 --&gt; 30
+						<br>Clarity Potion: 3 --&gt; 4.5
+						<br>Drum of Endurance: 0.75 --&gt; 1.5
+						<br>Echo Sabre: 0.75 --&gt; 1.25
+						<br>Eul's Scepter of Divinity: 2.25 --&gt; 5
+						<br>Infused Raindrop: 0.5 --&gt; 0.75
+						<br>Linken's Sphere: 2.25 --&gt; 5
+						<br>Lotus Orb: 1.75 --&gt; 4
+						<br>Medallion of Courage: 0.5 --&gt; 0.75
+						<br>Meteor Hammer: 1.5 --&gt; 3
+						<br>Necronomicon 1: 1 --&gt; 2
+						<br>Necronomicon 2: 1.25 --&gt; 2.5
+						<br>Necronomicon 3: 1.5 --&gt; 3
+						<br>Oblivion Staff: 0.75 --&gt; 1.25
+						<br>Orchid Malevolence: 2.25 --&gt; 5.5
+						<br>Perseverance: 1.5 --&gt; 2
+						<br>Refresher Orb: 5 --&gt; 12
+						<br>Ring of Basilius: 0.5 --&gt; 0.75
+						<br>Sage's Mask: 0.5 --&gt; 0.75
+						<br>Scythe of Vyse: 2.25 --&gt; 9
+						<br>Solar Crest: 1 --&gt; 1.5
+						<br>Spirit Vessel: 1 --&gt; 1.5
+						<br>Urn of Shadows: 1 --&gt; 1.5
+						<br>Vladmir	1: --&gt; 1.75
+						<br>Void Stone	1: --&gt; 1.75
+						<br>
+						<br>Shrine: 30 --&gt; 50
+						<br>
+						<br>Abilities:
+						<br>Chemical Rage: 3/7.5/12 --&gt; 4/10/16
+						<br>Arcane Aura Self: 1.8/2.6/3.4/4.2 --&gt; 2.4/4.4/6.4/8.4
+						<br>Arcane Aura Allies: 0.8/1/1.2/1.4 --&gt; 1.2/1.7/2.2/2.7
+						<br>Hill Troll Priest: 1.5 --&gt; 2.5
+						<br>Death Pulse: 2.25/2.5/2.75/3 --&gt; 3/4/5/6
+						<br>
+						<br>Talents:
+						<br>Storm: 1.75 --&gt; 3
+						<br>Bristleback: 2 --&gt; 3
+						<br>Sven: 2 --&gt; 3
+						<br>Pangolier: 1.5 --&gt; 3
+						<br>Ursa: 1.75 --&gt; 3
+						<br>Windranger: 1.75 --&gt; 3
+						<br>Dragon Knight: 2 --&gt; 3
+						<br>Techies: 4 --&gt; 6
+						<br>Axe: 3 --&gt; 4
+						<br>Omniknight: 3 --&gt; 5
+						</div></li>
+
+						<li>Health Regen: Strength now provides 0.1 Health Regeneration<br>
+						</li><li>Health Regen: Base regen values reduced by 1.5  <a href="#">[?]</a><span class="ChangeDetailsPopup">Now covered by Base Strength.</span><br>
+						</li><li>Health Regen: Rebalanced health regen values based on the formula change<br>
+						<a href="#" class="ChangeDetailsEToggle" id="eToggle2" onclick="$('#extended2').show();$(this).hide();return false;">+ Show Details</a><div class="ChangeDetailsExtended" id="extended2"><a href="#" id="eToggleHide2" class="ChangeDetailsEToggle HideButton" onclick="$('#extended2').hide();$('#eToggle2').show();return false;">- Hide Details</a>
+						<br>Abyssal Blade: 7 --&gt; 10
+						<br>Armlet of Mordiggian: 4 --&gt; 5
+						<br>Battle Fury: 6 --&gt; 7.5
+						<br>Bottle: 40 --&gt; 50
+						<br>Crimson Guard: 6 --&gt; 7
+						<br>Enchanted Mango: 0.5 --&gt; 0.6
+						<br>Force Staff: 2 --&gt; 2.5
+						<br>Guardian Greaves: 3.5 --&gt; 4.5
+						<br>Guardian Greaves Boost: 12 --&gt; 16
+						<br>Helm of Iron Will: 3 --&gt; 3.5
+						<br>Helm of the Dominator: 7 --&gt; 8.5
+						<br>Hood of Defiance: 6.5 --&gt; 8
+						<br>Hurricane Pike: 2 --&gt; 2.5
+						<br>Linken's Sphere: 5.5 --&gt; 6.5
+						<br>Lotus Orb: 5.5 --&gt; 6.5
+						<br>Mekansm: 3.5 --&gt; 4.5
+						<br>Meteor Hammer: 4 --&gt; 5
+						<br>Nullifier: 5 --&gt; 6
+						<br>Perseverance: 5.5 --&gt; 6
+						<br>Pipe of Insight: 6.5 --&gt; 8
+						<br>Pipe Aura: 2 --&gt; 3
+						<br>Refresher Orb: 11 --&gt; 13
+						<br>Ring of Health: 5 --&gt; 6
+						<br>Ring of Regen: 1.5 --&gt; 2
+						<br>Soul Ring: 2 --&gt; 2.5
+						<br>Tranquil Boots: 13 --&gt; 16
+						<br>Vanguard: 5.5 --&gt; 7
+						<br>Veil of Discord: 5 --&gt; 6
+						<br>
+						<br>Shrine: 75 --&gt; 90
+						<br>
+						<br>Abilities:
+						<br>Chemical Rage: 40/55/70 --&gt; 50/75/100
+						<br>Scorched Earth: 12/18/24/30 --&gt; 16/24/32/40
+						<br>Dragon Blood: 4/6/8/10 --&gt; 4/7/10/13
+						<br>Press The Attack: 30/35/40/45 --&gt; 30/40/50/60
+						<br>Reactive Armor: 1/1.15/1.3/1.45 --&gt; 1/1.2/1.4/1.6
+						<br>Inner Vitality threshold heal factor: 22/30/38/46% --&gt; 20/40/60/80% 
+						<br>Inner Vitality normal heal factor: 6/8/10/12% --&gt; 5/10/15/20% 
+						<br>Death Pulse health regen: 2/3/4/5 --&gt; 2/3.5/5/6.5
+						<br>Cold embrace: 10 --&gt; 15
+						<br>
+						<br>Talents:
+						<br>Undying: 8 --&gt; 10
+						<br>Riki: 5 --&gt; 6
+						<br>Slardar: 5 --&gt; 6
+						<br>Spectre: 5 --&gt; 6
+						<br>Kunkka: 10 --&gt; 12
+						<br>Spirit Breaker: 10 --&gt; 12
+						<br>Io: 15 --&gt; 16
+						<br>Underlord: 20 --&gt; 25
+						<br>Axe: 20 --&gt; 25
+						<br>Bristle Back: 20 --&gt; 25
+						<br>Sand King: 35 --&gt; 50
+						</div></li>
+					</ul>
+					
+					<h4>Root Mechanics</h4>
+					<ul>
+						<li><b>Town Portal Scroll:</b> Can now be canceled and prevented by Root</li>
+						<li class="highlight">Fixed inconsistencies between different Root sources:
+							
+								<ul>
+								<blockquote>
+								<li>Stasis Trap now provides True Sight</li>
+								<li>The following roots no longer interrupt channeling spells or the current action: Dark Troll Ensnare, Searing Chains, Naga Siren Ensnare, Crystal Maiden Frostbite, Entangling Claws, Nature's Guise, and Overgrowth</li>
+								</blockquote>
+								</ul>							
+						</li>
+					</ul>	
+					
+					<h4>Cleave and Splash Changes</h4>
+					<ul>
+						<li>Cleave damage is now normal physical damage type, causing it to get reduced by the armor of each unit impacted</li>
+						<li>Cleave abilities damage values have been rescaled</li>
+						<li>Increased standard Cleave area. Distance increased from 625 to 650, final width increased from 330 to 360 <br>Affects: Great Cleave, Empower, Battle Fury, and Talents</li><br>
+						<li><b>Templar Assassin:</b> Psi Blades can now spill off of illusions</li>
+						<li>Changed how illusions' incoming damage is processed; it now happens at the final step <a href="#">[?]</a><span class="ChangeDetailsPopup">Thus it won't splash over extra damage with things like Psi Blades.</span></li>
+						<br><br>
+						<li>Fixed Splash damage being affected by Spell Lifesteal and Spell Amplification</li>
+						<li>Fixed Splash damage not considering armor type</li>
+						<li>Black Dragon Splash Attack damage type changed from Magical Damage to Physical Damage</li>
+						<li>Black Dragon Splash Attack now does its full damage in the 250 AoE <a href="#">[?]</a><span class="ChangeDetailsPopup">Instead of 100% at 150, 75% at 225, and 50% at 300.</span></li>
+						<li>Similar adjustments to Dragon Knight's splash damage described below</li>
+					</ul>
+					
+					<h4>Spell Immunity and Dispels</h4>
+					<ul>
+						<li>The following abilities no longer pierce Spell Immunity: Curse of Avernus, Acid Spray, Bloodrage, Thirst, Elder Dragon Form, Lycan Wolf Cripple, Epicenter, Entangling Claws, Spiderling's Poison Sting, Anchor Smash, Nature's Guise, Wave of Terror, Venomancer's Poison Sting, The Swarm, Maledict debuff, Ghost Frost Attack, Wrath of Nature,  Netherward Mana Degen, Life Drain targeting, Primal Roar Secondary Knockback, Requiem of Souls,  March of the Machines collision, Atrophy Aura, Tombstone, Flesh Golem, Wall of Replica slow, Naga Siren Ensnare, Dark Troll Summoner Ensnare, Wild Axes, Natural Order, Death Pulse projectile, Assassinate, Shiva's Guard Aura, Assault Cuirass Aura, Tempest Tornado Aura, and Orb of Venom</li>
+						<br>
+						<li><b>Black King Bar:</b> Recipe cost increased from 1375 to 1450</li>
+						<br>
+						<li>Poison Sting can now be dispelled</li>
+						<li>Hex state can now be removed by strong dispels</li>
+						<br>
+					</ul>
+					
+					<h4>Towers and Structures</h4>
+					<ul>
+						<li class="highlight">Towers no longer gain extra armor per nearby enemy hero. Tower health increased to account for some of this:
+							
+								<ul>
+								<blockquote>
+								<li>Tier 1 Towers health increased from 1600 to 1800</li>
+								<li>Tier 2 Towers health increased from 1600 to 1900</li>
+								<li>Tier 3 Towers health increased from 1600 to 2000</li>
+								<li>Tier 4 Towers health increased from 1600 to 2100</li>
+								</blockquote>
+								</ul>							
+						</li>
+
+						<li>Melee Barracks health increased from 2000 to 2200</li>
+						<li>Ranged Barracks health increased from 1200 to 1300</li>
+						<li>Ancient health increased from 4250 to 4500</li>
+					</ul>
+					
+					<h4>Misc Changes</h4>
+					<ul>
+						<li>Day/Night cycle increased from 4 minutes to  5 minutes</li>
+						<br>
+						<li>Scan no longer ignores units in the Roshan pit</li>
+						<br>
+						<li>Max attack speed increased from 600 to 700</li>
+						<br>
+						<li>Default aura range increased from 900 to 1200 <a href="#">[?]</a><span class="ChangeDetailsPopup">Gem of Truesight, Heartstopper Aura, Tower Aura and Natural Order remain unchanged.</span></li>
+						<br>
+						<li>Removed movement speed modifiers from spawned creeps <a href="#">[?]</a><span class="ChangeDetailsPopup">Previously different lanes would have faster/slower creeps during the first 7.5 minutes of the game.</span></li>
+						<br>
+						<li>Added a new sound that gets played when all of a team's barracks are destroyed</li>
+						<li>Opening secondary shops now highlights the items in the full shop UI, rather than switching to a filtered view</li>
+						<li>AoE of other wards are now shown during ward placement</li>
+						<br>
+						<li>Added a new game state, Leashed. Leashed units follow the same rules as rooted units with regards to teleport and mobility based abilities, but can still use normal movement. The following abilities now apply the Leashed state: Pounce, Dream Coil and Soulbind</li>
+						<br>
+						<li>Self damage no longer disables things like Clarity, Bottle, Blink, etc</li>
+						<br>
+						<li>Lifesteal amount is no longer limited by the current HP of the target and uses the full damage you are dealing instead</li>
+						<br>
+						<li>Backpack can no longer be manipulated while taunted</li>
+						<br>
+						<li>Reduced the following movement speed talents: Abaddon (25-&gt;20), Axe (40-&gt;30), Bane (65-&gt;50), Batrider (50-&gt;40), Bounty Hunter (25-&gt;20), Dazzle (50-&gt;40), Enchantress (25-&gt;20), Legion Commander (50-&gt;40), Lich (25-&gt;20), Naga Siren (25-&gt;20), Nature's Prophet (35-&gt;25), Night Stalker (45-&gt;40), Nyx Assassin (35-&gt;30), Ogre Magi (90-&gt;75), Oracle (65-&gt;50), Outworld Devourer (35-&gt;30), Pangolier (25-&gt;20), Pugna (25-&gt;20), Sand King (25-&gt;20), Shadow Demon (35-&gt;30), Skywrath Mage (25-&gt;20), Techies (60-&gt;50), Tidehunter (25-&gt;20), Tinker (40-&gt;30), Underlord (30-&gt;25)</li>
+						<br>
+						<li>Intelligence heroes strength gain increased by 0.2 <a href="#">[?]</a><span class="ChangeDetailsPopup">Except for Bane, Outworld Devourer, Queen of Pain, Ogre Magi, and Zeus</span></li>
+						<br>
+						<li>Killing an Observer or Sentry ward now prints out a notification in chat to your allies</li>
+						<li>Respawn time for level 1/2/3/4 increased from 5/7/9/13 to 6/8/10/14</li>
+						<li>Reverted a global turn rate change done in 7.00 <a href="#">[?]</a><span class="ChangeDetailsPopup">Was: * Max turn rate speed increased by 15%</span></li>
+						<li>Attribute growth values that had 2 decimal points have now been rounded up</li>
+						<li>Shrines' Sanctuary ability now additionally restores 2% HP/Mana pool per second <a href="#">[?]</a><span class="ChangeDetailsPopup">As they no longer naturally scale with the intelligence mana regen changes</span></li>
+					</ul>        </div>
+    </div>
+
+    <div class="Container RepeatY BGStyle2" id="Items">
+         <div class="Inner">
+            
+					<b>ITEM CHANGES</b>
+					<br><br>
+					<ul>
+						<li class="highlight">All item-based movement speed bonuses are now rebalanced around being a percentage rather than a constant addition <a href="#">[?]</a><span class="ChangeDetailsPopup">Numbers below are designed around being similar with a base of 300 speed, with boot items being -5 and Eul's being -10 of their old values.</span>
+							
+								<ul>
+								<blockquote>
+								<li>	Boots of Speed: 15%</li>
+								<li>	Power Treads: 15%</li>
+								<li>	Phase Boots: 15%</li>
+								<li>	Arcane Boots: 15%</li>
+								<li>	Guardian Greaves: 17%</li>
+								<li>	Tranquil Boots Active: 28%</li>
+								<li>	Tranquil Boots Inactive: 20%</li>
+								<li>	Boots of Travel: 32%</li>
+								<br>
+								<li>	Drum of Endurance: 6%</li>
+								<li>	Eul's Scepter: 6%</li>
+								<li>	Spirit Vessel: 6%</li>
+								<li>	Wind Lace: 6%</li>
+								</blockquote>
+								</ul>							
+						</li>
+					</ul>
+					
+					<div class="ChangeNoteImage"><img src="http://cdn.dota2.com/apps/dota2/images/items/phase_boots_lg.png" width="48" height="36"></div><br style="clear: left;"><b>Phase Boots:&nbsp;<span class="Reworked">Item Reworked</span></b>
+					<ul>
+						<li>Reworked to no longer have an active. Now passively gives you movement speed bonus, collision phasing and turn rate anytime you issue an attack to a target. Buff dispels whenever you move elsewhere and cancel your attack. Maximum range of 900 for attack orders. <a href="#">[?]</a><span class="ChangeDetailsPopup">Will still kick in if you issue the orders out of 900 range and then walk in.</span> This has no cooldown. Buff lingers for 0.5 seconds</li>
+						<li>Phase movement speed bonus on ranged heroes reduced from 13% to 10%</li>
+						<li class="highlight">Reworked Phase Boots Recipe<br>
+								<br>Old:
+								<br>===
+								<br>Requires: 
+								<br> Boots (500)
+								<br> 2x Blades of Attack (860)
+								<br> Total: 1360
+								<br>
+								<br>Provides:
+								<br> +50 Movement Speed
+								<br> +24 Damage
+								<br>
+								<br>New:
+								<br>===
+								<br>Requires: 
+								<br> Boots (500)
+								<br> Chainmail (550)
+								<br> Gloves of Haste (500)
+								<br> Total: 1550
+								<br>
+								<br>Provides:
+								<br> +15% Movement Speed
+								<br> +5 Armor
+								<br> +25 Attack Speed
+							</li>
+					</ul>
+					
+					<div class="ChangeNoteImage"><img src="http://cdn.dota2.com/apps/dota2/images/items/power_treads_lg.png" width="48" height="36"></div><br style="clear: left;"><b>Power Treads:&nbsp;</b>
+					<ul>
+						<li>Now requires a Blades of Attack instead of a Gloves of Haste. Grants +16 damage instead of attack speed</li>
+						<li>Attribute bonus increased from 10 to 12</li>
+					</ul>
+					
+					<div class="ChangeNoteImage"><img src="http://cdn.dota2.com/apps/dota2/images/items/tranquil_boots_lg.png" width="48" height="36"></div><br style="clear: left;"><b>Tranquil Boots:&nbsp;</b>
+					<ul>
+						<li>No longer gets disabled by attacking creeps</li>
+					</ul>
+					<br><br>
+					<div class="ChangeNoteImage"><img src="http://cdn.dota2.com/apps/dota2/images/items/sange_lg.png" width="48" height="36"></div><br style="clear: left;"><b>Sange:&nbsp;</b>
+						<ul><li>Now provides +12% Status Resistance instead of Maim</li>
+						</ul>
+					<div class="ChangeNoteImage"><img src="http://cdn.dota2.com/apps/dota2/images/items/heavens_halberd_lg.png" width="48" height="36"></div><br style="clear: left;"><b>Heaven's Halberd:&nbsp;</b>
+					<ul><li>Now provides +14% Status Resistance instead of Maim</li>
+					</ul>
+					<div class="ChangeNoteImage"><img src="http://cdn.dota2.com/apps/dota2/images/items/sange_and_yasha_lg.png" width="48" height="36"></div><br style="clear: left;"><b>Sange and Yasha:&nbsp;</b>
+					<ul><li>Now provides +16% Status Resistance instead of Maim</li>
+					</ul>
+					<div class="ChangeNoteImage"><img src="http://cdn.dota2.com/apps/dota2/images/items/sange_lg.png" width="48" height="36"></div><br style="clear: left;"><b>Sange:&nbsp;</b>
+					<ul><li>Recipe cost reduced from 700 to 650</li>
+					</ul>				
+					<div class="ChangeNoteImage"><img src="http://cdn.dota2.com/apps/dota2/images/items/yasha_lg.png" width="48" height="36"></div><br style="clear: left;"><b>Yasha:&nbsp;</b>
+					<ul><li>Recipe cost reduced from 700 to 650</li>
+					</ul>				
+					<div class="ChangeNoteImage"><img src="http://cdn.dota2.com/apps/dota2/images/items/kaya_lg.png" width="48" height="36"></div><br style="clear: left;"><b>Kaya:&nbsp;</b>
+					<ul><li>Recipe increased from 500 to 650</li>
+					</ul>				
+					<div class="ChangeNoteImage"><img src="http://cdn.dota2.com/apps/dota2/images/items/yasha_and_kaya_lg.png" width="48" height="36"></div><br style="clear: left;"><b>Yasha and Kaya:&nbsp;<span class="New">New Item</span></b>
+						<ul><li>Added a new item: Yasha and Kaya</li>
+						</ul>
+					<div class="ChangeNoteImage"><img src="http://cdn.dota2.com/apps/dota2/images/items/kaya_and_sange_lg.png" width="48" height="36"></div><br style="clear: left;"><b>Kaya and Sange:&nbsp;<span class="New">New Item</span></b>
+						<ul><li>Added a new item: Kaya and Sange</li>
+						</ul>
+
+					
+					<li>Rebalanced Sange/Yasha/Kaya and Sange and Yasha stats<ul>
+								<br>Sange:
+								<br>===
+								<br>+16 Strength
+								<br>+12% Status Resistance
+								<br>+8 Attack Damage
+								<br>
+								<br>Yasha:
+								<br>===
+								<br>+16 Agility
+								<br>+12 Attack Speed
+								<br>+8% Movement Speed
+								<br>
+								<br>Kaya:
+								<br>===
+								<br>+16 Intelligence
+								<br>+12% Mana Loss Reduction
+								<br>+8% Spell Amp
+								<br>
+								<br>Sange and Yasha:
+								<br>===
+								<br>+16 Strength
+								<br>+16 Agility
+								<br>+16 Attack Speed
+								<br>+16% Status Resistance
+								<br>+12 Attack Damage
+								<br>+12% Movement Speed
+								<br>
+								<br>Yasha and Kaya
+								<br>===
+								<br>+16 Intelligence
+								<br>+16 Agility
+								<br>+16 Attack Speed
+								<br>+16% Mana Loss Reduction
+								<br>+12% Spell Amp
+								<br>+12% Move Speed
+								<br>
+								<br>Kaya and Sange
+								<br>===
+								<br>+16 Intelligence
+								<br>+16 Strength
+								<br>+16% Mana Loss Reduction
+								<br>+16% Status Resistance
+								<br>+12% Spell Amp
+								<br>+12 Attack Damage
+					</ul>
+							</li>
+					
+					<div class="ChangeNoteImage"><img src="http://cdn.dota2.com/apps/dota2/images/items/ring_of_tarrasque_lg.png" width="48" height="36"></div><br style="clear: left;"><b>Ring of Tarrasque:&nbsp;<span class="New">New Item</span></b>
+					<ul>
+						<li>Added a new basic item: Ring of Tarrasque. Costs 700 gold. Grants +3.75 HP Regen and +150 Health. Upgrades into Heart of Tarrasque and Holy Locket 
+					</li></ul>
+					
+					<div class="ChangeNoteImage"><img src="http://cdn.dota2.com/apps/dota2/images/items/holy_locket_lg.png" width="48" height="36"></div><br style="clear: left;"><b>Holy Locket:&nbsp;<span class="New">New Item</span></b>
+					<ul>
+						<li>Added a new item: Holy Locket. Passive. Causes all heals and hp regen you provide to be amplified by 25%
+								<br>
+								<br>Requires: 
+								<br>	    Void Stone (850)
+								<br>	    Ring of Tarrasque (700)
+								<br>	    Cloak (550)
+								<br>	    Recipe (550) 
+								<br>	    Total: 2650
+								<br>
+								<br>	    Provides:
+								<br>	    +200 Health
+								<br>	    +4 HP Regen
+								<br>	    +3 Mana Regen
+								<br>	    +15% Magic Resistance
+							</li>
+					</ul>
+					
+					<div class="ChangeNoteImage"><img src="http://cdn.dota2.com/apps/dota2/images/items/solar_crest_lg.png" width="48" height="36"></div><br style="clear: left;"><b>Solar Crest:&nbsp;<span class="Reworked">Item Reworked</span></b>
+					<ul>
+						<li>Reworked recipe and bonuses
+						<br>
+						<br>Requires:
+						<br>Medallion (1175)
+						<br>Ultimate Orb (2150)
+						<br>Windlace (250)
+						<br>Recipe (300)
+						<br>Total: 3875
+						<br>
+						<br>Provides:
+						<br>+10 All Stats
+						<br>+12 Armor
+						<br>+6% Movement Speed
+						<br>+1.5 Mana Regen
+						<br>
+						<br>Active Ability: Can be cast on allies or enemies, removing your own +12 Armor bonus. Grants allies +70 Attack Speed, +10% Movement Speed, +12 Armor. On enemies it applies -70 Attack Speed, -10% Movement Speed, -12 Armor <a href="#">[?]</a><span class="ChangeDetailsPopup">Casting this removes only the bonus Armor from your hero.</span>
+						</li>
+					</ul>	
+					
+					<div class="ChangeNoteImage"><img src="http://cdn.dota2.com/apps/dota2/images/items/crown_lg.png" width="48" height="36"></div><br style="clear: left;"><b>Crown:&nbsp;<span class="New">New Item</span></b>
+					<ul>
+						<li>Added a new basic item: Crown, +4 All Stats, 450 Gold (available in side shop). Used in items that previously required Bracer, Wraith Band, and Null Talisman</li>
+					</ul>
+					
+					<div class="ChangeNoteImage"><img src="http://cdn.dota2.com/apps/dota2/images/items/ring_of_aquila_lg.png" width="48" height="36"></div><br style="clear: left;"><b>Ring of Aquila:&nbsp;</b>
+					<ul><li>Removed Ring of Aquila from the game</li>
+					</ul>
+					<br>
+					<br>
+					
+					<ul>
+						<li>Bracer, Wraith Band and Null Talisman can no longer be upgraded into other items</li>
+						<li>Bracer/Null/Wraith recipe increased from 165 to 210</li>
+						<li>Bracer/Null/Wraith Primary stat from +7 to +8</li>
+					</ul>
+					
+					<div class="ChangeNoteImage"><img src="http://cdn.dota2.com/apps/dota2/images/items/bracer_lg.png" width="48" height="36"></div><br style="clear: left;"><b>Bracer:&nbsp;</b>
+					<ul><li>Now gives +6% Magic Resistance</li>
+					</ul>
+					
+					<div class="ChangeNoteImage"><img src="http://cdn.dota2.com/apps/dota2/images/items/wraith_band_lg.png" width="48" height="36"></div><br style="clear: left;"><b>Wraith Band:&nbsp;</b>
+					<ul><li>Now gives +7 Attack Speed</li>
+    <br>
+    <li><i>Was previously +8 Attack Speed</i></li>
+					</ul>
+					
+					<div class="ChangeNoteImage"><img src="http://cdn.dota2.com/apps/dota2/images/items/null_talisman_lg.png" width="48" height="36"></div><br style="clear: left;"><b>Null Talisman:&nbsp;</b>
+					<ul><li>Null Talisman: Now gives +3% Spell Amp
+						<br>
+						<br>	Summary:
+						<br>	===
+						<br>	Wraith Band:
+						<br>	+8 Agility
+						<br>	+3 Strength
+						<br>	+3 Intelligence
+						<br>	+8 Attack Speed
+						<br>	
+						<br>	Bracer:
+						<br>	+8 Strength
+						<br>	+3 Agility
+						<br>	+3 Intelligence
+						<br>	+6% Magic Resistance
+						<br>	
+						<br>	Null Talisman:
+						<br>	+8 Intelligence
+						<br>	+3 Strength
+						<br>	+3 Agility
+						<br>	+3% Spell Amp</li>
+					</ul>
+					<br>
+					<br>
+					
+					
+					<ul>
+						<li>The following recipes have been updated with the removal of Bracer, Wraith Band and Null Talisman as item components</li>
+					</ul>
+					<div class="ChangeNoteImage"><img src="http://cdn.dota2.com/apps/dota2/images/items/hurricane_pike_lg.png" width="48" height="36"></div><br style="clear: left;"><b>Hurricane Pike:&nbsp;</b>
+					<ul><li>Now has a 450 gold recipe instead of Wraith Band</li>
+					</ul>
+					<div class="ChangeNoteImage"><img src="http://cdn.dota2.com/apps/dota2/images/items/dagon_lg.png" width="48" height="36"></div><br style="clear: left;"><b>Dagon:&nbsp;</b>
+					<ul>
+					<li>Recipe changed
+					<a href="#" class="ChangeDetailsEToggle" id="eToggle3" onclick="$('#extended3').show();$(this).hide();return false;">+ Show Details</a><div class="ChangeDetailsExtended" id="extended3"><a href="#" id="eToggleHide3" class="ChangeDetailsEToggle HideButton" onclick="$('#extended3').hide();$('#eToggle3').show();return false;">- Hide Details</a>
+					<br>	Old:
+					<br>	====
+					<br>	
+					<br>	Requires:
+					<br>	--
+					<br>	1x Staff of Wizardry (1000)
+					<br>	1x Null Talisman (465)
+					<br>	Recipe (1250)
+					<br>	Total:  2715 (for level 1)
+					<br>	
+					<br>	
+					<br>	Provides:
+					<br>	--
+					<br>	+18/21/24/27/30 Intelligence
+					<br>	+3 Strength
+					<br>	+3 Agility
+					<br>	
+					<br>	
+					<br>	
+					<br>	New:
+					<br>	====
+					<br>	
+					<br>	Requires:
+					<br>	--
+					<br>	1x Staff of Wizardry (1000)
+					<br>	1x Crown(450)
+					<br>	Recipe (1250)
+					<br>	Total: 2700 (for Level 1)
+					<br>	
+					<br>	
+					<br>	Provides:
+					<br>	--
+					<br>	+18/21/24/27/30 Intelligence
+					<br>	+5 Strength
+					<br>	+5 Agility
+					</div></li>
+					</ul>
+					
+					<div class="ChangeNoteImage"><img src="http://cdn.dota2.com/apps/dota2/images/items/veil_of_discord_lg.png" width="48" height="36"></div><br style="clear: left;"><b>Veil of Discord:&nbsp;</b>
+					<ul><li>Recipe changed
+					<a href="#" class="ChangeDetailsEToggle" id="eToggle4" onclick="$('#extended4').show();$(this).hide();return false;">+ Show Details</a><div class="ChangeDetailsExtended" id="extended4"><a href="#" id="eToggleHide4" class="ChangeDetailsEToggle HideButton" onclick="$('#extended4').hide();$('#eToggle4').show();return false;">- Hide Details</a>
+					<br>	Old:
+					<br>	====
+					<br>	
+					<br>	Requires:
+					<br>	--
+					<br>	1x Helm of Iron Will (900)
+					<br>	2x Null Talisman (930)
+					<br>	Recipe (500)
+					<br>	Total: 2330
+					<br>	
+					<br>	
+					<br>	Provides:
+					<br>	--
+					<br>	+14 Intelligence
+					<br>	+6 Strength
+					<br>	+6 Agility
+					<br>	+6 Armor
+					<br>	+5 Health Regeneration
+					<br>	
+					<br>	
+					<br>	
+					<br>	New:
+					<br>	====
+					<br>	
+					<br>	Requires:
+					<br>	--
+					<br>	1x Helm of Iron Will (900)
+					<br>	1x Crown (450)
+					<br>	Recipe (700)
+					<br>	Total: 2050
+					<br>	
+					<br>	
+					<br>	Provides:
+					<br>	--
+					<br>	+15 Intelligence
+					<br>	+6 Strength
+					<br>	+6 Agility
+					<br>	+6 Armor
+					<br>	+5 Health Regeneration
+					</div></li>
+					</ul>
+					
+					<div class="ChangeNoteImage"><img src="http://cdn.dota2.com/apps/dota2/images/items/ancient_janggo_lg.png" width="48" height="36"></div><br style="clear: left;"><b>Drum of Endurance:&nbsp;</b>
+					<ul><li>Recipe changed
+					<a href="#" class="ChangeDetailsEToggle" id="eToggle5" onclick="$('#extended5').show();$(this).hide();return false;">+ Show Details</a><div class="ChangeDetailsExtended" id="extended5"><a href="#" id="eToggleHide5" class="ChangeDetailsEToggle HideButton" onclick="$('#extended5').hide();$('#eToggle5').show();return false;">- Hide Details</a>
+					<br>	Old:
+					<br>	====
+					<br>	
+					<br>	Requires
+					<br>	--
+					<br>	1x Bracer (465)
+					<br>	1x Sage's Mask (325)
+					<br>	1x Wind Lace (250)
+					<br>	Recipe (575)
+					<br>	Total: 1615
+					<br>	
+					<br>	
+					<br>	Provides:
+					<br>	--
+					<br>	+7 Strength
+					<br>	+3 Agility
+					<br>	+6 Intelligence
+					<br>	+0.75 Mana Regeneration
+					<br>	
+					<br>	
+					<br>	
+					<br>	New:
+					<br>	====
+					<br>	
+					<br>	Requires:
+					<br>	--
+					<br>	1x Crown (450)
+					<br>	1x Sage's Mask (325)
+					<br>	1x Wind Lace (250)
+					<br>	Recipe (500)
+					<br>	Total: 1525
+					<br>	
+					<br>	
+					<br>	Provides:
+					<br>	--
+					<br>	+6 Strength
+					<br>	+6 Agility
+					<br>	+6 Intelligence
+					<br>	+1.5 Mana Regeneration (new mana regen formula)
+					</div></li>
+					</ul>
+					
+					<div class="ChangeNoteImage"><img src="http://cdn.dota2.com/apps/dota2/images/items/rod_of_atos_lg.png" width="48" height="36"></div><br style="clear: left;"><b>Rod of Atos:&nbsp;</b>
+					<ul><li>Recipe changed
+					<a href="#" class="ChangeDetailsEToggle" id="eToggle6" onclick="$('#extended6').show();$(this).hide();return false;">+ Show Details</a><div class="ChangeDetailsExtended" id="extended6"><a href="#" id="eToggleHide6" class="ChangeDetailsEToggle HideButton" onclick="$('#extended6').hide();$('#eToggle6').show();return false;">- Hide Details</a>
+					<br>	Old:
+					<br>	====
+					<br>	
+					<br>	Requires:
+					<br>	--
+					<br>	2x Bracer (930)
+					<br>	1x Staff of Wizardry (1000)
+					<br>	Recipe (1100)
+					<br>	Total: 3030
+					<br>	
+					<br>	
+					<br>	
+					<br>	Provides:
+					<br>	--
+					<br>	+15 Strength
+					<br>	+6 Agility
+					<br>	+20 Intelligence
+					<br>	
+					<br>	
+					<br>	
+					<br>	New:
+					<br>	====
+					<br>	
+					<br>	Requires
+					<br>	--
+					<br>	2x Crown (900)
+					<br>	1x Staff of Wizardry (1000)
+					<br>	Recipe (850)
+					<br>	Total: 2750
+					<br>	
+					<br>	
+					<br>	Provides:
+					<br>	--
+					<br>	+12 Strength
+					<br>	+12 Agility
+					<br>	+20 Intelligence
+					</div></li>
+					</ul>
+					<br>
+					
+					<div class="ChangeNoteImage"><img src="http://cdn.dota2.com/apps/dota2/images/items/ring_of_basilius_lg.png" width="48" height="36"></div><br style="clear: left;"><b>Ring of Basilius:&nbsp;</b>
+					<ul><li>Mana regeneration increased from 0.5 to 0.65</li>
+					</ul>
+					
+					<div class="ChangeNoteImage"><img src="http://cdn.dota2.com/apps/dota2/images/items/bloodstone_lg.png" width="48" height="36"></div><br style="clear: left;"><b>Bloodstone:&nbsp;</b>
+					<ul>
+						<li>No longer has Pocket Deny</li>
+						<li>No longer reduces respawn times</li>
+						<li>Now passively doubles your mana regeneration</li>
+						<li>Starts with 12 charges, deaths remove 3 charges, kills provide 1 charge</li>
+						<li>Each charge provides 0.25 MP and HP regen</li>
+						<li>Can now be cast, transferring 60% of your current mana to health. Cooldown: 250 <a href="#">[?]</a><span class="ChangeDetailsPopup">Regen is provided over 2 seconds. </span></li>
+					</ul>
+					
+					<div class="ChangeNoteImage"><img src="http://cdn.dota2.com/apps/dota2/images/items/aeon_disk_lg.png" width="48" height="36"></div><br style="clear: left;"><b>Aeon Disk:&nbsp;</b>
+					<ul>
+					<li>Health increased from 250 to 300</li>
+					<li>Mana increased from 250 to 300</li>
+					<li>No longer provides passive Status Resistance</li>
+					<li>Provides +50% Status Resistance during the 2.5s active buff duration</li>
+					</ul>
+					
+					<div class="ChangeNoteImage"><img src="http://cdn.dota2.com/apps/dota2/images/items/satanic_lg.png" width="48" height="36"></div><br style="clear: left;"><b>Satanic:&nbsp;</b>
+					<ul>
+						<li>Passively provides 30% Status Resistance</li>
+						<li>Bonus damage reduced from 50 to 25</li>
+					</ul>
+					
+					<div class="ChangeNoteImage"><img src="http://cdn.dota2.com/apps/dota2/images/items/heart_lg.png" width="48" height="36"></div><br style="clear: left;"><b>Heart of Tarrasque:&nbsp;</b>
+					<ul>
+						<li>Now provides +50% Health Regen Amplification</li>
+						<li>Out-of-combat regen reduced from 7% to 5% <a href="#">[?]</a><span class="ChangeDetailsPopup">Adjustment for the heal amp</span></li>
+						<li>HP bonus reduced from 500 to 400</li>
+						<li>Now requires Reaver, Vitality Booster, Ring of Tarrasque and 400 gold recipe </li>
+					</ul>
+					
+					<div class="ChangeNoteImage"><img src="http://cdn.dota2.com/apps/dota2/images/items/spirit_vessel_lg.png" width="48" height="36"></div><br style="clear: left;"><b>Spirit Vessel:&nbsp;</b>
+					<ul>
+					<li>No longer amplifies health regen nor provides current health percentage regen</li>
+					<li>Enemy damage per second increased from 20 to 25 <a href="#">[?]</a><span class="ChangeDetailsPopup">Matches urn now. Still deals current health as damage and negates regen</span></li>
+					</ul>
+					
+					<div class="ChangeNoteImage"><img src="http://cdn.dota2.com/apps/dota2/images/items/headdress_lg.png" width="48" height="36"></div><br style="clear: left;"><b>Headdress:&nbsp;</b>
+					<ul>
+						<li>Headdress Recipe reduced from 300 to 175</li>
+					</ul>
+					
+					<div class="ChangeNoteImage"><img src="http://cdn.dota2.com/apps/dota2/images/items/mekansm_lg.png" width="48" height="36"></div><br style="clear: left;"><b>Mekansm:&nbsp;</b>
+					<ul>
+						<li>Recipe increased from 900 to 950 <a href="#">[?]</a><span class="ChangeDetailsPopup">Overall cost reduced by 75</span></li>
+					</ul>
+					
+					<div class="ChangeNoteImage"><img src="http://cdn.dota2.com/apps/dota2/images/items/arcane_boots_lg.png" width="48" height="36"></div><br style="clear: left;"><b>Arcane Boots:&nbsp;</b>
+					<ul>
+						<li>Mana restore increased from 135 to 160</li>
+					</ul>
+					
+					<div class="ChangeNoteImage"><img src="http://cdn.dota2.com/apps/dota2/images/items/guardian_greaves_lg.png" width="48" height="36"></div><br style="clear: left;"><b>Guardian Greaves:&nbsp;</b>
+					<ul>
+					<li>Heal increased from 275 to 300</li>
+					<li>Mana restore increased from 160 to 200</li>
+					</ul>
+					
+					<div class="ChangeNoteImage"><img src="http://cdn.dota2.com/apps/dota2/images/items/pipe_lg.png" width="48" height="36"></div><br style="clear: left;"><b>Pipe of Insight:&nbsp;</b>
+					<ul>
+					<li>Now gives the +2 Stats from its components</li>
+					</ul>
+					
+					<div class="ChangeNoteImage"><img src="http://cdn.dota2.com/apps/dota2/images/items/basher_lg.png" width="48" height="36"></div><br style="clear: left;"><b>Skull Basher:&nbsp;</b>
+					<ul><li>Recipe cost reduced from 1000 to 900</li></ul>
+					<div class="ChangeNoteImage"><img src="http://cdn.dota2.com/apps/dota2/images/items/butterfly_lg.png" width="48" height="36"></div><br style="clear: left;"><b>Butterfly:&nbsp;</b>
+					<ul><li>No longer has an active ability</li></ul>
+					<div class="ChangeNoteImage"><img src="http://cdn.dota2.com/apps/dota2/images/items/lesser_crit_lg.png" width="48" height="36"></div><br style="clear: left;"><b>Crystalys:&nbsp;</b>
+					<ul><li>Bonus damage increased from +30 to +38</li></ul>
+					<div class="ChangeNoteImage"><img src="http://cdn.dota2.com/apps/dota2/images/items/desolator_lg.png" width="48" height="36"></div><br style="clear: left;"><b>Desolator:&nbsp;</b>
+					<ul><li>Armor reduction increased from 6 to 7</li></ul>
+					<div class="ChangeNoteImage"><img src="http://cdn.dota2.com/apps/dota2/images/items/force_staff_lg.png" width="48" height="36"></div><br style="clear: left;"><b>Force Staff:&nbsp;</b>
+					<ul><li>Can now override Slark's Pounce</li></ul>
+					<div class="ChangeNoteImage"><img src="http://cdn.dota2.com/apps/dota2/images/items/hand_of_midas_lg.png" width="48" height="36"></div><br style="clear: left;"><b>Hand of Midas:&nbsp;</b>
+					<ul><li>Attack Speed increased from 30 to 40</li></ul>
+					<div class="ChangeNoteImage"><img src="http://cdn.dota2.com/apps/dota2/images/items/ward_sentry_lg.png" width="48" height="36"></div><br style="clear: left;"><b>Sentry Ward:&nbsp;</b>
+					<ul><li>Range increased from 850 to 1000</li></ul>
+					<div class="ChangeNoteImage"><img src="http://cdn.dota2.com/apps/dota2/images/items/gem_lg.png" width="48" height="36"></div><br style="clear: left;"><b>Gem of True Sight:&nbsp;</b>
+					<ul><li>Grants 300 ground vision and truesight to the team that last held when it is dropped on the ground. Lasts until it is picked up</li></ul>
+					
+					
+					<div class="ChangeNoteImage"><img src="http://cdn.dota2.com/apps/dota2/images/items/lifesteal_lg.png" width="48" height="36"></div><br style="clear: left;"><b>Morbid Mask:&nbsp;</b>
+					<ul><li>No longer provides +10 Damage</li>
+						<li>Cost reduced from 1100 to 900</li>
+					</ul>
+					
+					<div class="ChangeNoteImage"><img src="http://cdn.dota2.com/apps/dota2/images/items/mask_of_madness_lg.png" width="48" height="36"></div><br style="clear: left;"><b>Mask of Madness:&nbsp;</b>
+					<ul><li>Damage reduced from +20 to +10</li>
+					</ul>
+
+					<br><br>
+					<br><br>
+
+        </div>
+    </div>
+
+    <div class="Container RepeatY BGStyle1" id="Heroes">
+         <div class="Inner">
+            <h3>Heroes</h3>
+            
+					<div class="ChangeNoteImage"><img src="http://cdn.dota2.com/apps/dota2/images/heroes/abaddon_sb.png"></div><br style="clear: left;"><b>Abaddon:&nbsp;<span class="Reworked">Ability Rework</span></b>
+					<ul>
+						<li>Base movement speed increased from 310 to 325</li>
+						<li>Base agility increased by 6 <a href="#">[?]</a><span class="ChangeDetailsPopup">Base armor unchanged</span></li>
+						<br>
+						<li>Mist Coil projectile speed reduced from 1600 to 1300</li>
+						<br>
+						<li>Reworked Curse of Avernus. Passive. Slows the targets you attack by 10/15/20/25% for 4 seconds. If a target gets hit 4 times, they become cursed for 4 seconds and are silenced, slowed by 30/40/50/60% and all allied heroes that attack the target will receive a 40/60/80/100 AS boost <a href="#">[?]</a><span class="ChangeDetailsPopup">You cannot start to increment the hit counter while they are cursed</span></li>
+						<br>
+						<li>Level 25 Talent changed from Curse of Avernus to +375 AoE Mist Coil</li>
+					</ul>
+					<div class="ChangeNoteImage"><img src="http://cdn.dota2.com/apps/dota2/images/heroes/ancient_apparition_sb.png"></div><br style="clear: left;"><b>Ancient Apparition:&nbsp;<span class="Reworked">Ability Rework</span></b>
+					<ul>
+						<li>Ice Vortex no longer has a self bonus</li>
+						<br>
+						<li>Reworked Chilling Touch. It is now a passive autocast attack modifier. Cooldown: 15/11/7/3 seconds. Grants you bonus attack range and causes your attack to deal heavy magic damage that slows movement for a brief period. Damage: 50/85/120/155. Slow: 100% for 0.5 seconds. Attack Range Bonus: 60/120/180/240. Manacost: 30/50/70/90</li>
+					</ul>
+					<div class="ChangeNoteImage"><img src="http://cdn.dota2.com/apps/dota2/images/heroes/antimage_sb.png"></div><br style="clear: left;"><b>Anti-Mage:&nbsp;<span class="Reworked">Ability Rework</span></b>
+					<ul>
+						<li>Removed Scepter upgrade</li>
+						<br>
+						<li>Replaced Spell Shield with Counterspell. Passively grants you 15/25/35/45% Magic Resistance and can be activated to provide a Counterspell shield for 1.4 second. Causes all spells that target you to be blocked and reflected onto the enemy. Cooldown: 15/11/7/3. Manacost: 40</li>
+					</ul>
+					<div class="ChangeNoteImage"><img src="http://cdn.dota2.com/apps/dota2/images/heroes/arc_warden_sb.png"></div><br style="clear: left;"><b>Arc Warden:&nbsp;</b>
+					<ul>
+						<li>Tempest Double bounty increased from a fixed 180 Gold/XP to 180/240/300</li>
+						<br>
+						<li>Level 15 Talent changed from +350 Health to +300</li>
+					</ul>
+					<div class="ChangeNoteImage"><img src="http://cdn.dota2.com/apps/dota2/images/heroes/axe_sb.png"></div><br style="clear: left;"><b>Axe:&nbsp;</b>
+					<ul>
+						<li>Berserker's Call armor bonus reduced from 40 to 30</li>
+					</ul>
+					<div class="ChangeNoteImage"><img src="http://cdn.dota2.com/apps/dota2/images/heroes/bane_sb.png"></div><br style="clear: left;"><b>Bane:&nbsp;<span class="Reworked">Ability Rework</span></b>
+					<ul>
+						<li>Reworked Enfeeble. Adds a debuff to the enemy unit, applying 36/44/52/60% negative status resistance to the target (which causes debuffs to last longer) and reducing the enemy's attack speed by 40/60/80/100. Lasts 8 seconds. Can be dispelled. Cast Range: 1000. Cooldown: 12/10/8/6. Manacost: 70/90/110/130</li>
+						<br>
+						<li>Level 15 Talent changed from Enfeeble Steals Damage to Enfeeble Steals Attack Speed</li>
+						<li>Level 20 Talent changed from +100 Enfeeble Damage Reduction to +100 Enfeeble Attack Speed Reduction</li>
+					</ul>
+					<div class="ChangeNoteImage"><img src="http://cdn.dota2.com/apps/dota2/images/heroes/batrider_sb.png"></div><br style="clear: left;"><b>Batrider:&nbsp;</b>
+					<ul>
+						<li>Flaming Lasso now does 20/40/60 damage per second <a href="#">[?]</a><span class="ChangeDetailsPopup">Scepter no longer provides this. Ticks every 1 second.</span> </li>
+					</ul>
+					<div class="ChangeNoteImage"><img src="http://cdn.dota2.com/apps/dota2/images/heroes/beastmaster_sb.png"></div><br style="clear: left;"><b>Beastmaster:&nbsp;<span class="Reworked">Ability Rework</span></b>
+					<ul>
+						<li>Call of the Wild has been reworked. It no longer summons a neutral creep, and now has two separate hotkeys for the Boar and the Hawk. The Hawk is a global point target ability that sends a permanently invisible uncontrollable hawk to that location starting from where you are. Adjusted stats on the summoned units:</li>
+						
+						<ul>
+						<blockquote>
+						<li>	Boar HP: 300/450/600/750 <a href="#">[?]</a><span class="ChangeDetailsPopup">Was 275/350/425/500</span></li>
+						<li>	Boar Damage Type: Hero <a href="#">[?]</a><span class="ChangeDetailsPopup">Was Piercing</span></li>
+						<li>	Boar Attack Damage: 16/32/48/64  <a href="#">[?]</a><span class="ChangeDetailsPopup">Was 16/24/32/40</span></li>
+						<li>	Boar Poison Slow: 10/20/30/40% for 3 seconds</li>
+						<li>	Boar Duration: 60</li>
+						<li>	Boar Ability Cooldown: 42/38/34/30</li>
+						<li>	Boar Manacost: 50</li>
+						<br>
+						<li>	Hawk HP: 300/450/600/750 <a href="#">[?]</a><span class="ChangeDetailsPopup">Was 350</span></li>
+						<li>	Hawk Invisibility is permanent <a href="#">[?]</a><span class="ChangeDetailsPopup">Previously had none</span></li>
+						<li>	Hawk Movement Speed: 300/340/380/420 <a href="#">[?]</a><span class="ChangeDetailsPopup" style="display: none;">Was 430</span></li>
+						<li>	Hawk Vision: 600/700/800/900 <a href="#">[?]</a><span class="ChangeDetailsPopup">Was 1000</span></li>
+						<li>	Hawk Duration: 60</li>
+						<li>	Hawk Cooldown: 60/50/40/30 <a href="#">[?]</a><span class="ChangeDetailsPopup">Was 60</span></li>
+						<li>	Hawk Manacost: 30</li>
+						</blockquote>
+						</ul>
+						<li>Primal Roar self movement boost increased from 30 to 40%</li>
+						<li>Primal Roar secondary units push distance from 300 to 450</li>
+						<li>Primal Roar secondary units push duration from 0.6 to 1.0</li>
+						<li>Primal Roar secondary unit slow duration now matches primary target <a href="#">[?]</a><span class="ChangeDetailsPopup">2/3/4 to 3/3.5/4</span></li>
+						<li>Primal Roar secondary unit slow increased from 50 to 60</li>
+						<br>
+						<li>Level 25 Talent changed from +2 Hawks Summoned to -15s Hawks Cooldown</li>
+					</ul>
+					<div class="ChangeNoteImage"><img src="http://cdn.dota2.com/apps/dota2/images/heroes/bloodseeker_sb.png"></div><br style="clear: left;"><b>Bloodseeker:&nbsp;</b>
+					<ul>
+						<li>Thirst changed from giving attack damage to +30/45/60/75 Attack Speed</li>
+						<li>Thirst movement speed increased from 7/18/29/40% to 12/24/36/48%</li>
+						<br>
+						<li>Bloodrage incoming and outgoing damage reduced from 25/30/35/40% to 10/15/20/25%</li>
+						<li>Bloodrage now does full amplification regardless of the distance <a href="#">[?]</a><span class="ChangeDetailsPopup">Previously only did half for long distances</span></li>
+						<br>
+						<li>Blood Rite damage from 120/160/200/240 to 125/175/225/275</li>
+						<br>
+						<li>Rupture now deals 8% of current health as pure damage per 100 units moved. No longer lethal</li>
+						<li>Rupture duration from 12 to 8/10/12</li>
+						<li>Rupture cast range from 800 to 700/800/900</li>
+						<li>Rupture cooldown from 60 to 70/60/50</li>
+						<br>
+						<li>Level 20 Talent changed from +18% Rupture Damage to +600 Rupture Cast Range</li>
+					</ul>
+					<div class="ChangeNoteImage"><img src="http://cdn.dota2.com/apps/dota2/images/heroes/bounty_hunter_sb.png"></div><br style="clear: left;"><b>Bounty Hunter:&nbsp;<span class="Reworked">Ability Rework</span></b>
+					<ul>
+						<li>Strength from 18+2.1 to 20+2.5</li>
+						<br>
+						<li>Shadow Walk no longer deals 30/60/90/120 damage. Attacking out of invisibility now applies a 14/20/26/32% movement slow for 4 seconds</li>
+						<br>
+						<li>Reworked Jinada. Passive cooldown 12/9/6/3. Causes your attack to deal +80/110/140/170 Bonus Attack Damage.  Steals 12/18/24/30 Unreliable Gold from enemy heroes. Your weapon glows when the attack is ready to strike</li>
+						<br>
+						<li>Track movement speed bonus is now given to your hero only</li>
+						<li>Track now causes all attacks you do to the Tracked enemy to crit for 1.4/1.6/1.8x</li>
+						<li>Track cast no longer breaks invisibility</li>
+						<li>Track gold radius from 925 to 1200</li>
+						<br>
+						<li>Level 20 Talent changed from +125% Jinada Critical Strike to +90 Jinada Gold Steal</li>
+					</ul>
+					<div class="ChangeNoteImage"><img src="http://cdn.dota2.com/apps/dota2/images/heroes/brewmaster_sb.png"></div><br style="clear: left;"><b>Brewmaster:&nbsp;<span class="Reworked">Ability Rework</span></b>
+					<ul>
+						<li>Intelligence gain increased from 1.3 to 1.6</li>
+						<li>Base movement speed increased from 295 to 305</li>
+						<br>
+						<li>Thunderclap manacost from 90/105/130/150 to 90/100/110/120</li>
+						<br>
+						<li>Reworked Drunken Brawler. It is now a self active buff. Lasts for 5 seconds. Grants you 50/60/70/80% evasion and 80% chance to Crit for 200/220/240/260%. Movement speed alternates between -20% and +40% while this is active. Cooldown: 20/19/18/17. Manacost: 35/40/45/50</li>
+						<br>
+						<li>Replaced Drunken Haze with Cinder Brew. Covers a target 400 AoE with alcohol, slowing them by 25% and causes them to have a 20/25/30/35% chance to attack themselves instead of the target. Lasts 7 seconds. If the targets are hit by any fire based spells (including immolation from your Fire Spirit), the duration will refresh and they will ignite and burn for 10/25/40/55 DPS. Cooldown: 20/18/16/14. Manacost: 50. Self attack is not lethal</li>
+
+						<li>The following heroes have fire element damage: Dragon Knight, Jakiro, Phoenix, Axe, Doom, Ember Spirit, Brewmaster, Lina, Ogre, Batrider, Wraith King, Clinkz, Invoker, Warlock, Underlord, and Huskar</li>
+						<br>
+						<li>Level 25 changed from +15% Drunken Brawler Chance to +200% Critical Strike Damage</li>
+					</ul>
+					<div class="ChangeNoteImage"><img src="http://cdn.dota2.com/apps/dota2/images/heroes/bristleback_sb.png"></div><br style="clear: left;"><b>Bristleback:&nbsp;</b>
+					<ul>
+						<li>Viscous Nasal Goo armor reduction increased from 1/1.4/1.8/2.2 to 1.4/1.8/2.2/2.6</li>
+					</ul>
+					<div class="ChangeNoteImage"><img src="http://cdn.dota2.com/apps/dota2/images/heroes/broodmother_sb.png"></div><br style="clear: left;"><b>Broodmother:&nbsp;</b>
+					<ul>
+						<li>Spiderling/Spiderite magic resistance reduced from 50% to 40%</li>
+					</ul>
+					<div class="ChangeNoteImage"><img src="http://cdn.dota2.com/apps/dota2/images/heroes/centaur_sb.png"></div><br style="clear: left;"><b>Centaur Warrunner:&nbsp;<span class="Reworked">Ability Rework</span></b>
+					<ul>
+						<li>Strength gain reduced from 4.3 to 4.0</li>
+						<br>
+						<li>Hoof Stomp damage reduced from 100/150/200/250 to 80/110/140/170</li>
+						<br>
+						<li>Double Edge damage changed from 175/250/325/400 to 150/200/250/300 + 40/60/80/100% of Strength as damage</li>
+						<li>Double Edge cast point from 0.5 to 0.4</li>
+						<br>
+
+						<li>Return has been renamed to Retaliate</li>
+						<li>Retaliate no longer has a strength component</li>
+						<li>Retaliate damage increased from 16/18/20/22 to 16/32/48/64</li>
+						<li>Retaliate now gains charges each time you are attacked by an enemy hero or tower. Can be activated, consuming the charges, to give you a percentage base attack damage increase for 20 seconds. Max Stacks: 13. Provides 6/9/12/15% base damage increase per stack. Cooldown: 55/50/45/40</li>
+						<br>
+						<li>Stampede cooldown increased from 90/75/60 to 110/100/90</li>
+						<li>Stampede manacost increased from 100 to 150</li>
+						<br>
+						<li>Level 10 Talent changed from +10% Magic Resistance to +20 Movement Speed</li>
+						<li>Level 15 Talent changed from +15% Return Strength Damage to +50% Double Edge Strength Damage</li>
+						<li>Level 15 Talent changed from +75 Damage to +30 Base Damage</li>
+						<li>Level 20 Talent changed from +300 Double Edge Damage to +50 Retaliate Damage</li>
+    <br>
+    <li><i>Max stacks of Retaliate was previously 10</i></li>
+					</ul>
+					
+					<div class="ChangeNoteImage"><img src="http://cdn.dota2.com/apps/dota2/images/heroes/chaos_knight_sb.png"></div><br style="clear: left;"><b>Chaos Knight:&nbsp;<span class="Reworked">Ability Rework</span></b>
+					<ul>
+					<li>Reworked Chaos Strike. Passive cooldown ability. Lands a critical strike for a random amount, between Min Crit: 120% and Max Crit: 160/190/220/250%. Has 35/40/45/50% lifesteal for this hit. Cooldown: 7/6/5/4</li>
+					<br>
+					<li>Reality Rift no longer reduces armor</li>
+					<li>Reality Rift now moves the target a fixed amount of distance: 250/300/350/400</li>
+					<li>Reality Rift now maims the target applying a 15/25/35/45% movement and 30/50/70/90 attack speed slow for 2 seconds</li>
+					<li>Reality Rift cooldown rescaled from 18/14/10/6 to 20/15/10/5</li>
+					<li>Reality Rift cast range from 550/600/650/700 to 475/550/625/700</li>
+					<br>
+					<li>Chaos Bolt minimum damage rescaled from 75/100/125/150 to 60/90/120/150</li>
+					<li>Chaos Bolt maximum damage rescaled from 200/225/250/275 to 180/210/240/270</li>
+					<li>Chaos Bolt projectile speed reduced from 1000 to 700</li>
+					<br>
+					<li>Phantasm: Phantasm no longer has a chance to summon an extra illusion</li>
+					<li>Phantasm: Illusion count increased from 1/2/3 to 3</li>
+					<li>Phantasm: Illusion damage rescaled from 100% to 50/75/100%</li>
+					<li>Phantasm: Illusion duration reduced from 42 to 30</li>
+					<br>
+					<li>Level 25 Talent changed from -7 Reality Rift Armor Reduction to -2s Chaos Strike Cooldown</li>
+    <br>
+    <li><i>Chaos Strike cooldown was previously 8/7/6/5</i></li>
+    <li><i>Phantasm damage was previously 40/70/100%</i></li>
+					</ul>
+					
+					<div class="ChangeNoteImage"><img src="http://cdn.dota2.com/apps/dota2/images/heroes/chen_sb.png"></div><br style="clear: left;"><b>Chen:&nbsp;<span class="Reworked">Ability Rework</span></b>
+					<ul>
+					<li>Penitence projectile speed reduced from 2000 to 1400</li>
+					<li>Penitence no longer amplifies damage</li>
+					<li>Penitence now causes all allied units attacking the target unit to gain 30/60/90/120 Attack Speed</li>
+					<br>
+					<li>Test of Faith replaced with Divine Favor. Targets allied units, providing 7/13/19/25 HP regen, amplifying all regen and heals on the target by 25% and increasing attack damage by 10/20/40/80. Lasts 12 seconds. Cooldown: 26/24/22/20 Manacost: 110. Cast Range: 800</li>
+					<br>
+					<li>Holy Persuasion now has a neutral creep level requirement of 4/5/6/6</li>
+					<li>Holy Persuasion minimum health increased from 700/800/900/1000 to 1000</li>
+					<li>Holy Persuasion now sends an allied unit anywhere on the map to you instead of sending them home. If the ally takes player based damage during this, the spell is interrupted</li>
+					<li>Holy Persuasion cooldown changed from 32/24/18/10 to 15 <a href="#">[?]</a><span class="ChangeDetailsPopup">This used to be Recall on Keeper of the Light, who no longer has it</span></li>
+					<br>					
+					<li>Level 15 Talent changed from -10s Test of Faith Cooldown to -10s Divine Favor Cooldown</li>
+					</ul>
+					
+					<div class="ChangeNoteImage"><img src="http://cdn.dota2.com/apps/dota2/images/heroes/clinkz_sb.png"></div><br style="clear: left;"><b>Clinkz:&nbsp;<span class="Reworked">Ability Rework</span></b>
+					<ul>
+					<li>Replaced Death Pact with Burning Army. Uses Vector Targeting. Spawns 4/5/6 Fiery Skeleton Archers along a 1300 line. Skeletons attack using Searing Arrows, have your base damage, are immobile and take 2 hits to kill from a hero. They only attack enemy heroes (like WD ward, but killable). Attack range matches your hero. Spawn at 0.8 second intervals. Cast Range: 1200. Cooldown 110. Manacost: 125/175/225. Lasts 20 seconds. Base Attack Time: 1.65/1.5/1.35</li>
+    <br>
+    <li><i>Burning Army BAT was previously 1.8/1.65/1.5</i></li>
+    <li><i>Burning Army cast range was previously 800</i></li>
+					</ul>
+					
+					<div class="ChangeNoteImage"><img src="http://cdn.dota2.com/apps/dota2/images/heroes/rattletrap_sb.png"></div><br style="clear: left;"><b>Clockwerk:&nbsp;</b>
+					<ul>
+						<li>Rocket Flare projectile speed increased from 1750 to 2250</li>
+						<br>
+						<li>Power Cogs knockback distance increased from 250 to 300</li>
+						<li>Power Cogs knockback duration increased from 0.85 to 1</li>
+						<li>Power Cogs damage from 50/100/150/200 to 50/125/200/275</li>
+						<li>Power Cogs mana burn from 50/100/150/200 to 50/80/110/140</li>
+					</ul>
+					<div class="ChangeNoteImage"><img src="http://cdn.dota2.com/apps/dota2/images/heroes/crystal_maiden_sb.png"></div><br style="clear: left;"><b>Crystal Maiden:&nbsp;</b>
+					<ul>
+						<li>Base damage increased by 2</li>
+						<br>
+						<li>Frostbite no longer has an interrupt <a href="#">[?]</a><span class="ChangeDetailsPopup">Same as other roots changed, still interrupts teleports</span></li>
+						<li>Frostbite cast range increased from 525 to 550</li>
+						<br>
+						<li>Freezing Field no longer has a 0.3 cast point</li>
+					</ul>
+					<div class="ChangeNoteImage"><img src="http://cdn.dota2.com/apps/dota2/images/heroes/dark_seer_sb.png"></div><br style="clear: left;"><b>Dark Seer:&nbsp;</b>
+					<ul>
+						<li>Surge duration rescaled from 3/4.5/6/7.5 to 6</li>
+						<li>Surge cooldown rescaled from 13/12/11/10 to 16/14/12/10</li>
+						<li>Surge now causes the target to be unslowable</li>
+						<li>Surge speed changed from 550 to +36/54/72/90%</li>
+						<li>Surge now causes the target to ignore movement speed limit</li>
+						<li>Surge now causes the target to ignore unit collisions</li>
+						<br>
+						<li>Wall of Replica now uses Vector Targeting to cast</li>
+						<li>Wall of Replica cast point reduced from 0.4 to 0.2</li>
+						<li>Wall of Replica cast range increased 500/900/1300 to 1300</li>
+						<li>Wall of Replica always now slows heroes touching the wall continuously, and the debuff lingers for 0.75 seconds after leaving the wall <a href="#">[?]</a><span class="ChangeDetailsPopup">Previously only reapplied the slow when the illusion died</span></li>
+						<li>Wall of Replica slow reduced from 75% to 50/60/70%</li>
+					</ul>
+					<div class="ChangeNoteImage"><img src="http://cdn.dota2.com/apps/dota2/images/heroes/dazzle_sb.png"></div><br style="clear: left;"><b>Dazzle:&nbsp;<span class="Reworked">Ability Rework</span></b>
+					<ul>
+						<li>Poison Touch mana cost increased from 80 to 80/100/120/140</li>
+						<li>Poison Touch debuff now stacks</li>
+						<br>
+						<li>Replaced Weave with Bad Juju. Passive ability. Grants you 30/40/50% Cooldown Reduction. Anytime you cast a spell, all enemies within a 1200 AoE around you lose 2/2.25/2.5 armor for 8 seconds. Debuffs stack and refresh duration. Doesn't affect Roshan</li>
+						<br>
+						<li>Shadow Wave cooldown increased from 12/10/8/6 to 13/11/9/7</li>
+						<br>
+						<li>Level 25 Talent changed from +0.5 Weave Armor Per Second to +0.5 Bad Juju Armor Reduction</li>
+						<li>Level 25 Talent changed from -4s Shadow Wave Cooldown to +40% Poison Touch Slow</li>
+    <br>
+    <li><i>Poison Touch manacost was previously 80/90/100/110</i></li>
+    <li><i>Bad Juju debuff duration reduced from 10 to 8</i></li>
+					</ul>
+					
+					<div class="ChangeNoteImage"><img src="http://cdn.dota2.com/apps/dota2/images/heroes/death_prophet_sb.png"></div><br style="clear: left;"><b>Death Prophet:&nbsp;</b>
+					<ul>
+					<li>Movement speed increased from 305 to 310</li>
+
+					<li>Spirit Siphon now drains 4/6/8/10% speed <a href="#">[?]</a><span class="ChangeDetailsPopup">Instead of only slowing for 5/10/15/20%</span></li>
+					</ul>
+					
+					<div class="ChangeNoteImage"><img src="http://cdn.dota2.com/apps/dota2/images/heroes/disruptor_sb.png"></div><br style="clear: left;"><b>Disruptor:&nbsp;</b>
+					<ul>
+						<li>Thunder Strike damage increased from 40/60/80/100 to 45/70/95/120</li>
+					</ul>
+					<div class="ChangeNoteImage"><img src="http://cdn.dota2.com/apps/dota2/images/heroes/doom_bringer_sb.png"></div><br style="clear: left;"><b>Doom:&nbsp;</b>
+					<ul>
+						<li>Base attack range increased from 150 to 175</li>
+						<br>
+						<li>Devour no longer has a restriction on consuming while another unit is being consumed</li>
+						<li>Devour now gives you 5/10/15/20 HP regen per second while the creep is being consumed</li>
+						<li>Devour now takes a constant 80 seconds to consume a creep</li>
+						<li>Devour can now be toggled off to not steal the creep ability <a href="#">[?]</a><span class="ChangeDetailsPopup">If autocast is on, it'll steal, otherwise it won't</span></li>
+						<br>
+						<li>Scorched Earth no longer heals</li>
+						<li>Scorched Earth cooldown reduced from 55 to 55/50/45/40</li>
+						<li>Scorched Earth damage increased from 16/24/32/40 to 20/30/40/50</li>
+						<br>
+						<li>Level 10 Talent changed from +10 Scorched Earth Damage/Heal to +20 Scorched Earth Damage</li>
+					</ul>
+					<div class="ChangeNoteImage"><img src="http://cdn.dota2.com/apps/dota2/images/heroes/dragon_knight_sb.png"></div><br style="clear: left;"><b>Dragon Knight:&nbsp;</b>
+					<ul>
+						<li>Elder Dragon Form Splash Attack now does 75% damage in the 300 AoE <a href="#">[?]</a><span class="ChangeDetailsPopup">Instead of 100% in 50 AoE, 50% in 150 AoE, 25% in 250 AoE</span></li>
+						<li>Elder Dragon Form Splash Attack no longer does partial damage if the attack misses</li>
+					</ul>
+					<div class="ChangeNoteImage"><img src="http://cdn.dota2.com/apps/dota2/images/heroes/drow_ranger_sb.png"></div><br style="clear: left;"><b>Drow Ranger:&nbsp;<span class="Reworked">Ability Rework</span></b>
+					<ul>
+    <li>Base agility increased by 4 (from 19 to 23)</li><br>
+						<li>Precision Aura now provides attack speed based on 20/40/60/80% of your Agility, rather than Damage based on 10/20/30/40% of your agility</li>
+						<br>
+						<li>Reworked Marksmanship. Now provides a 20/30/40% chance to land a piercing attack that cannot be evaded and strikes through the enemy's defenses, ignoring their armor entirely. Instantly kills creeps. Gets disabled if an enemy hero is within 400 range of you</li>
+						<br>
+						<li>Level 20 Talent changed from +20 Marksmanship Agility to +25% Evasion</li>
+						<li>Level 25 Talent changed from +20% Precision Aura Damage to +25% Precision Aura Attack Speed</li>
+    <br>
+    <li><i>Precision Aura was previously 20/36/52/68%</i></li>
+					</ul>
+					
+					<div class="ChangeNoteImage"><img src="http://cdn.dota2.com/apps/dota2/images/heroes/earthshaker_sb.png"></div><br style="clear: left;"><b>Earthshaker:&nbsp;</b>
+					<ul>
+						<li>Fissure cooldown increased from 18/17/16/15 to 21/19/17/15</li>
+					</ul>
+					
+					<div class="ChangeNoteImage"><img src="http://cdn.dota2.com/apps/dota2/images/heroes/earth_spirit_sb.png"></div><br style="clear: left;"><b>Earth Spirit:&nbsp;</b>
+					<ul>
+					<li>Strength gain increased from 3.5 to 3.8</li>
+					<br>
+					<li>Rolling Boulder changed from an 80% slow for 0.4/0.6/0.8/1.0 seconds to a stun for 0.4/0.6/0.8/1.0</li>
+					<li>Rolling Boulder stun duration lasts an extra 0.4/0.6/0.8/1.0 seconds when using a rock</li>
+					<br>
+					<li>Boulder Smash changed from a stun for 0.5/1/1.5/2 seconds to an 80% slow for 1.25/2.5/3.25/4 seconds</li>
+					<li>Boulder Smash damage increased from 50/100/150/200 to 105/170/235/300</li>
+					<br>
+					<li>Stone Remnant max charges increased from 6 to 7</li>
+					<br>
+					<li>Magnetize AoE increased from 300 to 350</li>
+					<br>
+					<li>Level 25 Talent changed from +1s Boulder Smash Stun duration to +0.75s Rolling Boulder Stun Duration</li>
+					</ul>
+					<div class="ChangeNoteImage"><img src="http://cdn.dota2.com/apps/dota2/images/heroes/elder_titan_sb.png"></div><br style="clear: left;"><b>Elder Titan:&nbsp;</b>
+					<ul>
+						<li>Astral Spirit damage reduced from 60/90/120/150 to 50</li>
+						<li>Astral Spirit return speed increased from 600 to 800</li>
+						<li>Astral Spirit attack damage per hero from 15/30/45/60 to 20/40/60/80</li>
+						<li>Astral Spirit now provides +1.5/3/4.5/6 Armor per hero hit and +0.5 per creep</li>
+						<li>Astral Spirit movement speed increased from 5% to 7%</li>
+						<li>Astral Spirit movement speed cap increased from 30% to 40%</li>
+						<li>Astral Spirit bonus duration increased from 9 to 10 seconds</li>
+						<br>
+						<li>Level 25 Talent changed from +100% Lifesteal to Astral Spirit Grants Spell Immunity</li>
+					</ul>
+					<div class="ChangeNoteImage"><img src="http://cdn.dota2.com/apps/dota2/images/heroes/ember_spirit_sb.png"></div><br style="clear: left;"><b>Ember Spirit:&nbsp;</b>
+					<ul>
+					<li>Fire Remnant now does damage along the way (at half radius) instead of only at the destination <a href="#">[?]</a><span class="ChangeDetailsPopup">Only hits enemies once per remnant.</span></li>
+    <br>
+    <li>Fixed a bug with multiple Fire Remnant instances not doing damage properly</li>
+    <br>
+    <li>Slight of Fist damage increased from 30/60/90/120 to 35/70/105/140</li>
+					</ul>
+					
+					
+					<div class="ChangeNoteImage"><img src="http://cdn.dota2.com/apps/dota2/images/heroes/enigma_sb.png"></div><br style="clear: left;"><b>Enigma:&nbsp;</b>
+					<ul>
+						<li>Base movement speed reduced from 300 to 290</li>
+					</ul>
+					<div class="ChangeNoteImage"><img src="http://cdn.dota2.com/apps/dota2/images/heroes/faceless_void_sb.png"></div><br style="clear: left;"><b>Faceless Void:&nbsp;<span class="Reworked">Ability Rework</span></b>
+					<ul>
+						<li>Time Lock now causes Faceless Void to land a free second attack while the target is locked in place. Deals bonus 30/40/50/60 damage and bashes for 0.75 seconds</li>
+						<br>
+						<li>Level 15 Talent from +100 Time Lock Damage to +70</li>
+					</ul>
+					
+					<div class="ChangeNoteImage"><img src="http://cdn.dota2.com/apps/dota2/images/heroes/grimstroke_sb.png"></div><br style="clear: left;"><b>Grimstroke:&nbsp;<span class="Captains">Added to Captains Mode</span></b>
+					<ul>
+					<li>Enabled Grimstroke in Captains Mode</li>
+					<br>
+					<li>Soulbind now applies a Leashed state to the targets, disallowing teleportation and mobility based abilities</li>
+					<li>Soulbind duration reduced from 6/8/10 to 6/7/8</li>
+					<br>
+					<li>Phantom's Embrace creature now gets closer to the target before latching on</li>
+					<br>
+					<li>Ink Swell now does its maximum impact based on the duration it hit any hero, rather than amount of DPS dealt to all heroes combined <a href="#">[?]</a><span class="ChangeDetailsPopup">Scales linearly from 0 to 3 seconds</span></li>
+					<li>Ink Swell max stun duration reduced from 2.2/2.8/3.4/4 to 2/2.6/3.2/3.8</li>
+					<br>
+					<li>Level 20 Talent changed from +2 Hits to Kill Phantom to +1</li>
+					</ul>
+					
+					<div class="ChangeNoteImage"><img src="http://cdn.dota2.com/apps/dota2/images/heroes/huskar_sb.png"></div><br style="clear: left;"><b>Huskar:&nbsp;<span class="Reworked">Ability Rework</span></b>
+					<ul>
+						<li>Berserker's Blood no longer gives magic resistance. Now provides health regen up to 20/40/60/80% of Strength based on missing health</li>
+						<li>Berserker's Blood now ramps up faster when lower health</li>
+						<br>
+						<li>Replaced Inner Vitality with Inner Fire. In a fiery rage, knocks all enemies within 500 range away from you, dealing 100/155/210/265 damage and disarming them for 1.75/2.5/3.25/4 seconds. Enemies are knocked back to 550 range away from you. Knockback duration: 0.6. Cooldown: 18/16/14/12 seconds. Manacost: 75/100/125/150</li>
+						<br>
+						<li>Level 15 Talent increased from +15% Lifesteal to +20%</li>
+						<li>Level 15 Talent increased from +10 Burning Spears DPS to +15</li>
+						<li>Level 20 Talent increased from +15 Strength to +20</li>
+						<li>Level 25 Talent increased from +150 Attack Range to +175</li>
+					</ul>
+					<div class="ChangeNoteImage"><img src="http://cdn.dota2.com/apps/dota2/images/heroes/wisp_sb.png"></div><br style="clear: left;"><b>Io:&nbsp;</b>
+					<ul>
+						<li>Spirits Cooldown increased from 26/22/18/14 to 26/24/22/20</li>
+					</ul>
+					<div class="ChangeNoteImage"><img src="http://cdn.dota2.com/apps/dota2/images/heroes/jakiro_sb.png"></div><br style="clear: left;"><b>Jakiro:&nbsp;</b>
+					<ul>
+						<li>Macropyre damage now lingers on the affected units for 2 seconds</li>
+					</ul>
+					<div class="ChangeNoteImage"><img src="http://cdn.dota2.com/apps/dota2/images/heroes/juggernaut_sb.png"></div><br style="clear: left;"><b>Juggernaut:&nbsp;</b>
+					<ul>
+					<li>Agility increased by 10 (base damage unchanged)</li>
+					<br>
+					<li>Changed how Omnislash does the strikes from just physical damage nukes (with occasional invisible attacks depending on attack speed) to all full real attacks that can proc your crit and items. Lasts 3/3.25/3.5 seconds and attacks at 1.8x your attack rate. Provides +30/45/60 Damage. Scepter lasts 4/4.25/4.5 seconds and 70 cooldown</li>
+					<br>
+					<li>Omnislash no longer constantly issues self interrupts during each attack <a href="#">[?]</a><span class="ChangeDetailsPopup">Would cause it to drop your orders</span></li>
+					<li>Omnislash no longer instantly kills creeps</li>
+					<br>
+					<li>Level 25 Talent changed from +5 Omnislash Strikes to +1s Omnislash Duration</li>
+					</ul>
+					<div class="ChangeNoteImage"><img src="http://cdn.dota2.com/apps/dota2/images/heroes/keeper_of_the_light_sb.png"></div><br style="clear: left;"><b>Keeper of the Light:&nbsp;<span class="Reworked">Ability Rework</span></b>
+					<ul>
+						<li>Removed Mana Leak and Spirit Form <a href="#">[?]</a><span class="ChangeDetailsPopup" style="display: none;">Recall has been moved to Chen</span></li>
+						<br>
+						<li>Illuminate cooldown increased from 10 to 11</li>
+						<br>
+						<li>Changed how Chakra Magic works. Restores 80/160/240/320 mana and removes 3/4/5/6 seconds off of basic abilities currently on cooldown. Cooldown: 20/18/16/14</li>
+						<br>
+						<li>Reworked Blinding Light into a basic ability. Causes everyone in a 600 AoE to be blinded, missing 70% of their attacks for 3/4/5/6 seconds. Knocks targets back 350 units and deals 50/100/150/200 damage. Cooldown: 30/25/20/15. Manacost: 100/125/150/175. Cast Range: 550/600/650/700</li>
+						<br>
+						<li>Added a new Ultimate, Will-o-Wisp. Spawns an attackable light entity, Ignis Fatuus. The light flickers on for 1.3 seconds and off for 1.75 seconds. Enemies within a 650 Radius are hypnotized and forced to look at it whenever it is emitting light, unable to act. The light entity can be killed with 4/5/6 attacks, otherwise it will flicker 3/4/5 times before going away. Cooldown: 120. Cast Range: 900. Manacost 200/300/400. Dormant for 1 second before the first flicker begins</li>
+						<br>
+						<li>Scepter now just causes your Illuminate to heal during the day <a href="#">[?]</a><span class="ChangeDetailsPopup" style="display: none;">This turns your hero into the spirit form visually during daytime</span></li>
+						<br>
+						<li>Level 25 Talent changed from +2s Mana Leak Stun to +2 Will-O-Wisp Flickers</li>
+					</ul>
+					
+					<div class="ChangeNoteImage"><img src="http://cdn.dota2.com/apps/dota2/images/heroes/legion_commander_sb.png"></div><br style="clear: left;"><b>Legion Commander:&nbsp;</b>
+					<ul>
+						<li>Winning a Duel automatically casts Press the Attack on you</li>
+					</ul>
+					
+					<div class="ChangeNoteImage"><img src="http://cdn.dota2.com/apps/dota2/images/heroes/lich_sb.png"></div><br style="clear: left;"><b>Lich:&nbsp;<span class="Reworked">Ability Rework</span></b>
+					<ul>
+						<li>Intelligence increased from 16 + 3.3 to 20 + 3.6</li>
+						<br>
+						<li>Frost Nova manacost reduced from 125/150/170/190 to 105/130/155/180</li>
+						<br>
+						<li>Replaced Sacrifice with Sinister Gaze. Channeling single target. Causes the enemy to slowly walk towards you <a href="#">[?]</a><span class="ChangeDetailsPopup">Moves to a point 32/38/44/50% between you two</span>. Lasts up to 1.6/1.9/2.2/2.5 seconds. Cast Range: 500/525/550/575. Cooldown: 30. Manacost: 120/130/140/150</li>
+						<br>
+						<li>Replaced Ice Armor with Frost Shield. Targets self or an ally and applies a frost shield. Reduces physical attack damage taken by 30/40/50/60% for 6 seconds. Every second, all enemies within a 600 AoE will take 20/30/40/50 damage and be slowed by 35% for 0.5 seconds. Cooldown: 30/25/20/15. Manacost: 100/110/120/130. Can target towers.</li>
+						<br>
+						<li>Level 20 Talent changed from 180 Gold/Min to +2s Frost Shield</li>
+						<li>Level 20 Talent reduced from +175 Cast Range to +150</li>
+						<li>Level 25 Talent increased from Ice Armor Provides +30 HP Regen to Frost Shield Provides +60 HP Regen</li>
+					</ul>
+					<div class="ChangeNoteImage"><img src="http://cdn.dota2.com/apps/dota2/images/heroes/life_stealer_sb.png"></div><br style="clear: left;"><b>Lifestealer:&nbsp;</b>
+					<ul>
+						<li>Feast changed from 4.5/5.5/6.5/7.5% of Current Health to 1.75/2.5/3.25/4% of Max Health</li>
+						<br>
+						<li>Level 25 Talent changed from +2% Current Health to +1% Max Health</li>
+					</ul>
+					<div class="ChangeNoteImage"><img src="http://cdn.dota2.com/apps/dota2/images/heroes/lion_sb.png"></div><br style="clear: left;"><b>Lion:&nbsp;</b>
+					<ul>
+						<li>Mana Drain slow increased from 16/19/22/25% to 20/24/28/32%</li>
+						<br>
+						<li>Finger of Death now gets stronger with each kill. Gains +50 Damage per hero kill. If the enemy dies within 3 seconds of being hit by the ability, the bonus is still granted</li>
+					</ul>
+					<div class="ChangeNoteImage"><img src="http://cdn.dota2.com/apps/dota2/images/heroes/lone_druid_sb.png"></div><br style="clear: left;"><b>Lone Druid:&nbsp;<span class="Reworked">Ability Rework</span></b>
+					<ul>
+						<li>Base movement speed increased from 320 to 340</li>
+						<br>
+						<li>Spirit Bear movement speed increased from 320/330/340/350 to 340/350/360/370</li>
+
+						<li>Spirit Bear attack backswing time reduced from 0.67 to 0.4</li>
+						<li>Spirit Bear attack damage increased from 35/45/55/65 to 35/50/65/80</li>
+
+						<li>Spirit Bear now has a level 1 ability, Defender. Passively causes 30% of the damage Lone Druid takes to be instead dealt to the Spirit Bear if you are within the leash range</li>
+						<br>
+						<li>Replaced Rabid with Spirit Link. Grants both of you 20/40/60/80 Attack Speed and causes 40/50/60/70% of damage you deal to restore life to your Spirit Bear, and damage your Spirit Bear deals to restore life to you. Duration: 10 seconds. Cooldown: 44/36/28/20. Manacost: 50/60/70/80</li>
+    <br>
+    <li><i>Spirit Link previously had attack speed of 30/50/70/90, and cooldown of 42/34/26/18</i></li>
+					</ul>
+					<div class="ChangeNoteImage"><img src="http://cdn.dota2.com/apps/dota2/images/heroes/luna_sb.png"></div><br style="clear: left;"><b>Luna:&nbsp;</b>
+					<ul>
+						<li>Lunar Blessing now provides +6/12/18/24 Primary Attribute bonus as the aura bonus, rather than bonus damage</li>
+						<br>
+						<li>Level 15 Talent changed from +24 Lunar Blessing Damage to +30 Movement Speed</li>
+    <br>
+    <li><i>Lunar Blessing was 8/14/20/26</i></li>
+    <li><i>Level 15 Talent was +14 Lunar Blessing Attributes</i></li>
+					</ul>
+					<div class="ChangeNoteImage"><img src="http://cdn.dota2.com/apps/dota2/images/heroes/lycan_sb.png"></div><br style="clear: left;"><b>Lycan:&nbsp;<span class="Reworked">Ability Rework</span></b>
+					<ul>
+						<li>Reworked Howl. Now grants +21/34/47/60 Attack Speed, +3/4/5/6 Armor and +4/6/8/10 HP regen to all player controlled units on the map. Lasts 9 seconds. Cooldown: 50/45/40/35. Manacost: 25/30/35/40.</li>
+						<br>
+						<li>Level 25 Talent changed from +600 Howl Health to +40% Chance Shapeshift Critical Strike</li>
+					</ul>
+					<div class="ChangeNoteImage"><img src="http://cdn.dota2.com/apps/dota2/images/heroes/magnataur_sb.png"></div><br style="clear: left;"><b>Magnus:&nbsp;<span class="Reworked">Ability Rework</span></b>
+					<ul>
+						<li>Skewer cooldown reduced from 25 to 26/24/22/20</li>
+						<br>
+						<li>Reworked Shockwave. Releases a wave towards a target point, pulls units towards it slightly and deals 75/150/225/300 damage. Slows enemies by 60% for 0.75 seconds. Width: 200, Distance: 1200, Projectile Speed: 900. Pull Duration: 0.2. Manacost: 90/100/110/120. Cooldown: 14/13/12/11</li>
+					</ul>
+					<div class="ChangeNoteImage"><img src="http://cdn.dota2.com/apps/dota2/images/heroes/medusa_sb.png"></div><br style="clear: left;"><b>Medusa:&nbsp;</b>
+					<ul>
+    <li>Agility increased from 20 + 2.5 to 22 + 3.4</li>
+    <br>
+						<li>Stone Gaze no longer grants enemies +100% Magic Resistance</li>
+						<li>Stone Gaze no longer instantly kills illusions</li>
+						<br>
+						<li>Mystic Snake no longer changes damage type against Stone Gazed enemies</li>
+    <br>
+    <li>Level 15 Talent increased from +20% Mystic Snake Mana Steal to +35%</li>
+					</ul>
+					<div class="ChangeNoteImage"><img src="http://cdn.dota2.com/apps/dota2/images/heroes/meepo_sb.png"></div><br style="clear: left;"><b>Meepo:&nbsp;<span class="Reworked">Ability Rework</span></b>
+					<ul>
+						<li>Base movement speed increased from 310 to 320</li>
+    					<li>Agility gain reduced from 2.2 to 1.4</li>
+    					<br>
+						<li>Replaced Geostrike with Ransack. Each attack steals 6/10/14/18 health from your enemy heroes (and 4/6/8/10 from creeps) and heals all Meepos by the same amount <a href="#">[?]</a><span class="ChangeDetailsPopup" style="display: none;">Has no range limit. This hurts enemies as well. Does not affect Roshan.</span></li>
+						<br>
+						<li>Clones now only drain 50% of normal XP from the area</li>
+    					<br>
+    <li>Poof damage reduced from 80/100/120/140 to 70/90/110/130</li>
+						<br>
+						<li>Level 10 Talent reduced from +20 Damage to +10</li><li>Level 15 Talent changed from +10% Lifestealer to +15% Evasion</li>
+    <li>Level 20 Talent changed from +15% Evasion to +15% Lifestealer</li>
+    <li>Level 25 Talent changed from +600 Health to +400</li>
+    
+    <br>
+    <li><i>Ransack was 8/12/16/20</i></li>
+						</ul>
+					<div class="ChangeNoteImage"><img src="http://cdn.dota2.com/apps/dota2/images/heroes/mirana_sb.png"></div><br style="clear: left;"><b>Mirana:&nbsp;</b>
+					<ul>
+						<li>Leap now causes the direction Mirana is facing to point towards the leap direction</li>
+					</ul>
+					<div class="ChangeNoteImage"><img src="http://cdn.dota2.com/apps/dota2/images/heroes/monkey_king_sb.png"></div><br style="clear: left;"><b>Monkey King:&nbsp;</b>
+					<ul>
+						<li>Mischief will now always transform into a courier when nearby another courier</li>
+						<li>Mischief now grants you 0.3 seconds of invulnerability when transforming into another unit</li>
+						<li>Mischief cooldown increased from 3 to 20</li>
+					</ul>
+					<div class="ChangeNoteImage"><img src="http://cdn.dota2.com/apps/dota2/images/heroes/morphling_sb.png"></div><br style="clear: left;"><b>Morphling:&nbsp;</b>
+					<ul>
+						<li>Waveform cooldown increased from 14/13/12/11 to 17/15/13/11</li>
+					</ul>
+					<div class="ChangeNoteImage"><img src="http://cdn.dota2.com/apps/dota2/images/heroes/naga_siren_sb.png"></div><br style="clear: left;"><b>Naga Siren:&nbsp;<span class="Reworked">Ability Rework</span></b>
+					<ul>
+						<li>Mirror Image duration reduced from 30 to 24</li>
+						<li>Mirror Image cooldown reduced from 40 to 45/40/35/30</li>
+						<li>Mirror Image manacost rescaled from 70/80/90/100 to 70/85/100/115</li>
+						<li>Mirror Image incoming damage reduced from 550/500/450/400% to 475/450/425/400%</li>
+						<br>
+						<li>Rip Tide has been reworked. Now a passive attack chance ability. Gives a chance that your attack will trigger a Rip Tide that deals AoE damage and reduces armor. Illusions can proc this. Chance: 17%. Duration: 4. Armor Reduction: 2/4/6/8. Damage: 30/40/50/60. AoE: 300</li>
+					</ul>
+					<div class="ChangeNoteImage"><img src="http://cdn.dota2.com/apps/dota2/images/heroes/furion_sb.png"></div><br style="clear: left;"><b>Nature's Prophet:&nbsp;</b>
+					<ul>
+						<li>Treants experience bounty reduced from 30 to 20</li>
+						<li>Treants gold bounty reduced from 21 to 16</li>
+					</ul>
+					<div class="ChangeNoteImage"><img src="http://cdn.dota2.com/apps/dota2/images/heroes/necrolyte_sb.png"></div><br style="clear: left;"><b>Necrophos:&nbsp;</b>
+					<ul>
+						<li>Base attack range reduced from 550 to 500</li>
+						<br>
+						<li>Heartstopper Aura now provides the unit kill regeneration instead of Death Pulse <a href="#">[?]</a><span class="ChangeDetailsPopup">If Necro himself gets the kill</span></li>
+					</ul>
+					<div class="ChangeNoteImage"><img src="http://cdn.dota2.com/apps/dota2/images/heroes/night_stalker_sb.png"></div><br style="clear: left;"><b>Night Stalker:&nbsp;<span class="Reworked">Ability Rework</span></b>
+					<ul>
+						<li>Reworked Crippling Fear. It is now an activated 375 range aura that silences all enemies while they are nearby. Aura lasts 5/6/7/8 seconds (3 during day). No longer has a miss chance. Cooldown: 30/25/20/15. Manacost: 50 <a href="#">[?]</a><span class="ChangeDetailsPopup">Since this is an aura, it can't be dispelled with Manta</span></li>
+						<br>
+						<li>Hunter in the Night no longer has an active.</li>
+						<br>
+						<li>Replaced Darkness with Dark Ascension. Causes you to transform into a stronger flying creature that has +50/100/150 bonus damage and 900 unobstructed vision. Lasts for 30 seconds. Daytime is turned to night during this. Cooldown: 160/140/120. Manacost: 125/175/225</li>
+						<br>
+						<li>Level 25 changed from -8s Crippling Fear Cooldown to -40s Dark Ascension cooldown</li>
+					</ul>
+					<div class="ChangeNoteImage"><img src="http://cdn.dota2.com/apps/dota2/images/heroes/nyx_assassin_sb.png"></div><br style="clear: left;"><b>Nyx Assassin:&nbsp;</b>
+					<ul>
+					<li>Vendetta now applies a break debuff on the target for 4 seconds</li>
+					</ul>
+					
+					<div class="ChangeNoteImage"><img src="http://cdn.dota2.com/apps/dota2/images/heroes/ogre_magi_sb.png"></div><br style="clear: left;"><b>Ogre Magi:&nbsp;</b>
+					<ul>
+					<li>Multicast now affects targeted offensive items. Will cause the item to cast again at a different random enemy unit</li>
+					<li>Multicast no longer provides passive improvements to the base abilities</li>
+					<br>
+					<li>Ignite cast range increased from 700 to 700/800/900/1000</li>
+					<li>Ignite base cast launches two projectiles <a href="#">[?]</a><span class="ChangeDetailsPopup">One at the primary target, and one at the closest unit to it</span></li>
+					<br>
+					<li>Fire Blast cooldown rescaled from 12 to 12/11/10/9</li>
+					<br>
+					<li>Bloodlust cooldown reduced from 20 to 20/18/16/14</li>					
+					<li>Bloodlust movement speed reduced from 10/12/14/16% to 8/10/12/14%</li>
+					</ul>
+					
+					<div class="ChangeNoteImage"><img src="http://cdn.dota2.com/apps/dota2/images/heroes/omniknight_sb.png"></div><br style="clear: left;"><b>Omniknight:&nbsp;<span class="Reworked">Ability Rework</span></b>
+					<ul>
+					<li>Purification can now be cast on Spell Immune units</li>
+					<br>
+					<li>Replaced Repel with Heavenly Grace. Targets an allied unit and applies a strong dispel, and then increases status resistance by 50/60/70/80% and health regeneration by 8/12/16/20 for 8 seconds. Cooldown: 17/16/15/14. Manacost: 75. Cast Range: 500</li>
+					<br>
+					<li>Guardian Angel AoE increased from 600 to 1200</li>
+					<li>Guardian Angel cooldown reduced from 180/170/160 to 160/150/140</li>
+					<br>
+					<li>Level 25 Talent changed from +3s Repel Duration to -8s Heavenly Grace Cooldown</li>
+					</ul>
+					<div class="ChangeNoteImage"><img src="http://cdn.dota2.com/apps/dota2/images/heroes/oracle_sb.png"></div><br style="clear: left;"><b>Oracle:&nbsp;</b>
+					<ul>
+						<li>Fortune's End damage increased from 90/120/150/180 to 120/150/180/210</li>
+					</ul>
+					<div class="ChangeNoteImage"><img src="http://cdn.dota2.com/apps/dota2/images/heroes/obsidian_destroyer_sb.png"></div><br style="clear: left;"><b>Outworld Devourer:&nbsp;<span class="Reworked">Ability Rework</span></b>
+					<ul>
+    <li>Base intelligence increased from 24 to 28</li>
+    <br>
+						<li>Arcane Orb now splashes its bonus damage in a 175 AoE around the target</li>
+						<li>Arcane Orb no longer does bonus damage to illusions</li>
+						<br>
+						<li>Replaced Essence Aura with Equilibrium. Self buff. Causes all spell damage you deal to restore 80/100/120/140% of damage back as mana and slow enemies by 12/20/28/36% for 1.75 seconds. Lasts 7 seconds. Cooldown: 18 Manacost: 50</li>
+						<br>
+						<li>Level 15 Talent changed from +15% Essence Aura Chance to +6 Armor</li>
+    <br>
+    <li><i>Equilibrium mana restore was previously 60/80/100/120%</i></li>
+    <li><i>Equilibrium slow was previously 8/16/24/32%</i></li>
+    <li><i>Equilibrium cooldown previously 20 seconds</i></li>
+					</ul>
+					<div class="ChangeNoteImage"><img src="http://cdn.dota2.com/apps/dota2/images/heroes/pangolier_sb.png"></div><br style="clear: left;"><b>Pangolier:&nbsp;<span class="Reworked">Ability Rework</span></b>
+					<ul>
+					<li>Replaced Heartpiercer with Lucky Shot. Gains a 20% chance to apply a debuff for 2/3/4/5 seconds that slows the target by 40% and causes the target to be either Silenced or Disarmed. Multiple instances of this debuff stack</li>
+					</ul>
+					<div class="ChangeNoteImage"><img src="http://cdn.dota2.com/apps/dota2/images/heroes/phantom_assassin_sb.png"></div><br style="clear: left;"><b>Phantom Assassin:&nbsp;<span class="Reworked">Ability Rework</span></b>
+					<ul>
+					<li>Phantom Strike Cooldown rescaled from 14/11/8/5 to 11/9/7/5</li>
+					<li>Phantom Strike cast point reduced from 0.3 to 0.25</li>
+					<li>Phantom Strike Attack Speed rescaled from 130 to 100/125/150/175</li>
+					<li>Phantom Strike no longer has an attack limit</li>
+					<li>Phantom Strike Attack Speed bonus now lasts for 2.5 seconds</li>
+					<li>Phantom Strike Manacost rescaled from 50 to 35/40/45/50</li>
+					<li>Phantom Strike Attack Speed bonus no longer depends on attacking the specific target</li>
+					<br>
+					<li>Blur's non-evasion passive component has been changed into an active <a href="#">[?]</a><span class="ChangeDetailsPopup">Evasion component is unchanged</span>. Causes enemies to be unable to see you (like smoke) until you are within 600 units of an enemy hero or buildings. Does not dispel when attacking. Lingers around for 0.75 seconds before going away after being near an enemy hero. Lasts 25 seconds. Cooldown: 60/55/50/45. Manacost: 20</li>
+					</ul>
+					<div class="ChangeNoteImage"><img src="http://cdn.dota2.com/apps/dota2/images/heroes/phantom_lancer_sb.png"></div><br style="clear: left;"><b>Phantom Lancer:&nbsp;</b>
+					<ul>
+						<li>Phantom Lance slow reduced from 10/20/30/40% to 10/18/26/34%</li>
+						<br>
+						<li>Juxtapose incoming damage increased from 600% to 650%</li>
+					</ul>
+					<div class="ChangeNoteImage"><img src="http://cdn.dota2.com/apps/dota2/images/heroes/phoenix_sb.png"></div><br style="clear: left;"><b>Phoenix:&nbsp;</b>
+					<ul>
+						<li>Icarus Dive slow rescaled from 28% to 19/22/25/28%</li>
+					</ul>
+					<div class="ChangeNoteImage"><img src="http://cdn.dota2.com/apps/dota2/images/heroes/puck_sb.png"></div><br style="clear: left;"><b>Puck:&nbsp;</b>
+					<ul>
+						<li>Dream Coil now applies a Leashed state to the targets, disallowing teleportation and mobility based abilities</li>
+						<br>
+						<li>Level 15 Talent increased from +50 Attack Damage to +90</li>
+						<li>Level 15 Talent increased from +8% Spell Amplification to +15%</li>
+						</ul>
+					<div class="ChangeNoteImage"><img src="http://cdn.dota2.com/apps/dota2/images/heroes/pudge_sb.png"></div><br style="clear: left;"><b>Pudge:&nbsp;</b>
+					<ul>
+						<li>Flesh Heap no longer gives Magic Resistance</li>
+						<li>Flesh Heap now grants 3/6/9/12 HP regen</li>
+						<br>
+						<li>Dismember strength based damage increased from 30/45/60% to 30/60/90%</li>
+					</ul>
+					
+					<div class="ChangeNoteImage"><img src="http://cdn.dota2.com/apps/dota2/images/heroes/queenofpain_sb.png"></div><br style="clear: left;"><b>Queen of Pain:&nbsp;</b>
+					<ul>
+						<li>Sonic Wave now knocks units back 350 units over 1.4 seconds <a href="#">[?]</a><span class="ChangeDetailsPopup">Does not stun</span></li>
+					</ul>
+					<div class="ChangeNoteImage"><img src="http://cdn.dota2.com/apps/dota2/images/heroes/razor_sb.png"></div><br style="clear: left;"><b>Razor:&nbsp;</b>
+					<ul>
+						<li>Unstable Current no longer slows or purges a random enemy unit every 5 seconds</li>
+						<li>Unstable Current now deals 60/80/100/120 damage to every enemy unit within 500 AoE every 6/5/4/3 seconds</li>
+						<br>
+						<li>Plasma Field now applies a slow on units it hits, Minimum 5% Maximum 25/30/35/40% for 1.5 seconds. Slow instances stack <a href="#">[?]</a><span class="ChangeDetailsPopup">Plasma hits enemies twice</span></li>
+						<br>
+						<li>Level 25 Talent changed from -3s Unstable Current to +200 Unstable Current Damage</li>
+					</ul>
+					<div class="ChangeNoteImage"><img src="http://cdn.dota2.com/apps/dota2/images/heroes/riki_sb.png"></div><br style="clear: left;"><b>Riki:&nbsp;</b>
+					<ul>
+						<li>Blink Strike cooldown rescaled from 16/12/8/4 to 10/8/6/4</li>
+						<li>Blink Strike damage rescaled from 100 to 75/90/105/120</li>
+					</ul>
+					<div class="ChangeNoteImage"><img src="http://cdn.dota2.com/apps/dota2/images/heroes/rubick_sb.png"></div><br style="clear: left;"><b>Rubick:&nbsp;<span class="Reworked">Ability Rework</span></b>
+					<ul>
+					<li>Base damage increased by 3</li>
+					<li>Agility increased from 14 + 1.6 to 19 + 2.1</li>
+					<li>Intelligence gain increased from 2.4 to 2.7</li>
+					<br>
+					<li>Replaced Null Field with Arcane Supremacy. Passive. Gains 14/18/22/26% Spell Amplification and causes all debuffs you apply to the enemy to last 20/28/36/44% longer</li>
+					<br>
+					<li>Spell Steal ability cast points now have a min of 0.15 instead of 0</li>
+					<br>
+					<li>Level 15 Talent increased from +100 Cast Range to +125</li>
+					<li>Level 20 Talent changed from +5% Null Field to -5s Fade Bolt Cooldown</li>
+					<li>Level 25 Talent changed from +75% Spell Amp For Stolen Spells to +50%</li>
+					</ul>
+					<div class="ChangeNoteImage"><img src="http://cdn.dota2.com/apps/dota2/images/heroes/sand_king_sb.png"></div><br style="clear: left;"><b>Sand King:&nbsp;</b>
+					<ul>
+						<li>Sand Storm is no longer a channeled ability. The Sand Storm and the invisibility ends immediately once you leave the area. Attacking or casting temporarily reveals you for 0.7 seconds</li>
+						<li>Sand Storm AoE changed from 525 to 350/450/550/650</li>
+						<li>Sand Storm damage rescaled from 40/60/80/100 to 25/50/75/100</li>
+						<li>Sand Storm cooldown rescaled from 34/26/18/10 to 40/32/24/16</li>
+						<li>Sand Storm duration reduced from 50 to 20/25/30/35</li>
+						<li>Sand Storm visual effects updated slightly</li>
+    <li>Sand Storm manacost rescaled from 60/50/40/30 to 60</li>
+						<br>
+						<li>Epicenter AoE growth now always increases by 50 per pulse, instead of sometimes 25/50/75</li>
+<br>
+    <li><i>Sand Storm cooldown was previously 34/28/22/16</i></li>
+					</ul>
+					<div class="ChangeNoteImage"><img src="http://cdn.dota2.com/apps/dota2/images/heroes/shadow_demon_sb.png"></div><br style="clear: left;"><b>Shadow Demon:&nbsp;<span class="Reworked">Ability Rework</span></b>
+					<ul>
+						<li>Reworked Soul Catcher. Targets a 175/200/225/250 AoE area. Causes all enemy units in the area to lose 25/30/35/40% of their current health, and gain half of it back after 10 seconds. Cooldown: 26/24/22/20 Cast Range: 700. Manacost: 110 <a href="#">[?]</a><span class="ChangeDetailsPopup">Dispelling this gains your health back as well</span></li>
+						<br>
+						<li>Disruption illusions health is now determined at the start of the cast</li>
+						<li>Disruption duration increased from 2.5 to 2.75</li>
+					</ul>
+					<div class="ChangeNoteImage"><img src="http://cdn.dota2.com/apps/dota2/images/heroes/nevermore_sb.png"></div><br style="clear: left;"><b>Shadow Fiend:&nbsp;</b>
+					<ul>
+						<li>Base armor increased by 1</li>
+					</ul>
+					<div class="ChangeNoteImage"><img src="http://cdn.dota2.com/apps/dota2/images/heroes/shadow_shaman_sb.png"></div><br style="clear: left;"><b>Shadow Shaman:&nbsp;</b>
+					<ul>
+						<li>Mass Serpent Wards now spawn in a circle, with a slightly bigger empty spot in the middle</li>
+						<li>Mass Serpent Wards now has an AoE spawn indicator</li>
+					</ul>
+					
+					<div class="ChangeNoteImage"><img src="http://cdn.dota2.com/apps/dota2/images/heroes/skywrath_mage_sb.png"></div><br style="clear: left;"><b>Skywrath Mage:&nbsp;</b>
+					<ul>
+						<li>Concussive Shot now hits a creep if there are no nearby enemy heroes <a href="#">[?]</a><span class="ChangeDetailsPopup">Deals 75% damage to creeps</span></li>
+					</ul>
+					<div class="ChangeNoteImage"><img src="http://cdn.dota2.com/apps/dota2/images/heroes/slardar_sb.png"></div><br style="clear: left;"><b>Slardar:&nbsp;<span class="Reworked">Ability Rework</span></b>
+					<ul>
+					<li>Base armor increased by 1</li>
+					<br>
+					<li>Reworked Bash of the Deep. Passive. Every 4th attack your hero does (on any target) applies a bash for 1/1.1/1.2/1.3 seconds dealing 75/125/175/225 physical damage</li>
+					<br>
+					<li>Slithereen Crush stun duration reduced from 1.25/1.5/1.75/2 to 1 second. Attack and Movement Slow duration increased from 2 to 3/4/5/6 and slow amount increased from 20 to 20/25/30/35%. Damage increased from 75/125/175/225 to 80/140/200/260</li>
+					<br>
+					<li>Level 15 Talent changed from +100 Bash Damage to +75</li>
+					<li>Level 25 Talent changed from +15% Bash Chance to +1.5s Slithereen Crush Stun</li>
+					</ul>
+					<div class="ChangeNoteImage"><img src="http://cdn.dota2.com/apps/dota2/images/heroes/slark_sb.png"></div><br style="clear: left;"><b>Slark:&nbsp;</b>
+					<ul>
+						<li>Turn rate improved from 0.6 to 0.7</li>
+						<br>
+						<li>Pounce now applies a Leashed state to the target, disallowing teleportation and mobility based abilities</li>
+    <li>Pounce leash duration from 3.5 to 2.75/3/3.25/3.5</li>
+    <li>Pounce leash range from 325 to 350</li>
+						<br>
+    <li>Shadow Dance cooldown increased from 60 to 80/70/60</li>
+						<li>Shadow Dance duration rescaled from 4 to 4/4.5/5</li>
+    <br>
+    <li>Level 20 Talent reduced from +3s Pounce Leash to +2s</li>
+						<br>
+						<li>When Slark kills an enemy hero with an Essence Shift debuff he steals 1 Agility permanently</li>
+    <br>
+    <li><i>Permanent Essence Shift steal was formerly when the target hero died by any form</i></li>
+					</ul>
+<div class="ChangeNoteImage">
+    <img src="http://cdn.dota2.com/apps/dota2/images/heroes/storm_spirit_sb.png">
+</div>
+<br style="clear: left;">
+<b>Storm Spirit:&nbsp;</b>
+<ul>
+    <li>Electric Vortex duration from 1/1.5/2/2.5 to 1.4/1.8/2.2/2.6</li>
+    <li>Electric Vortex cooldown from 21/20/19/18 to 22/20/18/16</li>
+    <br>
+    <li>Overload attack speed reduction from -50 to -80 (matches movement speed now)</li>
+</ul>
+					<div class="ChangeNoteImage"><img src="http://cdn.dota2.com/apps/dota2/images/heroes/sniper_sb.png"></div><br style="clear: left;"><b>Sniper:&nbsp;</b>
+					<ul>
+					<li>Take Aim can now be activated to double your attack range for your next attack. Goes on cooldown after the attack is used. Cooldown: 15/12/9/6. Manacost: 30</li>
+					</ul>
+					
+					<div class="ChangeNoteImage"><img src="http://cdn.dota2.com/apps/dota2/images/heroes/spirit_breaker_sb.png"></div><br style="clear: left;"><b>Spirit Breaker:&nbsp;<span class="Reworked">Ability Rework</span></b>
+					<ul>
+						<li>Nether Strike can no longer be cast when rooted</li>
+						<br>
+						<li>Charge of Darkness no longer moves at a fixed speed. It now unlocks the movement speed cap and adds 300/325/350/375 Movement Speed <a href="#">[?]</a><span class="ChangeDetailsPopup">Previously it fixed your speed to 600/650/700/750</span></li>
+						<li>Fixed Charge of Darkness not using the movement speed for the impact damage</li>
+						<br>
+						<li>Greater Bash no longer gives you movement speed</li>
+						<li>Greater Bash damage reduced from 12/24/36/48 to 16/24/32/40%</li>
+						<br>
+						<li>Replaced Empowering Haste with Bulldoze. Upon activation, grants your hero +12/18/24/30% Movement Speed and +30/40/50/60% Status Resistance for 8 seconds. Cooldown: 22. Manacost: 25/30/35/40 <a href="#">[?]</a><span class="ChangeDetailsPopup">Casting Bulldoze does not interrupt Charge of Darkness</span></li>
+						<br>
+						<li>Level 20 Greater Bash talent reduced from 30% to 15%</li>
+						<li>Level 20 Talent changed from +400 Charge Speed to -7s Bulldoze Cooldown</li>
+					</ul>
+
+					<div class="ChangeNoteImage"><img src="http://cdn.dota2.com/apps/dota2/images/heroes/sven_sb.png"></div><br style="clear: left;"><b>Sven:&nbsp;<span class="Reworked">Ability Rework</span></b>
+					<ul>
+						<li>Reworked Warcry. Now grants you and nearby allied heroes bonus movement speed and an HP shield that blocks attack damage based on the shield's health <a href="#">[?]</a><span class="ChangeDetailsPopup" style="display: none;">Damage blocked calculated post armor reduction</span>. Lasts 10 seconds. Buff ends if the shield is consumed. Movement Speed: 8/12/16/20% Movement Speed. Attack Shield Health: 110/220/330/440 Health. AoE: 700  Cooldown: 36/32/28/24. Manacost: 40</li>
+    <br>
+    <li><i>Warcry shield health used to be 100/200/300/400</i></li>
+					</ul>
+					<div class="ChangeNoteImage"><img src="http://cdn.dota2.com/apps/dota2/images/heroes/techies_sb.png"></div><br style="clear: left;"><b>Techies:&nbsp;</b>
+					<ul>
+						<li>Base movement speed increased from 270 to 315</li>
+						<li>Base intelligence increased by 2</li>
+					</ul>
+					<div class="ChangeNoteImage"><img src="http://cdn.dota2.com/apps/dota2/images/heroes/templar_assassin_sb.png"></div><br style="clear: left;"><b>Templar Assassin:&nbsp;</b>
+					<ul>
+						<li>Level 20 Talent changed from Refraction Dispels to Meld Dispels</li>
+						<li>Level 25 Talent changed from Psi Blades Spill Paralyzes to 1.5s Meld Hit Bash</li>
+					</ul>
+					<div class="ChangeNoteImage"><img src="http://cdn.dota2.com/apps/dota2/images/heroes/terrorblade_sb.png"></div><br style="clear: left;"><b>Terrorblade:&nbsp;</b>
+					<ul>
+						<li>Sunder can no longer pierce Spell Immunity</li>
+						<li>Level 20 Talent reduced from -10s Reflection Cooldown to -8</li>
+					</ul>
+					<div class="ChangeNoteImage"><img src="http://cdn.dota2.com/apps/dota2/images/heroes/tidehunter_sb.png"></div><br style="clear: left;"><b>Tidehunter:&nbsp;</b>
+					<ul>
+						<li>Anchor Smash now attacks every unit in the area with a bonus 45/90/135/180 damage on top of your attack</li>
+						<br>
+						<li>Ravage damage increased from 200/290/380 to 200/300/400</li>
+						<br>
+						<li>Level 10 Talent increased from +80 Gush Damage to +100</li>
+					</ul>
+					<div class="ChangeNoteImage"><img src="http://cdn.dota2.com/apps/dota2/images/heroes/shredder_sb.png"></div><br style="clear: left;"><b>Timbersaw:&nbsp;</b>
+					<ul>
+						<li>Chakram projectile damage no longer ignores Ancients</li>
+						<br>
+						<li>Whirling Death is now always pure damage</li>
+						<li>Whirling Death damage changed from 100/150/200/250 to 90/120/150/180</li>
+						<li>Whirling Death stat reduction rescaled from 15% to 12/13/14/15%</li>
+						<li>Whirling Death now deals 10/14/18/22 extra damage per tree cut down</li>
+						<br>
+						<li>Level 25 Talent increased from +8% Whirling Death to +12%</li>
+					</ul>
+					<div class="ChangeNoteImage"><img src="http://cdn.dota2.com/apps/dota2/images/heroes/tiny_sb.png"></div><br style="clear: left;"><b>Tiny:&nbsp;<span class="Reworked">Ability Rework</span></b>
+					<ul>
+						<li>Tree Grab area damage no longer works when denying units</li>
+						<li>Tree Grab cooldown increased from 24/20/16/12 to 27/22/17/12</li>
+						<br>
+						<li>Grow no longer provides 30/40/50% Status Resistance</li>
+						<li>Grow armor increased from 5/10/15 to 7/16/25</li>
+						<br>
+						<li>Reworked how Avalanche works. The units in the area are now continuously hit by short ministuns and damage every 0.3 seconds. Each hit stuns for 0.2 seconds</li>
+						<li>Avalanche duration increased from 1 to 1.8</li>
+						<li>Avalanche AoE increased from 275 to 400</li>
+						<li>Avalanche cooldown reduced from 23/21/19/17 to 23/20/17/14</li>
+						<li>Avalanche total damage rescaled from 120/180/240/300 to 90/160/230/300</li>
+						<br>
+						<li>Toss avalanche damage bonus increased from 2x to 3x <a href="#">[?]</a><span class="ChangeDetailsPopup">The entire avalanche duration is no longer covered by toss</span></li>
+						<br>
+						<li>Level 10 Talent changed from +20% Magic Resistance to +20 Movement Speed</li>
+						<li>Level 25 Talent changed from -12s Avalanche CD to -9s <a href="#">[?]</a><span class="ChangeDetailsPopup">Due to Avalanche cooldown improvement.</span></li>
+					</ul>
+					<div class="ChangeNoteImage"><img src="http://cdn.dota2.com/apps/dota2/images/heroes/treant_sb.png"></div><br style="clear: left;"><b>Treant Protector:&nbsp;<span class="Reworked">Ability Rework</span></b>
+					<ul>
+						<li>Reworked Nature's Guise. Passive. Has a 4/3.5/3/2.5 second fade delay, taking damage resets the counter. Grants you invisibility, treewalking ability, and 14/18/22/26% movement speed bonus as long as you are within 265 distance of a tree. Has a 0.75 linger duration. Attacking a unit out of this roots the target for 0.4/1/1.6/2.2 seconds and deals a total of 30/90/150/210 damage during the root</li>
+    <br>
+    <li><i>Nature's Guise fade time was previously 4.75/4/3.25/2.5</i></li>
+    <li><i>Nature's Guise damage was previously 30/80/130/180</i></li>
+    <li><i>Nature's Guise movement speed was previously was 10/15/20/25%</i></li>
+					</ul>
+					
+					<div class="ChangeNoteImage"><img src="http://cdn.dota2.com/apps/dota2/images/heroes/troll_warlord_sb.png"></div><br style="clear: left;"><b>Troll Warlord:&nbsp;<span class="Reworked">Ability Rework</span></b>
+					<ul>
+					<li>Base damage increased from 38-56 to 44-56</li>
+						<br>
+					<li>Berserker's Rage now applies an ensnare instead of a bash</li>
+					<li>Berserker's Rage proc chance increased from 10% to 10/12/14/16%</li>
+					<li>Basher and Abyssal Blade are no longer restricted items</li>
+						<br>
+					<li>Fervor stack limit increased from 7 to 12</li>
+					<li>Fixed Fervor incrementing when missing attacks</li>
+					<li>Fervor now starts at 0 stacks when attacking a new unit</li>
+					<br>
+					<li>Reworked Battle Trance. Now causes you to go into an uncontrollable trance, forcing you to attack the closest targets in a 900 AoE. During this trance, you are unslowable and cannot die. Grants +140/170/200 Attack Speed, +30/35/40% Movement Speed and +40/60/80% Lifesteal. Lasts 6.5 seconds. You gain normal vision over the target you are currently locked on. Cooldown: 90. Manacost: 150</li>
+					<br>
+					<li>Level 25 Talent changed from Battle Trance Basic Dispel to Battle Trance Strong Dispel <a href="#">[?]</a><span class="ChangeDetailsPopup">Can be cast while stunned</span></li>
+					</ul>
+					<div class="ChangeNoteImage"><img src="http://cdn.dota2.com/apps/dota2/images/heroes/tusk_sb.png"></div><br style="clear: left;"><b>Tusk:&nbsp;<span class="Reworked">Ability Rework</span></b>
+					<ul>
+						<li>Replaced Frozen Sigil with Tag Team. Activatable Aura. Lasts 5 seconds. Causes affected enemies to take 25/50/75/100 more physical damage from attacks and be slowed by 75% for 0.5 seconds. AoE: 350. Cooldown: 15. Manacost: 40/50/60/70 <a href="#">[?]</a><span class="ChangeDetailsPopup">Tusk can crit off this physical damage</span></li>
+					</ul>
+					<div class="ChangeNoteImage"><img src="http://cdn.dota2.com/apps/dota2/images/heroes/abyssal_underlord_sb.png"></div><br style="clear: left;"><b>Underlord:&nbsp;</b>
+					<ul>
+    <li>Intelligence gain reduced from 2.6 to 2.3</li>					
+    <br>
+    <li>Atrophy Aura now provides a permanent +2/3/4/5 bonus damage when a hero dies under the aura</li>
+					</ul>
+					<div class="ChangeNoteImage"><img src="http://cdn.dota2.com/apps/dota2/images/heroes/undying_sb.png"></div><br style="clear: left;"><b>Undying:&nbsp;<span class="Reworked">Ability Rework</span></b>
+					<ul>
+						<li>Base movement speed reduced from 305 to 295</li>
+						<br>
+						<li>Reworked Flesh Golem. No longer amplifies damage. Slow is now a constant 24/32/40% in 375 AoE. <a href="#">[?]</a><span class="ChangeDetailsPopup">Instead of 1% to 20% based on distance up to 750 range</span> Enemy units in 400 AoE lose 7% of their Current HP per second as Magic Damage. You gain +400/1000/1600 health when in this mode. Cooldown: 110</li>
+						<li>Flesh Golem model size increased a bit</li>
+					</ul>
+					<div class="ChangeNoteImage"><img src="http://cdn.dota2.com/apps/dota2/images/heroes/ursa_sb.png"></div><br style="clear: left;"><b>Ursa:&nbsp;</b>
+					<ul>
+						<li>Fixed Overpower not consuming attack count when an attack is evaded</li>
+					</ul>
+					<div class="ChangeNoteImage"><img src="http://cdn.dota2.com/apps/dota2/images/heroes/vengefulspirit_sb.png"></div><br style="clear: left;"><b>Vengeful Spirit:&nbsp;</b>
+					<ul>
+						<li>Vengeance Aura no longer creates illusions of dying allies</li>
+						<li>Vengeance Aura now creates the Scepter effect on dying as a base mechanic, without the ability to cast spells. Gaining Scepter unlocks casting spells</li>
+						<br>
+						<li>Netherswap cast range rescaled from 700/950/1200 to 700/850/1000</li>
+						<li>Netherswap now has 2 charges with 90/80/70 second replenish time <a href="#">[?]</a><span class="ChangeDetailsPopup">Scepter still reduces this to 10 seconds.</span></li>
+					</ul>
+					<div class="ChangeNoteImage"><img src="http://cdn.dota2.com/apps/dota2/images/heroes/venomancer_sb.png"></div><br style="clear: left;"><b>Venomancer:&nbsp;</b>
+					<ul>
+    <li>Poison Sting slow from 11/12/13/14% to 11/13/15/17%</li>
+    <br>					
+    <li>Plague Wards collision size increased</li>
+						<br>
+						<li>Level 15 Talent changed from +200 Cast Range to Gale Hero Impact Summons 2 Wards</li>
+						<li>Level 20 Talent changed from Gale Hero Impact Summons 2 Wards to +15% Spell Lifesteal</li>
+					</ul>
+					<div class="ChangeNoteImage"><img src="http://cdn.dota2.com/apps/dota2/images/heroes/viper_sb.png"></div><br style="clear: left;"><b>Viper:&nbsp;</b>
+					<ul>
+						<li>Nethertoxin AoE increased from 300 to 350</li>
+						<li>Nethertoxin damage rescaled from 20/30/40/50 to 20/35/50/65</li>
+					</ul>
+					
+					<div class="ChangeNoteImage"><img src="http://cdn.dota2.com/apps/dota2/images/heroes/warlock_sb.png"></div><br style="clear: left;"><b>Warlock:&nbsp;</b>
+					<ul>
+						<li>Fatal Bonds now bounces from unit to unit, rather than just searching units near the target</li>
+						<li>Fatal Bonds no longer ignores units in Fog of War</li>
+					</ul>
+					<div class="ChangeNoteImage"><img src="http://cdn.dota2.com/apps/dota2/images/heroes/weaver_sb.png"></div><br style="clear: left;"><b>Weaver:&nbsp;</b>
+					<ul>
+					<li>The Swarm units now have higher attack priority <a href="#">[?]</a><span class="ChangeDetailsPopup">Follows same rules as Phantom's Embrace</span></li>
+						<br>
+					<li>Geminate attack cooldown increased from 7/6/5/3 to 9/7/5/3</li>
+					</ul>
+					
+					<div class="ChangeNoteImage"><img src="http://cdn.dota2.com/apps/dota2/images/heroes/witch_doctor_sb.png"></div><br style="clear: left;"><b>Witch Doctor:&nbsp;</b>
+					<ul>
+						<li>Death Ward damage increased from 60/105/150 to 75/125/175</li>
+					</ul>
+					<div class="ChangeNoteImage"><img src="http://cdn.dota2.com/apps/dota2/images/heroes/skeleton_king_sb.png"></div><br style="clear: left;"><b>Wraith King:&nbsp;</b>
+					<ul>
+						<li>Skeletons health reduced from 350 to 250</li>
+						<li>Skeletons now reincarnate 3 seconds after dying the first time</li>
+					</ul>
+					<div class="ChangeNoteImage"><img src="http://cdn.dota2.com/apps/dota2/images/heroes/zuus_sb.png"></div><br style="clear: left;"><b>Zeus:&nbsp;</b>
+					<ul>
+						<li>Nimbus is no longer automatically selected when hitting Tab</li>
+						<li>Nimbus's Lightning Bolt no longer benefits from cooldown reductions on your hero</li>
+					</ul>
+					
+					
+        </div>
+    </div>
+
+    <div class="Container" id="Footer">
+        <div class="Inner"></div>
+    </div>
+
+
+
+</body></html>
