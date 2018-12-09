@@ -1,127 +1,99 @@
-# General Patch notes combined from 7.16 to 7.19c
+# GAMEPLAY UPDATE 7.20+b+c+d
 
-**Does NOT include Hero changes**
+### GENERAL
 
-## Setup
+#### MAP CHANGES
 
-Bonus Heroes
-* Daily Bonus Hero changed from 2 Mangoes to 1
+-   All side lanes are now lowground (same elevation as mid)
+-  Jungles are now partially highground, all shrines are now situated on highground spaces.
+- River has been extended to the Dire Top Bounty Rune
+- Moved positions of Radiant Tier 1 Mid and Top tower, and Radiant Tier 2 Mid and Bottom tower
+- Moved position of the dire bot bounty rune to be closer to the river (eroded cliff for more river space)
+- Trees and rocks are added to simulate vision block from removed cliffs.
+- Re-positioned stairs and cliffs
+- Other minor tree placements
+- Fountain damage now cancels effects similar to hero damage (e.g. salve, heart, blink), and now has 25% Accuracy (Note: This change was added in an update last week)
 
-## Map
+#### DENY MECHANICS
 
-Bounty Runes
-* Team gold reduced from 40 + 3/min to 40 + 2/min
+-   Denies no longer give the denier 25% XP
+-   Creep denies now give the denier 20% of the gold bounty
+-- Melee creeps 7-8 Gold
+-- Ranged creeps 9-11 Gold
 
-Buyback
-* Buyback respawn time penalty changed from +25% of remaining time to +25s always
+#### TELEPORTING
 
-Experience
-* Level 2 XP requirement changed from 200 to 230. (Total XP needed for other levels unchanged.)
+-   Added a new dedicated inventory slot to hold Town Portal Scrolls
+-- You must still purchase Scrolls as usual
+-   **Boots of Travel:**  No longer shares cooldown with Town Portal Scrolls. Upon teleporting, +10 seconds are now added to your Town Portal Scroll cooldown
 
-Glyph
-* Glyph is now on cooldown until the 3 minute timer in-game
+#### NEUTRALS
 
-Melee Barracks
-* Health increased from 1800 to 2000
+-   Stacked Neutral creeps now give the stacker 35% of the bounty instead of 25%
+-   Non-Ancient Neutrals now provide 5% more gold bounty
 
-Trees 
-* 2 Trees added the cliff area below the Dire primary jungle shrine
+#### HERO SELECTION
 
-Roshan
-* Attack damage upgrade over time increased from 2.5/min to 4/min
+-   Removed Daily Bonus Hero concept
+-   Random once again picks from the entire hero pool, but now ignores your 25 least played heroes
+-- Bonus for randoming provide One Locked Faerie Fire and One Locked Mango
+-   Random can now only be used for the first two hero picks on your team
 
-## Items
+#### ARMOR
 
-Aeon Disk
-* Cooldown increased from 90 to 115
+-   Changed the Armor formula to: ( 0.052 * Armor ) / ( 0.9+ 0.048 * Armor)
+-- Was previously ( 0.05 * Armor ) / ( 1 + 0.05 * Armor)
+-   Updated various armor values to closely align with the new formula:
+    
+    > -   Tier 1 Towers: 17 to 12
+    > -   Tier 2 Towers: 19 to 14
+    > -   Tier 3 Towers: 19 to 14
+    > -   Tier 4 Towers: 29 to 21
+    > -   Melee Barracks: 18 to 13
+    > -   Ranged Barracks: 12 to 9
+    > -   Ancient: 18 to 13
+    > -   Fillers: 14 to 10
+    > -   Shrines: 24 to 17
+    
 
-Blades of Attack
-* Cost increased from 420 to 430
+#### HERO KILL BOUNTY XP
 
-Blademail
-* Cooldown increased from 20 to 25
-* Bonus armor decreased from 6 to 5
+-   Killing Sprees now give an XP bonus ranging from 200 to 1250
+-   Reworked and simplified XP hero kill bounty system. No longer includes a team XP component
+---
+Old:  
+  
+===  
+Amount per player in each scenario:  
+  
+1: DyingHeroBaseXPBounty + 20 * DyingHeroLevel + 0.138 * XPComeback  
+2: DyingHeroBaseXPBounty + 15 * DyingHeroLevel + 0.138 * XPComeback  
+3: DyingHeroBaseXPBounty + 10 * DyingHeroLevel + 0.12 * XPComeback  
+4: DyingHeroBaseXPBounty + 7 * DyingHeroLevel + 0.09 * XPComeback  
+5: DyingHeroBaseXPBounty + 5 * DyingHeroLevel + 0.072 * XPComeback  
+  
+  
+DyingHeroBaseXPBounty: The base XP values given for kills.  
+  
+DyingHeroLevel: Numerical level for the dying hero  
+  
+XPComeback: DyingHeroXP * ( EnemyTeamXP - AlliedTeamXP ) / ( EnemyTeamXP + AlliedTeamXP)  
+  
 
-Bottle
-* Bounty Runes are now storable when full.
+New:
 
-Echo Sabre
-* Strength bonus increased from 10 to 12
-* Damage bonus reduced from 15 to 12
-* Slow duration increased from 0.7 to 0.8
+===
 
-Enchanted Mango
-* HP regen reduced from 0.6 to 0.5
+All: ( 40+ 0.14 * DyingHeroXP ) / # of killers
 
-Eul's Scepter of Divinity
-* Bonus movement speed reduced from +40 to +30
+----
+#### MANA AND HP REGEN
 
-Guardian Greaves
-* Heal increased from 250 to 275
+-   Reworked Mana and HP regen from attributes. They are no longer multipliers of your regeneration values  
+    
+-   Mana Regen: Intelligence now provides 0.05 mana regeneration  
 
-Hand of Midas
-* Cooldown reduced from 100 to 90
+-   Mana Regen: Removed the 0.9 base mana regen value
+-- Now covered by Base Intelligence
 
-Maelstrom
-* Chain Lightning damage reduced from 170 to 160
-
-Mekansm
-* Heal increased from 250 to 275
-
-Moon Shard
-* Attack Speed increased from 130 to 140
-* Night Vision increased from 350/150 (base/consumed) to 400/200
-
-Nullifier
-* Projectile speed reduced from 900 to 750
-
-Orb of Venom
-* Damage per second reduced from 5 to 3 on ranged heroes
-
-Phase Boots
-* Speed bonus on ranged heroes reduced from 16% to 13%
-* Instant turn rate is now a melee only feature
-
-Refresher Orb
-* Recipe cost reduced from 1800 to 1700
-
-Ring of Aquila
-* Bonus damage reduced from 10 to 7
-
-Rod of Atos
-* Recipe cost reduced from 1100 to 1000
-
-Sentry Ward
-* Duration increased from 4 to 6 minutes
-
-Scythe of Vyse
-* Manacost increased from 100 to 250
-
-Shadow Amulet
-* Cost increased from 1300 to 1400
-
-Silver Edge
-* Recipe cost reduced from 700 to 600
-
-Skull Basher
-* Recipe cost reduced from 1150 to 1000
-
-Solar Crest
-* Base evasion reduced from 20% to 15% (active is still 20%)
-
-Spirit Vessel
-* Heal rate reduced from 35 to 30
-* Movement speed bonus reduced from 30 to 20
-
-Stout Shield
-* Damage block for melee heroes increased from 18 to 20
-
-Talisman of Evasion
-* Evasion reduced from 20% to 15%
-* Cost reduced from 1450 to 1400
-
-Urn of Shadows
-* Heal rate reduced from 35 to 30
-
-Vladmir's Offering
-* Mana regeneration increased from 0.65 to 1
+-   Mana Regen: Rebalanced mana regen values based on the formula change  
