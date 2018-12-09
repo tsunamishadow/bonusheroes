@@ -13,11 +13,10 @@
 |3:00|Courier auto upgrades|
 |3:00|Infused Raindrop becomes availible to purchase
 |3:30|Scan becomes availible to both teams<br>(15 seconds later in All Pick)|
-|4:00|Day turns naturally to Night *[Repeats every 8 minutes]*|
+|5:00|Day turns naturally to Night *[Repeats every 10 minutes]*|
 |5:00|Siege creeps spawn in Lane creeps *[Repeats every 5 minutes]*|
-|7:30|Movement speed boost to safelane creeps stops.
 |7:30|Lane creeps are upgraded** *[Repeats every 7.5 minutes]*
-|8:00|Night turns naturally to Day *[Repeats every 8 minutes]*|
+|10:00|Night turns naturally to Day *[Repeats every 10 minutes]*|
 |10:00|Stock of Tome of Knowledge increases by 1 *[Repeats every 10 minutes]*
 |15:00|Lane creeps now spawn 4 melee instead of 3|
 |30:00|Lane creeps now spawn 5 melee instead of 4<br>Siege creeps now spawn 2 siege instead of 1
@@ -35,25 +34,25 @@ Long Cooldown Ultimates and Abilities. Only listed here if two of the Levels of 
 |Minefield Sign|360|
 |Black Hole|200/180/160|
 |Reincarnation|200/120/40|
-|Guardian Angel|180/170/160|
 |Chaotic Offering|170|
 |Sanity's Eclipse|160|
 |Haunt|180/150/120|
+|Guardian Angel|160/150/140|
 |Ravage|150|
 |Doom|145|
 |Excorcism|145|
 |Phantasm|145|
+|Dark Ascension|160/140/120|
 |Hand of God|160/140/120|
 |Eclipse|140|
 |Sonic Wave|135 ^Tal^ ^Agh^|
 |Echo Slam|150/130/110
 |Chronosphere|140/130/120 ^Agh^|
+|Primal Split|140/130/120|
 |Global Silence|130|
 |Summon Familiar's|130|
-|Darkness|160/120/80|
 |Song of the Siren|160/120/80|
 |Moonlight Shadow|140/120/100 ^Tal^|
-|Primal Split|140/120/100|
 |Poison Nova|140/120/100 ^Agh^|
 |Omnislash|130/120/110|
 |Dark Rift|130/120/110|
@@ -61,6 +60,7 @@ Long Cooldown Ultimates and Abilities. Only listed here if two of the Levels of 
 |Mass Serpent Ward|120|
 |Reverse Polarity|120|
 |Reaper's Scythe|120 ^Agh^|
+|Will-o-Wisp|120|
 |Elder Dragon Form|115|
 |Combo Breaker (Aeon Disk)|115|
 |Relocate|130/110/90 ^Tal^|
@@ -68,20 +68,23 @@ Long Cooldown Ultimates and Abilities. Only listed here if two of the Levels of 
 |Epicenter|120/110/100|
 |Fiend's Grip|120/110/100|
 |Requiem of Souls|120/110/100 ^Tal^|
+|Burning Army|110|
+|Flesh Golem|110|
 |Supernova|110|
 |Shapeshift|130/105/80|
 |Finger of Death|160/100/40 ^Agh^|
 |Morph|160/100/40|
 |Freezing Field|110/100/90|
+|Stampede|110/100/90|
 |Precision Aura|100|
 |Earth Splitter|100|
 |Wall of Replica|100|
 |Magnetize|100/90/80|
+|Battle Trance|90|
 |Catacylsm|90|
 |Stone Gaze|90|
 |Thundergod's Wrath|90|
 |Overgrowth|100/85/70 ^Tal^|
-|Death Pact|85|
 |Sunder|120/80/40 ^Tal^|
 |Nether Strike|100/80/60 ^Agh^|
 |Flaming Lasso|100/80/60|
@@ -93,10 +96,9 @@ Long Cooldown Ultimates and Abilities. Only listed here if two of the Levels of 
 |God's Strength|80|
 |Winter's Curse|80|
 |Infest|100/75/50|
-|Stampede|90/75/60|
-|Flesh Golem|75|
+|Soul Bind|90/70/50|
 |Eye of the Storm|80/70/60|
-|Spirit Form|80/70/60 ^Agh|
+|Shadow Dance|80/70/60|
 |Mana Void|70|
 |Focus Fire|70 ^Agh^|
 |Rolling Thunder|70 ^Tal^|
@@ -105,10 +107,9 @@ Long Cooldown Ultimates and Abilities. Only listed here if two of the Levels of 
 |Culling Blade|75/65/55|
 |Dream Coil|70/65/60|
 |Laguna Blade|70/60/50|
+|Rupture|70/60/50 ^Agh^|
 |Vendetta|70/60/50|
 |Time Lapse|70/55/40|
 |Macropyre|60|
-|Shadow Dance|60|
 |Wrath of Nature|60|
 |Demonic Purge|60 ^Agh^|
-|Rupture|60 ^Agh^|
