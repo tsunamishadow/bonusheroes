@@ -60,6 +60,7 @@
 
 -   Killing Sprees now give an XP bonus ranging from 200 to 1250
 -   Reworked and simplified XP hero kill bounty system. No longer includes a team XP component
+
 ---
 Old:  
   
@@ -94,7 +95,8 @@ All: ( 40+ 0.14 * DyingHeroXP ) / # of killers
 -   Mana Regen: Intelligence now provides 0.05 mana regeneration  
 
 -   Mana Regen: Removed the 0.9 base mana regen value
--- Now covered by Base Intelligence
+
+--   Now covered by Base Intelligence
 
 -   Mana Regen: Rebalanced mana regen values based on the formula change  
 
@@ -205,6 +207,7 @@ All: ( 40+ 0.14 * DyingHeroXP ) / # of killers
 | Axe            | 20  | 25  |
 | Bristleback    | 20  | 25  |
 | Sand King      | 35  | 50  |
+
 #### ROOT MECHANICS
 
 -   **Town Portal Scroll:**  Can now be canceled and prevented by Root
@@ -327,6 +330,7 @@ All: ( 40+ 0.14 * DyingHeroXP ) / # of killers
 -   Reworked Phase Boots Recipe
 
 >Old:  
+
 ===  
 Requires:  
 Boots (500)  
@@ -338,6 +342,7 @@ Total: 1360
 +24 Damage  
   
 >New:  
+
 ===  
 Requires:  
 Boots (500)  
