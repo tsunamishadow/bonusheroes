@@ -1,8 +1,8 @@
 # GAMEPLAY UPDATE 7.20+b+c+d
 
-### GENERAL
+## GENERAL
 
-#### MAP CHANGES
+### MAP CHANGES
 
 -   All side lanes are now lowground (same elevation as mid)
 -  Jungles are now partially highground, all shrines are now situated on highground spaces.
@@ -14,32 +14,32 @@
 - Other minor tree placements
 - Fountain damage now cancels effects similar to hero damage (e.g. salve, heart, blink), and now has 25% Accuracy (Note: This change was added in an update last week)
 
-#### DENY MECHANICS
+### DENY MECHANICS
 
 -   Denies no longer give the denier 25% XP
 -   Creep denies now give the denier 20% of the gold bounty
 -- Melee creeps 7-8 Gold
 -- Ranged creeps 9-11 Gold
 
-#### TELEPORTING
+### TELEPORTING
 
 -   Added a new dedicated inventory slot to hold Town Portal Scrolls
 -- You must still purchase Scrolls as usual
 -   **Boots of Travel:**  No longer shares cooldown with Town Portal Scrolls. Upon teleporting, +10 seconds are now added to your Town Portal Scroll cooldown
 
-#### NEUTRALS
+### NEUTRALS
 
 -   Stacked Neutral creeps now give the stacker 35% of the bounty instead of 25%
 -   Non-Ancient Neutrals now provide 5% more gold bounty
 
-#### HERO SELECTION
+### HERO SELECTION
 
 -   Removed Daily Bonus Hero concept
 -   Random once again picks from the entire hero pool, but now ignores your 25 least played heroes
 -- Bonus for randoming provide One Locked Faerie Fire and One Locked Mango
 -   Random can now only be used for the first two hero picks on your team
 
-#### ARMOR
+### ARMOR
 
 -   Changed the Armor formula to: ( 0.052 * Armor ) / ( 0.9+ 0.048 * Armor)
 -- Was previously ( 0.05 * Armor ) / ( 1 + 0.05 * Armor)
@@ -56,7 +56,7 @@
     > -   Shrines: 24 to 17
     
 
-#### HERO KILL BOUNTY XP
+### HERO KILL BOUNTY XP
 
 -   Killing Sprees now give an XP bonus ranging from 200 to 1250
 -   Reworked and simplified XP hero kill bounty system. No longer includes a team XP component
@@ -88,7 +88,7 @@ New:
 All: ( 40+ 0.14 * DyingHeroXP ) / # of killers
 
 ----
-#### MANA AND HP REGEN
+### MANA AND HP REGEN
 
 -   Reworked Mana and HP regen from attributes. They are no longer multipliers of your regeneration values  
     
@@ -208,7 +208,7 @@ All: ( 40+ 0.14 * DyingHeroXP ) / # of killers
 | Bristleback    | 20  | 25  |
 | Sand King      | 35  | 50  |
 
-#### ROOT MECHANICS
+### ROOT MECHANICS
 
 -   **Town Portal Scroll:**  Can now be canceled and prevented by Root
 -   Fixed inconsistencies between different Root sources:
@@ -217,7 +217,7 @@ All: ( 40+ 0.14 * DyingHeroXP ) / # of killers
     > -   The following roots no longer interrupt channeling spells or the current action: Dark Troll Ensnare, Searing Chains, Naga Siren Ensnare, Crystal Maiden Frostbite, Entangling Claws, Nature's Guise, and Overgrowth
     
 
-#### CLEAVE AND SPLASH CHANGES
+### CLEAVE AND SPLASH CHANGES
 
 -   Cleave damage is now normal physical damage type, causing it to get reduced by the armor of each unit impacted
 -   Cleave abilities damage values have been rescaled
@@ -242,7 +242,7 @@ All: ( 40+ 0.14 * DyingHeroXP ) / # of killers
 -- Instead of 100% at 150, 75% at 225, and 50% at 300.
 -   Similar adjustments to Dragon Knight's splash damage described below
 
-#### SPELL IMMUNITY AND DISPELS
+### SPELL IMMUNITY AND DISPELS
 
 -   The following abilities no longer pierce Spell Immunity: Curse of Avernus, Acid Spray, Bloodrage, Thirst, Elder Dragon Form, Lycan Wolf Cripple, Epicenter, Entangling Claws, Spiderling's Poison Sting, Anchor Smash, Nature's Guise, Wave of Terror, Venomancer's Poison Sting, The Swarm, Maledict debuff, Ghost Frost Attack, Wrath of Nature, Netherward Mana Degen, Life Drain targeting, Primal Roar Secondary Knockback, Requiem of Souls, March of the Machines collision, Atrophy Aura, Tombstone, Flesh Golem, Wall of Replica slow, Naga Siren Ensnare, Dark Troll Summoner Ensnare, Wild Axes, Natural Order, Death Pulse projectile, Assassinate, Shiva's Guard Aura, Assault Cuirass Aura, Tempest Tornado Aura, and Orb of Venom
   
@@ -252,7 +252,7 @@ All: ( 40+ 0.14 * DyingHeroXP ) / # of killers
 -   Hex state can now be removed by strong dispels
   
 
-#### TOWERS AND STRUCTURES
+### TOWERS AND STRUCTURES
 
 -   Towers no longer gain extra armor per nearby enemy hero. Tower health increased to account for some of this:
     
@@ -265,7 +265,7 @@ All: ( 40+ 0.14 * DyingHeroXP ) / # of killers
 -   Ranged Barracks health increased from 1200 to 1300
 -   Ancient health increased from 4250 to 4500
 
-#### MISC CHANGES
+### MISC CHANGES
 
 -   Day/Night cycle increased from 4 minutes to 5 minutes
   
@@ -307,7 +307,7 @@ All: ( 40+ 0.14 * DyingHeroXP ) / # of killers
 -   Shrines' Sanctuary ability now additionally restores 2% HP/Mana pool per second
 -- As they no longer naturally scale with the intelligence mana regen changes
 
-### ITEM CHANGES
+## ITEM CHANGES
   
 -   Some item-based movement speed bonuses are now rebalanced around being a percentage rather than a constant addition
 -- Numbers below are designed being similar with a base of 300 speed, with boot items being -5 and Eul's being -10 of their old values.
@@ -325,7 +325,7 @@ All: ( 40+ 0.14 * DyingHeroXP ) / # of killers
     > -   Spirit Vessel: 6%
     > -   Wind Lace: 6%
     
-#### PHASE BOOTS:
+### PHASE BOOTS:
 
 -   Reworked Phase Boots Recipe
 
@@ -355,36 +355,36 @@ Total: 1550
 +5 Armor  
 +25 Attack Speed
 
-#### POWER TREADS:
+### POWER TREADS:
 
 -   Now requires a Blades of Attack instead of a Gloves of Haste. Grants +16 damage instead of attack speed
 -   Attribute bonus increased from 10 to 14
 
-#### TRANQUIL BOOTS:
+### TRANQUIL BOOTS:
 -   No longer gets disabled by attacking creeps
 
-#### SANGE:
+### SANGE:
 -   Now provides +12% Status Resistance instead of Maim
 - Recipe cost reduced from 700 to 600
 
-#### HEAVEN'S HALBERD:
+### HEAVEN'S HALBERD:
 -   Now provides +14% Status Resistance instead of Maim
 
-#### SANGE AND YASHA:
+### SANGE AND YASHA:
 -   Now provides +16% Status Resistance instead of Maim
 - Movement speed changed from +12% to +35 constant
 
-#### YASHA:
+### YASHA:
 - Recipe cost reduced from 700 to 600
 - Movement speed changed from +8% to +25 constant (also done for Manta Style)
 
-#### KAYA:
+### KAYA:
 - Recipe cost increased from 500 to 600
 
-#### YASHA AND KAYA: NEW ITEM
+### YASHA AND KAYA: NEW ITEM
 -   Added a new item: Yasha and Kaya
 
-#### KAYA AND SANGE: NEW ITEM
+### KAYA AND SANGE: NEW ITEM
 
 -   Added a new item: Kaya and Sange
 
@@ -441,15 +441,11 @@ Rebalanced Sange/Yasha/Kaya and Sange and Yasha stats
 > +12% Spell Amp  
 > +16% Mana Loss Reduction  
 
-#### MASK OF MADNESS
-
-- Movement speed changed from +12% to +25 constant
-
-#### RING OF TARRASQUE: NEW ITEM
+### RING OF TARRASQUE: NEW ITEM
 
 -   Added a new basic item: Ring of Tarrasque. Costs 700 gold. Grants +3.75 HP Regen and +150 Health. Upgrades into Heart of Tarrasque and Holy Locket
 
-#### HOLY LOCKET: NEW ITEM
+### HOLY LOCKET: NEW ITEM
 
 -   Added a new item: Holy Locket. Passive. Causes all heals and hp regen you provide to be amplified by 25%  
       
@@ -466,7 +462,7 @@ Rebalanced Sange/Yasha/Kaya and Sange and Yasha stats
     +3 Mana Regen  
     +15% Magic Resistance
 
-#### SOLAR CREST: ITEM REWORKED
+### SOLAR CREST: ITEM REWORKED
 
  - Reworked recipe and bonuses  
   
@@ -486,31 +482,31 @@ Rebalanced Sange/Yasha/Kaya and Sange and Yasha stats
 Active Ability: Can be cast on allies or enemies, removing your own +12 Armor bonus. Grants allies +70 Attack Speed, +10% Movement Speed, +12 Armor. On enemies it applies -70 Attack Speed, -10% Movement Speed, -12 Armor
 -- Casting this removes only the bonus Armor from your hero
 
-#### CROWN: NEW ITEM
+### CROWN: NEW ITEM
 - Added a new basic item: Crown, +4 All Stats, 450 Gold (available in side shop). Used in items that previously required Bracer, Wraith Band, and Null Talisman
 
-#### RING OF AQUILA
+### RING OF AQUILA
 - Removed Ring of Aquila from the game
 - Bracer, Wraith Band and Null Talisman can no longer be upgraded into other items
 - Bracer/Null/Wraith recipe increased from 165 to 240
 - Bracer/Null/Wraith Primary stat increased from +7 to +8
 
-#### BRACER
+### BRACER
 - Now gives +6% Magic Resistance
 
-#### WRAITH BAND
+### WRAITH BAND
 - Now gives +6 Attack Speed
 
-#### NULL TALISMAN
+### NULL TALISMAN
 - Now gives +3% Spell Amp
 
 The following recipes have been updated with the removal of Bracer, Wraith Band and Null Talisman as item components:
 
-#### HURRICANE PIKE:
+### HURRICANE PIKE:
 
 -   Now has a 450 gold recipe instead of Wraith Band
 
-#### DAGON:
+### DAGON:
 
 -   Recipe changed
 
@@ -542,14 +538,14 @@ The following recipes have been updated with the removal of Bracer, Wraith Band 
 > +5 Strength  
 > +5 Agility
 
-#### VEIL OF DISCORD:
+### VEIL OF DISCORD:
 
 -   Recipe changed
 -- Now reqires 1 Crown instead of 2 Null Talisman
 -- Recipe increased to 700 (Total Price from 2330 -> 2050)
 -- Intelligence increased from +14 to +15
 
-#### ROD OF ATOS:
+### ROD OF ATOS:
 - Recipe changed
 
 > **Old:**  
@@ -576,10 +572,10 @@ The following recipes have been updated with the removal of Bracer, Wraith Band 
 > +12 Agility  
 > +20 Intelligence
 
-#### RING OF BASILIUS:
+### RING OF BASILIUS:
 -   Mana regeneration increased from 0.5 to 0.65
 
-#### BLOODSTONE:
+### BLOODSTONE:
 -   No longer has Pocket Deny
 -   No longer reduces respawn times
 -   Now passively doubles your mana regeneration
@@ -588,74 +584,81 @@ The following recipes have been updated with the removal of Bracer, Wraith Band 
 -   Can now be cast, transferring 60% of your current mana to health. Cooldown: 250
 -- Regen is provided over 2 seconds
 
-#### AEON DISK:
+### AEON DISK:
 -   Health increased from 250 to 300
 -   Mana increased from 250 to 300
 -   No longer provides passive Status Resistance
 -   Provides +50% Status Resistance during the 2.5s active buff duration
 
-#### SATANIC:
+### SATANIC:
 -   Passively provides 30% Status Resistance
 -   Bonus damage reduced from 50 to 25
 
-#### HEART OF TARRASQUE:
+### HEART OF TARRASQUE:
 -   Now provides +50% Health Regen Amplification
 -   Out-of-combat regen reduced from 7% to 5%
 -- Adjustment for the heal amp
 -   HP bonus reduced from 500 to 400
 -   Now requires Reaver, Vitality Booster, Ring of Tarrasque and 400 gold recipe
 
-#### SPIRIT VESSEL:
+### SPIRIT VESSEL:
 
 -   No longer amplifies health regen nor provides current health percentage regen
 -   Enemy damage per second increased from 20 to 25
 -- Matches urn now. Still deals current health as damage and negates regen
 
-#### HEADDRESS:
+### HEADDRESS:
 -   Headdress Recipe reduced from 300 to 175
 
-#### MEKANSM:
+### MEKANSM:
 -   Recipe increased from 900 to 950
 -- Overall cost reduced by 75
 
-#### ARCANE BOOTS:
+### ARCANE BOOTS:
 -   Mana restore increased from 135 to 160
 
-#### GUARDIAN GREAVES:
+### GUARDIAN GREAVES:
 -   Heal increased from 275 to 300
 -   Mana restore increased from 160 to 200
 
-#### PIPE OF INSIGHT:
+### PIPE OF INSIGHT:
 -   Now gives the +2 Stats from its components
 -- Previously missing from Headdress
 
-#### SKULL BASHER:
+### SKULL BASHER:
 -   Recipe cost reduced from 1000 to 900
 
-#### BUTTERFLY:
+### BUTTERFLY:
 -   No longer has an active ability
 
-#### CRYSTALYS:
+### CRYSTALYS:
 -   Bonus damage increased from +30 to +38
 
-#### DESOLATOR:
+### DESOLATOR:
 -   Armor reduction increased from 6 to 7
-#### FORCE STAFF:
+
+### FORCE STAFF:
 -   Can now override Slark's Pounce
-#### HAND OF MIDAS:
+
+### HAND OF MIDAS:
 -   Attack Speed increased from 30 to 40
-#### SENTRY WARD:
+
+### SENTRY WARD:
 -   Range increased from 850 to 1000
-#### GEM OF TRUE SIGHT:
+
+### GEM OF TRUE SIGHT:
 -   Grants 300 ground vision and truesight to the team that last held when it is dropped on the ground. Lasts until it is picked up
-#### MORBID MASK:
+
+### MORBID MASK:
 -   No longer provides +10 Damage
 -   Cost reduced from 1100 to 900
-#### MASK OF MADNESS:
--   Damage reduced from +20 to +10
 
-### HEROES
-#### ABADDON: ABILITY REWORK
+### MASK OF MADNESS:
+-   Damage reduced from +20 to +10
+-   Movement speed changed from +12% to +25 constant
+
+## HEROES
+### ABADDON: ABILITY REWORK
 
 -   Base movement speed increased from 310 to 325
 -   Base agility increased by 6
@@ -665,33 +668,33 @@ The following recipes have been updated with the removal of Bracer, Wraith Band 
 -- You cannot start to increment the hit coutner while they are cursed
 -   Level 25 Talent changed from Curse of Avernus to +375 AoE Mist Coil
 
-#### ANCIENT APPARITION: ABILITY REWORK
+### ANCIENT APPARITION: ABILITY REWORK
 -   Ice Vortex no longer has a self bonus  
 -   Reworked Chilling Touch. It is now a passive autocast attack modifier. Cooldown: 15/11/7/3 seconds. Grants you bonus attack range and causes your attack to deal heavy magic damage that slows movement for a brief period. Damage: 50/85/120/155. Slow: 100% for 0.5 seconds. Attack Range Bonus: 60/120/180/240. Manacost: 30/50/70/90
 
-#### ANTI-MAGE: ABILITY REWORK
+### ANTI-MAGE: ABILITY REWORK
 -   Removed Scepter upgrade
 -   Replaced Spell Shield with Counterspell. Passively grants you 15/25/35/45% Magic Resistance and can be activated to provide a Counterspell shield for 1.4 second. Causes all spells that target you to be blocked and reflected onto the enemy. Cooldown: 15/11/7/3. Manacost: 40
 
-#### ARC WARDEN:
+### ARC WARDEN:
 -   Tempest Double bounty increased from a fixed 180 Gold/XP to 180/240/300
 -   Level 15 Talent changed from +350 Health to +300
 
-#### AXE:
+### AXE:
 -   Berserker's Call armor bonus reduced from 40 to 30
 - Counter Helix damage reduced from 75/110/145/180 to 60/100/140/180
 - Level 15 Talent reduced from +4 Mana Regen to +3
 
-#### BANE: ABILITY REWORK
+### BANE: ABILITY REWORK
 -   Reworked Enfeeble. Adds a debuff to the enemy unit, applying 36/44/52/60% negative status resistance to the target (which causes debuffs to last longer) and reducing the enemy's attack speed by 40/60/80/100. Lasts 8 seconds. Can be dispelled. Cast Range: 1000. Cooldown: 12/10/8/6. Manacost: 70/90/110/130
 -   Level 15 Talent changed from Enfeeble Steals Damage to Enfeeble Steals Attack Speed
 -   Level 20 Talent changed from +100 Enfeeble Damage Reduction to +100 Enfeeble Attack Speed Reduction
 
-#### BATRIDER
+### BATRIDER
 - Flaming Lasso now does 20/40/60 damage per second
 -- Scepter no longer provides this. Ticks every 1 second.
 
-#### BEASTMASTER: ABILITY REWORK**
+### BEASTMASTER: ABILITY REWORK**
 -   Call of the Wild has been reworked. It no longer summons a neutral creep, and now has two separate hotkeys for the Boar and the Hawk. The Hawk is a global point target ability that sends a permanently invisible uncontrollable hawk to that location starting from where you are. Adjusted stats on the summoned units.
 -   Primal Roar self movement boost increased from 30 to 40%
 -   Primal Roar secondary units push distance from 300 to 450
@@ -701,7 +704,7 @@ The following recipes have been updated with the removal of Bracer, Wraith Band 
 -   Primal Roar secondary unit slow increased from 50 to 60
 - Level 25 Talent changed from +2 Hawks Summoned to -15 Hawk Cooldown
 
-#### BLOODSEEKER
+### BLOODSEEKER
 -   Thirst changed from giving attack damage to +30/45/60/75 Attack Speed
 -   Thirst movement speed increased from 7/18/29/40% to 12/24/36/48%
 -   Bloodrage incoming and outgoing damage reduced from 25/30/35/40% to 10/15/20/25%
@@ -714,7 +717,7 @@ The following recipes have been updated with the removal of Bracer, Wraith Band 
 -   Rupture cooldown from 60 to 70/60/50
 -   Level 20 Talent changed from +18% Rupture Damage to +600 Rupture Cast Range
 
-#### BOUNTY HUNTER: ABILITY REWORK
+### BOUNTY HUNTER: ABILITY REWORK
 
 -   Strength from 18+2.1 to 20+2.5
 - Agility gain reduced from 3.0 to 2.7
@@ -727,7 +730,7 @@ The following recipes have been updated with the removal of Bracer, Wraith Band 
 - Track cast ranged reduced from 1200 to 1000
 -   Level 20 Talent changed from +125% Jinada Critical Strike to +90 Jinada Gold Steal
 
-#### BREWMASTER: ABILITY REWORK
+### BREWMASTER: ABILITY REWORK
 
 -   Intelligence gain increased from 1.3 to 1.6
 -   Base movement speed increased from 295 to 305
@@ -740,13 +743,13 @@ The following recipes have been updated with the removal of Bracer, Wraith Band 
 - Level 10 talent reduced from +30 Damage to +20
 -   Level 25 changed from +15% Drunken Brawler Chance to +175% Critical Strike Damage
 
-#### BRISTLEBACK:
+### BRISTLEBACK:
 -   Viscous Nasal Goo armor reduction increased from 1/1.4/1.8/2.2 to 1.4/1.8/2.2/2.6
 
-#### BROODMOTHER:
+### BROODMOTHER:
 -   Spiderling/Spiderite magic resistance reduced from 50% to 40%
 
-#### CENTAUR WARRUNNER: ABILITY REWORK
+### CENTAUR WARRUNNER: ABILITY REWORK
 
 -   Strength gain reduced from 4.3 to 4.0
 -   Hoof Stomp damage reduced from 100/150/200/250 to 80/110/140/170
@@ -764,7 +767,7 @@ The following recipes have been updated with the removal of Bracer, Wraith Band 
 -   Level 15 Talent changed from +75 Damage to +30 Base Damage
 -   Level 20 Talent changed from +300 Double Edge Damage to +50 Retaliate Damage
 
-#### CHAOS KNIGHT: ABILITY REWORK
+### CHAOS KNIGHT: ABILITY REWORK
 
 -   Reworked Chaos Strike. Passive cooldown ability. Lands a critical strike for a random amount, between Min Crit: 120% and Max Crit: 160/190/220/250%. Has 35/45/55/65% lifesteal for this hit. Cooldown: 7/6/5/4
 -   Reality Rift no longer reduces armor
