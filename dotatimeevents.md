@@ -42,15 +42,17 @@ Long Cooldown Ultimates and Abilities. Only listed here if two of the Levels of 
 |Doom|145|
 |Excorcism|145|
 |Phantasm|145|
-|Dark Ascension|160/140/120|
 |Hand of God|160/140/120|
 |Eclipse|140|
 |Sonic Wave|135 ^Tal^ ^Agh^|
-|Echo Slam|150/130/110
+|Echo Slam|150/130/110|
+|Dark Ascension|140/130/120|
 |Chronosphere|140/130/120 ^Agh^|
 |Primal Split|140/130/120|
 |Global Silence|130|
+|Reverse Polarity|130|
 |Summon Familiar's|130|
+|Flesh Golem|125|
 |Song of the Siren|160/120/80|
 |Moonlight Shadow|140/120/100 ^Tal^|
 |Poison Nova|140/120/100 ^Agh^|
@@ -58,7 +60,6 @@ Long Cooldown Ultimates and Abilities. Only listed here if two of the Levels of 
 |Dark Rift|130/120/110|
 |Summon Spirit Bear|120|
 |Mass Serpent Ward|120|
-|Reverse Polarity|120|
 |Reaper's Scythe|120 ^Agh^|
 |Will-o-Wisp|120|
 |Elder Dragon Form|115|
@@ -69,7 +70,6 @@ Long Cooldown Ultimates and Abilities. Only listed here if two of the Levels of 
 |Fiend's Grip|120/110/100|
 |Requiem of Souls|120/110/100 ^Tal^|
 |Burning Army|110|
-|Flesh Golem|110|
 |Supernova|110|
 |Shapeshift|130/105/80|
 |Finger of Death|160/100/40 ^Agh^|
@@ -96,7 +96,7 @@ Long Cooldown Ultimates and Abilities. Only listed here if two of the Levels of 
 |God's Strength|80|
 |Winter's Curse|80|
 |Infest|100/75/50|
-|Soul Bind|90/70/50|
+|Soul Bind|100/75/50|
 |Eye of the Storm|80/70/60|
 |Shadow Dance|80/70/60|
 |Mana Void|70|
