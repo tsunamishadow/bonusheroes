@@ -1,4 +1,4 @@
-# GAMEPLAY UPDATE 7.20+b+c+d
+# GAMEPLAY UPDATE 7.20+b+c+d+e
 
 ## GENERAL
 
