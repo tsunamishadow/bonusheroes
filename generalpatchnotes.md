@@ -488,8 +488,8 @@ Active Ability: Can be cast on allies or enemies, removing your own +12 Armor bo
 ### RING OF AQUILA
 - Removed Ring of Aquila from the game
 - Bracer, Wraith Band and Null Talisman can no longer be upgraded into other items
-- Bracer/Null/Wraith recipe increased from 165 to 240
-- Bracer/Null/Wraith Primary stat increased from +7 to +8
+- Bracer/Null/Wraith recipe increased from 165 to 215
+- Bracer/Null/Wraith Primary stat decreased from +7 to +6
 
 ### BRACER
 - Now gives +6% Magic Resistance
@@ -499,6 +499,26 @@ Active Ability: Can be cast on allies or enemies, removing your own +12 Armor bo
 
 ### NULL TALISMAN
 - Now gives +3% Spell Amp
+
+Summary: 
+=== 
+Wraith Band: 
++6 Agility 
++3 Strength 
++3 Intelligence 
++6 Attack Speed 
+
+Bracer: 
++6 Strength 
++3 Agility 
++3 Intelligence 
++6% Magic Resistance 
+
+Null Talisman: 
++6 Intelligence 
++3 Strength 
++3 Agility 
++3% Spell Amp
 
 The following recipes have been updated with the removal of Bracer, Wraith Band and Null Talisman as item components:
 
@@ -674,7 +694,7 @@ The following recipes have been updated with the removal of Bracer, Wraith Band 
 
 ### ANTI-MAGE: ABILITY REWORK
 -   Removed Scepter upgrade
--   Replaced Spell Shield with Counterspell. Passively grants you 15/25/35/45% Magic Resistance and can be activated to provide a Counterspell shield for 1.4 second. Causes all spells that target you to be blocked and reflected onto the enemy. Cooldown: 15/11/7/3. Manacost: 40
+-   Replaced Spell Shield with Counterspell. Passively grants you 15/25/35/45% Magic Resistance and can be activated to provide a Counterspell shield for 1.2 seconds. Causes all spells that target you to be blocked and reflected onto the enemy. Cooldown: 15/11/7/3. Manacost: 45/50/55/60
 
 ### ARC WARDEN:
 -   Tempest Double bounty increased from a fixed 180 Gold/XP to 180/240/300
@@ -703,6 +723,7 @@ The following recipes have been updated with the removal of Bracer, Wraith Band 
 -- 2/3/4 to 3/3.5/4
 -   Primal Roar secondary unit slow increased from 50 to 60
 - Level 25 Talent changed from +2 Hawks Summoned to -15 Hawk Cooldown
+- Level 25 Talent reduced from +40 Inner Beast Attack Speed to +30
 
 ### BLOODSEEKER
 -   Thirst changed from giving attack damage to +30/45/60/75 Attack Speed
@@ -735,7 +756,7 @@ The following recipes have been updated with the removal of Bracer, Wraith Band 
 -   Intelligence gain increased from 1.3 to 1.6
 -   Base movement speed increased from 295 to 305
 -   Thunderclap manacost from 90/105/130/150 to 90/100/110/120
--   Reworked Drunken Brawler. It is now a self active buff. Lasts for 5 seconds. Grants you 50/60/70/80% evasion and 80% chance to Crit for 200/220/240/260%. Movement speed alternates between -20% and +40% while this is active. Cooldown: 20/19/18/17. Manacost: 35/40/45/50
+-   Reworked Drunken Brawler. It is now a self active buff. Lasts for 5 seconds. Grants you 50/60/70/80% evasion and 80% chance to Crit for 170/200/230/260%. Movement speed alternates between -20% and +40% while this is active. Cooldown: 23/21/19/17. Manacost: 35/40/45/50
 -   Replaced Drunken Haze with Cinder Brew. Covers a target 400 AoE with alcohol, slowing them by 25% and causes them to have a 20/25/30/35% chance to attack themselves instead of the target. Lasts 7 seconds. If the targets are hit by 80 spell damage or more (including immolation from your Fire Spirit), the duration will refresh and they will ignite and burn for 20/25/30/35 DPS for 3 seconds. Cooldown: 20/18/16/14. Manacost: 50. Self attack is not lethal
 -   If you activate it while the debuff is already going, it will extend the ignite debuff duration. If activated after the ignite debuff wears out, a new ignite debuff will be added.
 - The Primary Cinder Brew buff duration is not extended when activated (seperate debuffs).
@@ -744,7 +765,9 @@ The following recipes have been updated with the removal of Bracer, Wraith Band 
 -   Level 25 changed from +15% Drunken Brawler Chance to +175% Critical Strike Damage
 
 ### BRISTLEBACK:
+-   Strength gain increased from 2.2 to 2.5
 -   Viscous Nasal Goo armor reduction increased from 1/1.4/1.8/2.2 to 1.4/1.8/2.2/2.6
+-   Bristleback now considers damage from towers as valid
 
 ### BROODMOTHER:
 -   Spiderling/Spiderite magic resistance reduced from 50% to 40%
@@ -769,7 +792,7 @@ The following recipes have been updated with the removal of Bracer, Wraith Band 
 
 ### CHAOS KNIGHT: ABILITY REWORK
 
--   Reworked Chaos Strike. Passive cooldown ability. Lands a critical strike for a random amount, between Min Crit: 120% and Max Crit: 160/190/220/250%. Has 35/45/55/65% lifesteal for this hit. Cooldown: 7/6/5/4
+-   Reworked Chaos Strike. Passive cooldown ability. Lands a critical strike for a random amount, between Min Crit: 120% and Max Crit: 160/190/220/250%. Has 50/55/60/65% lifesteal for this hit. Cooldown: 7/6/5/4
 -   Reality Rift no longer reduces armor
 -   Reality Rift now moves the target a fixed amount of distance: 250/300/350/400
 -   Reality Rift now maims the target applying a 15/25/35/45% movement and 30/50/70/90 attack speed slow for 2 seconds
@@ -820,12 +843,12 @@ The following recipes have been updated with the removal of Bracer, Wraith Band 
 -   Frostbite cast range increased from 525 to 550
 -   Freezing Field no longer has a 0.3 cast point
 
-## DARK SEER:
+### DARK SEER:
 
 -   Surge duration rescaled from 3/4.5/6/7.5 to 6
 -   Surge cooldown rescaled from 13/12/11/10 to 16/14/12/10
 -   Surge now causes the target to be unslowable
--   Surge speed changed from 550 to +36/54/72/90%
+-   Surge speed changed from 550 to +30/45/60/75%
 -   Surge now causes the target to ignore movement speed limit
 -   Surge now causes the target to ignore unit collisions
 -   Wall of Replica now uses Vector Targeting to cast
@@ -838,8 +861,10 @@ The following recipes have been updated with the removal of Bracer, Wraith Band 
 ### DAZZLE: ABILITY REWORK
 
 - Intelligence gain reduced from 3.4 to 3.2
--   Poison Touch mana cost increased from 80 to 80/100/120/140
+-   Poison Touch mana cost increased from 80 to 95/110/125/140
+-   Poison Touch cast range reduced from 600/700/800/900 to 500/600/700/800
 -   Poison Touch debuff now stacks
+-   Shallow Grave cooldown increased from 60/45/30/15 to 60/46/32/18
 -   Replaced Weave with Bad Juju. Passive ability. Grants you 20/35/50% Cooldown Reduction. Anytime you cast a spell, all enemies within a 1200 AoE around you lose 2/2.25/2.5 armor for 8 seconds. Debuffs stack and refresh duration. Doesn't affect Roshan
 -   Shadow Wave cooldown increased from 12/10/8/6 to 14/12/10/8
 -   Level 25 Talent changed from +0.5 Weave Armor Per Second to +0.5 Bad Juju Armor Reduction
@@ -849,6 +874,8 @@ The following recipes have been updated with the removal of Bracer, Wraith Band 
 
 -   Movement speed increased from 305 to 315
 -   Spirit Siphon now drains 4/6/8/10% speed
+-   Spirit Siphon charge replenish time reduced from 60/55/50/45 to 60/52/44/36
+-   Exorcism damage increased from 56-61 to 59-64
 - Level 10 Talent increased from +12% Magic Resistance to +15%
 - Level 20 Talent increased from -2s Crypt Swarm Cooldown to -3s
 
@@ -911,6 +938,7 @@ The following recipes have been updated with the removal of Bracer, Wraith Band 
 ### EMBER SPIRIT:
 
 - Base armor increased by 1
+- Strength increased from 20 + 2.4 to 21 + 2.6
 - Sleight of Fist damage increased from 30/60/90/120 to 40/80/120/160
 -   Fire Remnant now does damage along the way (at half radius) instead of only at the destination
 -- Only hits enemies once per remnant.
@@ -933,23 +961,25 @@ The following recipes have been updated with the removal of Bracer, Wraith Band 
 -   Enabled Grimstroke in Captains Mode
 -   Soulbind now applies a Leashed state to the targets, disallowing teleportation and mobility based abilities
 -   Soulbind duration reduced from 6/8/10 to 6/7/8
-- Soul Bind cooldown increased from 80/65/50 to 90/70/50
+- Soul Bind cooldown increased from 80/65/50 to 100/75/50
 -   Phantom's Embrace creature now gets closer to the target before latching on
 -   Ink Swell now does its maximum impact based on the duration it hit any hero, rather than amount of DPS dealt to all heroes combined
 -- Scales linearly from 0 to 3 seconds
--   Ink Swell max stun duration reduced from 2.2/2.8/3.4/4 to 1.7/2.4/3.1/3.8
+-   Ink Swell max stun duration reduced from 2.2/2.8/3.4/4 to 1.4/2.2/3/3.8
 - Ink Swell max damage reduced from 160/240/320/400 to 100/200/300/400
 -   Level 20 Talent changed from +2 Hits to Kill Phantom to +1
 
 ### GYROCOPTER:
 
 - Strength gain increased from 2.1 to 2.3
+- Agility gain increased from 2.8 to 3.1
 
 ### HUSKAR: ABILITY REWORK
 
 -   Berserker's Blood no longer gives magic resistance. Now provides health regen up to 20/40/60/80% of Strength based on missing health
 -   Berserker's Blood now ramps up faster when lower health
 -   Replaced Inner Vitality with Inner Fire. In a fiery rage, knocks all enemies within 500 range away from you, dealing 100/155/210/265 damage and disarming them for 1.75/2.5/3.25/4 seconds. Enemies are knocked back to 550 range away from you. Knockback duration: 0.6. Cooldown: 18/16/14/12 seconds. Manacost: 75/100/125/150
+-   Level 10 Talent reduced from +20 Damage to +15
 -   Level 15 Talent increased from +15% Lifesteal to +20%
 -   Level 15 Talent increased from +10 Burning Spears DPS to +15
 -   Level 20 Talent increased from +15 Strength to +20
@@ -967,7 +997,7 @@ The following recipes have been updated with the removal of Bracer, Wraith Band 
 ### JUGGERNAUT:
 
 -   Base Agility increased by 10 (base damage unchanged)
--   Changed how Omnislash does the strikes from just physical damage nukes (with occasional invisible attacks depending on attack speed) to all full real attacks that can proc your crit and items. Lasts 3/3.25/3.5 seconds and attacks at 1.8x your attack rate. Provides +30/45/60 Damage. Scepter lasts 4/4.25/4.5 seconds and 70 cooldown
+-   Changed how Omnislash does the strikes from just physical damage nukes (with occasional invisible attacks depending on attack speed) to all full real attacks that can proc your crit and items. Lasts 3/3.25/3.5 seconds and attacks at 1.8x your attack rate. Provides +30/40/50 Damage. Scepter lasts 4/4.25/4.5 seconds and 70 cooldown
 -   Omnislash no longer constantly issues self interrupts during each attack
 -- Would cause it to drop your orders
 -   Omnislash no longer instantly kills creeps
@@ -982,7 +1012,7 @@ The following recipes have been updated with the removal of Bracer, Wraith Band 
 -   Illuminate cooldown increased from 10 to 11
 -   Changed how Chakra Magic works. Restores 80/160/240/320 mana and removes 3/4/5/6 seconds off of basic abilities currently on cooldown. Cooldown: 20/18/16/14
 -   Reworked Blinding Light into a basic ability. Causes everyone in a 600 AoE to be blinded, missing 70% of their attacks for 3/4/5/6 seconds. Knocks targets back 350 units and deals 50/100/150/200 damage. Cooldown: 30/25/20/15. Manacost: 100/125/150/175. Cast Range: 550/600/650/700
--   Added a new Ultimate, Will-o-Wisp. Spawns an attackable light entity, Ignis Fatuus. The light flickers on for 1.3 seconds and off for 1.75 seconds. Enemies within a 650 Radius are hypnotized and forced to look at it whenever it is emitting light, unable to act. The light entity can be killed with 4/5/6 attacks, otherwise it will flicker 3/4/5 times before going away. Cooldown: 120. Cast Range: 900. Manacost 250/350/450. Dormant for 1 second before the first flicker begins.
+-   Added a new Ultimate, Will-o-Wisp. Spawns an attackable light entity, Ignis Fatuus. The light flickers on for 1.3 seconds and off for 1.85 seconds. Enemies within a 675 Radius are hypnotized and forced to look at it whenever it is emitting light, unable to act. The light entity can be killed with 4/5/6 attacks, otherwise it will flicker 3/4/5 times before going away. Cooldown: 120. Cast Range: 900. Manacost 250/350/450. Dormant for 1 second before the first flicker begins.
 - Has a 100/125/150 gold bounty when killed (can be denied)
 -   Scepter now just causes your Illuminate to heal during the day 
 -- This turns your hero into the spirit form visually during daytime
@@ -1010,8 +1040,13 @@ The following recipes have been updated with the removal of Bracer, Wraith Band 
 
 ### LIFESTEALER:
 
+-   Agility gain increased from 1.9 to 2.4
 -   Feast changed from 4.5/5.5/6.5/7.5% of Current Health to 1.75/2.5/3.25/4% of Max Health
 -   Level 25 Talent changed from +2% Current Health to +1% Max Health
+
+### LINA
+
+- Base armor increased by 2
 
 ### LION:
 
@@ -1028,8 +1063,8 @@ The following recipes have been updated with the removal of Bracer, Wraith Band 
 -   Spirit Bear attack damage increased from 35/45/55/65 to 35/50/65/80
 -   Spirit Bear now has a level 1 ability, Defender. Passively causes 30% of the damage Lone Druid takes to be instead dealt to the Spirit Bear if you are within the leash range
 -   Replaced Rabid with Spirit Link. Grants both of you 30/50/70/90 Attack Speed and causes 40/50/60/70% of damage you deal to restore life to your Spirit Bear, and damage your Spirit Bear deals to restore life to you. Duration: 10 seconds. Cooldown: 43/36/29/22. Manacost: 50/60/70/80
-- Level 10 Talent reduced from +175 Attack Range to +150
-- Level 20 Talent changed from +40 Spirit Link Attack Speed to -0.2 Spirit Bear Base Attack Time
+- Level 10 Talent reduced from +175 Attack Range to +125
+- Level 20 Talent changed from +40 Spirit Link Attack Speed to -0.3 Spirit Bear Base Attack Time
 
 ### LUNA:
 
@@ -1048,9 +1083,11 @@ The following recipes have been updated with the removal of Bracer, Wraith Band 
 
 ### MAGNUS: ABILITY REWORK
 
-- Empower cleave damage reduced from 30/45/60/75% to 20/38/56/74%
+-   Empower bonus damage reduced from 20/30/40/50 to 10/20/30/40%
+- Empower cleave damage reduced from 30/45/60/75% to 14/34/54/74%
 -   Skewer cooldown reduced from 25 to 26/24/22/20
 -   Reworked Shockwave. Releases a wave towards a target point, pulls units towards it slightly and deals 75/150/225/300 damage. Slows enemies by 60% for 0.75 seconds. Width: 200, Distance: 1200, Projectile Speed: 900. Pull Duration: 0.2. Manacost: 90/100/110/120. Cooldown: 14/13/12/11
+-   Reverse Polarity cooldown increased from 120 to 130
 - Level 15 Talent reduced from +15 Strength to +12
 - Level 20 Talent reduced from +12 Armor to +10
 
@@ -1120,7 +1157,7 @@ The following recipes have been updated with the removal of Bracer, Wraith Band 
   
 -   Hunter in the Night no longer has an active.
   
--   Replaced Darkness with Dark Ascension. Causes you to transform into a stronger flying creature that has +50/100/150 bonus damage and 900 unobstructed vision. Lasts for 30 seconds. Daytime is turned to night during this. Cooldown: 160/140/120. Manacost: 125/175/225
+-   Replaced Darkness with Dark Ascension. Causes you to transform into a stronger flying creature that has +50/100/150 bonus damage and 900 unobstructed vision. Lasts for 30 seconds. Daytime is turned to night during this. Cooldown: 140/130/120. Manacost: 125/175/225
   
 -   Level 25 changed from -8s Crippling Fear Cooldown to -40s Dark Ascension cooldown
 
@@ -1158,7 +1195,7 @@ The following recipes have been updated with the removal of Bracer, Wraith Band 
 -   Arcane Orb now splashes its bonus damage in a 175 AoE around the target
 -   Arcane Orb no longer does bonus damage to illusions
 - Arcane Orb no longer ignores Ancient creeps
--   Replaced Essence Aura with Equilibrium. Self buff. Causes all spell damage you deal to restore 80/100/120/140% of damage back as mana and slow enemies by 12/22/32/42% for 1.75 seconds. Lasts 7 seconds. Cooldown: 18 Manacost: 50
+-   Replaced Essence Aura with Equilibrium. Self buff. Causes all spell damage you deal to restore 65/90/115/140% of damage back as mana and slow enemies by 12/22/32/42% for 1.75 seconds. Lasts 7 seconds. Cooldown: 18 Manacost: 50
 -   Level 15 Talent changed from +15% Essence Aura Chance to +6 Armor
 
 ### PANGOLIER: ABILITY REWORK
@@ -1167,16 +1204,17 @@ The following recipes have been updated with the removal of Bracer, Wraith Band 
 
 ### PHANTOM ASSASSIN: ABILITY REWORK
 
+-   Stifling Dagger manacost increased from 30/25/20/15 to 30
 -   Phantom Strike Cooldown rescaled from 14/11/8/5 to 11/9/7/5
 -   Phantom Strike cast point reduced from 0.3 to 0.25
 -   Phantom Strike Attack Speed rescaled from 130 to 100/125/150/175
 -   Phantom Strike no longer has an attack limit
 -   Phantom Strike Attack Speed bonus now lasts for 2.5 seconds
-- Phantom Strike attack speed duration reduced from 2.5 to 2.25
+- Phantom Strike attack speed duration reduced from 2.5 to 2
 -   Phantom Strike Manacost rescaled from 50 to 35/40/45/50
 -   Phantom Strike Attack Speed bonus no longer depends on attacking the specific target
--   Blur's non-evasion passive component has been changed into an active, evasion component is unchanged. Causes enemies to be unable to see you (like smoke) until you are within 600 units of an enemy hero or buildings. Does not dispel when attacking. Lingers around for 0.75 seconds before going away after being near an enemy hero. Lasts 25 seconds. Cast Point: 0.4. Cooldown: 60/55/50/45. Manacost: 30
-- Coup de Grace damage reduced from 230/340/450% to 210/330/450%
+-   Blur's non-evasion passive component has been changed into an active, evasion component is unchanged. Causes enemies to be unable to see you (like smoke) until you are within 600 units of an enemy hero or buildings. Does not dispel when attacking. Lingers around for 0.75 seconds before going away after being near an enemy hero. Lasts 25 seconds. Cast Point: 0.4. Cooldown: 60/55/50/45. Manacost: 50
+- Coup de Grace damage reduced from 230/340/450% to 200/325/450%
 - Level 15 Talent reduced from -4 Armor to -3
 
 ### PHANTOM LANCER:
@@ -1190,7 +1228,9 @@ The following recipes have been updated with the removal of Bracer, Wraith Band 
 
 ### PUCK:
 
+-   Base armor increased by 1
 - Intelligence gain increased from 2.4 to 2.7
+-   Illusory Orb cooldown reduced from 14/13/12/11 to 13/12/11/10
 -   Dream Coil now applies a Leashed state to the targets, disallowing teleportation and mobility based abilities
 - Dream Coil stun duration from 1.5/2.25/3 to 1.8/2.4/3
 -   Level 15 Talent increased from +50 Attack Damage to +90
@@ -1204,8 +1244,10 @@ The following recipes have been updated with the removal of Bracer, Wraith Band 
 
 ### QUEEN OF PAIN:
 
+-   Agility increased from 18 + 2 to 22 + 2.2
 -   Sonic Wave now knocks units back 350 units over 1.4 seconds
 -- Does not stun
+-   Scream of Pain manacost reduced from 110/120/130/140 to 95/110/125/140
 
 ### RAZOR:
 
@@ -1217,6 +1259,7 @@ The following recipes have been updated with the removal of Bracer, Wraith Band 
 
 ### RIKI:
 
+-   Base damage increased by 3
 -   Blink Strike cooldown rescaled from 16/12/8/4 to 10/8/6/4
 -   Blink Strike damage rescaled from 100 to 75/90/105/120
 
@@ -1241,7 +1284,7 @@ The following recipes have been updated with the removal of Bracer, Wraith Band 
 - Burrow Strike stun duration from 1.9/2/2.1/2.2 to 1.6/1.8/2/2.2
 -   Sand Storm is no longer a channeled ability. The Sand Storm and the invisibility ends immediately once you leave the area. Attacking or casting temporarily reveals you for 0.7 seconds
 -   Sand Storm AoE changed from 525 to 350/450/550/650
--   Sand Storm damage rescaled from 40/60/80/100 to 25/50/75/100
+-   Sand Storm damage reduced from 40/60/80/100 to 20/40/60/80
 -   Sand Storm cooldown rescaled from 34/26/18/10 to 40/34/28/22
 -   Sand Storm duration reduced from 50 to 20/25/30/35
 - Sandstorm manacost rescaled from 60/50/40/30 to 60
@@ -1258,7 +1301,7 @@ The following recipes have been updated with the removal of Bracer, Wraith Band 
 
 ### SHADOW FIEND:
 
--   Base armor increased by 1
+-   Base armor increased by 2
 
 ### SHADOW SHAMAN:
 
@@ -1291,8 +1334,7 @@ The following recipes have been updated with the removal of Bracer, Wraith Band 
 - Shadow Dance movement speed reduced from 30/40/50% to 20/35/50%
 -   A dying with Essence Shift debuff on them causes Slark to permanently steal 1 Agility if they died within 300 units
 - Level 10 Talent reduced from +8 Agility to +6 Agility
-- Level 20 Talent reduced from +2s Pounce Leash to +1.5s
-- Level 20 Talent reduced from +3s Pounce Leash to +2s
+- Level 20 Talent reduced from +2s Pounce Leash to +1.25s
 - Level 25 Talent reduced from +120s Essence Shift Duration to +80s
 
 ### SNIPER:
@@ -1301,7 +1343,7 @@ The following recipes have been updated with the removal of Bracer, Wraith Band 
 
 ### SPECTRE:
 
-- Haunt damage increased from 40/50/60% to 40/55/70%
+- Haunt damage increased from 40/50/60% to 40/60/80%
 
 ### SPIRIT BREAKER: ABILITY REWORK
 
@@ -1318,12 +1360,15 @@ The following recipes have been updated with the removal of Bracer, Wraith Band 
 
 ### STORM SPIRIT
 
+- Base damage increased by 2
 - Intelligence gain increased from 3 to 3.2
 - Static Remnant damage increased from 120/160/200/240 to 120/170/220/270
 
 ### SVEN: ABILITY REWORK
 
+-   Base movement speed increased from 290 to 295
 -   Reworked Warcry. Now grants you and nearby allied heroes bonus movement speed and an HP shield that blocks attack damage based on the shield's health. Lasts 10 seconds. Buff ends if the shield is consumed. Movement Speed: 8/12/16/20% Movement Speed. Attack Shield Health: 110/220/330/440 Health. AoE: 700 Cooldown: 36/32/28/24. Manacost: 40
+-   Warcry shield health is 25% stronger on your hero
 -- Damage blocked calculated post armor reduction
 
 ### TECHIES:
@@ -1338,6 +1383,7 @@ The following recipes have been updated with the removal of Bracer, Wraith Band 
 
 ### TERRORBLADE:
 
+-   Metamorphosis movement speed loss increased from 25 to 30
 -   Sunder can no longer pierce Spell Immunity
 -   Level 20 Talent reduced from -10s Reflection Cooldown to -8
 
@@ -1405,13 +1451,15 @@ The following recipes have been updated with the removal of Bracer, Wraith Band 
 ### UNDYING: ABILITY REWORK
 
 -   Base movement speed reduced from 305 to 295
--   Reworked Flesh Golem. No longer amplifies damage. Slow is now a constant 24/32/40% in 375 AoE. Does not scale with distance. Enemy units in 400 AoE lose 7% of their Current HP per second as Magic Damage. You gain +400/1000/1600 health when in this mode. Cooldown: 110
+-   Reworked Flesh Golem. No longer amplifies damage. Slow is now a constant 24/32/40% in 375 AoE. Does not scale with distance. Enemy units in 400 AoE lose 7% of their Current HP per second as Magic Damage. You gain +400/1000/1600 health when in this mode. Cooldown: 125
+-   Level 10 Talent reduced from +10 Health Regen to +8
 - Level 20 Talent reduced from +6 Tombstone Attacks To Destroy to +5
 - Level 25 Talent increased from Gains Reincarnation 200 CD to 250 CD
 -   Flesh Golem model size increased a bit
 
 ### URSA:
 
+-  Base movement speed increased from 305 to 315
 - Fury Swipes damage reduced from 12/18/24/30 to 10/16/22/28
 -   Fixed Overpower not consuming attack count when an attack is evaded
 - Level 15 Talent reduced from +16 Agility to +14
@@ -1427,6 +1475,7 @@ The following recipes have been updated with the removal of Bracer, Wraith Band 
 ### VENOMANCER:
 
 - Base agility increased by 4
+-   Poison Nova damage increased from 30/55/80 to 40/65/90	
 - Poison Sting slow from 11/12/13/14% to 11/13/15/17%
 -   Plague Wards collision size increased
 -   Level 15 Talent changed from +200 Cast Range to Gale Hero Impact Summons 2 Wards
