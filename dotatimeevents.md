@@ -33,7 +33,6 @@ Long Cooldown Ultimates and Abilities. Only listed here if two of the Levels of 
 |--|--|
 |Minefield Sign|360|
 |Black Hole|200/180/160|
-|Reincarnation|200/120/40|
 |Chaotic Offering|170|
 |Sanity's Eclipse|160|
 |Haunt|180/150/120|
@@ -53,6 +52,7 @@ Long Cooldown Ultimates and Abilities. Only listed here if two of the Levels of 
 |Reverse Polarity|130|
 |Summon Familiar's|130|
 |Flesh Golem|125|
+|Reincarnation|200/120/40|
 |Song of the Siren|160/120/80|
 |Moonlight Shadow|140/120/100 ^Tal^|
 |Poison Nova|140/120/100 ^Agh^|
