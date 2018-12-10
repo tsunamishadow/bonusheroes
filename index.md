@@ -15,11 +15,15 @@ Statstics about Pro Circuit tournaments.
 
 ## [Bonus Heroes Rotation](/bonusheroes/bonusheroes)
 
-List of Bonus Heroes for today and tomorrow, also includes links to guides for some of the heroes. **Currently under reconstruction**
+**NOW COMEPLETELY DEFUNCT**  
+
+List of Bonus Heroes for today and tomorrow, also includes links to guides for some of the heroes.  
 
 ## [Dota Time Events](/bonusheroes/dotatimeevents)
 
 A list of things that happen in a Dota game at certain times in the game. Also includes a list of long (a.k.a. punishable) cooldowns for hero spells.
+
+**Updated for 7.20e**
 
 ## [Flowcharts](/bonusheroes/flowcharts)
 
@@ -29,9 +33,11 @@ A list of things that happen in a Dota game at certain times in the game. Also i
 
 Explains certain Dota settings options.
 
-## [General recent patch notes combined](/bonusheroes/generalpatchnotes)
+## [Combined patchnotes](/bonusheroes/generalpatchnotes)
 
-Combines patch notes for non-heroes for recent patches (just in case you missed something important!)
+Combines patch notes for for recent patches (just in case you missed something important!)
+
+**Updated for 7.20e**
 
 ## [The International Archive of Trivia](/bonusheroes/tiarchives)
 
@@ -41,9 +47,11 @@ Random Trivia about various internationals
 
 A list of nicknames and older names for some heroes, useful for new players to not get confused by older and legacy players.
 
-## [Attributes table for heroes](https://cdn.discordapp.com/attachments/296148162975105049/512619660458459146/unknown.png)
+## [Attributes table for heroes](https://cdn.discordapp.com/attachments/296148162975105049/521750715249459230/unknown.png)
 
-A table of attributes and raw stats for heroes. For the same table in spreadsheet click [here](https://docs.google.com/spreadsheets/d/1cqUfqvJikTxICHoEZzLgl5YL3awFAjb83c8WevpCuGI/edit?usp=sharing).
+A table of attributes and raw stats for heroes. For the same table in spreadsheet click [here](https://docs.google.com/spreadsheets/d/1gpnHugbxFuWagHHQMSqkzBffS1C-BF9GhTUaQGasxG4/edit#gid=1772651398).
+
+**Updated for 7.20e**
 
 ## [Birmingham Major Guide](/bonusheroes/Birmingham)
 
