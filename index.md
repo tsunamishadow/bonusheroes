@@ -3,7 +3,9 @@
 
 ## [Dota Pub Hero Tier List](/bonusheroes/dotatierlist)
 
-A hero tier list sorting heroes that are currently strong and weak in the pub meta. Last updated 20th November 2018.
+A hero tier list sorting heroes that are currently strong and weak in the pub meta. Last updated 10th December 2018.
+
+**Updated for 7.20e**
 
 ## [Dota Competitive Hero Tier List](/bonusheroes/comptierlist)
 
