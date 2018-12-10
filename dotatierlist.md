@@ -7,7 +7,7 @@ Death Prophet has been omitted from this list due to lack of pickrate.
 
 ## Favored Among Pros
 
-This is a seperate list of heroes heavily favored by professional tier players in pub games. Most favored near the top. **This list is based on starting performances in 7.20 only.**
+This is a seperate list of heroes heavily favored by professional tier players in pub games. Most favored near the top.
 
 Magnus  
 Faceless Void  
