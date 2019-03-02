@@ -125,3 +125,19 @@
 | 45 | 1000 |
 | 61 | 1000 |
 | 66 | 1000 |
+
+# Damage Falloff Ranges
+
+| Weapon | Falloff Range | Penalty | Falloff Range | Penalty | Falloff Range | Penalty | Max Range |
+|---------------------|---------------|---------|---------------|---------|---------------|---------|-----------|
+| Assault Rifle | 50m | 20% | 100m | 32.5% |  |  | 275m |
+| Heavy Assault | 50m | 20% | 100m | 32.5% |  |  | 275m |
+| Supressed Rifle | 50m | 20% | 100m | 32.5% |  |  | 275m |
+| Pump Shotgun | 7m | 40% | 13m | 65.0% | 18m | 90.0% | 31m |
+| Tactical Shotgun | 8m | 30% | 18m | 80.0% | 31m | 82.5% | 41m |
+| Dual Pistols | 28m | 15% | 48m | 25.0% | 70m | 35.0% | 275m |
+| Hand Cannon | 35m | 30% | 60m | 33.3% |  |  | 275m |
+| Pistol (+Supressed) | 28m | 15% | 48m | 25.0% | 70m | 35.0% | 275m |
+| SMGs | 20m | 30% | 30m | 60.0% |  |  | 275m |
+
+Weapons with scopes and Hunting Rifles have no damage falloff. The 
