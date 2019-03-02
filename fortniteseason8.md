@@ -140,4 +140,4 @@
 | Pistol (+Supressed) | 28m | 15% | 48m | 25.0% | 70m | 35.0% | 275m |
 | SMGs | 20m | 30% | 30m | 60.0% |  |  | 275m |
 
-Weapons with scopes and Hunting Rifles have no damage falloff. The 
+Weapons with scopes and Hunting Rifles have no damage falloff. The table shows how much damage a weapon does AFTER that range as a penalty to it's damage. Penalities are somewhat linear. The Max Range is the maximum range a weapon can hit a target.
