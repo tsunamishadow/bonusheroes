@@ -1,5 +1,24 @@
 # Dota Pro Circuit Stats
 
+## Starladder ImbaTV Minor
+
+### Tier List
+
+### Team Performance
+
+![Team5](https://cdn.discordapp.com/attachments/296148162975105049/557959221077868544/unknown.png)
+
+### Regional Strength
+
+| Region | Winrate |
+|-----------------|---------|
+| North America | 0.5000 |
+| South America | 0.2857 |
+| Europe | 0.5000 |
+| Commonwealth IS | 0.5217 |
+| South East Asia | 0.2000 |
+| China | 0.6667 |
+
 ## The Chongqing Major
 
 ### Tier List
@@ -91,7 +110,20 @@ All teams started with 1200, except compLexity who started with 1192.
 
 ## Explanation
 
-Team Performance shows game win and loss record in total and against other teams. The rating is an overall performance based on Elo but is only based on this specific tournament. Most teams for this calculation start at 1200, so better than 1200 is better than average, lower than 1200 is worse than average.
+The Tier List is a Hero Tier List for that tournament finals only.
+Hero: Name of Hero  
+P+B: Number of times the Hero was Picked and Banned  
+Pick: Number of times the Hero was Picked  
+Ban: Number of times the Hero was Banned  
+Win: Number of wins when the Hero was Picked  
+Lose: Number of losses when the Hero was Picked  
+Win%: Winrate of the hero when it was Picked  
+Contest%: The rate that hero was contested (Picked or Banned) among all played matches, the most important stat to look at.  
+Decency: A rating calculated by confidence intervals. Essentially the answer to the question “What would be the lowest expected winrate of a hero if it was played infinitely?”. Higher is better, favors heroes that are played more and then higher winrate.  
+D*(2P+B): A competitive score based on Decency and Contest. (Higher is better, this is a comparitive score rather than an absolute one).  
+Any number bolded, means that it is among the Top 10 in that category.
+
+Team Performance shows game win and loss record in total and against other teams. The rating is an overall performance based on Glicko but is only based on this specific tournament. Most teams for this calculation start at 1200, so better than 1200 is better than average, lower than 1200 is worse than average.
 
 Regional Strength is the winrates of teams from each region but excludes any matches between teams of the same region. For example, North Amerca's winrates can be scored based on the average winrate of Evil Geniuses and compLexity Gaming, but will exclude any match between EG and coL specifically.
 
