@@ -6,6 +6,10 @@
 
 ### Team Performance
 
+![Team4](https://cdn.discordapp.com/attachments/296148162975105049/557952608673726511/unknown.png)
+
+Evil Geniuses, Team Liquid, Team Secret and Virtus.Pro started with 1206. PSG.LGD started with 1203. Forward Gaming started with 1197. Chaos Esports Club, Team Aster, The Pango and Thunder Predator started with 1194. All other teams started with 1200.
+
 ### Regional Strength
 
 | Region          | Winrate |
