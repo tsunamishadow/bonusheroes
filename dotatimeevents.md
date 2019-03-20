@@ -49,6 +49,7 @@ Long Cooldown Ultimates and Abilities. Only listed here if two of the Levels of 
 |Chronosphere|140/130/120 ^Agh^|
 |Primal Split|140/130/120|
 |Global Silence|130|
+|Omnislash|130|
 |Reverse Polarity|130|
 |Summon Familiar's|130|
 |Flesh Golem|125|
@@ -56,7 +57,6 @@ Long Cooldown Ultimates and Abilities. Only listed here if two of the Levels of 
 |Song of the Siren|160/120/80|
 |Moonlight Shadow|140/120/100 ^Tal^|
 |Poison Nova|140/120/100 ^Agh^|
-|Omnislash|130/120/110|
 |Dark Rift|130/120/110|
 |Summon Spirit Bear|120|
 |Mass Serpent Ward|120|
@@ -64,7 +64,6 @@ Long Cooldown Ultimates and Abilities. Only listed here if two of the Levels of 
 |Will-o-Wisp|120|
 |Elder Dragon Form|115|
 |Combo Breaker (Aeon Disk)|115|
-|Relocate|130/110/90 ^Tal^|
 |Wukong's Command|130/110/90|
 |Epicenter|120/110/100|
 |Fiend's Grip|120/110/100|
@@ -78,6 +77,7 @@ Long Cooldown Ultimates and Abilities. Only listed here if two of the Levels of 
 |Stampede|110/100/90|
 |Precision Aura|100|
 |Earth Splitter|100|
+|God's Strength|100|
 |Wall of Replica|100|
 |Magnetize|100/90/80|
 |Battle Trance|90|
@@ -93,10 +93,10 @@ Long Cooldown Ultimates and Abilities. Only listed here if two of the Levels of 
 |Primal Roar|90/80/70 ^Agh^|
 |Static Storm|90/80/70|
 |Death Ward|80|
-|God's Strength|80|
 |Winter's Curse|80|
 |Infest|100/75/50|
 |Soul Bind|100/75/50|
+|Relocate|90/75/60 ^Tal^|
 |Eye of the Storm|80/70/60|
 |Shadow Dance|80/70/60|
 |Mana Void|70|
