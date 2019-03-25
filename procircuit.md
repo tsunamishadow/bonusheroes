@@ -1,5 +1,26 @@
 # Dota Pro Circuit Stats
 
+## DreamLeague Season 11 Major
+
+### Tier List
+
+### Team Performance
+
+![T6](https://cdn.discordapp.com/attachments/296148162975105049/559503589400379403/unknown.png)
+
+Evil Geniuses, PSG.LGD, Team Secret, Virtus.pro started with 1209. EHOME, Fnatic, Team Liquid, Vici Gaming started with 1203. Chaos Esports Club, J.Storm, Mineski, Ninjas in Pyjamas started with 1197. Forward Gaming, Infamous, Keen Gaming, Natus Vincere started with 1191.
+
+### Regional Strength
+
+| Region | Winrate |
+|-----------------|---------|
+| North America | 0.4286 |
+| South America | 0.2941 |
+| Europe | 0.5333 |
+| Commonwealth IS | 0.5152 |
+| South East Asia | 0.5161 |
+| China | 0.5714 |
+
 ## Starladder ImbaTV Minor
 
 ### Tier List
