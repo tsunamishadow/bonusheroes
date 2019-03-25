@@ -67,7 +67,9 @@ A now defunct guide to help with the Compendium Predictions.
 
 ## [Jungle camp stack timing](https://cdn.discordapp.com/attachments/296148162975105049/559812622589886464/7.21d.png)
 
-A map of the Dota field showing 
+A map of the Dota field showing when camps can be stacked (usually at the latest time) and when they can be pulled into the lane.
+
+**Updated for 7.21d**
 
 # Other Games
 
