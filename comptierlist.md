@@ -1,29 +1,11 @@
 # Dota Competitive Hero Tier List
 
-## DreamLeague Season 10
+## DreamLeague Season 11
 
-![listDreamLeague](https://cdn.discordapp.com/attachments/296148162975105049/509008191338840064/unknown.png)
+![listDreamLeague](https://cdn.discordapp.com/attachments/296148162975105049/559760967546699786/unknown.png)
 
-Grimstroke is not availible in Captain's Mode.  
-Abaddon, Ancient Apparition, Anti-Mage, Bounty Hunter, Bristleback, Death Prophet, Doom, Enchantress, Jakiro, Keeper of the Light, Lion, Lone Druid, Medusa, Naga Siren, Night Stalker, Omniknight, Oracle, Pudge, Razor, Riki, Shadow Fiend, Shadow Shaman, Slardar, Spirit Breaker, Sven, Techies, Tidehunter, Timbersaw, Troll Warlord, Venomancer, Viper, Warlock, Witch Doctor were unpicked.  
-
-## ESL One Hamburg 2018
-
-![listESL](https://cdn.discordapp.com/attachments/296148162975105049/506418231880187904/unknown.png)
-
-Grimstroke is not availible in Captain's Mode.  
-Abaddon, Bristleback, Death Prophets, Disruptor, Enchantress, Lycan, Night Stalker, Omniknight, Outworld Devourer, Razor, Riki, Sand King, Shadow Fiend, Slardar, Spirit Breaker, Tidehunter, Viper, Warlock, Witch Doctor were unpicked.  
-Ancient Apparition, Beastmaster, Bristleback, Chaos Knight, Dark Seer, Death Prophet, Disruptor, Doom, Enchantress, Jakiro, Juggernaut, Lich, Lifestealer, Lion, Lone Druid, Lycan, Naga Siren, Night Stalker, Omniknight, Oracle, Outworld Devourer, Puck, Pudge, Queen of Pain, Razor, Riki, Sand King, Shadow Demon, Shadow Fiend, Shadow Shaman, Slardar, Slark, Sniper, Spirit Breaker, Sven, Tidehunter, Tusk, Underlord, Viper, Warlock, Witch Doctor, Wraith King.  
-
-## Kuala Lumpur Major Qualifiers
-
-Important Note: This list still includes 'useless' games later in some tournaments so data may be a little bit skewed near the bottom of the list.
-
-![list2](https://cdn.discordapp.com/attachments/296148162975105049/493024826139738123/unknown.png)
-
-If you can't make head or tail of this list I made a simplified here: [Simplified List](/bonusheroes/simpletierlist)  
-Skywrath Mage was never contested.  
-Grimstroke is not availible in Captain's Mode.  
+Io and Mars were not availible in Captain's Mode.  
+Axe, Bristleback, Drow Ranger, Ogre Magi, Pudge, Riki, Sand King, Silencer, Skywrath Mage, Sniper, Techies, Tinker, Treant Protector, Visage, Windranger, Wraith King and Zeus were Ignored.
 
 Hero: Name of Hero  
 P+B: Number of times the Hero was Picked and Banned  
