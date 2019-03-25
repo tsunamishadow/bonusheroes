@@ -43,13 +43,13 @@ Long Cooldown Ultimates and Abilities. Only listed here if two of the Levels of 
 |Phantasm|145|
 |Hand of God|160/140/120|
 |Eclipse|140|
+|Omnislash|140|
 |Sonic Wave|135 ^Tal^ ^Agh^|
 |Echo Slam|150/130/110|
 |Dark Ascension|140/130/120|
 |Chronosphere|140/130/120 ^Agh^|
 |Primal Split|140/130/120|
 |Global Silence|130|
-|Omnislash|130|
 |Reverse Polarity|130|
 |Summon Familiar's|130|
 |Flesh Golem|125|
@@ -86,6 +86,7 @@ Long Cooldown Ultimates and Abilities. Only listed here if two of the Levels of 
 |Thundergod's Wrath|90|
 |Overgrowth|100/85/70 ^Tal^|
 |Sunder|120/80/40 ^Tal^|
+|False Promise|115/80/45|
 |Nether Strike|100/80/60 ^Agh^|
 |Flaming Lasso|100/80/60|
 |Chain Frost|100/80/60|
@@ -102,7 +103,6 @@ Long Cooldown Ultimates and Abilities. Only listed here if two of the Levels of 
 |Mana Void|70|
 |Focus Fire|70 ^Agh^|
 |Rolling Thunder|70 ^Tal^|
-|False Promise|100/65/30|
 |Soulbind|80/65/50|
 |Culling Blade|75/65/55|
 |Dream Coil|70/65/60|
