@@ -1,7 +1,9 @@
 # Dota Pub Hero Tier List
 This tier list is based on pub stats taken from Dotabuff, Opendota and Stratz. Most of this tier list is weighted toward Divine and Immortal with Crusader and lower winrates ignored.  
 This list is very slightly influenced by competitive performances but is not useful for determining which heroes are strong for TI-level Dota.  
-Updated 20th February 2019, based on the last month of performances.
+Updated 25th March 2019, based on the last month of performances.
+
+Now includes nerfed/buffed tags for 7.21d.
 
 ## Favored Among Pros
 
