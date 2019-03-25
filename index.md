@@ -27,11 +27,7 @@ List of Bonus Heroes for today and tomorrow, also includes links to guides for s
 
 A list of things that happen in a Dota game at certain times in the game. Also includes a list of long (a.k.a. punishable) cooldowns for hero spells.
 
-**Updated for 7.20e**
-
-## [Flowcharts](/bonusheroes/flowcharts)
-
-<br>
+**Updated for 7.21d**
 
 ## [Settings explanation](/bonusheroes/dotasettings)
 
