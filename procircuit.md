@@ -4,6 +4,8 @@
 
 ### Tier List
 
+![list](https://cdn.discordapp.com/attachments/296148162975105049/559760967546699786/unknown.png)
+
 ### Team Performance
 
 ![T6](https://cdn.discordapp.com/attachments/296148162975105049/559503589400379403/unknown.png)
