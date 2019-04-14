@@ -77,3 +77,16 @@ The game speed of Tetris increases when there are:
  - You have 75% UP
  - You have 100% UP
  - If, in the past three minutes, one of the remaining player milestones hadn't been reached
+ 
+ ## Maximumus Cup Scoring
+ 
+ |Place|Points|
+ |--|--|
+ |1|100|
+ |2|50|
+ |3|30|
+ |4-10|20|
+ |11-30|10|
+ |31-50|5|
+ |51-80|2|
+ |81-99|0|
