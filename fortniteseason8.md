@@ -1,4 +1,6 @@
-# Season Experience Points
+# Fortnite Season 8 Reference Guide
+
+## Season Experience Points
 
 | Level | XP to Next | Cumulative XP | BP Stars | Cumulative stars |
 |-------|------------|---------------|----------|------------------|
@@ -126,7 +128,7 @@
 | 61 | 1000 |
 | 66 | 1000 |
 
-# Damage Falloff Ranges
+## Damage Falloff Ranges
 
 | Weapon | Falloff Range | Penalty | Falloff Range | Penalty | Falloff Range | Penalty | Max Range |
 |---------------------|---------------|---------|---------------|---------|---------------|---------|-----------|
@@ -141,3 +143,39 @@
 | SMGs | 20m | 30% | 30m | 60.0% |  |  | 275m |
 
 Weapons with scopes and Hunting Rifles have no damage falloff. The table shows how much damage a weapon does AFTER that range as a penalty to it's damage. Penalities are somewhat linear. The Max Range is the maximum range a weapon can hit a target.
+
+## Arena Queue Scoring
+
+### Division Prerequisite
+
+| Hype Needed | Division |
+|-------------|----------|
+| 0 | 1 |
+| 25 | 2 |
+| 75 | 3 |
+| 125 | 4 |
+| 175 | 5 |
+| 225 | 6 |
+| 300 | 7 |
+
+### Hype Scoring
+
+| Solo Prerequisite | Duo Prerequisite | Squad Prerequisite | Hype Scored |
+|-------------------|------------------|--------------------|---------------|
+| Victory | Victory | Victory | 3 |
+| Top 5 | Top 3 | Top 2 | 2 |
+| Top 15 | Top 7 | Top 4 | 2 |
+| Top 25 | Top 12 | Top 6 | 3 |
+| Elimination | Elimination | Elimination | 1 |
+
+* Squads have not currently been implemented in Arena
+
+### Bus Fare
+
+| Division | Bus Fare Solo | Bus Fare Duo |
+|----------|---------------|--------------|
+| 1-3 | 0 | 0 |
+| 4 | 1 | 1 |
+| 5 | 1 | 2 |
+| 6 | 2 | 3 |
+| 7 | 3 | 4 |
