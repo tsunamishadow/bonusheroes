@@ -6,6 +6,12 @@
 
 ![list](https://cdn.discordapp.com/attachments/296148162975105049/575141644261785610/unknown.png)
 
+### Team Performance
+
+![T7](https://cdn.discordapp.com/attachments/296148162975105049/575153005502922803/unknown.png)
+
+All teams started at 1200.
+
 ## DreamLeague Season 11 Major
 
 ### Tier List
