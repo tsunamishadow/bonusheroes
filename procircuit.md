@@ -1,5 +1,11 @@
 # Dota Pro Circuit Stats
 
+## OGA Dota PIT Minor
+
+### Tier List
+
+![list](https://cdn.discordapp.com/attachments/296148162975105049/575141644261785610/unknown.png)
+
 ## DreamLeague Season 11 Major
 
 ### Tier List
@@ -144,6 +150,8 @@ Win%: Winrate of the hero when it was Picked
 Contest%: The rate that hero was contested (Picked or Banned) among all played matches, the most important stat to look at.  
 Decency: A rating calculated by confidence intervals. Essentially the answer to the question “What would be the lowest expected winrate of a hero if it was played infinitely?”. Higher is better, favors heroes that are played more and then higher winrate.  
 D*(2P+B): A competitive score based on Decency and Contest. (Higher is better, this is a comparitive score rather than an absolute one).  
+Adjusted: (Still tinkering with the formula), the expected lowest winrate of a hero if that hero were to play every game in the tournament.  
+
 Any number bolded, means that it is among the Top 10 in that category.
 
 Team Performance shows game win and loss record in total and against other teams. The rating is an overall performance based on Glicko but is only based on this specific tournament. Most teams for this calculation start at 1200, so better than 1200 is better than average, lower than 1200 is worse than average.
