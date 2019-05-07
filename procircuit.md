@@ -12,6 +12,17 @@
 
 All teams started at 1200.
 
+### Regional Strength
+
+| Region | Winrate |
+|-----------------|---------|
+| North America | 0.3571 |
+| South America | 0.5000 |
+| Europe | 0.6364 |
+| Commonwealth IS | 0.2500 |
+| South East Asia | 0.5000 |
+| China | 0.5161 |
+
 ## DreamLeague Season 11 Major
 
 ### Tier List
