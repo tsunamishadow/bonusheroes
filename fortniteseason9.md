@@ -143,7 +143,7 @@ All Challenges Award 500 XP and 5 Battle Stars. There are a possible 390 Stars p
 | 99 | 54800 | 1158950 | 2 | 300 |
 | 100 | Max | 1213750 | 10 | 310 |
 
-| Battle Pass Level | Self Boost | Friend |
+| Battle Pass Tier | Self Boost | Friend |
 |-------------------|------------|-------|
 | 1 | 50% | 60% |
 | 2 | 60% |  |
@@ -159,6 +159,8 @@ All Challenges Award 500 XP and 5 Battle Stars. There are a possible 390 Stars p
 | 81 | 110% |  |
 | 88 |  | 120% |
 | 96 | 120% |  |
+
+You also start with an extra 30% XP boost if you got to Tier 2 in the Season 8 Paid Battle Pass.
 
 ### Battle Pass Fortbytes
 
