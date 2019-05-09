@@ -1,9 +1,47 @@
 # Fortnite Season 9 Reference Guide
 
+## Dates
+
+* Release: Thursday May 9th 2019
+* Season 9 Ends: Tuesday July 23rd 2019
+* Week 2: Thursday May 16th
+* Week 3: Thursday May 23rd
+* Week 4: Thursday May 30th
+* Week 5: Thursday June 6th
+* Week 6: Thursday June 13th
+* Week 7: Thursday June 20th
+* Week 8: Thursday June 27th
+* Week 9: Thursday July 4th
+* Week 10: Thursday July 11th
+
+## Possible Daily Challenges
+
+All Challenges Award 500 XP and 5 Battle Stars. There are a possible 390 Stars possible to earn from dailies this season.
+
+| Preqrequisite | Number | Notes |
+|---------------------------------|-------:|:-----------------------------------------------------------------------------------:|
+| Pistol Eliminations | 2 | Pistol, Supressed Pistol, Hand Cannon, Revolver, Flintlock Pistol |
+| SMG Eliminations | 2 | Drum Gun, Supressed SMG, Compact SMG |
+| Shotgun Eliminations | 4 | Combat Shotgun, Tactical Shotgun |
+| Assault Rifle Eliminations | 5 | Assault Rifle, Infantry Rifle, Heavy Assault Rifle |
+| Sniper Rifle Eliminations | 1 | Heavy Sniper Rifle, Supressed Sniper Rifle, Hunting Rifle |
+| Eliminate Opponents | 10 | Finishing an opponent will still count for this and the above |
+| Place Top 25 in Solo | 1 |  |
+| Place Top 50 in Solo | 3 |  |
+| Place Top 6 in Squads | 1 |  |
+| Place Top 12 in Sqauds | 3 |  |
+| Search Ammo Boxes | 7 |  |
+| Search Chests | 7 |  |
+| Play Matches | 7 | A match must be played to full, either a win or until you are completely eliminated |
+| Play a match with a friend | 1 | A match must be played to full, either a win or until you are completely eliminated |
+| Outlast opponents in solo mode | 150 | One point is scored for each player you outlive, match must be played fully. |
+| Outlast opponents in squad mode | 150 | One point is scored for each player you outlive, match must be played fully. |
+| Outlast Opponents | 300 | Can be done in LTM albeit slowly |
+
 ## Season Experience Points
 
 | Level | XP to Next | Cumulative XP | BP Stars | Cumulative stars |
-|-------|------------|---------------|----------|------------------|
+|------:|-----------:|--------------:|---------:|-----------------:|
 | 1 | 100 |  | 2 | 2 |
 | 2 | 200 | 100 | 2 | 4 |
 | 3 | 300 | 300 | 2 | 6 |
