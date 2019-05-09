@@ -1,4 +1,4 @@
-# Fortnite Season 9 Reference Guide
+# Fortnite: Battle Royale Season 9 Reference Guide
 
 ## Dates
 
