@@ -28,8 +28,8 @@ All Challenges Award 500 XP and 5 Battle Stars. There are a possible 390 Stars p
 | Eliminate Opponents | 10 | Finishing an opponent will still count for this and the above |
 | Place Top 25 in Solo | 1 |  |
 | Place Top 50 in Solo | 3 |  |
-| Place Top 6 in Squads | 1 |  |
-| Place Top 12 in Sqauds | 3 |  |
+| Place Top 6 in Squads | 1 | Cannot be done in Large Team Modes |
+| Place Top 12 in Sqauds | 3 | Cannot be done in Large Team Modes |
 | Search Ammo Boxes | 7 |  |
 | Search Chests | 7 |  |
 | Play Matches | 7 | A match must be played to full, either a win or until you are completely eliminated |
