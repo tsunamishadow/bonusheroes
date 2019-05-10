@@ -23,7 +23,7 @@ All Challenges Award 500 XP and 5 Battle Stars. There are a possible 390 Stars p
 | Pistol Eliminations | 2 | Pistol, Supressed Pistol, Hand Cannon, Revolver, Flintlock Pistol |
 | SMG Eliminations | 2 | Drum Gun, Supressed SMG, Compact SMG |
 | Shotgun Eliminations | 4 | Combat Shotgun, Tactical Shotgun |
-| Assault Rifle Eliminations | 5 | Assault Rifle, Infantry Rifle, Heavy Assault Rifle |
+| Assault Rifle Eliminations | 5 | Assault Rifle, Infantry Rifle, Heavy Assault Rifle, Scoped Assault Rifle |
 | Sniper Rifle Eliminations | 1 | Heavy Sniper Rifle, Supressed Sniper Rifle, Hunting Rifle |
 | Eliminate Opponents | 10 | Finishing an opponent will still count for this and the above |
 | Place Top 25 in Solo | 1 |  |
@@ -187,6 +187,30 @@ You must purchase the Gold Tier Battlepass to start collecting Fortbytes
 | 96 | Battle Pass Tier 80 |  |
 | 99 | Gain 125,000 XP |  |
 
+## Weekly Challenges
+
+All Challenges marked with (BP) require the Gold Paid Battle Pass to start getting progress.
+
+### Week 1
+
+| Challenge | Number | Reward |
+|----------------------------------------------------------------------|-------:|----------|
+| Complete Any 4 Challenges | 4 | 5000 XP |
+| (Stage 1) Ride the Slip Stream Around Neo Tilted | 1 | 2 Stars |
+| (Stage 2) Ride the Slip Stream Around Mega Mall | 1 | 3 Stars |
+| Visit all Sky Platforms | 7 | 5 Stars |
+| Deal damage to an opponent within 10s after using a Shadow Bomb | 200 | 10 Stars |
+| (BP) Pickup a Legendary Item in different matches | 5 | 5 Stars |
+| (BP) Search chests at Lucky Landing or Loot Lake | 7 | 5 Stars |
+| (BP) Scoped Weapon Eliminations | 3 | 10 Stars |
+| (BP, Stage 1) Deal damage to opponents from at least 2 stories above | 300 | 3 Stars |
+| (BP, Stage 2) Deal damage to opponents from at least 4 stories above | 200 | 3 Stars |
+| (BP, Stage 3) Deal damage to opponents from at least 6 stories above | 100 | 4 Stars |
+
+* The Slip Stream are the large circles with wind blowing.
+* The Sky Platformas are located close to the former Pirate camps.   
+-- B-C4, C7, F3, F6, F7-8, H4, H-I7
+
 ## Damage Falloff Ranges
 
 | Weapon | Falloff Range | Penalty | Falloff Range | Penalty | Falloff Range | Penalty | Max Range |
@@ -194,13 +218,14 @@ You must purchase the Gold Tier Battlepass to start collecting Fortbytes
 | Assault Rifle | 50m | 20% | 100m | 32.5% |  |  | 275m |
 | Heavy Assault | 50m | 20% | 100m | 32.5% |  |  | 275m |
 | Tactical Shotgun | 8m | 30% | 18m | 80.0% | 31m | 82.5% | 41m |
+| Combat Shotgun | 12m | 50% | 36m | 65.0% | 58m | 80.0% | 100m |
 | Dual Pistols | 28m | 15% | 48m | 25.0% | 70m | 35.0% | 275m |
 | Hand Cannon | 35m | 30% | 60m | 33.3% |  |  | 275m |
 | Pistol (+Supressed) | 28m | 15% | 48m | 25.0% | 70m | 35.0% | 275m |
 | SMGs | 20m | 30% | 30m | 60.0% |  |  | 275m |
 | Drum Gun | 35m | 30% | 50m | 45% | | | 275m |
 
-Weapons with scopes and Hunting Rifles have no damage falloff. The table shows how much damage a weapon does AFTER that range as a penalty to it's damage. Penalities are somewhat linear. The Max Range is the maximum range a weapon can hit a target.
+Weapons with scopes and Hunting Rifles have no damage falloff. The table shows how much damage a weapon does AFTER that range as a penalty to it's damage. Penalities are somewhat linear. The Max Range is the maximum range a weapon can hit a target. Numbers are approximate.
 
 ## Arena Queue Scoring
 
@@ -229,6 +254,8 @@ Divisions are not reset with the new season.
 | Elimination | Elimination | Elimination | 1 |
 
 * Squads have not currently been implemented in Arena
+* You score hype for all placings cumulative, so a Victory will always be 10 Hype.
+* 1 point for each elimination, the elimination has standard elimination credit to one player, and not shared.
 
 ### Bus Fare
 
