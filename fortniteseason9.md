@@ -172,6 +172,7 @@ You must purchase the Gold Tier Battlepass to start collecting Fortbytes
 | 10 | Gain 60,000 XP |  |
 | 13 | Found at a location hidden within Loading Screen #2 |  |
 | 25 | Battle Pass Tier 40 |  |
+| 24 | Found within Fatal Fields | |
 | 35 | Gain 225,000 XP |  |
 | 36 | Accessible by Sentinel on a frozen island |[HarryNinetyFour video](https://youtu.be/y_z5Xgu-9_A?t=6)|
 | 39 | Complete 6 challenges from Week 2 |  |
