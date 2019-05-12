@@ -178,6 +178,7 @@ You must purchase the Gold Tier Battlepass to start collecting Fortbytes
 | 39 | Complete 6 challenges from Week 2 |  |
 | 44 | Battle Pass Tier 20 |  |
 | 46 | Battle Pass Tier 100 |  |
+| 47 | Found between a Reboot Van, pirate camp, and a crashed battlebus | |
 | 57 | Finish 10th or higher in squads, duos or solo 25 times. |  |
 | 66 | Finish 10th or higher in squads, duos or solo 75 times. |  |
 | 71 | Complete 6 challenges from Week 1 |  |
@@ -185,6 +186,7 @@ You must purchase the Gold Tier Battlepass to start collecting Fortbytes
 | 85 | Gain 30,000 XP |  |
 | 87 | Finish 10th or higher in squads, duos or solo 50 times. |  |
 | 90 | Finish 10th or higher in squads, duos or solo 100 times. |  |
+| 92 | Accessible by using Rock Love Spray near a lavafall | |
 | 96 | Battle Pass Tier 80 |  |
 | 99 | Gain 125,000 XP |  |
 
