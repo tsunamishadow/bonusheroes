@@ -257,8 +257,7 @@ Divisions are not reset with the new season.
 | Elimination | Elimination | Elimination | 1 |
 
 * Squads have not currently been implemented in Arena
-* You score hype for all placings cumulative, so a Victory will always be 10 Hype.
-* 1 point for each elimination, the elimination has standard elimination credit to one player, and not shared.
+* You score hype for all placings cumulative, so a Victory will always be 10 hype.
 
 ### Bus Fare
 
