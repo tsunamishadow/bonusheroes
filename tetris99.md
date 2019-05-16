@@ -25,7 +25,7 @@
 |Combo 9|+4|
 |Combo 10|+4|
 |Combo >10|+5|
-|Perfect Clear|+3 (minumum 6)|
+|Perfect Clear|+4 (minumum 5)|
 
 |Counter-Attack Bonus|Additional Garbage|
 |--|--|
@@ -50,7 +50,7 @@
  - T-spin Double is two lines, ajnd T-spin Triple is 3 lines.
  - A back-to-back is when you make a 'difficult' line clear without making an 'easy' line clear in between, regardless of how many pieces dropped in between them. Easy line clears are Singles, Doubles and Triple. Any Tetris or T-spin clear will trigger back-to-back. Back-to-backs can be chained one after the other but no extra lines are awarded for doing so.
  - A Combo is when you clear at least one line with each successive piece drop. The Combo counter starts at -1; if you clear at least one line, the combo counter increases by 1; if you do not clear a line with your piece it resets to -1. The Additional Garbage reward is added to your line clear reward immediately.
-  - A Perfect Clear, or All-Clear is when you fully clear your board, like you have an empty board at the start of the game. It only adds +3 lines, but will always give a minimum of 6 lines.  
+  - A Perfect Clear, or All-Clear is when you fully clear your board, like you have an empty board at the start of the game. It only adds +5 lines, but will always give a minimum of 5 lines.  
   -- For example if a single line all clear happens, you send 6 lines. If a Tetris all clear happens, you send 7 lines.
  - Badge points are awarded for KOs. You get 1 Badge Point for each KO plus any Badge Points collected by the player you KO'd. The Badge Points are represented by chevrons in the bottom right corner of your play area.
  - % UP increases the amount of garbage you send rounded down. For example if you make a Tetros with 25% UP you will send 5 lines instead of 4. If you make a back-to back T-spin Triple with 100% UP and 3 attackers on you, you will send 20 Lines.
