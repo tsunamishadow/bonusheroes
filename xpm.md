@@ -4,7 +4,7 @@ Experience is a fundamental, yet considerably misunderstood resource in Dota 2. 
 
 ## What does Experience do?
 
-Experience is necessary for your hero in order for it to gain a Level. Each Level your hero gets increases its base attributes by a certain amount depending on the hero and sometimes allows you to spend skill points on your spells to learn them so you can use them in play, or to level them up, becoming more effective. Levels are necessary for your hero to become stronger in the game without buying items using gold.
+Experience is necessary for your hero in order for it to gain a Level. Each Level your hero gets increases its base attributes by a certain amount depending on the hero and sometimes allows you to spend skill points on your spells to learn them so you can use them in play, or to level them up, becoming more effective. Levels are necessary for your hero to become stronger in the game without buying items using gold. Only Hero units and Meepo's clones can gain experience, illusions and other clones cannot gain experience.
 
 Most heroes unlock the ability to 'buy' Talents, Spells and the Skill Points to actually 'buy' them according to this table:
 
@@ -41,3 +41,12 @@ Invoker gets a Skill Point at every level, has no Ultimate Spell to increase, an
 Meepo gets Skill Points like standard heroes, but his Ultimate Spell Level 1 is unlocked at Level 3 and Ultimate Spell Level 2 is unlocked at Level 10.  
 
 Increased levels of Basic Spells, Ultimate Spells and Talents cannot be purchased without first purchasing the levels below it. For instance you cannot purchase the Talent Level 2, without first purchaing one of the Talent Level 1 choices.
+
+## Acquiring Experience
+
+There are three sources of Experience in the game: Enemy Heroes, Lane Creeps, and Neutral Creeps (including Roshan). Enemy Heroes usually give the most experience in a single game, Lane Creeps give the second most, and Neutral Creeps the least. (In Professional games, core heroes gain most of their experience from Lane Creeps rather than Enemy Heroes; in Public games, the majority of experience is gained from Enemy Heroes).
+
+### Enemy Heroes
+
+When an enemy hero is killed, all allied hero units within 1500 range of that hero gain experience, plus the killer if that killer is not within the 1500 range.
+
