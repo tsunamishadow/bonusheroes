@@ -52,6 +52,8 @@ Team: Natus Vincere (Ukraine)
 
 Record: 9-1 (90.00%)
 
+Invited Team; Top of Group D; beat Moscow Five, Invictus Gaming, Scythe Gaming in Upper; beat EHOME 3-1 in Grand Final.
+
 Note: Significant Match Data missing. :(
 
 ### The International 2
@@ -66,6 +68,8 @@ Team: Invictus Gaming (China)
 
 Record: 24-7 (77.42%)
 
+Invited Team; Top of Group B; beat Team DK, lost to Na'Vi in Upper; beat EHOME, Team DK, LGD Gaming in Lower; beat Na'Vi 3-1 in Grand Final.
+
 ### The International 3
 
 Team: Alliance (Sweden)
@@ -77,6 +81,8 @@ Team: Alliance (Sweden)
 ![Akke](/images/miniheroes/crystal_maiden.png) ![Akke](/images/miniheroes/chen.png)Joakim "Akke" Akterhall  
 
 Record: 23-3 (88.46%)
+
+Invited Team; Top of Group B; beat LGD, Team DK, Na'Vi in Upper; beat Na'Vi 3-2 in Grand Final.
 
 ### The International 4
 
@@ -91,6 +97,8 @@ Team: Newbee (China)
 
 Record: 20-12 (62.50%)
 
+Invited Team; 9th in Group Stage; beat Titan, Na'Vi, IG in King-of-the-hill; beat VG, EG in Upper; beat VG 3-1 in Grand Final.
+
 ### The International 5
 
 Team: Evil Geniuses (United States of America)
@@ -104,6 +112,8 @@ Team: Evil Geniuses (United States of America)
 
 Record: 19-8 (70.37%)
 
+Invited Team; Top of Group B; beat coL, EHOME, lost to CDEC in Upper; beat LGD in Lower; beat CDEC 3-1 in Grand Final.
+
 ### The International 6
 
 Team: Wings Gaming (China)
@@ -115,6 +125,8 @@ Team: Wings Gaming (China)
 ![iceice](/images/miniheroes/elder_titan.png) ![iceice](/images/miniheroes/elder_titan.png)Li "iceice" Peng  
 
 Record: 17-8 (68.00%)
+
+China Qualifier Winner; 3rd in Group A; beat DC, MVP Phoenix, EG in Upper; beat DC 3-1 in Grand Final.
 
 ### The International 7
 
@@ -129,6 +141,8 @@ Team: Team Liquid (Netherlands)
 
 Record: 27-8 (77.14%)
 
+Invited Team; Top of Group A; lost to IG in Upper; beat Secret, Empire, VP, LGD, LFY in Lower; beat Newbee 3-0 in Grand Final.
+
 ### The International 8
 
 Team: OG (Denmark)
@@ -141,6 +155,8 @@ Team: OG (Denmark)
 ~Sub: Cristian "ppasarel" Banaseanu *\Belgium*
 
 Record: 18-11 (62.07%)
+
+Europe Open Qualifier 1 winner; Winner of Europe Qualifier; 4th in Group A; beat VGJ Storm, EG, LGD in Upper; beat LGD 3-2 in Grand Final.
 
 ## Other high performing players
 
@@ -161,6 +177,10 @@ Four Groups of 4. 16 team Double Elimination with skips.
 Groups: Round Robin, tiebreakers due to time ranking.  
 Playoffs: Lower Bracket Semi, LB Final, Upper Bracket Final Best of Three. Grand Finals Best of Five with game in hand to upper bracket winners. All other games Best of One.  
 
+Prize Pool:  
+$1,600,000 ( ~ $1,820,000 inflation adjusted)  
+$1,000,000 for winner ( ~ $1,140,000 inflation adjusted)  
+
 ### The International 2012
 
 14 Invites, 2 Qualifiers  
@@ -171,6 +191,10 @@ Played on patch 6.74
 2 Groups of 8. 16 team Double Elimination with skips.  
 Groups: 2 game Round Robin  
 Playoffs: Lower Bracket Rounds 1 to 4 Best of One. Grand Finals Best of Five. All other games Best of Three.
+
+Prize Pool:  
+$1,600,000 ( ~ $1,790,000 inflation adjusted)  
+$1,000,000 for winner ( ~ $1,120,000 inflation adjusted)  
 
 ### The International 2013
 
@@ -184,6 +208,10 @@ Wildcard: Best of 5 match
 Groups: 2 game Round Robin  
 Playoffs: Lower Bracket Rounds 1 to 3 Best of One. Grand Finals Best of Five. All other games Best of Three.
 
+Prize Pool (This was the first TI to be crowdfunded by an Interactive Compendium):  
+$2,874,380 ( ~ $3,160,000 inflation adjusted)  
+$1,437,190 for winner ( ~ $1,580,000 inflation adjusted)  
+
 ### The International 2014
 
 11 Invites, 4 Qualifiers, 1 Wildcard (4 teams)  
@@ -191,10 +219,14 @@ KeyArena, Seattle, Washington, United States of America
 Wildcard: 8th July 2014; Group: 9th-12th July 2014; Playoffs: 13th-21st July 2014  
 Played on patch 6.81b  
 
-1 Group of 16. 8 team ladder-climb. 8 team Double Elimination with skips.  
+1 Group of 16. 8 team king-of-the-hill. 8 team Double Elimination with skips.  
 Wildcard: Knockout, Best of Three matches  
-Groups: 2 game Round Robin  
-Playoffs: 8 team ladder-climb for seeding/elmination. Grand Finals Best of Five. All other games Best of Three.
+Groups: 1 game Round Robin  
+Playoffs: 8 team king-of-the-hill for seeding/elmination. Grand Finals Best of Five. All other games Best of Three.
+
+Prize Pool:  
+$10,923,977 ( ~ $11,800,000 inflation adjusted)  
+$5,025,029 for winner ( ~ $5,440,000 inflation adjusted)  
 
 ### The International 2015
 
@@ -208,6 +240,10 @@ Wildcard: Double Elimination, Best of Three Matches
 Groups: 2 game Round Robin, standard tiebreaker  
 Playoffs: Lower Bracket Rounds 1 Best of One. Grand Finals Best of Five. All other games Best of Three.
 
+Prize Pool:  
+$18,429,613 ( ~ $19,900,000 inflation adjusted)  
+$6,634,661 for winner ( ~ $7,170,000 inflation adjusted)  
+
 ### The International 2016
 
 6 Invites, 8 Qualifiers, 2 Wildcard (4 teams)  
@@ -220,6 +256,10 @@ Wildcard: Double Elimination, Best of Three Matches
 Groups: 2 game Round Robin, standard tiebreaker  
 Playoffs: Lower Bracket Rounds 1 Best of One. Grand Finals Best of Five. All other games Best of Three.
 
+Prize Pool (This was the first TI to be funded by a Battle Pass):  
+$20,770,460 ( ~ $22,200,000 inflation adjusted)  
+$9,139,002 for winner ( ~ $9,750,000 inflation adjusted)  
+
 ### The International 2017
 
 6 Invites, 12 Qualifiers  
@@ -230,6 +270,10 @@ Played on patch 7.06e
 2 Groups of 9. 16 team Double Elimination with skips.  
 Groups: 2 game Round Robin, standard tiebreaker  
 Playoffs: Lower Bracket Rounds 1 Best of One. Grand Finals Best of Five. All other games Best of Three.
+
+Prize Pool:  
+$24,787,916 ( ~ $25,900,000 inflation adjusted)  
+$10,862,683 for winner ( ~ $11,400,000 inflation adjusted)  
 
 ### The International 2018
 
@@ -242,7 +286,13 @@ Played on patch 7.19
 Groups: 2 game Round Robin, standard tiebreaker  
 Playoffs: Lower Bracket Rounds 1 Best of One. Grand Finals Best of Five. All other games Best of Three.
 
+Prize Pool:  
+$25,532,177 ( ~ $26,000,000 inflation adjusted)  
+$11,234,158 for winner ( ~ $11,500,000 inflation adjusted)  
+
 ### The International 2019
 
 12 Invites, 6 Qualifiers  
-Mercedes-Benz Arena, Pudong, Shanghai, China
+Mercedes-Benz Arena, Pudong, Shanghai, China  
+Group: 15th-18th August 2018; Playoffs: 20-25th August 2018  
+Played on patch 7.22e  
