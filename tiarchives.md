@@ -277,7 +277,7 @@ $10,862,683 for winner ( ~ $11,400,000 inflation adjusted)
 
 ### The International 2018
 
-8 Invites, 10 Qualifiers  
+8 Invites via DPC, 10 Qualifiers  
 Rogers Arena, Vancouver, British Columbia, Canada    
 Group: 15th-18th August 2018; Playoffs: 20-25th August 2018  
 Played on patch 7.19  
@@ -292,7 +292,7 @@ $11,234,158 for winner ( ~ $11,500,000 inflation adjusted)
 
 ### The International 2019
 
-12 Invites, 6 Qualifiers  
+12 Invites via DPC, 6 Qualifiers  
 Mercedes-Benz Arena, Pudong, Shanghai, China  
 Group: 15th-18th August 2018; Playoffs: 20-25th August 2018  
 Played on patch 7.22e  
