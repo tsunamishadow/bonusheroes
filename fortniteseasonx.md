@@ -247,8 +247,6 @@ At the start of Season X (10) every player has been reset to 0 hype
 | 10000 | 9 | Champion II |
 | 14000 | 10 | Champion III |
 
-Divisions are not reset with the new season.
-
 ### Hype Scoring
 
 *Duos have not currently been implemented*
