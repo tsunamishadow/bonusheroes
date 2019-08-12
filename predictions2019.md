@@ -9,7 +9,7 @@ Reiterating the exact same as last year: TI has become more and more unpredictab
 
 The biggest candidate seems to be **Grimstroke**, largely due to how often it has been picked and banned by all the teams in question over the last couple of months. What's interesting though is that Grimstroke has recieved a set of consecutive nerfs, putting his more recent performances into question at professional. His common pairings in Doom, Batrider and Juggernaut also look shaky. What's worse he's not valued nearly as much as other heroes. He seems to be the safe pick, but I don't think it's the correct one.
 
-A common pickup by all the teams and the top teams here, as well as professional players across the board is **Rubick**. It's not difficult to see why. Rubick is a common versatile support hero with a powerful ultimate in Spell Steal that got more powerful now that everybody has an Aghanim's Scepter upgrade. He's able to work in greed lineups, push lineups, and stall lineups, and Arcane Supremacy is still showing its weight in fights and skirmished. To top it off, Rubick last recieved a small buff and has not yet recieved a nerf despite his popularity.
+A common pickup by all the teams and the top teams here, as well as professional players across the board is **Rubick**. It's not difficult to see why. Rubick is a common versatile support hero with a powerful ultimate in Spell Steal that got more powerful now that everybody has an Aghanim's Scepter upgrade. He's able to work in greed lineups, push lineups, and stall lineups, and Arcane Supremacy is still showing its weight in fights and skirmishes. To top it off, Rubick last recieved a small buff and has not yet recieved a nerf despite his popularity.
 
 Other good picks here are:
  - Warlock
@@ -34,4 +34,15 @@ Other good picks here are:
  - Mars
  - Anything I mentioned in Most Picked Hero, but don't pick the same hero for both.
  
-### 
+### Hero With Highest Win Rate
+
+There are two schools of thought here: **Meepo** or a powerful hero that isn't popular. Meepo makes his mark here due to his considerable power right now, as well as a surprising amount of players at TI that can play him. Abed, w33, and MidOne all can demonstrate winning games when he's let through, and I'm certain a couple more midlaners have been practising him just in case. However knowing this, he's probably not expected to get through that much and banned often enough against those players he may not see enough play anyway.
+
+As for the other school of thought, there are a couple candidates to choose:
+
+ - Omniknight
+ - Beastmaster
+ - Bane
+ - Pangolier
+ - Dark Willow
+ - Visage
