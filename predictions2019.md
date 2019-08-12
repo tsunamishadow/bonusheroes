@@ -46,3 +46,4 @@ As for the other school of thought, there are a couple candidates to choose:
  - Pangolier
  - Dark Willow
  - Visage
+ - Vengeful Spirit
