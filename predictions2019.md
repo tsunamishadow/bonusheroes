@@ -23,7 +23,7 @@ Other good picks here are:
 
 Cultural collective wisdom seems to be to go with the hero that everybody seems to hate, lots seem to be scared of and what pro players seem to be annoyed by. The two biggest right now are **Sven** and **Chen**. Sven has a strong set of abilities that only get more threatening the longer the game goes, after all, if building Strength items gives both health and damage then shouldn't that be enough to be valuable? The changes to Warcry and God's Strength helped him as well. Chen is an outlier for amazing reasons. He's scary in the hands of a support and can straight win a laning stage, and that alone can secure games. His winrate is proof of that, being over 60% and is still incredible even with changes and nerfs recently-I know this first hand.
 
-Historically Io nears the top spot, and while he's expected to be banned a lot he's not expected to be picked that much. Changes to Tether and Talents have faulted the ball of lights early game power. He'll be a high ban, but he won't be the highest.
+Historically Io nears the top spot, and while he's expected to be banned a lot he's not expected to be picked that much. Changes to Tether and Talents have faulted the ball of lights early game power. He'll be a high ban, but he won't be the highest. And I'll eat my shoe if that turns out to be true.
 
 Other good picks here are:
 
@@ -47,3 +47,69 @@ As for the other school of thought, there are a couple candidates to choose:
  - Dark Willow
  - Visage
  - Vengeful Spirit
+ 
+### Hero with Highest Kill Average
+ 
+Highest Kill Average is the number of kills the hero made divided by the number of games the hero played. The common safe pick here is **Clinkz**, being a hero who loves to hunt down for kills after all. But there are two problems. One, Clinkz is becoming and more and more popular among most of these teams, and usually the hero that wins this category, like the last, isn't picked a lot. You don't want the hero you pick here to have a bad game to ruin the average, or worse several bad games. Problem number two lies in that the top teams at this TI don't care for Clinkz at all. They prefer:
+
+ - Leshrac
+ - Sven
+ - Ember Spirit
+ - Templar Assassin
+ - Death Prophet
+ - Slark
+ - Axe
+ - Windranger
+ 
+**Storm Spirit** and **Queen of Pain** are also good shouts if you don't expect them to be popular.
+
+### Hero with Highest Assist Average
+
+This, to many people's surprise is won by a support that usually loves to get into fights often and as early as possible, so usually roamers or moving supports. Once again, you want a hero that fits that role but isn't overly popular. Any of the following are good shouts:
+
+- Warlock
+- Rubick
+- Tusk
+- Omniknight
+- Shadow Shaman
+- Vengeful Spirit
+- Spirit Breaker
+
+I could see **Clockwerk** and **Earth Spirit** winning this too, but those heroes are a little unfavored right now to have that much of an impact, or play that much games.
+
+### Hero with lowest Death Average
+
+This is almost always a carry that enjoys being protected, rather than someone durable enough to survive. Common safe picks tend to say **Naga Siren**, **Medusa** or **Anti-Mage**.
+
+My money (though I'm not risking anything really) is on **Slark**. He's not that popular, his winrate is average, but his low death count (usually averaging 2) is surprisingly low amongst the rest of the field.
+
+If you don't want to choose from those, pick an unpopular carry hero that doesn't like being killed in order to win a game like these ones. *Don't pick a tanky hero like Centaur or Pudge, pros don't play those heroes to not die*. A hero with escapes also helps.
+
+### Hero with highest last hits Average
+
+- Tinker
+- Naga Siren
+- Anti-Mage
+- Medusa
+- Gyrocopter
+- Lone Druid
+
+It will almost certainly be one of these, the question which one do you think will be picked enough to pass the threshold, but not too much to lower the average?
+
+**Lone Druid** is the random guess I'll make.
+
+### Hero with the highest XPM Average
+
+**Meepo**.
+
+Unless you think that Meepo won't be picked enough to make the games or too much (like over 20) then it's almost certainly Meepo. The next closest heroes are **Anti-Mage** and then **Sven**. No other real candidates come close.
+
+It is almost always a core that wins stats like this, and never a core that has an XPM talent.
+
+### Hero with most Kills in a game
+
+There was an interesting strategy that some of my friends did last year. Rather than try and guess (and this one is honestly just luck of the draw) they went through their games for the previous couple of months and found their hero that they got their highest kill record in that time frame. A respectable number chose Tiny and got it correct!
+
+No amount of analysis is going to help, this is going to be won by a hero that pops-off in one game and that's it. The only thing I can assure is that it will be won by **a hero that is exclusively played as a core hero**. Don't go picking Crystal Maiden here. Other than that, choose what your heart desires.
+
+My gun to head guess? **Lina**
