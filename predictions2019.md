@@ -112,4 +112,46 @@ There was an interesting strategy that some of my friends did last year. Rather 
 
 No amount of analysis is going to help, this is going to be won by a hero that pops-off in one game and that's it. The only thing I can assure is that it will be won by **a hero that is exclusively played as a core hero**. Don't go picking Crystal Maiden here. Other than that, choose what your heart desires.
 
-My gun to head guess? **Lina**
+My gun to head guess? **Lina**. Though the hero I got my most kills with was Windranger and Chen tied (at 23). *Don't look at me like that! It's not my fault creeps do insane damage!!*
+
+### Hero with most last hits in a game
+
+- Arc Warden
+- Naga Siren
+- Meepo
+- Tinker
+- Anti-Mage
+
+This one is also luck of the draw. So pick one at random until your heart feels happy. This is almost always won by a midlaner or carry hero. Though weirdly the record I personally have this year for it is ... Axe. *Yeah that game did not go well.* 
+
+## Teams
+
+### Winner of The International 2019
+
+This time around I did an extensive profile of all the teams in the competition to give you much of an informed choice. Click the link above to go to it. For a shorter analysis the favorites are:
+
+- Team Secret
+- Vici Gaming
+- Virtus.pro
+- PSG.LGD
+- Team Liquid
+
+If it's not one of those five prepare to defend your reasoning. Remember the team that wins:
+
+- **ALWAYS start in the Upper Bracket**
+- Almost always do very well in the group stage (at least 3rd in the group)
+- Aren't always the most exciting team to watch throughout
+
+### Team with most Kills in a game
+
+As always with these categories, it's more luck of the draw than anything
+
+The most realistic candidates are 
+
+- Alliance
+- Virtus.pro
+- TNC Predator
+- PSG.LGD
+- OG
+
+Take your hearts pick.
