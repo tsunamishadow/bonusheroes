@@ -263,8 +263,78 @@ It's always this. Someone picks Alchemist and just ruins the average by going in
 
 ## Other stuff
 
-This is more for fun, stuff that I've seen being speculated on in other sites. Nothing that can be chosen within the client.
+This is more for fun, stuff that I've seen being speculated on in other sites. Nothing that can be chosen within the client. And these are my own personal thoughts.
 
 ### Talent with longest signing sesssion
 
 **AMS**. And it's not really close. AMS was the most popular talent at TI8, and now that TI is in China I can't imagine anyone would have as long lines. It's quite possible Dove, ddc, BurNing, Peper and Kiko could be as popular, but AMS has been a staple talent for a good number of years. **Dendi** and **Purge** are also quite popular non-Chinese talent.
+
+### Next TI Place to be revealed
+
+**No announcement**
+
+Never forget the possibilty that Valve will just not bother making an announcement. Valve announcing TI9 at TI8 was the first time they did that, and while they might do it again it's just as likely they won't bother.
+
+**Germany**
+
+While this is what I often hear, this seems to me to be unlikely. Largely because the only indoor stadium in Germany that can hold the capacity is Lanxess Arena in Cologne. That stadium is already used for ESL One Cologne almost every year for CS:GO. In addition Lanxess Arena historically seems to have no bookings during August every year, possibly for renovations.
+
+As much as I, and a lot of other people would like TI to return to Germany, it is doubtful. Unless they want to hold TI outdoors.
+
+**United States**
+
+This seems unlikely too. It seems that Valve are going on an experimental search right now while Key Arena is being renovated. It also looks like it will return to KeyArena in 2021, so this will be the last year that TI will likely be held somewhere outside the US if they could.
+
+If they do return to the US, there are no shortage of stadiums all over that could host TI. Best candidate seems to be the United Center in Illinois, late August is usually wide open there, and has capacity.
+
+**United Kingdom**
+
+International politics put this in jeapordy more than you think. Without getting too detailed, Brexit would make it harder for everyone to travel to the UK.
+
+The other two problems are that the UK only has two options - Manchester and London. Both are used commonly during August. In addition, Dota is incredibly unpopular in the UK, even though Birmingham has hosted two events, but Birmingham Arena is not large enough to hold a TI size capacity.
+
+I'm very doubtful this will happen.
+
+**China**
+
+I can't think of a reason to not hold TI in Shanghai for two years in a row unless lots of things go wrong this year. Even if they don't hold it in Shanghai, China has plenty of stadiums that could. It doesn't look unpromising.
+
+**Canada**
+
+Much like the United States, Canada seems a long shot as it looks like they want TI to be held out of North America until KeyArena comes back. If it does return to Canada, Rogers Arena seem quite happy to host it again, but FirstOntario on the eastern side of Canada could also be a candidate too.
+
+**Philippines**
+
+This is my hopeful favorite. Dota has been dramatically rising in popularity there with the help of SEA teams like TNC. SEA also didn't get a single tournament to host in 2019, unless you count Macau.
+
+There's a number of stadiums that could also fill the capacity and seem to be availible in August. Mall of Asia and Smart Araneta can both be candidates. The massive Philippine Arena could also be free in August, but the insane capacity (55,000) makes that look unlikely. Though I wouldn't put it past Valve to try it.
+
+**Singapore**
+
+What makes Singapore hopeful is that it has one of largest tourist states in the world, with excellent links to countries everywhere (they hold one of the strongest passports possible to have as well as a major airport that handles an immense amount of flights).
+
+Unfortunately that's all they have, the only reasonable stadium to hold TI there would be the Singapore Indoor stadium that holds a meager 12,000.
+
+**Brazil**
+
+South America hasn't got a major Dota tournament, in ... pretty much ever; and Brazil has a couple of candidate arenas too. It's unlikely though, espeically when politics are concerned even a little bit.
+
+**France**
+
+Very doubtful. The only stadium that can be a candidate is the AccorHotels Arena, which is about to host the *League of Legends World Championships* this year, and part of the *Overwatch League* next year. I doubt Valve want to fight that.
+
+**Russia or CIS**
+
+CIS have been loyal to Dota for a long time, so I wouldn't be surprised to see a TI there. Politics are concerning but that hasn't stopped them before. 
+
+While there are plenty of Arenas that could hold it, CIS has held many other tournaments there especially in recent years, which makes TI's want of exclusivity a little ... lesser.
+
+**Other Europe**
+
+Belgium, Croatia and Poland are all viable options to hold TI. They have stadiums that can meet capacity, are free in August and don't hold many tournaments otherwise. Any of these seem more likely than Germany right now.
+
+### Number of new heroes to be revealed
+
+Valve have been on a spree of a **two** new heroes every year, so I do expect them to tease a pair. The date of release is pure speculation though. I'd be surprised if they would release a new hero during The International again, especialy as Mars has only been around for 5 months.
+
+Which hero and what kind are pure speculations. A number of people have been hinting at **Sorla Khan** as an Artifact port, but that's as unlikely as anything else. On top of that, there are no remanents or clues in the source code that suggest much of anything.
