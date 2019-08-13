@@ -1,4 +1,4 @@
-# The International Compedium Predictions Guide
+# The International Compedium Predictions Guide for 2019
 
 Hello and welcome to another glorious guide to picking predictions. This year, I decided to forego getting the battle pass myself, which means I can delve a little deeper into the categories and give you more objective views for each category, and help you make a choice for yourself!
 
