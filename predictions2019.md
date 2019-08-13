@@ -243,4 +243,20 @@ This is more reliant on luck as it seems to change every year, however the longe
 
 **15:00 to 19:59**, always has been, I have no reason to think otherwise.
 
+### Most kills by a hero in a game
 
+Anything **20 or higher** is an equally good shout for this. Getting this right exactly is a tough call.
+
+### Most deaths by a hero in a game
+
+This is usually **around 20**, but the exact number is hard to pin down. This even changed from tournament to tournament even within this season, but pick a number close to 20.
+
+### Most assists by a hero in a game
+
+**36+** is generally common for lots of tournaments, especially this season. 32 to 35 is also a good shout.
+
+### Most GPM by a hero in a game
+
+**1000+**.
+
+It's always this. Someone picks Alchemist and just ruins the average by going insane on it. It always happens.
