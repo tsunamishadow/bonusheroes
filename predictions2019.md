@@ -155,3 +155,64 @@ The most realistic candidates are
 - OG
 
 Take your hearts pick.
+
+### Team with highest Kill Average
+
+Similar to the one above, but this one requires some thought. Usually this is won by a highly agressive well performing team. This team finishes in the top 6, but never in the grand final. The best pick out of all the teams is **TNC** out of these teams, but any team that can finish between 3rd and 6th and is very agressive can get this award.
+
+### Team with the fewest Deaths in a game
+
+As everyone has learned, this is more luck of the draw than anything. But teams that look for fights less than other teams are more likely to win this that others. Any of the teams I hadn't mentioned in the categories for Kills above is a good shout.
+
+### Team with the most Assists in a game
+
+Traditionally you want a team that groups up a lot and likes long games, as those teams are more likely to win it. The better candidates here are:
+
+ - Team Liquid
+ - Team Secret
+ - TNC Predator
+ - OG
+ 
+### Team winning the longest game
+
+- OG
+- TNC Predator
+- Team Secret
+- Alliance
+
+This one is more luck of the draw than anything as it can be easily won by any team equally.
+
+### Team winning the shortest game
+
+While it appears this category is predictible, it isn't. Ironically it's won by teams that exit the tournament earlier than expected, but I don't think that should be a deciding factor. And while it hasn't happened yet the team that wins the longest game can also win the shortest game. Most common ideas for this are:
+
+ - Virtus.pro
+ - Team Liquid
+ - Vici Gaming
+ - Keen Gaming
+ - Chaos Esports Club
+ 
+### Team with the highest game length average
+
+Really only two candidates here: **TNC Predator** and **OG**. Both like to play long games and do well in them. After that it's your choice, there's no distinct pattern of teams that win this one.
+
+### Team that picks the MOST different heroes
+
+Historically, this has gone to the team that actually likes to pick a number of different heroes, regardless of circumstance and often implments outdrafting rather than forcing a strategy. The best candidates for this are:
+
+ - Ninjas in Pyjamas
+ - Alliance
+ - Mineski
+ - Chaos Esports Club
+ - Royal Never Give Up
+ - Team Liquid
+
+### Team that picks the LEAST different heroes
+
+Weirdly, this is won more often than not by **TNC Predator** more than any other team. And while the team has changed over the years - Kuku and Eyyou are mainstays. The favorite that other people pick is **Infamous** largely because they are expected to finish last in the group stage to not play enough games to get the chance, and they play brawling heroes.
+
+## Players
+
+Like I said last year, the single best strategy is to simply pick players at random. I did that last year and got FOUR correct, and that was by chance. This is the most unpredictible category, but it is possible to narrow it down.
+
+With the exception of the Assist categories (Highest Assist Average, Most Assists in a Game) which are exclusively won by Supports; the other categories are exclusively won by cores, and more often than not, midlaners. Just keep picking players until you are happy, because it's more likely you'll get it wrong than get it right anyway.
