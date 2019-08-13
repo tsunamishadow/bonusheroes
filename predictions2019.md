@@ -233,6 +233,14 @@ Exact same thoughts as the previous category. Has been in **91 to 100** so there
 
 ### Most combined total kills in a game
 
-This is more likely to be on the higher end than it is on the lower. So **121+** is not a bad guess. If however you don't feel it will reach that high, then go down until you feel comfortable.
+This is more likely to be on the higher end than it is on the lower. So **121+** is not a bad guess. If however you don't feel it will reach that high, then go down from that choice until you feel comfortable.
 
-### Least combined total kills in a game.
+### Longest game of the tournament
+
+This is more reliant on luck as it seems to change every year, however the longest game is always **70 minutes or higher**, any of those choices and above should be fine.
+
+### Shortest game of the tournament
+
+**15:00 to 19:59**, always has been, I have no reason to think otherwise.
+
+
