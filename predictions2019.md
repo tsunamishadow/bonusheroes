@@ -21,9 +21,9 @@ Other good picks here are:
  
 ### Most Banned Hero
 
-Cultural collective wisdom seems to be to go with the hero that everybody seems to hate, lots seem to be scared of and what pro players seem to be annoyed by. The two biggest right now are **Sven** and **Chen**. Sven has a strong set of abilities that only get more threatening the longer the game goes, after all, if building Strength items gives both health and damage then shouldn't that be enough to be valuable? The changes to Warcry and God's Strength helped him as well. Chen is an outlier for amazing reasons. He's scary in the hands of a support and can straight win a laning stage, and that alone can secure games. His winrate is proof of that, being over 60% and is still incredible even with changes and nerfs recently-I know this first hand.
+Cultural collective wisdom seems to be to go with the hero that everybody seems to hate, lots seem to be scared of and what pro players seem to be annoyed by. The two biggest right now are **Sven** and **Chen**. Sven has a strong set of abilities that only get more threatening the longer the game goes, after all, if building Strength items gives both health and damage then shouldn't that be enough to be valuable? The changes to Warcry and God's Strength helped him as well. Chen is an outlier for amazing reasons. He's scary in the hands of a support and can straight win a laning stage, and that alone can secure games. His winrate is proof of that, being over 60% and is still incredible even with changes and nerfs recently-I know this first hand. Try him, he's insane.
 
-Historically Io nears the top spot, and while he's expected to be banned a lot he's not expected to be picked that much. Changes to Tether and Talents have faulted the ball of lights early game power. He'll be a high ban, but he won't be the highest. And I'll eat my shoe if that turns out to be true.
+Historically Io nears the top spot, and while he's expected to be banned a lot he's not expected to be picked that much. Changes to Tether and Talents have faulted the ball of lights early game power. He'll be a high ban, but he won't be the highest. *And I'll eat my shoe if that turns out to be true.*
 
 Other good picks here are:
 
