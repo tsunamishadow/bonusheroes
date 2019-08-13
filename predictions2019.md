@@ -216,3 +216,23 @@ Weirdly, this is won more often than not by **TNC Predator** more than any other
 Like I said last year, the single best strategy is to simply pick players at random. I did that last year and got FOUR correct, and that was by chance. This is the most unpredictible category, but it is possible to narrow it down.
 
 With the exception of the Assist categories (Highest Assist Average, Most Assists in a Game) which are exclusively won by Supports; the other categories are exclusively won by cores, and more often than not, midlaners. Just keep picking players until you are happy, because it's more likely you'll get it wrong than get it right anyway.
+
+## Tournament
+
+### Number of games played at the main event
+
+It is usually **45 to 49**. You could also pick 50 to 54, but even with the tougher competition, that's not likely, especially since there's no change to the tournament structure.
+
+### Total number of heroes picked
+
+I have my personal scepticisms this year, but given that it's been over **101+** for the last three years, I'm not inclined to think that will change.
+
+### Total number of heroes banned
+
+Exact same thoughts as the previous category. Has been in **91 to 100** so there's no reason to think that will change.
+
+### Most combined total kills in a game
+
+This is more likely to be on the higher end than it is on the lower. So **121+** is not a bad guess. If however you don't feel it will reach that high, then go down until you feel comfortable.
+
+### Least combined total kills in a game.
