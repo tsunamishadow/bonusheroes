@@ -260,3 +260,11 @@ This is usually **around 20**, but the exact number is hard to pin down. This ev
 **1000+**.
 
 It's always this. Someone picks Alchemist and just ruins the average by going insane on it. It always happens.
+
+## Other stuff
+
+This is more for fun, stuff that I've seen being speculated on in other sites. Nothing that can be chosen within the client.
+
+### Talent with longest signing sesssion
+
+**AMS**. And it's not really close. AMS was the most popular talent at TI8, and now that TI is in China I can't imagine anyone would have as long lines. It's quite possible Dove, ddc, BurNing, Peper and Kiko could be as popular, but AMS has been a staple talent for a good number of years. **Dendi** and **Purge** are also quite popular non-Chinese talent.
