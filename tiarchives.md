@@ -170,7 +170,7 @@ Team: OG (Denmark)
 ![ceb](/images/miniheroes/shredder.png) ![ceb](/images/miniheroes/enchantress.png)Sébastien “Ceb” Debs *\France*  
 ![jer](/images/miniheroes/tiny.png) ![jer](/images/miniheroes/earthshaker.png) Jesse “JerAx” Vainikka *\Finland*  
 ![bdn](/images/miniheroes/abaddon.png) ![bdn](/images/miniheroes/elder_titan.png) Johan “N0tail” Sundstein  
-~Sub: Cristian "ppasarel" Banaseanu *\Belgium*
+~Sub: Titouan "Sockshka" Merloz *\France*
 
 Record: 23-5 (82.14%)
 
