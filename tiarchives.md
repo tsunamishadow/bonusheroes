@@ -34,6 +34,9 @@
 
 ![venge](/images/miniheroes/vengefulspirit.png) ![mirana](/images/miniheroes/mirana.png) ![dw](/images/miniheroes/dark_willow.png) ![weaver](/images/miniheroes/weaver.png) ![skeleton](/images/miniheroes/skeleton_king.png)
 
+### The International 9
+![ET](/images/miniheroes/elder_titan.png) ![shadow demon](/images/miniheroes/shadow_demon.png) ![tiny](/images/miniheroes/tiny.png) ![gyro](/images/miniheroes/gyrocopter.png) ![tidehunter](/images/miniheroes/tidehunter.png)
+
 ## Names on the Aegis
 
 *The first hero shown is the hero the player played in the last game, the second hero is the hero that player had the highest number of wins with during the tournament. (In the case of a tie, then the most played hero is shown between them, then best average KDA).*  
@@ -158,11 +161,29 @@ Record: 18-11 (62.07%)
 
 Europe Open Qualifier 1 winner; Winner of Europe Qualifier; 4th in Group A; beat VGJ Storm, EG, LGD in Upper; beat LGD 3-2 in Grand Final.
 
+### The International 9
+
+Team: OG (Denmark)
+
+![ana](/images/miniheroes/wisp.png) ![ana](/images/miniheroes/wisp.png) Anathan "ana" Pham *\Australia*  
+![top](/images/miniheroes/gyrocopter.png) ![top](/images/miniheroes/tiny.png) Topias “Topson” Taavitsainen *\Finland*  
+![ceb](/images/miniheroes/shredder.png) ![ceb](/images/miniheroes/enchantress.png)Sébastien “Ceb” Debs *\France*  
+![jer](/images/miniheroes/tiny.png) ![jer](/images/miniheroes/earthshaker.png) Jesse “JerAx” Vainikka *\Finland*  
+![bdn](/images/miniheroes/abaddon.png) ![bdn](/images/miniheroes/elder_titan.png) Johan “N0tail” Sundstein  
+~Sub: Cristian "ppasarel" Banaseanu *\Belgium*
+
+Record: 23-5 (82.14%)
+
+10th in Dota Pro Circuit; 1st in Group B; beat Newbee, EG, LGD in Upper; beat Liquid 3-1 in Grand Final.
+
 ## Other high performing players
 
+Aliwi "w33" Omar: 2nd TI6 with Digital Chaos, 17th-18th TI8 with Pain Gaming, 2nd TI9 with Team Liquid.  
 Liu "Sylar" Jiajun: 3rd TI2 with LGD, 2nd TI4 with Vici Gaming, 3rd TI5 with LGD.  
+Lu "Somnus" Yao: 3rd TI5 with LGD, 9th-12th TI6 with LGD, 4th TI7 with LGD, 2nd TI8 with PSG.LGD, 3rd TI9 with PSG.LGD.  
 Xie "Super" Junhao: 4th TI2 with Team DK, 2nd TI4 with Vici Gaming, 4th TI5 with Vici Gaming, 3rd TI7 with LGD.Forever Young.  
-Xu "fy" Linsen: 2nd TI4 with Vici Gaming, 4th TI5 with Vici Gaming, 13th-16th TI6 with Vici Gaming Reborn, 2nd TI8 with PSG.LGD.
+Xu "fy" Linsen: 2nd TI4 with Vici Gaming, 4th TI5 with Vici Gaming, 13th-16th TI6 with Vici Gaming Reborn, 2nd TI8 with PSG.LGD, 3rd TI9 with PSG.LGD.
+
 
 ## Patches, Venues and Tournament Info
 
@@ -295,4 +316,16 @@ $11,234,158 for winner ( ~ $11,500,000 inflation adjusted)
 12 Invites via DPC, 6 Qualifiers  
 Mercedes-Benz Arena, Pudong, Shanghai, China  
 Group: 15th-18th August 2018; Playoffs: 20-25th August 2018  
-Played on patch 7.22e  
+Played on patch 7.22f  
+
+2 Groups of 9. 16 team Double Elimination with skips.  
+Groups: 2 game Round Robin, standard tiebreaker  
+Playoffs: Lower Bracket Rounds 1 Best of One. Grand Finals Best of Five. All other games Best of Three.
+
+Prize Pool:  
+$34,308,989  
+$15,610,590 for winner  
+
+### The International 2020
+
+Ericsson Globe, Johanneshov, Stockholm, Sweden  
