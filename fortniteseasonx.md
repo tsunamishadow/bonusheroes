@@ -316,6 +316,68 @@ In order to unlock this section you must complete all 7 challenges in Spray & Pr
 * Eliminate 5 opponents with an SMG less than 5m away
 * Eliminate 5 opponents in Tilted with Tilted Teknique outfit
 
+### Worlds Collide
+
+The first 3 challenges are unlocked, the rest unlock as you complete challenges in this section
+
+* Use a Rift
+* Visit a Rift Zone
+* Deal 200 damage to opponents at a mountain top Viking Villiage or Loot Lake
+* Visit a memorial to a cube in the desert or by a lake
+* Eliminate 3 opponents in the desert
+* Search 3 chests at Loot Lake
+* Consume foraged mushrooms
+
+### Worlds Collide Presige
+
+In order to unlock this section you must complete all 7 challenges in Worlds Collide. The first 3 challenges are unlocked, the rest unlock as you complete challenges in this section
+
+* Use 4 Rifts
+* Search 5 chests in Rift Zones
+* Eliminate 3 opponents at a mountain top Viking Village or Loot Lake
+* Visit cube memorials in the desert and by a lake
+* Eliminate 4 opponents at Paradise Palms or Fatal Fields
+* Search 7 chests at Loot Lake or Lucky Landing
+* Consume 5 foraged mushrooms in a single match
+
+### Smash & Grab
+
+The first 3 challenges are unlocked, the rest unlock as you complete challenges in this section
+
+* Search a chest within 60 seconds after landing from the Battle Bus (3 times)
+* Land at a Hot Spot in (3) different matches
+* Deal (100) damage within 30 seconds after using a Launch Pad
+* Search 2 chests within 30 seconds of each other (3 times)
+* Pick up a Legendary Item in different matches (3 times)
+* Search a Supply Drop within 10 seconds of it landing (3 times)
+* Deal damage to opponents at Hot Spots (3 times)
+
+### Smash & Grab Prestige
+
+In order to unlock this section you must complete all 7 challenges in Smash & Grab. The first 3 challenges are unlocked, the rest unlock as you complete challenges in this section
+
+* Searcg a chests and an ammo box within 30 seconds after aldning from the Battle Bus (3 times)
+* Destroy Loot Carriers within 60 seconds after landing from the Battle Bus (3 times)
+* Eliminate an opponent within 30 seconds after using a Launch Pad
+* Search 3 chests within 30 seconds of each other
+* Pick up 3 Legendary Items in a single match
+* Collect 100 of each matherial within 60 seconds after landing from the Batttle Bus
+* Eliminate an opponent at a Hot Spot
+
+---
+
+### Welcome to Pandora
+
+Special Event. Ends: 10th September @ 1PM UTC
+
+* Complete All (6) Challenges below
+* Collect 10 Cash from Chests and opponents in Pandora
+* Eliminate 3 opponents in Pandora
+* Search 7 Chests in Pandora
+* Find Claptrap's missing eye an then return it to him
+* Gain 500 shields in Pandora
+* Seach 3 different vault Symbols
+
 ## Damage Falloff Ranges
 
 | Weapon | Falloff Range | Penalty | Falloff Range | Penalty | Falloff Range | Penalty | Max Range |
