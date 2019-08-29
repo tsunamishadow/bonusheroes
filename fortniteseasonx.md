@@ -171,7 +171,7 @@ Time Limited: Ended on Thursday August 8th @ 1PM UTC
 * Search (7) chests at Dusty Depot or Pleasant Park
 * Visit Snobby Shores and Shifty Shafts in the Same Match
 
-* Bonus Battle Star: Requires B.R.U.T.E Squad Loading Screen (3 Challenges). It can be found withthe clue on the right side of the loading screen.
+Bonus Battle Star: Requires B.R.U.T.E Squad Loading Screen (3 Challenges). It can be found with the clue on the right side of the loading screen.
 
 Total Rewards: 40 Battle Stars, 3500 XP, Loading Screen
 
@@ -187,13 +187,60 @@ Time Limited: Ended on Thursday August 15th @ 1PM UTC
 * Land at Tilted or Fatal Fields in (3) different matches
 * Deal (500) damage with Assault Rifels to opponents
 
-* Bonus Battle Star: Requires B.R.U.T.E Squad Loading Screen (3 Challenges). It can be found withthe clue on the right side of the loading screen.
+Bonus Battle Star: Requires Shootout at Sundown Loading Screen (3 Challenges). The clue is on the side of one of the buildings in the loading screen.
+
+Total Rewards: 40 Battle Stars, 3500 XP, Loading Screen
+
+### The Leftovers
+
+Time Limited: Ended on Thursday August 22nd @ 1PM UTC
+
+* Deal (250) damage with explosive weapons to opponents
+* (5) shotgun eliminations
+* Eliminate (20) members of the Horde at Retail Row
+* Outlast (150) Opponents in Duos or Squads mode
+* Use a Throwable Item in (3) different matches
+* Visit Paradise Palms and Lucky Landing in the same match
+* Search (7) chests at Salty Springs or Frosty Flights
+
+Bonus Battle Star: Requires The Leftovers Loading Screen (3 Challenges). The clue is on the side of the bus showing a unique location in the desert.
+
+Total Rewards: 40 Battle Stars, 3500 XP, Loading Screen
+
+### Junk Storm
+
+Time Limited: Ended on Thursday August 29nd @ 1PM UTC
+
+* Consume (5) glitched foraged items
+* Play (3) Arena matches
+* (2) Scoped Weapon Eliminations
+* Deal (500) headshot damage to opponents
+* Search chests in (3) different named locations in a single match
+* Land at Pressure Plant or Happy Hamlet in different matches
+* Deal (1000) damage to opponent's structures
+
+Bonus Battle Star: Requires Junk Storm Loading Screen (3 Challenges). The clue is coordinates on the wood block in the loading screen.
 
 Total Rewards: 40 Battle Stars, 3500 XP, Loading Screen
 
 ### Level-Headed
 
-Reach certain Seaon Levels with XP, note that this is NOT Battle Pass level, refer to the table above.
+Reach certain Seaon Levels with XP, note that this is NOT Battle Pass tiers, refer to the table above.
+
+* Reach Season Level 10
+* Reach Season Level 15
+* Reach Season Level 20
+* Reach Season Level 25
+* Reach Season Level 30
+* Reach Season Level 35
+* Reach Season Level 40
+* Reach Season Level 45
+* Reach Season Level 50
+* Reach Season Level 55
+* Reach Season Level 60
+* Reach Season Level 65
+
+Total Rewards: 2 Emotes, 9 Outfit Styles
 
 ### Road Trip
 
