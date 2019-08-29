@@ -1,6 +1,6 @@
 # Fortnite: Battle Royale Season X (10) Reference Guide
 
-This page was last updated 1st August 2019 23:36 UTC
+This page was last updated 29th August 2019 13:21 UTC
 
 ## Dates
 
@@ -221,6 +221,22 @@ Bonus Battle Star: Requires Junk Storm Loading Screen (3 Challenges). The clue i
 
 Total Rewards: 40 Battle Stars, 3500 XP, Loading Screen
 
+### Catastrophic
+
+Time Limited: Ended on Thursday August 29nd @ 1PM UTC
+
+* Deal 100 damage with pickaxes to opponents
+* 3 eliminations from at least 50m away
+* Use Trap slot items in 3 different matches
+* Place top 5 in Duos or Squads Mode
+* Deal 500 damage to opponents from above
+* Visit Lonely Lodge and Lazy Lagoon in the same match
+* Search 7 chests at Shifty Shafts or Haunted Hills
+
+Bonus Battle Star: Requires Catastrophic Loading Screen (3 Challenges). The clue is coordinates on the left side of the icon hidden between the dripping liquid.
+
+Total Rewards: 40 Battle Stars, 3500 XP, Loading Screen
+
 ---
 
 ### Level-Headed
@@ -354,13 +370,37 @@ The first 3 challenges are unlocked, the rest unlock as you complete challenges 
 
 In order to unlock this section you must complete all 7 challenges in Smash & Grab. The first 3 challenges are unlocked, the rest unlock as you complete challenges in this section
 
-* Searcg a chests and an ammo box within 30 seconds after aldning from the Battle Bus (3 times)
+* Search a chest and an ammo box within 30 seconds after landing from the Battle Bus (3 times)
 * Destroy Loot Carriers within 60 seconds after landing from the Battle Bus (3 times)
 * Eliminate an opponent within 30 seconds after using a Launch Pad
 * Search 3 chests within 30 seconds of each other
 * Pick up 3 Legendary Items in a single match
 * Collect 100 of each matherial within 60 seconds after landing from the Batttle Bus
 * Eliminate an opponent at a Hot Spot
+
+### Blockbuster
+
+The first 3 challenges are unlocked, the rest unlock as you complete challenges in this section
+
+* Land in Dusty Depot then visit the Meteor in a single match
+* Harvest 300 materials at the Block
+* Land at a run down Hero Mansion and an abandoned Villian Hideout
+* Deal 250 damage while being affected by low gravity
+* Search between a basement film camera, a snowy stone head, and a flash gold big rig
+* Consume 10 fruit, mushrooms, or glitched foraged items
+* Claim vending machine items in 3 different matches
+
+### Smash & Grab Prestige
+
+In order to unlock this section you must complete all 7 challenges in Blockbuster. The first 3 challenges are unlocked, the rest unlock as you complete challenges in this section
+
+* 3 Eliminations at Dusty Depot or the Meteor
+* Search 7 chests or ammo boxes at the Block
+* Search 7 chests at an abandoned Hero Mansion or Villian Lair
+* Deal 500 damage with explosive weapons
+* Search between a rotary phone, a fork-knife, and a hilltop house full of Carbide and Omega posters
+* Consume 8 fruit, mushrooms or glitched foraged items in a single match
+* Harvest 300 materials at the Block or Dusty Depot in a single match
 
 ---
 
