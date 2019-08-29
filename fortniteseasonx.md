@@ -392,7 +392,7 @@ The first 3 challenges are unlocked, the rest unlock as you complete challenges 
 * Consume 10 fruit, mushrooms, or glitched foraged items
 * Claim vending machine items in 3 different matches
 
-### Smash & Grab Prestige
+### Blockbuster Prestige
 
 In order to unlock this section you must complete all 7 challenges in Blockbuster. The first 3 challenges are unlocked, the rest unlock as you complete challenges in this section
 
