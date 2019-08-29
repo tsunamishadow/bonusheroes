@@ -2,6 +2,8 @@
 
 This page was last updated 29th August 2019 13:21 UTC
 
+All times below are in Coordinated Universal Time
+
 ## Dates
 
 * Release: Thursday August 1st 2019
@@ -223,7 +225,7 @@ Total Rewards: 40 Battle Stars, 3500 XP, Loading Screen
 
 ### Catastrophic
 
-Time Limited: Ended on Thursday August 29nd @ 1PM UTC
+Time Limited: Ends on Thursday September 5th @ 1PM UTC
 
 * Deal 100 damage with pickaxes to opponents
 * 3 eliminations from at least 50m away
