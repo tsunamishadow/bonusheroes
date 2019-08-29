@@ -153,12 +153,43 @@ You also start with an extra 30% XP boost if you got to Tier 2 in the Season 9 P
 
 Completing 1, 3 or 5 challenges earns rewards.
 
+---
+
+The following are time-limited missions that are availible for one week and replace the old daily challenges. A new mission is unlocked every day from the top of the list to the bottom.
+
+The Bonus Battle stars appear from the Loading screen rewards for the week with a clue to where the Battle Star is. You need the Loading Screen in order to get the star.
+
 ### B.R.U.T.E Squad Missions
 
-Time Limited: Ends on Thursday August 8th @ 1PM UTC
+Time Limited: Ended on Thursday August 8th @ 1PM UTC
 
-* Play matches with a friend
-* 6 challenges left to unlock
+* Play (3) matches with a friend
+* (2) eliminations from closer than 5 meters
+* Use the B.R.U.T.E. in (5) different matches
+* Apply (500) shields
+* Deal (500) damage to opponents from below
+* Search (7) chests at Dusty Depot or Pleasant Park
+* Visit Snobby Shores and Shifty Shafts in the Same Match
+
+* Bonus Battle Star: Requires B.R.U.T.E Squad Loading Screen (3 Challenges). It can be found withthe clue on the right side of the loading screen.
+
+Total Rewards: 40 Battle Stars, 3500 XP, Loading Screen
+
+### Shootout at Sundown
+
+Time Limited: Ended on Thursday August 15th @ 1PM UTC
+
+* Place top 10 in Solo or Duo Matches (2 times)
+* (2) pistol eliminations
+* Search (7) ammo boxes at Tilted or Junk Junction
+* Deal (200) damage to descending Supply Drops
+* Pick up an item of each rarity
+* Land at Tilted or Fatal Fields in (3) different matches
+* Deal (500) damage with Assault Rifels to opponents
+
+* Bonus Battle Star: Requires B.R.U.T.E Squad Loading Screen (3 Challenges). It can be found withthe clue on the right side of the loading screen.
+
+Total Rewards: 40 Battle Stars, 3500 XP, Loading Screen
 
 ### Level-Headed
 
