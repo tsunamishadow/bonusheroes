@@ -223,6 +223,8 @@ Bonus Battle Star: Requires Junk Storm Loading Screen (3 Challenges). The clue i
 
 Total Rewards: 40 Battle Stars, 3500 XP, Loading Screen
 
+---
+
 ### Level-Headed
 
 Reach certain Seaon Levels with XP, note that this is NOT Battle Pass tiers, refer to the table above.
@@ -280,7 +282,7 @@ The first 3 challenges are unlocked, the rest unlock as you complete challenges 
 
 ### Rumble Royale Prestige
 
-In order to unlock this section you must complete all 7 challenges in Road Trip. The first 3 challenges are unlocked, the rest unlock as you complete challenges in this section
+In order to unlock this section you must complete all 7 challenges in Rumble Royale. The first 3 challenges are unlocked, the rest unlock as you complete challenges in this section
 
 * Eliminate 3 opponents in a single match of Team Rumble
 * Eliminate 3 opponents farther than 100m away in Team Rumble
@@ -289,6 +291,30 @@ In order to unlock this section you must complete all 7 challenges in Road Trip.
 * Search 20 Chests with the X-Lord outfit in Team Rumble
 * 1000 Headshot damage in Team Rumble
 * Search 3 Supply Drops in a single match of Team Rumble
+
+### Spray & Pray
+
+The first 3 challenges are unlocked, the rest unlock as you complete challenges in this section
+
+* Deal 500 damage with SMGs to opponents
+* Spray a Fountain, a Junkyard Crane, and a Vending Machine
+* Spray 3 different Gas Stations
+* Find 5 lost spraycans
+* Deal 3000 damage to opponent structures with a Minigun
+* Eliminate 3 opponents with an SMG less than 15m away
+* Search chests at Tilted
+
+### Spray & Pray Presige
+
+In order to unlock this section you must complete all 7 challenges in Spray & Pray. The first 3 challenges are unlocked, the rest unlock as you complete challenges in this section
+
+* 2 eliminations with an SMG in a single match
+* Seach 5 chests inside containers with windows
+* Spray cars or trucks in 6 different named locations
+* Visit 2 graffiti covered billboards in a single match
+* Damage 500 opponents with a Minigun
+* Eliminate 5 opponents with an SMG less than 5m away
+* Eliminate 5 opponents in Tilted with Tilted Teknique outfit
 
 ## Damage Falloff Ranges
 
