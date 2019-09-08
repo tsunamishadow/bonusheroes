@@ -1,6 +1,6 @@
 # Fortnite: Battle Royale Season X (10) Reference Guide
 
-This page was last updated 29th August 2019 13:21 UTC
+This page was last updated 8th September 2019 19:00 UTC
 
 All times below are in Coordinated Universal Time
 
@@ -239,6 +239,22 @@ Bonus Battle Star: Requires Catastrophic Loading Screen (3 Challenges). The clue
 
 Total Rewards: 40 Battle Stars, 3500 XP, Loading Screen
 
+### The Return
+
+Time Limited: Ends on Thursday September 12th @ 1PM UTC
+
+* 1 Sniper Rifle elimination
+* Outlast 150 opponents in Solo or Duo mode
+* Deal 500 damage with Scoped Weapons to Opponents
+* Seach Ammo Boxes at Fatal Fields or Lonely Lodge
+* Use 2 different throwable items in a single match
+* Land on top of a floating island and a meteor
+* Visit Loot Lake and Sunny Steps in a single match
+
+Bonus Battle Star: Requires The Return Loading Screen (3 Challenges). The clue is to look closely at the pond area near the bottom centre of the screen.
+
+Total Rewards: 40 Battle Stars, 3500 XP, Loading Screen
+
 ---
 
 ### Level-Headed
@@ -391,6 +407,30 @@ The first 3 challenges are unlocked, the rest unlock as you complete challenges 
 * Search between a basement film camera, a snowy stone head, and a flash gold big rig
 * Consume 10 fruit, mushrooms, or glitched foraged items
 * Claim vending machine items in 3 different matches
+
+### Blockbuster Prestige
+
+In order to unlock this section you must complete all 7 challenges in Blockbuster. The first 3 challenges are unlocked, the rest unlock as you complete challenges in this section
+
+* 3 Eliminations at Dusty Depot or the Meteor
+* Search 7 chests or ammo boxes at the Block
+* Search 7 chests at an abandoned Hero Mansion or Villian Lair
+* Deal 500 damage with explosive weapons
+* Search between a rotary phone, a fork-knife, and a hilltop house full of Carbide and Omega posters
+* Consume 8 fruit, mushrooms or glitched foraged items in a single match
+* Harvest 300 materials at the Block or Dusty Depot in a single match
+
+### Boogie Down
+
+The first 3 challenges are unlocked, the rest unlock as you complete challenges in this section
+
+* Hit (2) opponents with a Boogie Bomb
+* Dance in front of a bat statue, in a way-above-ground pool, and a seat for giants
+* Get an elimination with a Shotgun, Assault Rifle and an SMG
+* Travel 100m while dancing
+* Visit an oversized piano
+* Destroy 3 No Dancing signs
+* Dance in a B.R.U.T.E in 3 different matches
 
 ### Blockbuster Prestige
 
