@@ -185,7 +185,7 @@ Time Limited: Ended on Thursday August 15th @ 1PM UTC
 * Deal (200) damage to descending Supply Drops
 * Pick up an item of each rarity
 * Land at Tilted or Fatal Fields in (3) different matches
-* Deal (500) damage with Assault Rifels to opponents
+* Deal (500) damage with Assault Rifles to opponents
 
 Bonus Battle Star: Requires Shootout at Sundown Loading Screen (3 Challenges). The clue is on the side of one of the buildings in the loading screen.
 
@@ -241,7 +241,7 @@ Total Rewards: 40 Battle Stars, 3500 XP, Loading Screen
 
 ### The Return
 
-Time Limited: Ends on Thursday September 12th @ 1PM UTC
+Time Limited: Ended on Thursday September 19th @ 1PM UTC
 
 * 1 Sniper Rifle elimination
 * Outlast 150 opponents in Solo or Duo mode
@@ -252,6 +252,22 @@ Time Limited: Ends on Thursday September 12th @ 1PM UTC
 * Visit Loot Lake and Sunny Steps in a single match
 
 Bonus Battle Star: Requires The Return Loading Screen (3 Challenges). The clue is to look closely at the pond area near the bottom centre of the screen.
+
+Total Rewards: 40 Battle Stars, 3500 XP, Loading Screen
+
+### Summer Slurp
+
+Time Limited: Ends on Thursday September 26th @ 1PM UTC
+
+* 1 Explosive weapon elimination
+* Use (2) different trap slot items
+* Search a chest, ammo box, and vending machine in the same match
+* Deal (500) damage with Shotguns to opponents
+* Land at Frosty Flights or Haunted Hills in (3) different matches
+* Deal (200) damage with pistols to opponents
+* Search (7) chests at Greasy Grove or Sunny Steps
+
+Bonus Battle Star: Requires Summer Slurp Loading Screen (3 Challenges). The clue is to look on the wall of the house for a icon of a unique landmark on the map.
 
 Total Rewards: 40 Battle Stars, 3500 XP, Loading Screen
 
@@ -432,7 +448,7 @@ The first 3 challenges are unlocked, the rest unlock as you complete challenges 
 * Destroy 3 No Dancing signs
 * Dance in a B.R.U.T.E in 3 different matches
 
-### Blockbuster Prestige
+### Boogie Down Prestige
 
 In order to unlock this section you must complete all 7 challenges in Blockbuster. The first 3 challenges are unlocked, the rest unlock as you complete challenges in this section
 
@@ -443,6 +459,30 @@ In order to unlock this section you must complete all 7 challenges in Blockbuste
 * Search between a rotary phone, a fork-knife, and a hilltop house full of Carbide and Omega posters
 * Consume 8 fruit, mushrooms or glitched foraged items in a single match
 * Harvest 300 materials at the Block or Dusty Depot in a single match
+
+### Team Spirit
+
+The first 3 challenges are unlocked, the rest unlock as you complete challenges in this section
+
+* Play (3) matches with a friend
+* Assist teammates with (5) eliminations
+* Pet a teammates pet
+* Heal a teammate with a Chug Splash in (3) different matches
+* Mark an Uncommon, Rare and Epic item
+* Deal (1,000) combined damage with your squad or duo
+* Revive a teammate in different matches (3)
+
+### Team Spirit Prestige
+
+In order to unlock this section you must complete all 7 challenges in Blockbuster. The first 3 challenges are unlocked, the rest unlock as you complete challenges in this section
+
+* Finish top 20 with a friend (3 times)
+* Assist teammates with eliminations in a single match (5)
+* Use a launchpad in squads or duos
+* Heal a teammate with a Cozy Campfire in (3) different matches
+* Mark a chest, a shield item, and healing item in a single match
+* Deal (1,000) combined damage with your squad or duo in a single match
+* Reboot a teammate
 
 ---
 
