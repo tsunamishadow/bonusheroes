@@ -545,3 +545,54 @@ Assuming a player could consistently score 80 Hype in every arena game, (equival
 | 10 | 400 |
 
 This would take this player at least 12 games per day every day throughout the season.
+
+## Tournament Scoring
+
+Different tournaments have different scoring system, this is the official scoring that Fortnite uses in-game.
+
+### Solos
+
+For Solo Tournaments you use the following table:
+
+| Condition | Points |
+|------------------|-------:|
+| Victory Royale | +3 |
+| Reach Top 5 | +2 |
+| Reach Top 15 | +2 |
+| Reach Top 25 | +3 |
+| Each Elimination | +1 |
+
+All points are cumulative. There is no bus fare, but usually a maximum amount of matches allowed to be played.
+
+For the current Solo Cash Cup, tiebreakers are used in this order:
+
+1. Total points scored in the session.
+2. Total Victory Royales in the session.
+3. Average Eliminations in the session.
+4. Average Placement in the session.
+5. Average Time alive in the session.
+6. Random.
+
+### Trios
+
+For Trio Tournaments you use the following table:
+
+| Condition | Points |
+|------------------|-------:|
+| Victory Royale | +3 |
+| Reach Top 2 | +3 |
+| Reach Top 4 | +3 |
+| Reach Top 6 | +3 |
+| Reach Top 12 | +3 |
+| Each Elimination | +1 |
+
+All points are cumulative. There is no bus fare, but usually a maximum amount of matches allowed to be played.
+
+For the current Trio Cash Cup, tiebreakers are used in this order:
+
+1. Total points scored in the session.
+2. Total Victory Royales in the session.
+3. Average Eliminations in the session.
+4. Average Placement in the session.
+5. Average Time alive in the session.
+6. Random.
