@@ -1,10 +1,18 @@
 # Fortnite: Battle Royale Season X (10) Reference Guide
 
-This page was last updated 8th September 2019 19:00 UTC
+This page was last updated 12th September 2019 14:37 UTC
 
 All times below are in Coordinated Universal Time
 
-## Dates
+Contents:  
+[Dates](#datesa)  
+[Season Expierence Points](#xptablea)  
+[Challenges & Missions List](#missiona)  
+[Damage Falloff Ranges](#falloffa)  
+[Arema Queue Scoring](#arenaa)  
+[Tournament Scoring](#eventa)  
+
+## Dates<a name="datesa"></a>
 
 * Release: Thursday August 1st 2019
 * Season 9 Ends: Sunday October 6th 2019
@@ -17,7 +25,7 @@ All times below are in Coordinated Universal Time
 * Week 8: Thursday September 19th (Space Race)
 * Week 9: Thursday September 26th (Knights of Honor)
 
-## Season Experience Points
+## Season Experience Points<a name="xptablea"></a>
 
 | Level | XP to Next | Cumulative XP | BP Stars | Cumulative stars |
 |:-----:|-----------:|--------------:|---------:|-----------------:|
@@ -141,7 +149,7 @@ All times below are in Coordinated Universal Time
 
 You also start with an extra 30% XP boost if you got to Tier 2 in the Season 9 Paid Battle Pass.
 
-## Challenges & Missions
+## Challenges & Missions List<a name="missiona"></a>
 
 ### Zero Point
 
@@ -488,7 +496,7 @@ In order to unlock this section you must complete all 7 challenges in Blockbuste
 
 ### Welcome to Pandora
 
-Special Event. Ends: 10th September @ 1PM UTC
+Special Event. Ended: 10th September @ 1PM UTC
 
 * Complete All (6) Challenges below
 * Collect 10 Cash from Chests and opponents in Pandora
@@ -498,7 +506,7 @@ Special Event. Ends: 10th September @ 1PM UTC
 * Gain 500 shields in Pandora
 * Seach 3 different vault Symbols
 
-## Damage Falloff Ranges
+## Damage Falloff Ranges<a name="falloffa"></a>
 
 | Weapon | Falloff Range | Penalty | Falloff Range | Penalty | Falloff Range | Penalty | Max Range |
 |---------------------|---------------|---------|---------------|---------|---------------|---------|-----------|
@@ -514,7 +522,7 @@ Special Event. Ends: 10th September @ 1PM UTC
 
 Weapons with scopes and Hunting Rifles have no damage falloff. The table shows how much damage a weapon does AFTER that range as a penalty to it's damage. Penalities are somewhat linear. The Max Range is the maximum range a weapon can hit a target. Numbers are approximate.
 
-## Arena Queue Scoring
+## Arena Queue Scoring<a name="arenaa"></a>
 
 At the start of Season X (10) every player has been reset to 0 hype
 
@@ -586,7 +594,7 @@ Assuming a player could consistently score 80 Hype in every arena game, (equival
 
 This would take this player at least 12 games per day every day throughout the season.
 
-## Tournament Scoring
+## Tournament Scoring<a name="eventa"></a>
 
 Different tournaments have different scoring system, this is the official scoring that Fortnite uses in-game.
 
