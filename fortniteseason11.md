@@ -22,6 +22,18 @@ You have a bonus to your gained XP if you purchased the Season 10 Battle Pass mo
 
 Completing medals for the punchcard allows you to earn 96,000 XP a day.
 
+## Medals and Medal Punchcard
+
+Each day the Medal Punchcard can be filled in with up to 10 medals. Each medal filled in gives 8,000 XP with the 5th and 10th giving 16,000 XP. Medals can be earned by performing in game feats in a single game.
+
+* First Match of the Day: Play one match to completion (either victory or defeat).
+* Survivor Medal: Survive until you are one of the remaining 50/25/10 players.
+* Scavenger Medal: Open 3/7/10 chests, llama or supply drops.
+* Battle Medal: 1/4/8 Eliminations.
+* Teamwork Medal: 1/4/8 Assists.
+
+You can upgrade each medal earned for more XP within a game, and in some cases you can upgrade medals on the punchard even over more than one game. Once you fill out the medal punchcard, you will only get a small base XP bonus for getting another one. It takes a minimum of 3 matches to fill out the punchcard. The most efficient way is to play a game to open 3 chests, 1 elimination, 1 assist and finish in top 50, then start a new game.
+
 ## Arena Queue Scoring<a name="arenaa"></a>
 
 At the start of Season 1 every player has been reset to 0 hype
