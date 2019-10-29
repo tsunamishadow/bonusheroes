@@ -1,5 +1,7 @@
 # Fortnite: Battle Royale Chapter 2, Season 1 Reference Guide
 
+Last Updated: October 29th, 20:49 UTC
+
 ## Dates
 
 * Release: Monday October 14th, 2019
@@ -14,11 +16,11 @@ You can get XP by simply playing through the game and doing well (high placement
 
 Certain interative actions also earn you XP.
 
-Supercharging works similar to the Rest system in MMORPGs (like World of Warcraft). To Supercharge the bar - Don't Play Fortnite: BR. It's that simple. While not playing Fortnite BR you gain a supercharge state depending on how long you have been away. There is a maximum that can be stored. When you play the game, your XP bar will turn yellow, show "XP SUPERCHARGED" and you will see a little lightning bolt on the bar. Until that point all XP you earn is (up to) quadrupled and will slowly consume the supercharge state.
+Supercharging works similar to the Rest system in MMORPGs (like World of Warcraft). To Supercharge the bar - Don't Play Fortnite: BR. It's that simple. While not playing Fortnite BR you gain a supercharge state depending on how long you have been away. There is a maximum that can be stored, and a minimum time of not playing the game to gain the state. When you play the game, your XP bar will turn yellow, show "XP SUPERCHARGED" and you will see a little lightning bolt on the bar. Until that point all XP you earn is (up to) quadrupled and will slowly consume the supercharge state.
 
 You have a bonus to your gained XP if you purchased the Season 10 Battle Pass months ago.
 
-Completing medals for the punchcard allows you to earn 24,000 XP a day.
+Completing medals for the punchcard allows you to earn 96,000 XP a day.
 
 ## Arena Queue Scoring<a name="arenaa"></a>
 
@@ -124,10 +126,10 @@ These numbers are taken from a normal Solo game. Different modes, such as Blitz 
 | 9 | 10 | 0m | None | 1:15 | 2 |
 
 Storm Circle Number: When a game starts, the game keeps count of the storm number that it currently is. Starting at 0 when the bus deploys over the island, going up to 1 when the bus has left and going up by 1 once that circle fully closes.  
-DPS: The amoutn of damage the storm does to your health per second if you are in that storm.  
+DPS: The amount of damage the storm does to your health per second if you are in that storm.  
 Radius: The radius length of the storm circle once it has finished closing. (The distance from the edge of the new circle to the centre)  
 Still Time: The grace period and warning time before the storm starts to close in to the target. If there is None, the storm will start closing immediately.  
 Close Time: The amount of time the Storm takes to close in to the new circle once the Still Time has ended.  
-Storm Surge Push: If there are at least this many players once that storm has *finished* closing, a storm surge will activate doing damage to the players that have dealt the least amount of player damage. (I'm trying to get the exact numbers for Storm Surge, but I believe it's 20 DPS to your health). Storm Surge does NOT activate in Normal games, only in Arena.
+Storm Surge Push: If there are at least this many players once that storm has *finished* closing, a storm surge will activate doing damage to the players that have dealt the least amount of player damage. (I'm trying to get the exact numbers for Storm Surge, but I believe it's 20 Damage to your health every 5 seconds). Storm Surge does NOT activate in Normal games, only in Arena.
 
 In Arena, Storms 5 and higher move direction rather than just shrink in on themselves.
