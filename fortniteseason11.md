@@ -22,6 +22,8 @@ You have a bonus to your gained XP if you purchased the Season 10 Battle Pass mo
 
 Completing medals for the punchcard allows you to earn 96,000 XP a day.
 
+## Experience Actions Table
+
 ## Medals and Medal Punchcard
 
 Each day the Medal Punchcard can be filled in with up to 10 medals. Each medal filled in gives 8,000 XP with the 5th and 10th giving 16,000 XP. Medals can be earned by performing in game feats in a single game.
