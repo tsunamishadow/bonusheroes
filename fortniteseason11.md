@@ -31,8 +31,9 @@ Each day the Medal Punchcard can be filled in with up to 10 medals. Each medal f
 * First Match of the Day: Play one match to completion (either victory or defeat).
 * Survivor Medal: Survive until you are one of the remaining 50/25/10 players.
 * Scavenger Medal: Open 3/7/10 chests, llama or supply drops.
-* Battle Medal: 2/4/8 Eliminations.
-* Teamwork Medal: 2/4/8 Assists.
+* Battle Medal: 1/4/8 Eliminations.
+* Teamwork Medal: 1/4/8 Assists.
+* For Rumble, Battle and Teamwork medals require 2/5/9
 * Team Score Medal: 50/75/90 Reach this team score in Rumble. (This is inconsistent)
 
 You can upgrade each medal earned for more XP within a game, and in some cases you can upgrade medals on the punchard even over more than one game. Once you fill out the medal punchcard, you will only get a small base XP bonus for getting another one. It takes a minimum of 3 matches to fill out the punchcard. The most efficient way is to play a game to open 3 chests, 1 elimination, 1 assist and finish in top 50, then start a new game.
