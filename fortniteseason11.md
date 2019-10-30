@@ -30,7 +30,7 @@ Each day the Medal Punchcard can be filled in with up to 10 medals. Each medal f
 
 * First Match of the Day: Play one match to completion (either victory or defeat).
 * Survivor Medal: Survive until you are one of the remaining 50/25/10 players.
-* Scavenger Medal: Open 3/7/10 chests, llama or supply drops.
+* Scavenger Medal: Open 3/8/12 chests, llama or supply drops.
 * Battle Medal: 1/4/8 Eliminations.
 * Teamwork Medal: 1/4/8 Assists.
 * For Rumble, Battle and Teamwork medals require 2/5/9
