@@ -1,6 +1,6 @@
 # Fortnite: Battle Royale Chapter 2, Season 1 Reference Guide
 
-Last Updated: October 29th, 20:49 UTC
+Last Updated: October 31st, 00:33 UTC
 
 ## Dates
 
@@ -27,35 +27,42 @@ Completing medals for the punchcard allows you to earn 96,000 XP a day.
 *I'm attempting to fill this in with as much accurate information as possible, there may be mistakes and blank spots while I 'research'.*
 
 | Action | XP | Supercharged | Explanation |
-|:-----------------------:|:--:|-------------:|:------------------------------------------------------------------:|
-| Ammo Box |  | 713 | Search an ammo box, must be searched and not destroyed |
-| AR Expert |  | 788 | Deal 500 damage with Assault Rifles |
-| AR Specialist |  | 544 | Deal 250 damage with Assault Rifles |
-| Assist |  | 788 | Assist in a teammates elimination. |
-| Battle Medal |  | 2100 | Get 1 Eliminations (2 in Rumble) |
-| Battle Medal Maxed |  | 1200 | Get 8 Eliminations (9 in Rumble) |
-| Battle Medal Upgraded |  | 1500 | Get 4 Eliminations (5 in Rumble) |
-| Double Elimination |  | 1088 | Get 2 Eliminations in a short time |
-| Explosives Expert |  | 544 | Deal 150 damage with Explosives |
-| Headshot |  | 281 | Eliminate an opponent with a headshot |
-| Multi Elimination |  | 788 | Get 3 Eliminations in a short time |
-| Pistol Specialist |  | 544 | Deal 250 damage with Pistols. |
-| Rare chest |  | 866 | Search a rare (blue) chest, must not be destroyed |
-| Scavenger Medal |  | 1875 | Open 3 chests, llama or supply drops |
-| Scavenger Medal Maxed |  | 1050 | Open 12 chests, llama or supply drops |
-| Score Meal Maxed |  | 750 | Reach 90 Teach Score |
-| Score Medal |  | 1313 | Reach 50 Team Score |
-| Score Medal Upgraded |  | 903 | Reach 75 Team Score |
-| Searched Chest |  | 806 | Search a chest, chest must be actively searched and not destroyed. |
-| Shotgun Specialist |  | 544 | Deal 250 damage with Shotguns |
-| SMG Specialist |  | 544 | Deal 250 damage with SMGs |
-| Sniper Specialist |  | 544 | Deal 250 damage with Sniper Rifles |
-| Storm Circle |  | 563 | Be alive while a new Storm Circle has generated. |
-| Survivor Medal |  | 1313 | Reach Top 50 |
-| Survivor Medal Maxed |  | 750 | Reach Top 10 |
-| Survivor Medal Upgraded |  | 938 | Reach Top 25 |
-| Teamwork Medal |  | 1838 | Get 1 Assist (2 in Rumble) |
-| Weakspot Streak |  | 38 | Hit five weakspots without stopping swinging or missing |
+|-------------------------|-----:|-------------:|--------------------------------------------------------------------|
+| Ammo Box | 190 | 713 | Search an ammo box, must be searched and not destroyed |
+| AR Expert | 210 | 788 | Deal 500 damage with Assault Rifles |
+| AR Specialist | 145 | 544 | Deal 250 damage with Assault Rifles |
+| Assist | 210 | 788 | Assist in a teammates elimination. |
+| Battle Medal | 560 | 2100 | Get 1 Eliminations (2 in Rumble) |
+| Battle Medal Maxed | 320 | 1200 | Get 8 Eliminations (9 in Rumble) |
+| Battle Medal Upgraded | 400 | 1500 | Get 4 Eliminations (5 in Rumble) |
+| Double Digits | 1000 | 3750 | Get 10 Eliminations |
+| Double Elim | 290 | 1088 | Get 2 Eliminations in a short time |
+| Early Bird | 315 | 394 | Be the first player to pick up a Legendary item |
+| Eliminated Opponent | 255 | 956 | Eliminate an opponent |
+| Explosives Expert | 145 | 544 | Deal 150 damage with Explosives |
+| Headshot | 75 | 281 | Eliminate an opponent with a headshot |
+| Knocked Opponent | 60 | 225 | Knock Down an opponent |
+| Multi Elimination | 210 | 788 | Get 3 Eliminations in a short time |
+| Pistol Specialist | 145 | 544 | Deal 250 damage with Pistols. |
+| Scavenger Medal | 500 | 1875 | Open 3 chests, llama or supply drops |
+| Scavenger Medal Maxed | 280 | 1050 | Open 12 chests, llama or supply drops |
+| Score Meal Maxed | 200 | 750 | Reach 90 Teach Score |
+| Score Medal | 350 | 1313 | Reach 50 Team Score |
+| Score Medal Upgraded | 240 | 903 | Reach 75 Team Score |
+| Searched Chest | 215 | 806 | Search a chest, chest must be actively searched and not destroyed. |
+| Searched Foraged Item | 35 | 132 | Search a foragable item (e.g. Mushroom) |
+| Searched Rare chest | 215 | 806 | Search a rare (blue) chest, must not be destroyed |
+| Shotgun Expert | 210 | 788 | Deal 500 damage with Shotguns |
+| Shotgun Specialist | 145 | 544 | Deal 250 damage with Shotguns |
+| SMG Specialist | 145 | 544 | Deal 250 damage with SMGs |
+| Sniper Specialist | 145 | 544 | Deal 250 damage with Sniper Rifles |
+| Storm Circle | 150 | 563 | Be alive while a new Storm Circle has generated. |
+| Survivor Medal | 350 | 1313 | Reach Top 50 |
+| Survivor Medal Maxed | 200 | 750 | Reach Top 10 |
+| Survivor Medal Upgraded | 250 | 938 | Reach Top 25 |
+| Teamwork Medal | 490 | 1838 | Get 1 Assist (2 in Rumble) |
+| Used Fishing Spot | 105 | 394 | Fish an item out of a fishing spot |
+| Weakspot Streak | 10 | 38 | Hit five weakspots without stopping swinging or missing |
 
 ## Medals and Medal Punchcard
 
