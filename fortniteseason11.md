@@ -26,6 +26,8 @@ Completing medals for the punchcard allows you to earn 96,000 XP a day.
 
 *I'm attempting to fill this in with as much accurate information as possible, there may be mistakes and blank spots while I 'research'.*
 
+Each action must be done in a single match, Repeatable actions will give you the XP every time you perform them (such as Search Chest), other actions can only be done once per match (medals and specialist)
+
 | Action | XP | Supercharged | Explanation |
 |-------------------------|-----:|-------------:|--------------------------------------------------------------------|
 | Ammo Box | 190 | 713 | Search an ammo box, must be searched and not destroyed |
@@ -53,6 +55,7 @@ Completing medals for the punchcard allows you to earn 96,000 XP a day.
 | Searched Chest | 215 | 806 | Search a chest, chest must be actively searched and not destroyed. |
 | Searched Foraged Item | 35 | 132 | Search a foragable item (e.g. Mushroom) |
 | Searched Rare chest | 215 | 806 | Search a rare (blue) chest, must not be destroyed |
+| Searched Supply Drop|190|713|Search a Supply Drop, must not be destroyed.|
 | Shotgun Expert | 210 | 788 | Deal 500 damage with Shotguns |
 | Shotgun Specialist | 145 | 544 | Deal 250 damage with Shotguns |
 | SMG Specialist | 145 | 544 | Deal 150 damage with SMGs |
@@ -79,6 +82,8 @@ Each day the Medal Punchcard can be filled in with up to 10 medals. Each medal f
 * Team Score Medal: 50/75/90 Reach this team score in Rumble. (This is inconsistent)
 
 You can upgrade each medal earned for more XP within a game, and in some cases you can upgrade medals on the punchard even over more than one game. Once you fill out the medal punchcard, you will only get a small base XP bonus for getting another one. It takes a minimum of 3 matches to fill out the punchcard. The most efficient way is to play a game to open 3 chests, 1 elimination, 1 assist and finish in top 50, then start a new game.
+
+XP for completing the punchcard does not get affected by Supercharged state.
 
 ## Arena Queue Scoring<a name="arenaa"></a>
 
