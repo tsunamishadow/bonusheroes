@@ -55,7 +55,7 @@ Completing medals for the punchcard allows you to earn 96,000 XP a day.
 | Searched Rare chest | 215 | 806 | Search a rare (blue) chest, must not be destroyed |
 | Shotgun Expert | 210 | 788 | Deal 500 damage with Shotguns |
 | Shotgun Specialist | 145 | 544 | Deal 250 damage with Shotguns |
-| SMG Specialist | 145 | 544 | Deal 250 damage with SMGs |
+| SMG Specialist | 145 | 544 | Deal 150 damage with SMGs |
 | Sniper Specialist | 145 | 544 | Deal 200 damage with Sniper Rifles |
 | Storm Circle | 150 | 563 | Be alive while a new Storm Circle has generated. |
 | Survivor Medal | 350 | 1313 | Reach Top 50 |
