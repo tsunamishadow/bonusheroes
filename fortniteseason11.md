@@ -16,7 +16,7 @@ You can get XP by simply playing through the game and doing well (high placement
 
 Certain interative actions also earn you XP.
 
-Supercharging works similar to the Rest system in MMORPGs (like World of Warcraft). To Supercharge the bar - Don't Play Fortnite: BR. It's that simple. While not playing Fortnite BR you gain a supercharge state depending on how long you have been away. There is a maximum that can be stored, and a minimum time of not playing the game to gain the state. When you play the game, your XP bar will turn yellow, show "XP SUPERCHARGED" and you will see a little lightning bolt on the bar. Until that point all XP you earn is (up to) quadrupled and will slowly consume the supercharge state.
+Supercharging works similar to the Rest system in MMORPGs (like World of Warcraft). To Supercharge the bar - Don't Play Fortnite: BR. It's that simple. While not playing Fortnite BR you gain a supercharge state depending on how long you have been away. There is a maximum that can be stored, and a minimum time of not playing the game to gain the state. When you play the game, your XP bar will turn yellow, show "XP SUPERCHARGED" and you will see a little lightning bolt on the bar. Until that point all XP you earn is gets a 3.75 multiplier and will slowly consume the supercharge state.
 
 You have a bonus to your gained XP if you purchased the Season 10 Battle Pass months ago.
 
@@ -66,7 +66,7 @@ Each day the Medal Punchcard can be filled in with up to 10 medals. Each medal f
 * Scavenger Medal: Open 3/7/12 chests, llama or supply drops.
 * Battle Medal: 1/4/8 Eliminations.
 * Teamwork Medal: 1/4/8 Assists.
-* For Rumble, Battle and Teamwork medals require 2/5/9
+* **NOTE** For Rumble, Battle and Teamwork medals require 2/5/9
 * Team Score Medal: 50/75/90 Reach this team score in Rumble. (This is inconsistent)
 
 You can upgrade each medal earned for more XP within a game, and in some cases you can upgrade medals on the punchard even over more than one game. Once you fill out the medal punchcard, you will only get a small base XP bonus for getting another one. It takes a minimum of 3 matches to fill out the punchcard. The most efficient way is to play a game to open 3 chests, 1 elimination, 1 assist and finish in top 50, then start a new game.
