@@ -81,6 +81,6 @@ The best and worst cards for drafting the current set. (Unfinished)
 
 The best and worst cards for drafting the current set. (Unfinished)
 
-## [Fornite: Battle Royale Reference Guide](/bonusheroes/fortntieseason11)
+## [Fornite: Battle Royale Reference Guide](/bonusheroes/fortniteseason11)
 
 A reference guide for certain hard to find information about the current Fortnite: Battle Royale season.
