@@ -40,6 +40,7 @@ Completing medals for the punchcard allows you to earn 96,000 XP a day.
 | Early Bird | 315 | 394 | Be the first player to pick up a Legendary item |
 | Eliminated Opponent | 255 | 956 | Eliminate an opponent |
 | Explosives Expert | 145 | 544 | Deal 150 damage with Explosives |
+| First Upgrade | 350 | 1313 | Be the first player to upgrade a weapon |
 | Headshot | 75 | 281 | Eliminate an opponent with a headshot |
 | Knocked Opponent | 60 | 225 | Knock Down an opponent |
 | Multi Elimination | 210 | 788 | Get 3 Eliminations in a short time |
@@ -61,6 +62,7 @@ Completing medals for the punchcard allows you to earn 96,000 XP a day.
 | Survivor Medal Maxed | 200 | 750 | Reach Top 10 |
 | Survivor Medal Upgraded | 250 | 938 | Reach Top 25 |
 | Teamwork Medal | 490 | 1838 | Get 1 Assist (2 in Rumble) |
+| Upgraded Weapon | 190 | 713 | Upgrade a weapon |
 | Used Fishing Spot | 105 | 394 | Fish an item out of a fishing spot |
 | Weakspot Streak | 10 | 38 | Hit five weakspots without stopping swinging or missing |
 
