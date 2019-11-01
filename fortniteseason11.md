@@ -45,7 +45,7 @@ Each action must be done in a single match, Repeatable actions will give you the
 | First Upgrade | 350 | 1313 | Be the first player to upgrade a weapon |
 | Headshot | 75 | 281 | Eliminate an opponent with a headshot |
 | Knocked Opponent | 60 | 225 | Knock Down an opponent |
-| Monster K.O. | 45 | 169 | Kill a spawned Husk, such as the ones in the storm king event. |
+| Monster K.O. | 45 | 169 | Kill a spawned Husk, such as the ones in the Storm King event. |
 | Multi Elimination | 210 | 788 | Get 3 Eliminations in a short time |
 | Pistol Specialist | 145 | 544 | Deal 250 damage with Pistols. |
 | Scavenger Medal | 500 | 1875 | Open 3 chests, llama or supply drops |
