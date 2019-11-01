@@ -1,6 +1,6 @@
 # Fortnite: Battle Royale Chapter 2, Season 1 Reference Guide
 
-Last Updated: October 31st, 00:33 UTC
+Last Updated: November 1st, 03:05 UTC
 
 ## Dates
 
@@ -29,7 +29,7 @@ Completing medals for the punchcard allows you to earn 96,000 XP a day.
 Each action must be done in a single match, Repeatable actions will give you the XP every time you perform them (such as Search Chest), other actions can only be done once per match (medals and specialist)
 
 | Action | XP | Supercharged | Explanation |
-|-------------------------|-----:|-------------:|--------------------------------------------------------------------|
+|---------------------------|------|--------------|--------------------------------------------------------------------|
 | Ammo Box | 190 | 713 | Search an ammo box, must be searched and not destroyed |
 | AR Expert | 210 | 788 | Deal 500 damage with Assault Rifles |
 | AR Specialist | 145 | 544 | Deal 250 damage with Assault Rifles |
@@ -45,6 +45,7 @@ Each action must be done in a single match, Repeatable actions will give you the
 | First Upgrade | 350 | 1313 | Be the first player to upgrade a weapon |
 | Headshot | 75 | 281 | Eliminate an opponent with a headshot |
 | Knocked Opponent | 60 | 225 | Knock Down an opponent |
+| Monster K.O. | 45 | 169 | Kill a spawned Husk, such as the ones in the storm king event. |
 | Multi Elimination | 210 | 788 | Get 3 Eliminations in a short time |
 | Pistol Specialist | 145 | 544 | Deal 250 damage with Pistols. |
 | Scavenger Medal | 500 | 1875 | Open 3 chests, llama or supply drops |
@@ -55,18 +56,22 @@ Each action must be done in a single match, Repeatable actions will give you the
 | Searched Chest | 215 | 806 | Search a chest, chest must be actively searched and not destroyed. |
 | Searched Foraged Item | 35 | 132 | Search a foragable item (e.g. Mushroom) |
 | Searched Rare chest | 215 | 806 | Search a rare (blue) chest, must not be destroyed |
-| Searched Supply Drop|190|713|Search a Supply Drop, must not be destroyed.|
+| Searched Supply Drop | 190 | 713 | Search a Supply Drop, must not be destroyed. |
 | Shotgun Expert | 210 | 788 | Deal 500 damage with Shotguns |
 | Shotgun Specialist | 145 | 544 | Deal 250 damage with Shotguns |
 | SMG Specialist | 145 | 544 | Deal 150 damage with SMGs |
 | Sniper Specialist | 145 | 544 | Deal 200 damage with Sniper Rifles |
 | Storm Circle | 150 | 563 | Be alive while a new Storm Circle has generated. |
+| Storm King Medal | 500 | 1875 | Destroy the Storm King's first horn |
+| Storm King Medal Maxed | 1000 | 3750 | Defeated Storm King |
+| Storm King Medal Upgraded | 500 | 1875 | Destroy the Storm King's second horn |
 | Survivor Medal | 350 | 1313 | Reach Top 50 |
 | Survivor Medal Maxed | 200 | 750 | Reach Top 10 |
 | Survivor Medal Upgraded | 250 | 938 | Reach Top 25 |
 | Teamwork Medal | 490 | 1838 | Get 1 Assist (2 in Rumble) |
 | Upgraded Weapon | 190 | 713 | Upgrade a weapon |
 | Used Fishing Spot | 105 | 394 | Fish an item out of a fishing spot |
+| Weak Spot Destroyed | 250 | 938 | Destroy a Storm King Weak Spot (not the farming one) |
 | Weakspot Streak | 10 | 38 | Hit five weakspots without stopping swinging or missing |
 
 ## Medals and Medal Punchcard
@@ -74,12 +79,13 @@ Each action must be done in a single match, Repeatable actions will give you the
 Each day the Medal Punchcard can be filled in with up to 10 medals. Each medal filled in gives 8,000 XP with the 5th and 10th giving 16,000 XP. Medals can be earned by performing in game feats in a single game.
 
 * First Match of the Day: Play one match to completion (either victory or defeat).
-* Survivor Medal: Survive until you are one of the remaining 50/25/10 players.
+* Survivor Medal: Survive until you are one of the remaining 50/25/10 players. (Battle Royale)
 * Scavenger Medal: Open 3/7/12 chests, llama or supply drops.
 * Battle Medal: 1/4/8 Eliminations.
 * Teamwork Medal: 1/4/8 Assists.
 * **NOTE** For Rumble, Battle and Teamwork medals require 2/5/9
-* Team Score Medal: 50/75/90 Reach this team score in Rumble. (This is inconsistent)
+* Storm King Medal: Destroy the first horn/second horn/storm king himself. (Storm King LTM)
+* Team Score Medal: 50/75/90 Reach this team score in Rumble. (This is inconsistent) (Team Rumble)
 
 You can upgrade each medal earned for more XP within a game, and in some cases you can upgrade medals on the punchard even over more than one game. Once you fill out the medal punchcard, you will only get a small base XP bonus for getting another one. It takes a minimum of 3 matches to fill out the punchcard. The most efficient way is to play a game to open 3 chests, 1 elimination, 1 assist and finish in top 50, then start a new game.
 
