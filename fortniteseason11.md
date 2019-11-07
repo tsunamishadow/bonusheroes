@@ -5,6 +5,7 @@ Last Updated: November 7th, 15:42 UTC
 ## Dates
 
 * Release: Monday October 14th, 2019
+* Season End: Sunday December 8th, 2019 (unconfirmed)
 
 ## Experience
 
@@ -207,3 +208,54 @@ Close Time: The amount of time the Storm takes to close in to the new circle onc
 Storm Surge Push: If there are at least this many players once that storm has *finished* closing, a storm surge will activate doing damage to the players that have dealt the least amount of player damage. (I'm trying to get the exact numbers for Storm Surge, but I believe it's 20 Damage to your health every 5 seconds). Storm Surge does NOT activate in Normal games, only in Arena.
 
 In Arena, Storms 5 and higher move direction rather than just shrink in on themselves.
+
+## Tournament Scoring
+
+### Solos
+
+For Solo Tournaments you use the following table:
+
+| Condition | Points |
+|------------------|-------:|
+| Victory Royale | +3 |
+| Reach Top 5 | +2 |
+| Reach Top 15 | +2 |
+| Reach Top 25 | +3 |
+| Each Elimination | +1 |
+
+All points are cumulative. There is no bus fare, but usually a maximum amount of matches allowed to be played.
+
+For the current Solo Cash Cup, tiebreakers are used in this order:
+
+1. Total points scored in the session.
+2. Total Victory Royales in the session.
+3. Average Eliminations in the session.
+4. Average Placement in the session.
+5. Average Time alive in the session.
+6. Random.
+
+### Squad
+
+For Squad Tournaments you use the following table:
+
+| Condition | Points |
+|------------------|-------:|
+| Victory Royale | +3 |
+| Reach Top 2 | +3 |
+| Reach Top 4 | +3 |
+| Reach Top 6 | +3 |
+| Reach Top 8 | +3 |
+| Each Elimination | +1 |
+
+All points are cumulative. There is no bus fare, but usually a maximum amount of matches allowed to be played.
+
+For the current Squad FNCS, tiebreakers are used in this order:
+
+1. Total points scored in the session.
+2. Total Victory Royales in the session.
+3. Average Eliminations in the session.
+4. Average Placement in the session.
+5. Average Time alive in the session.
+6. Random.
+
+NOTE: For Friday Nite Fortnite and Squads Hype Nite, Reach Top 8 is instead Reach Top 12
