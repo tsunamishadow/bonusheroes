@@ -2,12 +2,20 @@
 
 Last Updated: November 7th, 15:42 UTC
 
+Contents:  
+Dates  
+[Experience](#xpa)  
+[Experience Actions](#actionsa)  
+[Medals](#medalsa)
+[Arena](#arenaa)
+[Fall Damage](#falla)
+
 ## Dates
 
 * Release: Monday October 14th, 2019
 * Season End: Sunday December 8th, 2019 (unconfirmed)
 
-## Experience
+## Experience<a name="xpa"></a>
 
 Experience and score has now been reworked. There are still remenants of the old scoring system.
 
@@ -23,7 +31,7 @@ You have a bonus to your gained XP if you purchased the Season 10 Battle Pass mo
 
 Completing medals for the punchcard allows you to earn 96,000 XP a day.
 
-## Experience Actions Table
+## Experience Actions Table<a name="actionsa"></a>
 
 *I'm attempting to fill this in with as much accurate information as possible, there may be mistakes and blank spots while I 'research'.*
 
@@ -82,7 +90,7 @@ Each action must be done in a single match, Repeatable actions will give you the
 | Weak Spot Destroyed | 250 | 938 | Destroy a Storm King Weak Spot (not the farming one) |
 | Weakspot Streak | 10 | 38 | Hit five weakspots without stopping swinging or missing |
 
-## Medals and Medal Punchcard
+## Medals and Medal Punchcard<a name="medalsa"></a>
 
 Each day the Medal Punchcard can be filled in with up to 10 medals. Each medal filled in gives 8,000 XP with the 5th and 10th giving 16,000 XP. Medals can be earned by performing in game feats in a single game.
 
@@ -171,7 +179,7 @@ Assuming a player could consistently score 80 Hype in every arena game, (equival
 | 9 | 175 |
 | 10 | 400 |
 
-## Fall Damage
+## Fall Damage<a name="falla"></a>
 
 You will start taking fall damage when dropping from a distance of at least 13 meters. The smallest amount of fall damage you will take is 10 damage. This scales up to be lethal at 24 meters. The damage is NOT linear.
 
@@ -183,7 +191,7 @@ You will start taking fall damage when dropping from a distance of at least 13 m
 | 20 | 5 | 60 |
 | 24 | 6 | 100 |
 
-## Storm Circles
+## Storm Circles<a name="storma></a>
 
 These numbers are taken from a normal Solo game. Different modes, such as Blitz and Arena, may have different values and behaviors.
 
