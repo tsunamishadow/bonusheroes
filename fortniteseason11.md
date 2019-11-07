@@ -29,7 +29,7 @@ Completing medals for the punchcard allows you to earn 96,000 XP a day.
 Each action must be done in a single match, Repeatable actions will give you the XP every time you perform them (such as Search Chest), other actions can only be done once per match (medals and specialist)
 
 | Action | XP | Supercharged | Explanation |
-|---------------------------|------|--------------|--------------------------------------------------------------------|
+|---------------------------|------|--------------|------------------------------------------------------------------------------|
 | Ammo Box | 190 | 713 | Search an ammo box, must be searched and not destroyed |
 | AR Expert | 210 | 788 | Deal 500 damage with Assault Rifles |
 | AR Specialist | 145 | 544 | Deal 250 damage with Assault Rifles |
@@ -37,21 +37,26 @@ Each action must be done in a single match, Repeatable actions will give you the
 | Battle Medal | 560 | 2100 | Get 1 Eliminations (2 in Rumble) |
 | Battle Medal Maxed | 320 | 1200 | Get 8 Eliminations (9 in Rumble) |
 | Battle Medal Upgraded | 400 | 1500 | Get 4 Eliminations (5 in Rumble) |
+| Distance Shot | 322 | 1208 | Eliminate an opponent from at least 100m |
 | Double Digits | 1000 | 3750 | Get 10 Eliminations |
 | Double Elim | 290 | 1088 | Get 2 Eliminations in a short time |
-| Early Bird | 315 | 394 | Be the first player to pick up a Legendary item |
+| Early Bird | 315 | 1181 | Be the first player to pick up a Legendary item |
 | Eliminated Opponent | 255 | 956 | Eliminate an opponent |
 | Explosives Expert | 145 | 544 | Deal 150 damage with Explosives |
+| First Catch | 305 | 1144 | Be the first to catch an item with a fishing pole |
+| First Strike | 420 | 1575 | Be the first player to get an elimination |
 | First Upgrade | 350 | 1313 | Be the first player to upgrade a weapon |
 | Headshot | 75 | 281 | Eliminate an opponent with a headshot |
 | Knocked Opponent | 60 | 225 | Knock Down an opponent |
+| Ludicrious Shot | 483 | 1811 | Eliminate an opponent from at least 200m (does not stack with Distance Shot) |
 | Monster K.O. | 45 | 169 | Kill a spawned Husk, such as the ones in the Storm King event. |
 | Multi Elimination | 210 | 788 | Get 3 Eliminations in a short time |
+| Pistol Expert | 210 | 788 | Deal 500 damage with Pistols |
 | Pistol Specialist | 145 | 544 | Deal 250 damage with Pistols. |
 | Scavenger Medal | 500 | 1875 | Open 3 chests, llama or supply drops |
 | Scavenger Medal Maxed | 280 | 1050 | Open 12 chests, llama or supply drops |
-| Score Meal Maxed | 200 | 750 | Reach 90 Teach Score |
 | Score Medal | 350 | 1313 | Reach 50 Team Score |
+| Score Medal Maxed | 200 | 750 | Reach 90 Team Score |
 | Score Medal Upgraded | 240 | 903 | Reach 75 Team Score |
 | Searched Chest | 215 | 806 | Search a chest, chest must be actively searched and not destroyed. |
 | Searched Foraged Item | 35 | 132 | Search a foragable item (e.g. Mushroom) |
@@ -59,7 +64,9 @@ Each action must be done in a single match, Repeatable actions will give you the
 | Searched Supply Drop | 190 | 713 | Search a Supply Drop, must not be destroyed. |
 | Shotgun Expert | 210 | 788 | Deal 500 damage with Shotguns |
 | Shotgun Specialist | 145 | 544 | Deal 250 damage with Shotguns |
+| SMG Expert | 210 | 788 | Deal 300 damage with SMGs |
 | SMG Specialist | 145 | 544 | Deal 150 damage with SMGs |
+| Sniper Expert | 210 | 788 | Deal 400 damage with Sniper rifles |
 | Sniper Specialist | 145 | 544 | Deal 200 damage with Sniper Rifles |
 | Storm Circle | 150 | 563 | Be alive while a new Storm Circle has generated. |
 | Storm King Medal | 500 | 1875 | Destroy the Storm King's first horn |
@@ -162,8 +169,6 @@ Assuming a player could consistently score 80 Hype in every arena game, (equival
 | 8 | 67 |
 | 9 | 175 |
 | 10 | 400 |
-
-This would take this player at least 12 games per day every day throughout the season.
 
 ## Fall Damage
 
