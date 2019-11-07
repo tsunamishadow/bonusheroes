@@ -6,9 +6,11 @@ Contents:
 Dates  
 [Experience](#xpa)  
 [Experience Actions](#actionsa)  
-[Medals](#medalsa)
-[Arena](#arenaa)
-[Fall Damage](#falla)
+[Medals](#medalsa)  
+[Arena](#arenaa)  
+[Fall Damage](#falla)  
+[Storm Circles](#storma)  
+[Tournaments Scoring](#tourn)
 
 ## Dates
 
@@ -191,7 +193,7 @@ You will start taking fall damage when dropping from a distance of at least 13 m
 | 20 | 5 | 60 |
 | 24 | 6 | 100 |
 
-## Storm Circles<a name="storma></a>
+## Storm Circles<a name="storma"></a>
 
 These numbers are taken from a normal Solo game. Different modes, such as Blitz and Arena, may have different values and behaviors.
 
@@ -217,7 +219,7 @@ Storm Surge Push: If there are at least this many players once that storm has *f
 
 In Arena, Storms 5 and higher move direction rather than just shrink in on themselves.
 
-## Tournament Scoring
+## Tournament Scoring<a name="tourn"></a>
 
 ### Solos
 
