@@ -1,6 +1,6 @@
 # Fortnite: Battle Royale Chapter 2, Season 1 Reference Guide
 
-Last Updated: November 7th, 15:42 UTC
+Last Updated: November 9th, 21:41 UTC
 
 Contents:  
 Dates  
