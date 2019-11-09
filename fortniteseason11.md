@@ -7,6 +7,7 @@ Dates
 [Experience](#xpa)  
 [Experience Actions](#actionsa)  
 [Medals](#medalsa)  
+Fishing  
 [Arena](#arenaa)  
 [Fall Damage](#falla)  
 [Storm Circles](#storma)  
@@ -108,6 +109,39 @@ Each day the Medal Punchcard can be filled in with up to 10 medals. Each medal f
 You can upgrade each medal earned for more XP within a game, and in some cases you can upgrade medals on the punchard even over more than one game. Once you fill out the medal punchcard, you will only get a small base XP bonus for getting another one. It takes a minimum of 3 matches to fill out the punchcard. The most efficient way is to play a game to open 3 chests, 1 elimination, 1 assist and finish in top 50, then start a new game.
 
 XP for completing the punchcard does not get affected by Supercharged state.
+
+## Fishing Chances
+
+### Fishing Spot
+
+Fishing spots are the white ripples that appear in water, these give a better chance of items when fishing in them. Each spot can have between 3 to 6 items that can be fished out of it, and each item has a chance to appear.
+
+| Item | Chance |
+|:-------------:|-------:|
+| Flopper | 55.5% |
+| Slurpfish | 14.5% |
+| Gold Weapon | 1.1% |
+| Purple Weapon | 4.4% |
+| Blue Weapon | 24.5% |
+| Mythic Goldfish | ? |
+
+The Mythic Goldfish is a throwable statue that does 200 damage to targets it hits, it can be rethrown. It's possible but considerably rare to get (I couldn't get one in 1000 tries). The weapon type also has a chance table:
+
+| Type | Chance |
+|:------------------------:|-------:|
+| Bolt-Action Sniper Rifle | 25.0% |
+| Assault Rifle | 12.5% |
+| Burst Rifle | 12.5% |
+| Tactical Shotgun | 12.5% |
+| Pump Shotgun | 12.5% |
+| SMG | 12.5% |
+| Pistol | 12.5% |
+
+Each weapon comes with respective ammo.
+
+### Open Water
+
+*Still testing*
 
 ## Arena Queue Scoring<a name="arenaa"></a>
 
