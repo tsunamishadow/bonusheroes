@@ -112,7 +112,7 @@ There are two of these on the map, located where the Side Shops were previously.
 
 ### NEUTRAL ITEMS
 
-Neutrals now drop unique items that cannot be sold, but can be shared with allies. There are five tiers of items that drop over the course of the game. Within each tier, the odds get cut by half for each subsequent drop. Items of a specific type will only drop once for each team. Drops only begin after 7 minutes.
+Neutrals now drop unique items that cannot be sold, but can be shared with allies. There are five tiers of items that drop over the course of the game. Items will only drop once for each team. Drops only begin after 7 minutes.
 
 There are 61 unique neutral items in total.
 
