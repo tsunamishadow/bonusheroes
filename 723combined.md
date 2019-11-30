@@ -1,7 +1,7 @@
 Actual patch notes can be found at these links:  
-http://www.dota2.com/outlanders/  
-http://www.dota2.com/patches/7.23a  
-http://www.dota2.com/patches/7.23b  
+<http://www.dota2.com/outlanders/>  
+<http://www.dota2.com/patches/7.23a>  
+<http://www.dota2.com/patches/7.23b>  
 
 # GAMEPLAY UPDATE 7.23+a+b
 
