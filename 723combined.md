@@ -95,7 +95,7 @@
 * Neutral Ogre Frostmage: Slow now works against ranged units as well
 * Neutral Ogre Frostmage: Attack slow increased from 20 to 30
 
-## OUTPOSTS
+### OUTPOSTS
 Added a new neutral building type - Outposts  
 
 There are two of these on the map, located where the Side Shops were previously. Right clicking to channel it takes 6 seconds and then you gain control over the outpost. Converts faster with more allies channeling. Having control over an outpost grants you bonus XP upon initially capturing it, and at 5-minute intervals on the game clock. It also provides your team unobstructed vision in that area and allows you to TP to it. Outposts are inactive for the first 10 minutes of the game and cannot be captured then.
@@ -105,4 +105,28 @@ There are two of these on the map, located where the Side Shops were previously.
 * Only gains XP bonus once per period regardless if you have one or two outposts controlled
 * Takes 6 seconds to teleport to it (shares the delayed TP duration mechanic with T1 towers)
 
+### NEUTRAL ITEMS
 
+Neutrals now drop unique items that cannot be sold, but can be shared with allies. There are five tiers of items that drop over the course of the game. Within each tier, the odds get cut by half for each subsequent drop. Items of a specific type will only drop once for each team. Drops only begin after 7 minutes.
+
+There are 61 unique neutral items in total.
+
+Backpack slots increased from 3 to 4
+
+NEUTRAL DROP MECHANICS  
+7+ MINUTES
+Tier 1: 9% Chance
+
+15+ MINUTES
+Tier 2: 9% Chance
+
+25+ MINUTES
+Tier 3: 9% Chance
+
+40+ MINUTES
+Tier 4: 9% Chance
+
+70+ MINUTES
+Tier 5: 9% Chance
+
+These are the odds for the first drop of each tier - Each subsequent drop drops to 6% then 3%. Drop chances use Pseudo Random on a per team basis. Only rolls for a drop whenever there is a real hero near the dying neutral. Neutral drops will only drop 3 items per tier. Higher tier items will always roll first.
