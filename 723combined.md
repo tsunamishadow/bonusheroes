@@ -148,4 +148,29 @@ Consumable that comes with 2 charges. Permanently grants +2.5 HP Regen and +1.25
 
 ![Rich Man's Shield](http://cdn.dota2.com/apps/dota2/images/items/poor_mans_shield_lg.png)
 **POOR MAN'S SHIELD**  
-Gives a 100% chance to block 20 damage from incoming attacks on melee heroes, and 10 damage on ranged. Has a 50% chance to block damage from creeps. Stacks with other sources of Damage Block.
+Gives a 100% chance to block 20 damage from incoming attacks on melee heroes, and 10 damage on ranged. Has a 50% chance to block damage from creeps. Stacks with other sources of Damage Block. +6 AGI.
+
+![Water Rune](http://cdn.dota2.com/apps/dota2/images/items/ocean_heart_lg.png)
+**OCEAN HEART**  
+Grants +5 All Stats. Additionally provides 6 HP Regen and 3 Mana Regen while in water.
+
+![Crappy League Smite](http://cdn.dota2.com/apps/dota2/images/items/iron_talon_lg.png)
+**IRON TALON**  
+Has Quell from that stacks with Quelling Blade and/or Battle Fury. Chop - Targets a non-player enemy unit to remove 40% of its current HP. If cast on a tree or ward, instantly destroys it. 25 second cooldown on a unit, 4 second cooldown on tree or ward. +2 Armor.
+
+![Super Ward](http://cdn.dota2.com/apps/dota2/images/items/mango_tree_lg.png)
+**MANGO TREE**  
+Consumable that plants a mango tree. Provides unlimited mango power. Every 60 seconds a mango will drop. Provides 800 vision around it.
+
+![Naga Engagement Ring](http://cdn.dota2.com/apps/dota2/images/items/arcane_ring_lg.png)
+**ARCANE RING**  
++8 INT, +3 Armor. Activate to Restore 75 Mana to All Allies in a 1200 AoE of You. Cooldown: 40 seconds.
+
+![Mistaken Bottle](http://cdn.dota2.com/apps/dota2/images/items/elixer_lg.png)
+**ELIXIR**  
+3 charges, restores 500 Health and 250 mana over 6 seconds. Works similar to Bottle.
+
+![Harry Potter's Crotch Seat](http://cdn.dota2.com/apps/dota2/images/items/broom_handle_lg.png)
+**BROOM HANDLE**  
++35 Melee Attack Range, +12 Damage and +3 Armor.
+
