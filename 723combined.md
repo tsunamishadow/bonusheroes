@@ -101,11 +101,8 @@ Added a new neutral building type - Outposts
 There are two of these on the map, located where the Side Shops were previously. Right clicking to channel it takes 6 seconds and then you gain control over the outpost. Converts faster with more allies channeling. Having control over an outpost grants you bonus XP upon initially capturing it, and at 5-minute intervals on the game clock. It also provides your team unobstructed vision in that area and allows you to TP to it. Outposts are inactive for the first 10 minutes of the game and cannot be captured then.
 
 * XP bonus is 25 * Min XP to each player
-
 * Provides 500 AoE truesight
-
 * Only gains XP bonus once per period regardless if you have one or two outposts controlled
-
 * Takes 6 seconds to teleport to it (shares the delayed TP duration mechanic with T1 towers)
 
 
