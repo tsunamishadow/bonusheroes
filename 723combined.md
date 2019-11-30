@@ -1,3 +1,8 @@
+Actual patch notes can be found at these links:  
+http://www.dota2.com/outlanders/  
+http://www.dota2.com/patches/7.23a  
+http://www.dota2.com/patches/7.23b  
+
 # GAMEPLAY UPDATE 7.23+a+b
 
 ## GENERAL
@@ -130,3 +135,17 @@ Tier 4: 9% Chance
 Tier 5: 9% Chance
 
 These are the odds for the first drop of each tier - Each subsequent drop drops to 6% then 3%. Drop chances use Pseudo Random on a per team basis. Only rolls for a drop whenever there is a real hero near the dying neutral. Neutral drops will only drop 3 items per tier. Higher tier items will always roll first.
+
+#### Tier 1 Items
+
+![Sniper's Eye](http://cdn.dota2.com/apps/dota2/images/items/keen_optic_lg.png)
+**KEEN OPTIC**  
++75 Cast Range, +1 Mana regen
+
+![Honeycomb](http://cdn.dota2.com/apps/dota2/images/items/royal_jelly_lg.png)
+**ROYAL JELLY**  
+Consumable that comes with 2 charges. Permanently grants +2.5 HP Regen and +1.25 Mana Regen to the target unit. Does not stack on the same unit. Sharing is caring.
+
+![Rich Man's Shield](http://cdn.dota2.com/apps/dota2/images/items/poor_mans_shield_lg.png)
+**POOR MAN'S SHIELD**  
+Gives a 100% chance to block 20 damage from incoming attacks on melee heroes, and 10 damage on ranged. Has a 50% chance to block damage from creeps. Stacks with other sources of Damage Block.
