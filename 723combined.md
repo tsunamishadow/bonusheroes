@@ -202,3 +202,17 @@ Recipe can be used to combine with 3 Iron Branches to create an Ironwood Tree. P
 ![Ring of Aquila](http://cdn.dota2.com/apps/dota2/images/items/ring_of_aquila_lg.png)
 **RING OF AQUILA**  
 +3 All Attributes, +6 Agility, +7 Attack damage, Aquila Aura. Aquila Aura: 1200 radius, lingers for 0.5, gives +1.25 mana regen and +2 armor. Can be toggled off to not affect non-hero units. Illusions can bestow but not benefit.
+
+![Hammer and Pliers](http://cdn.dota2.com/apps/dota2/images/items/repair_kit_lg.png)
+**REPAIR KIT**  
+3 Charges. Consumable that targets a building, restoring 40% of it's health over 30 seconds. Provides +10 armor and +4 Multishot during this period.
+
+![Pupil's Gift](http://cdn.dota2.com/apps/dota2/images/items/pupils_gift_lg.png)
+**PUPIL'S DIFT**  
+Grants you +14 Attributes for both of your secondary stats.
+
+![Pink helmet](http://cdn.dota2.com/apps/dota2/images/items/helm_of_the_undying_lg.png)
+**HELM OF THE UNDYING**  
+*King Leoric thought you were not worthy of his power*
+
+!
