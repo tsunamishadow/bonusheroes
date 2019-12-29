@@ -2,8 +2,11 @@ Actual patch notes can be found at these links:
 <http://www.dota2.com/outlanders/>  
 <http://www.dota2.com/patches/7.23a>  
 <http://www.dota2.com/patches/7.23b>  
+<http://www.dota2.com/patches/7.23c>  
+<http://www.dota2.com/patches/7.23d>  
+<http://www.dota2.com/patches/7.23e>  
 
-# GAMEPLAY UPDATE 7.23+a+b
+# GAMEPLAY UPDATE 7.23+a+b+c+d+e+Sneaky Updates
 
 ## GENERAL
 
@@ -174,3 +177,28 @@ Consumable that plants a mango tree. Provides unlimited mango power. Every 60 se
 **BROOM HANDLE**  
 +35 Melee Attack Range, +12 Damage and +3 Armor.
 
+![GG Tree](http://cdn.dota2.com/apps/dota2/images/items/ironwood_tree_lg.png)
+**IRONWOOD TREE**  
+Recipe can be used to combine with 3 Iron Branches to create an Ironwood Tree. Provides +7 All Stats and the ability to plant a special tree. Cooldown: 4. Cast Range: 800
+
+![The Ace of Spades](http://cdn.dota2.com/apps/dota2/images/items/trusty_shovel_lg.png)
+**TRUSTY SHOVEL**  
++150 Health. Activate to Dig with a 1 second channel. Can find a Bounty Rune, a Flask, a 2 charged TP Scroll bundle, or an enemy Kobold. The same reward doesn't appear back to back. Cooldown: 70 seconds.
+
+![Cheap value jewlery](http://cdn.dota2.com/apps/dota2/images/items/faded_broach_lg.png)
+**FADED BROACH**  
++225 Mana, +20 MS
+
+#### Tier 2 Items
+
+![Drow Bow](http://cdn.dota2.com/apps/dota2/images/items/grove_bow_lg.png)
+**GROVE BOW**  
++100 Attack range. Adds a -12% Magic Resistance debuff on Attack
+
+![Looks more like a necklace](http://cdn.dota2.com/apps/dota2/images/items/vampire_fangs_lg.png)
+**VAMPIRE FANGS**  
++10% Lifesteal, +10% Spell Lifesteal, +450 Night Vision
+
+![Ring of Aquila](http://cdn.dota2.com/apps/dota2/images/items/ring_of_aquila_lg.png)
+**RING OF AQUILA**  
++3 All Attributes, +6 Agility, +7 Attack damage, Aquila Aura. Aquila Aura: 1200 radius, lingers for 0.5, gives +1.25 mana regen and +2 armor. Can be toggled off to not affect non-hero units. Illusions can bestow but not benefit.
