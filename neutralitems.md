@@ -34,3 +34,25 @@ Expected Gold Value of Item: 450 Gold (not including Active)
 Iron Talon has a home in being able to Jungle faster against Larger camps (it cannot hit Ancients) and Siege Creeps. Ideally it's a nice farm recovery item when behind in map space allowing the user to farm just a little bit faster. One thing to bear in mind is the active can be amplified by Bloodseeker's Bloodrage (yes BOTH ways) and Beastmaster's Wild Axes (yes BOTH axes). It can also be quite useful in killing off player controlled creeps faster; such as Beastmaster's Boar, Invoker's Forged Spirit, Lycan's Wolves and Chen and Enchantress's Persuaded Creeps.
 
 Good heroes: Bloodseeker, Beastmaster, Underlord, Anti-Mage, Dark Willow, Morphling, Windranger, Queen of Pain
+
+### Ironwood Tree
+
+* +6 All Attributes
+
+Expected Gold Value of Item: 465 to 655 depending on how you calculate it (not including active)
+
+6 all stats is no laughable item, regardless of hero, it gives 6 base damage, 120 health, 0.6 health regen, 1 armor, 6 attack speed 72 mana and 0.3 mana regen; and that's leaving out some other minor changes. There are a couple of things to note about the tree. It works similar to any tree but lasts only twenty seconds (with its cooldown you can have a maximum of 5 active), Tangoes used on it give you double the healing and has a smaller collision radius, making it a little difficult to use it for tree blocking. Monkey King, Nature's Prophet, Timbersaw, Tiny, Treant and Windranger all have ways to make use of the tree, even though the cast range is smaller than you think.
+
+If you can't think of which hero should hold it, put it on the hero with the lowest stat gain, these are usually harder carries but not always. (Riki and Meepo have the smallest stat gain, while Pugna, Morphling, Invoker, Medusa, Outworld Devourer and Nature's Prophet have the largest).
+
+Good heroes: Tiny, Timbersaw, Windranger, Meepo, Riki, Slark, Alchemist, Lycan
+
+### Royal Jelly
+
+* *Consume*: Target allied hero gains a permanent +2.5 Health Regen and +1.25 Mana Regen
+
+IMPORTANT: You can cast this on two different unique heroes. Meepo can have it on any single Meepo, but it won't be copied to the others, he cannot consume it twice. Arc Warden's double copies the buff from the main hero. Illusions and Wukong's Command do not.
+
+For starters Io, Chen, Necrophos and Treant Protector all have ways to manipulate any self-regeneration to their benefit, so if your team has them, they should have priority for eating the jelly.
+
+Ideally you want to put this on a hero that has a low amount of starting health regen and starting mana regen.
