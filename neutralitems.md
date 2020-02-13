@@ -7,7 +7,7 @@
 
 Expected Gold Value of item: 511.6r Gold
 
-Keen Optic is basically a smaller Aether Lens that stacks on top of Aether Lens. However an overlooked fact is that most of the value from Keen Optic is the mana regen that can come early enough in the game for little gold cost, giving as much mana regen as a Basilius Ring. You should ideally give it to a hero that is mana starved since the cast range, while helpful is very small and will realistically only give you a 0.25sec advantage at best in a fight.
+Keen Optic is basically a smaller Aether Lens that stacks on top of Aether Lens. However an overlooked fact is that most of the value from Keen Optic is the mana regen that can come early enough in the game for no gold cost and little time cost, giving as much mana regen as a Basilius Ring. You should ideally give it to a hero that is mana starved since the cast range, while helpful is very small and will realistically only give you a 0.25sec advantage at best in a fight.
 
 Good heroes: Vengeful Spirit, Ogre Magi, Lich, Bane, Omniknight, Shadow Shaman
 
