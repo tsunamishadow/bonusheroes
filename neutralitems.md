@@ -56,3 +56,5 @@ IMPORTANT: You can cast this on two different unique heroes. Meepo can have it o
 For starters Io, Chen, Necrophos and Treant Protector all have ways to manipulate any self-regeneration to their benefit, so if your team has them, they should have priority for eating the jelly.
 
 Ideally you want to put this on a hero that has a low amount of starting health regen and starting mana regen.
+
+Good heroes: Necrophos, Io, Treant Protector, Chen. Medusa, Terrorblade, Keeper of the Light.
