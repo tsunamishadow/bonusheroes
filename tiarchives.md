@@ -37,6 +37,9 @@
 ### The International 9
 ![ET](/images/miniheroes/elder_titan.png) ![shadow demon](/images/miniheroes/shadow_demon.png) ![tiny](/images/miniheroes/tiny.png) ![gyro](/images/miniheroes/gyrocopter.png) ![tidehunter](/images/miniheroes/tidehunter.png)
 
+### The International 10 (2021)
+![ET](/images/miniheroes/elder_titan.png) ![tidehunter](/images/miniheroes/tidehunter.png) ![Shaker](/images/miniheroes/earthshaker.png) ![tiny](/images/miniheroes/tiny.png) ![Monkey King](/images/miniheroes/monkey_king.png)
+
 ## Names on the Aegis
 
 *The first hero shown is the hero the player played in the last game, the second hero is the hero that player had the highest number of wins with during the tournament. (In the case of a tie, then the most played hero is shown between them, then best average KDA).*  
@@ -176,14 +179,30 @@ Record: 23-5 (82.14%)
 
 10th in Dota Pro Circuit; 1st in Group B; beat Newbee, EG, LGD in Upper; beat Liquid 3-1 in Grand Final.
 
+### The International 10
+
+Team: Team Spirit (Russia)
+
+![yat](/images/miniheroes/terrorblade.png) ![yat](/images/miniheroes/sven.png) Illya "Yatoro" Mulyarchuk *\Ukraine*  
+![tor](/images/miniheroes/ember_spirit.png) ![tor](/images/miniheroes/ember_spirit.png) Alexander "TORONTOTOKYO" Khertek  
+![col](/images/miniheroes/magnataur.png) ![col](/images/miniheroes/tidehunter.png) Magomed "Collapse" Khalilov  
+![mir](/images/miniheroes/bane.png) ![Snapfire](/images/miniheroes/snapfire.png) Miroslaw "Mira" Kolpakov *\Ukraine*  
+![mip](/images/miniheroes/winter_wyvern.png) ![mip](/images/miniheroes/bane.png) Yaroslav "Miposhka" Naidenov  
+~Sub: "Silent"
+
+Record: 24-12 (66.67%)
+
+14th in Dota Pro Circuit, CIS Qualifier winner; 4th in Group B; lost to IG in Upper; beat Fnatic, OG, Virtus.pro, Invictus Gaming, Team Secret in Lower; beat PSG.LGD 3-2 in Grand Final.
+
 ## Other high performing players
 
 Aliwi "w33" Omar: 2nd TI6 with Digital Chaos, 17th-18th TI8 with Pain Gaming, 2nd TI9 with Team Liquid.  
 Liu "Sylar" Jiajun: 3rd TI2 with LGD, 2nd TI4 with Vici Gaming, 3rd TI5 with LGD.  
 Lu "Somnus" Yao: 3rd TI5 with LGD, 9th-12th TI6 with LGD, 4th TI7 with LGD, 2nd TI8 with PSG.LGD, 3rd TI9 with PSG.LGD.  
 Xie "Super" Junhao: 4th TI2 with Team DK, 2nd TI4 with Vici Gaming, 4th TI5 with Vici Gaming, 3rd TI7 with LGD.Forever Young.  
-Xu "fy" Linsen: 2nd TI4 with Vici Gaming, 4th TI5 with Vici Gaming, 13th-16th TI6 with Vici Gaming Reborn, 2nd TI8 with PSG.LGD, 3rd TI9 with PSG.LGD.
-
+Xu "fy" Linsen: 2nd TI4 with Vici Gaming, 4th TI5 with Vici Gaming, 13th-16th TI6 with Vici Gaming Reborn, 2nd TI8 with PSG.LGD, 3rd TI9 with PSG.LGD.  
+Wang "Ame" Chunyu: 4th TI7 with LGD, 2nd TI8 with PSG.LGD, 3rd TI9 with PSG.LGD, 2nd TI10 with PSG.LGD.  
+Ludwig "zai" Wåhlberg: 3rd TI4 with Evil Geniuses, 8th TI5 with Team Secret, 3rd TI6 with Evil Geniuses, 12th TI7 with Evil Geniuses, 8th TI8 with Optic Gaming, 4th TI9 with Team Secret, 3rd TI10 with Team Secret
 
 ## Patches, Venues and Tournament Info
 
@@ -315,7 +334,7 @@ $11,234,158 for winner ( ~ $11,500,000 inflation adjusted)
 
 12 Invites via DPC, 6 Qualifiers  
 Mercedes-Benz Arena, Pudong, Shanghai, China  
-Group: 15th-18th August 2018; Playoffs: 20-25th August 2018  
+Group: 15th-18th August 2019; Playoffs: 20-25th August 2019  
 Played on patch 7.22f  
 
 2 Groups of 9. 16 team Double Elimination with skips.  
@@ -326,6 +345,23 @@ Prize Pool:
 $34,308,989  
 $15,610,590 for winner  
 
-### The International 2020
+### ~~The International 2020~~
 
 Ericsson Globe, Johanneshov, Stockholm, Sweden  
+
+Cancelled due to Coronavirus Pandemic.
+
+### The International 2021
+
+12 Invites via DPC, 6 Qualifiers  
+Arena Naţională, Sector 2, Bucharest, Romania  
+Group: 7th-10th October 2021; Playoffs: 12th-17th October 2021  
+Played on patch 7.30d  
+
+2 Groups of 9. 16 team Double Elimination with skips.  
+Groups: 2 game Round Robin, standard tiebreaker  
+Playoffs: Lower Bracket Rounds 1 Best of One. Grand Finals Best of Five. All other games Best of Three.
+
+Prize Pool:  
+$40,018,195  
+$18,208,300 for winner  
