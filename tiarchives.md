@@ -365,3 +365,19 @@ Playoffs: Lower Bracket Rounds 1 Best of One. Grand Finals Best of Five. All oth
 Prize Pool:  
 $40,018,195  
 $18,208,300 for winner  
+
+## Regional Strength
+
+Regional strength is the game winrate of teams from that region against all other teams that are not from the same region; for example the strength of China would be the sum of the wins and losses against all other teams that aren't from China (as such Vici Gaming vs Invictus Gaming matches will be ignored).  
+In 2017 Valve divided the Dota world into six regions: Europe or Europe West, CIS or Europe East, China, South East Asia, North America, and South America.
+
+### TI7
+
+| Region | Strength |
+|---|---|
+| China | 0.6704 |
+| Europe | 0.5512 |
+| CIS | 0.5000 |
+| NA | 0.4231 |
+| SA | 0.2942 |
+| SEA | 0.2858 |
