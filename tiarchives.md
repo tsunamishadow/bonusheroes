@@ -369,7 +369,8 @@ $18,208,300 for winner
 ## Regional Strength
 
 Regional strength is the game winrate of teams from that region against all other teams that are not from the same region; for example the strength of China would be the sum of the wins and losses against all other teams that aren't from China (as such Vici Gaming vs Invictus Gaming matches will be ignored).  
-In 2017 Valve divided the Dota world into six regions: Europe or Europe West, CIS or Europe East, China, South East Asia, North America, and South America.
+In 2017 Valve divided the Dota world into six regions: Europe or Europe West, CIS or Europe East, China, South East Asia, North America, and South America.  
+Regional strength ignores tiebreaker games.
 
 ### TI7
 
